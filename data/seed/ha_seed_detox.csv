@@ -1,5 +1,0 @@
-toxic_input,detox_output
-<Hausa toxic sentence 1>,<Hausa neutral rewrite 1>
-<Hausa toxic sentence 2>,<Hausa neutral rewrite 2>
-...
-<Hausa toxic sentence 10>,<Hausa neutral rewrite 10>
