@@ -1,0 +1,374 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "created_utc": "2026-08-13T21:01:00.269418+00:00",
+  "ablation": "mean ablation with train-derived component means",
+  "arm_sizes": {
+    "heads": 10,
+    "neurons": 50,
+    "mixed": 25
+  },
+  "ranking_source": "results/attribution/component_scores.csv (train discovery, dev confirm)",
+  "arms": {
+    "top_decoder_cross_heads": {
+      "components": [
+        "dec.cross.L5.head7",
+        "dec.cross.L2.head1",
+        "dec.cross.L3.head3",
+        "dec.cross.L0.head9",
+        "dec.cross.L6.head9",
+        "dec.cross.L6.head3",
+        "dec.cross.L4.head4",
+        "dec.cross.L5.head4",
+        "dec.cross.L6.head5",
+        "dec.cross.L2.head4"
+      ]
+    },
+    "top_decoder_self_heads": {
+      "components": [
+        "dec.self.L6.head5",
+        "dec.self.L6.head0",
+        "dec.self.L4.head2",
+        "dec.self.L4.head0",
+        "dec.self.L6.head6",
+        "dec.self.L4.head5",
+        "dec.self.L3.head9",
+        "dec.self.L6.head8",
+        "dec.self.L6.head7",
+        "dec.self.L3.head1"
+      ]
+    },
+    "top_decoder_mlp_neurons": {
+      "components": [
+        "dec.mlp.L6.n154",
+        "dec.mlp.L6.n1663",
+        "dec.mlp.L6.n437",
+        "dec.mlp.L6.n1006",
+        "dec.mlp.L4.n1181",
+        "dec.mlp.L6.n76",
+        "dec.mlp.L6.n225",
+        "dec.mlp.L6.n401",
+        "dec.mlp.L6.n44",
+        "dec.mlp.L6.n164",
+        "dec.mlp.L6.n1960",
+        "dec.mlp.L6.n1854",
+        "dec.mlp.L6.n1743",
+        "dec.mlp.L4.n1128",
+        "dec.mlp.L4.n649",
+        "dec.mlp.L4.n1836",
+        "dec.mlp.L4.n1521",
+        "dec.mlp.L6.n50",
+        "dec.mlp.L6.n1729",
+        "dec.mlp.L6.n1808",
+        "dec.mlp.L4.n271",
+        "dec.mlp.L4.n1689",
+        "dec.mlp.L6.n702",
+        "dec.mlp.L6.n1069",
+        "dec.mlp.L6.n822",
+        "dec.mlp.L6.n1696",
+        "dec.mlp.L6.n486",
+        "dec.mlp.L6.n1985",
+        "dec.mlp.L6.n838",
+        "dec.mlp.L6.n1578",
+        "dec.mlp.L6.n307",
+        "dec.mlp.L6.n745",
+        "dec.mlp.L6.n697",
+        "dec.mlp.L6.n1095",
+        "dec.mlp.L6.n1980",
+        "dec.mlp.L6.n1611",
+        "dec.mlp.L6.n1013",
+        "dec.mlp.L6.n894",
+        "dec.mlp.L4.n1386",
+        "dec.mlp.L4.n1008",
+        "dec.mlp.L6.n1018",
+        "dec.mlp.L4.n813",
+        "dec.mlp.L6.n1723",
+        "dec.mlp.L4.n1334",
+        "dec.mlp.L6.n4",
+        "dec.mlp.L6.n205",
+        "dec.mlp.L6.n1026",
+        "dec.mlp.L4.n744",
+        "dec.mlp.L6.n1288",
+        "dec.mlp.L6.n442"
+      ]
+    },
+    "top_encoder_components": {
+      "components": [
+        "enc.mlp.L8.n1167",
+        "enc.mlp.L8.n2009",
+        "enc.mlp.L6.n1688",
+        "enc.mlp.L8.n10",
+        "enc.mlp.L6.n1962",
+        "enc.self.L11.head2",
+        "enc.self.L11.head1",
+        "enc.mlp.L8.n836",
+        "enc.mlp.L8.n1958",
+        "enc.mlp.L4.n1303",
+        "enc.mlp.L8.n637",
+        "enc.mlp.L6.n1119",
+        "enc.mlp.L8.n1772",
+        "enc.mlp.L6.n195",
+        "enc.mlp.L6.n1304",
+        "enc.mlp.L8.n1177",
+        "enc.mlp.L8.n215",
+        "enc.self.L10.head2",
+        "enc.mlp.L4.n609",
+        "enc.self.L10.head4",
+        "enc.mlp.L4.n1243",
+        "enc.mlp.L8.n801",
+        "enc.mlp.L6.n607",
+        "enc.mlp.L8.n1684",
+        "enc.mlp.L8.n1874"
+      ]
+    },
+    "top_probe_direction": {
+      "components": [
+        "dec.cross.L5.head7",
+        "dec.self.L6.head5",
+        "dec.self.L6.head0",
+        "dec.cross.L2.head1",
+        "dec.cross.L3.head3",
+        "dec.cross.L0.head9",
+        "dec.self.L4.head2",
+        "dec.cross.L6.head9",
+        "dec.mlp.L6.n154",
+        "dec.cross.L6.head3",
+        "dec.cross.L4.head4",
+        "dec.self.L4.head0",
+        "dec.mlp.L6.n1663",
+        "dec.cross.L5.head4",
+        "dec.mlp.L6.n437",
+        "dec.mlp.L6.n1006",
+        "enc.mlp.L8.n1167",
+        "dec.self.L6.head6",
+        "dec.mlp.L4.n1181",
+        "dec.mlp.L6.n76",
+        "dec.mlp.L6.n225",
+        "enc.mlp.L8.n2009",
+        "dec.mlp.L6.n401",
+        "dec.mlp.L6.n44",
+        "enc.mlp.L6.n1688"
+      ]
+    },
+    "top_mean_diff_direction": {
+      "components": [
+        "dec.self.L6.head5",
+        "dec.cross.L6.head3",
+        "dec.self.L6.head0",
+        "dec.cross.L3.head3",
+        "dec.self.L4.head2",
+        "dec.cross.L4.head4",
+        "dec.cross.L5.head7",
+        "dec.self.L6.head6",
+        "dec.cross.L2.head1",
+        "dec.mlp.L4.n1181",
+        "dec.self.L3.head1",
+        "dec.cross.L3.head0",
+        "dec.cross.L0.head9",
+        "dec.self.L5.head3",
+        "dec.self.L3.head6",
+        "dec.self.L4.head0",
+        "dec.mlp.L6.n154",
+        "enc.mlp.L8.n10",
+        "enc.mlp.L6.n1688",
+        "dec.cross.L3.head1",
+        "dec.mlp.L6.n1663",
+        "dec.cross.L3.head5",
+        "enc.self.L11.head2",
+        "dec.mlp.L4.n649",
+        "dec.self.L5.head6"
+      ]
+    },
+    "language_detectors": {
+      "components": [
+        "dec.cross.L4.head4",
+        "dec.self.L4.head0",
+        "dec.self.L6.head6",
+        "dec.mlp.L4.n1181",
+        "dec.mlp.L6.n225",
+        "dec.self.L6.head8",
+        "dec.cross.L6.head5",
+        "dec.mlp.L6.n1854",
+        "dec.self.L6.head7",
+        "dec.mlp.L4.n1836",
+        "dec.mlp.L6.n50",
+        "dec.mlp.L6.n1729",
+        "enc.self.L11.head8",
+        "dec.mlp.L4.n271",
+        "dec.mlp.L6.n702",
+        "enc.self.L6.head1",
+        "enc.mlp.L6.n525",
+        "enc.self.L10.head0",
+        "enc.mlp.L6.n546",
+        "enc.mlp.L8.n1087",
+        "dec.cross.L2.head0",
+        "dec.mlp.L6.n1980",
+        "dec.mlp.L6.n894",
+        "dec.mlp.L4.n1008",
+        "dec.self.L2.head9"
+      ]
+    },
+    "random_heads_matched": {
+      "components": [
+        "dec.cross.L5.head0",
+        "dec.cross.L2.head7",
+        "dec.cross.L3.head6",
+        "dec.cross.L0.head2",
+        "dec.cross.L6.head11",
+        "dec.cross.L6.head7",
+        "dec.cross.L4.head0",
+        "dec.cross.L5.head6",
+        "dec.cross.L6.head1",
+        "dec.cross.L2.head0",
+        "dec.self.L6.head2",
+        "dec.self.L6.head9",
+        "dec.self.L4.head7",
+        "dec.self.L4.head8",
+        "dec.self.L6.head3",
+        "dec.self.L4.head6",
+        "dec.self.L3.head4",
+        "dec.self.L6.head1",
+        "dec.self.L6.head4",
+        "dec.self.L3.head3"
+      ],
+      "matched_to": "top_decoder_cross_heads + top_decoder_self_heads"
+    },
+    "random_neurons_matched": {
+      "components": [
+        "dec.mlp.L6.n1919",
+        "dec.mlp.L6.n1679",
+        "dec.mlp.L6.n1333",
+        "dec.mlp.L6.n866",
+        "dec.mlp.L4.n596",
+        "dec.mlp.L6.n341",
+        "dec.mlp.L6.n1739",
+        "dec.mlp.L6.n671",
+        "dec.mlp.L6.n2002",
+        "dec.mlp.L6.n1814",
+        "dec.mlp.L6.n1828",
+        "dec.mlp.L6.n1413",
+        "dec.mlp.L6.n1169",
+        "dec.mlp.L4.n202",
+        "dec.mlp.L4.n792",
+        "dec.mlp.L4.n1114",
+        "dec.mlp.L4.n737",
+        "dec.mlp.L6.n681",
+        "dec.mlp.L6.n1503",
+        "dec.mlp.L6.n32",
+        "dec.mlp.L4.n1302",
+        "dec.mlp.L4.n550",
+        "dec.mlp.L6.n45",
+        "dec.mlp.L6.n1647",
+        "dec.mlp.L6.n1124",
+        "dec.mlp.L6.n946",
+        "dec.mlp.L6.n182",
+        "dec.mlp.L6.n802",
+        "dec.mlp.L6.n405",
+        "dec.mlp.L6.n591",
+        "dec.mlp.L6.n557",
+        "dec.mlp.L6.n1354",
+        "dec.mlp.L6.n1665",
+        "dec.mlp.L6.n1859",
+        "dec.mlp.L6.n1915",
+        "dec.mlp.L6.n108",
+        "dec.mlp.L6.n2006",
+        "dec.mlp.L6.n1280",
+        "dec.mlp.L4.n523",
+        "dec.mlp.L4.n412",
+        "dec.mlp.L6.n858",
+        "dec.mlp.L4.n526",
+        "dec.mlp.L6.n1670",
+        "dec.mlp.L4.n94",
+        "dec.mlp.L6.n1755",
+        "dec.mlp.L6.n1592",
+        "dec.mlp.L6.n826",
+        "dec.mlp.L4.n1680",
+        "dec.mlp.L6.n114",
+        "dec.mlp.L6.n1866"
+      ],
+      "matched_to": "top_decoder_mlp_neurons"
+    },
+    "sae_replicated_features": {
+      "components": [],
+      "sae_features": [
+        {
+          "side": "encoder",
+          "seed": 2024,
+          "feature": 1297
+        },
+        {
+          "side": "decoder",
+          "seed": 42,
+          "feature": 2997
+        },
+        {
+          "side": "decoder",
+          "seed": 42,
+          "feature": 1295
+        },
+        {
+          "side": "decoder",
+          "seed": 42,
+          "feature": 799
+        },
+        {
+          "side": "decoder",
+          "seed": 42,
+          "feature": 2126
+        },
+        {
+          "side": "decoder",
+          "seed": 42,
+          "feature": 2901
+        },
+        {
+          "side": "decoder",
+          "seed": 1337,
+          "feature": 1701
+        },
+        {
+          "side": "decoder",
+          "seed": 1337,
+          "feature": 460
+        },
+        {
+          "side": "decoder",
+          "seed": 1337,
+          "feature": 1351
+        },
+        {
+          "side": "decoder",
+          "seed": 1337,
+          "feature": 1566
+        },
+        {
+          "side": "decoder",
+          "seed": 1337,
+          "feature": 502
+        },
+        {
+          "side": "decoder",
+          "seed": 2024,
+          "feature": 644
+        },
+        {
+          "side": "decoder",
+          "seed": 2024,
+          "feature": 1112
+        },
+        {
+          "side": "decoder",
+          "seed": 2024,
+          "feature": 1514
+        },
+        {
+          "side": "decoder",
+          "seed": 2024,
+          "feature": 2216
+        }
+      ],
+      "status": "available",
+      "note": "Stage 9 replicated features; none passed the full promotion criteria, so this is retained as a negative arm"
+    }
+  },
+  "digest": "f2f29faae9612e0dec06af26bde0cb446b4fe0345220e7d226721219716a390f"
+}
