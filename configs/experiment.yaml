@@ -1,0 +1,133 @@
+run_id: 20260813T114309Z_77c396c
+created_utc: '2026-08-13T11:43:15.609812+00:00'
+git_commit: 77c396c42f5d329c362b7219433a7d0de8ce7c6e
+seed: 42
+seeds_multi:
+- 42
+- 1337
+- 2024
+io:
+  csv_encoding: utf-8-sig
+  data_processed: data/processed
+  data_splits: data/splits
+  results: results
+  models: models
+languages:
+- am
+- ar
+- de
+- en
+- es
+- hi
+- uk
+- xh
+- yo
+language_names:
+  am: Amharic
+  ar: Arabic
+  de: German
+  en: English
+  es: Spanish
+  hi: Hindi
+  uk: Ukrainian
+  xh: isiXhosa
+  yo: Yoruba
+african_languages:
+- yo
+- xh
+non_african_languages:
+- am
+- ar
+- de
+- en
+- es
+- hi
+- uk
+supplementary:
+  en_full:
+    path: data/processed/en_detox_full.csv
+    note: Optional supplementary English resource. NOT a separate language; excluded
+      from all per-language loops.
+splits:
+  cap_per_language: 178
+  train: 125
+  dev: 27
+  test: 26
+  reserve_pattern: data/splits/reserve_{lang}.csv
+  test_policy: Test split is touched exactly once, for final reported numbers only.
+models:
+  primary: google/mt5-base
+  benchmark_reference_only:
+    id: s-nlp/mt0-xl-detox-orpo
+    trained_languages:
+    - en
+    - de
+    - es
+    - ru
+    - ar
+    - hi
+    - uk
+    - am
+    - zh
+    note: Reference baseline only. yo/xh are OUTSIDE its trained set -- any yo/xh
+      output must be flagged as unvalidated, not reported as a baseline.
+  sim: sentence-transformers/LaBSE
+  sta: textdetox/xlmr-large-toxicity-classifier
+evaluation:
+  sta_language_support:
+    am: assumed_supported
+    ar: assumed_supported
+    de: assumed_supported
+    en: assumed_supported
+    es: assumed_supported
+    hi: assumed_supported
+    uk: assumed_supported
+    xh: to_verify
+    yo: to_verify
+  sta_verification_note: Stage 5 must check the classifier's own supported-language
+    list and mark STA 'unavailable / unvalidated' where absent.
+  bootstrap_resamples: 1000
+  bootstrap_ci: 0.95
+  bootstrap_unit: sentence_pair
+  joint_score: J = STA * SIM * FL
+activations:
+  encoder_layers:
+  - 4
+  - 6
+  - 8
+  decoder_layers:
+  - 4
+  - 6
+  - 8
+  probe_sae_data:
+  - train
+  - dev
+  test_policy: Test activations collected separately and untouched until final eval.
+sae:
+  primary_sites:
+  - side: encoder
+    layer: 6
+  - side: decoder
+    layer: 6
+  expansion_factor: 8
+  activation: topk
+steering:
+  strengths:
+  - -1.0
+  - -0.5
+  - 0.0
+  - 0.25
+  - 0.5
+  - 1.0
+  selection_split: dev
+  selection_metric: J
+  controls: Every ablation/steering result requires a matched random-component control.
+constraints:
+- No Hausa and no Russian/Russia references anywhere in code, comments, configs or
+  reports.
+- Pair-level splits, fixed seed, no leakage.
+- Report negative/failed interventions alongside positive ones.
+- Shared-circuit claims require cross-language correlation AND a causal effect; correlation
+  alone is labelled 'associative', not 'causal'.
+- STA is never used as evidence of grammaticality or meaning preservation.
+- If steering raises STA, verify SIM did not collapse; flag per language.

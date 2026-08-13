@@ -1,0 +1,254 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T11:43:09.768682+00:00",
+  "git": {
+    "commit": "77c396c42f5d329c362b7219433a7d0de8ce7c6e",
+    "short_commit": "77c396c",
+    "branch": "main",
+    "dirty": true,
+    "uncommitted_files": [
+      "?? scripts/00_check_environment.py"
+    ]
+  },
+  "python": {
+    "version": "3.12.13 | packaged by conda-forge | (main, Mar  5 2026, 16:50:00) [GCC 14.3.0]",
+    "version_info": [
+      3,
+      12,
+      13
+    ],
+    "executable": "/workspace/multilingual-detox-mech/venv/bin/python",
+    "platform": "Linux-5.15.0-173-generic-x86_64-with-glibc2.39"
+  },
+  "packages": {
+    "torch": "2.12.0+cu130",
+    "transformers": "5.15.0",
+    "sentence_transformers": "5.7.0",
+    "datasets": "5.0.1",
+    "accelerate": "1.14.0",
+    "sentencepiece": "0.2.2",
+    "sklearn": "1.9.0",
+    "scipy": "1.18.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.1",
+    "seaborn": "0.13.2",
+    "yaml": "6.0.3",
+    "sae_lens": "6.49.1"
+  },
+  "hardware": {
+    "cuda_available": true,
+    "torch_cuda_version": "13.0",
+    "cudnn_version": 92000,
+    "device_count": 1,
+    "devices": [
+      {
+        "index": 0,
+        "name": "NVIDIA A100-SXM4-40GB",
+        "total_memory_gb": 39.49,
+        "compute_capability": "8.0",
+        "multi_processor_count": 108
+      }
+    ],
+    "driver_version": "590.48.01"
+  },
+  "corpus_validation": {
+    "languages": {
+      "am": {
+        "exists": true,
+        "path": "data/processed/am_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "am"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "ar": {
+        "exists": true,
+        "path": "data/processed/ar_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "ar"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "de": {
+        "exists": true,
+        "path": "data/processed/de_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "de"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "en": {
+        "exists": true,
+        "path": "data/processed/en_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "en"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "es": {
+        "exists": true,
+        "path": "data/processed/es_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "es"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "hi": {
+        "exists": true,
+        "path": "data/processed/hi_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "hi"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "uk": {
+        "exists": true,
+        "path": "data/processed/uk_detox.csv",
+        "rows": 400,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "uk"
+        ],
+        "sources": [
+          "MultiParaDetox"
+        ]
+      },
+      "xh": {
+        "exists": true,
+        "path": "data/processed/xh_detox.csv",
+        "rows": 178,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "xh"
+        ],
+        "sources": [
+          "human_annotated"
+        ]
+      },
+      "yo": {
+        "exists": true,
+        "path": "data/processed/yo_detox.csv",
+        "rows": 178,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "yo"
+        ],
+        "sources": [
+          "human_annotated"
+        ]
+      }
+    },
+    "supplementary": {
+      "en_full": {
+        "exists": true,
+        "path": "data/processed/en_detox_full.csv",
+        "rows": 19744,
+        "columns": [
+          "language",
+          "toxic_input",
+          "detox_output",
+          "source",
+          "split"
+        ],
+        "columns_ok": true,
+        "language_values": [
+          "en"
+        ],
+        "sources": [
+          "ParaDetoxEN"
+        ]
+      }
+    },
+    "unexpected_files": []
+  },
+  "problems": [],
+  "status": "PASS"
+}

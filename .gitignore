@@ -1,2 +1,7 @@
 venv/
 results_afrihate/
+__pycache__/
+*.pyc
+models/
+results/activations/
+.claude/
