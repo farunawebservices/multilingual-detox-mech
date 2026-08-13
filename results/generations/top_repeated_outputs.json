@@ -1,0 +1,249 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T13:30:48.934981+00:00",
+  "decoding": {
+    "strategy": "beam",
+    "num_beams": 4,
+    "do_sample": false,
+    "length_penalty": 1.0,
+    "early_stopping": true,
+    "max_new_tokens": 112
+  },
+  "frequent_train_output_min_count": 2,
+  "top_repeated": {
+    "42": {
+      "dev": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba unengxaki yakho.",
+            "count": 7,
+            "share": 0.2593
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 7,
+            "share": 0.2593
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìṣe rẹ nílò àtúnṣe",
+            "count": 8,
+            "share": 0.2963
+          },
+          {
+            "output": "Ìjìnlẹ̀ rẹ̀ nílò àtúnṣe",
+            "count": 2,
+            "share": 0.0741
+          },
+          {
+            "output": "Ìṣe rẹ yìí kò bójú mu",
+            "count": 2,
+            "share": 0.0741
+          }
+        ]
+      },
+      "test": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba unengxaki yakho.",
+            "count": 13,
+            "share": 0.5
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba umntu ulungile.",
+            "count": 2,
+            "share": 0.0769
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 2,
+            "share": 0.0769
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìṣe rẹ nílò àtúnṣe",
+            "count": 9,
+            "share": 0.3462
+          },
+          {
+            "output": "Ìṣe yìí kò bójú mu",
+            "count": 2,
+            "share": 0.0769
+          }
+        ]
+      }
+    },
+    "1337": {
+      "dev": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 12,
+            "share": 0.4444
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba isisombululo esinciphisa ingozi.",
+            "count": 2,
+            "share": 0.0741
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìhùwàsí yìí kò bójúmu; jọ̀wọ́ ṣe àtúnṣe",
+            "count": 6,
+            "share": 0.2222
+          },
+          {
+            "output": "Ìlera rẹ nílò àtúnṣe",
+            "count": 2,
+            "share": 0.0741
+          },
+          {
+            "output": "Ìjìnlẹ̀ rẹ̀ nílò àtúnṣe",
+            "count": 2,
+            "share": 0.0741
+          }
+        ]
+      },
+      "test": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 10,
+            "share": 0.3846
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba unengxaki eyahlukileyo.",
+            "count": 2,
+            "share": 0.0769
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìhùwàsí rẹ nílò àtúnṣe",
+            "count": 3,
+            "share": 0.1154
+          },
+          {
+            "output": "Ìṣe rẹ nílò àtúnṣe",
+            "count": 3,
+            "share": 0.1154
+          },
+          {
+            "output": "Ìhùwàsí rẹ yìí kò bójúmu; jọ̀wọ́ ṣe àtúnṣe",
+            "count": 2,
+            "share": 0.0769
+          },
+          {
+            "output": "Ìhùwàsí yìí kò bójúmu; jọ̀wọ́ ṣe àtúnṣe",
+            "count": 2,
+            "share": 0.0769
+          },
+          {
+            "output": "Ìṣe rẹ yìí kò bójúmu; jọ̀wọ́ kò bójúmu",
+            "count": 2,
+            "share": 0.0769
+          }
+        ]
+      }
+    },
+    "2024": {
+      "dev": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 18,
+            "share": 0.6667
+          },
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba isisombululo esinciphisa isisombululo esinciphisa.",
+            "count": 2,
+            "share": 0.0741
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìṣe rẹ nílò àtúnṣe",
+            "count": 9,
+            "share": 0.3333
+          },
+          {
+            "output": "Ìlera rẹ nílò àtúnṣe",
+            "count": 2,
+            "share": 0.0741
+          },
+          {
+            "output": "Ìjìnlẹ̀ rẹ̀ nílò àtúnṣe",
+            "count": 2,
+            "share": 0.0741
+          }
+        ]
+      },
+      "test": {
+        "am": [],
+        "ar": [],
+        "de": [],
+        "en": [],
+        "es": [],
+        "hi": [],
+        "uk": [],
+        "xh": [
+          {
+            "output": "Ndifuna ukuqinisekisa ukuba ulungile.",
+            "count": 22,
+            "share": 0.8462
+          }
+        ],
+        "yo": [
+          {
+            "output": "Ìṣe rẹ nílò àtúnṣe",
+            "count": 10,
+            "share": 0.3846
+          },
+          {
+            "output": "Ìwọ yìí kò bójúmu; jọ̀wọ́ yìí kò bójúmu",
+            "count": 2,
+            "share": 0.0769
+          }
+        ]
+      }
+    }
+  }
+}
