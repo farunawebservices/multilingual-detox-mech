@@ -1,0 +1,17 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T16:09:02.422963+00:00",
+  "split_roles": {
+    "train": "fit normalisation and probes",
+    "dev": "probe evaluation and selection",
+    "test": "NOT READ in Stage 7"
+  },
+  "standardization": "condition-pooled merge of Stage 6 train-only statistics",
+  "evidence_caveat": "probe and cosine results are associative; a shared-circuit claim additionally requires the Stage 11 causal test",
+  "C_grid": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "transfer_pooling": "pooled_mean_content"
+}

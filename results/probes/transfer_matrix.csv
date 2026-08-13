@@ -1,0 +1,577 @@
+seed,side,layer,contrast,source,target,transfer_type,n_train,n_dev,dev_accuracy,dev_auc,fit_split
+42,encoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.8148148148148148,0.8834019204389575,
+42,encoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7037037037037037,0.7338820301783265,
+42,encoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.8148148148148148,0.8148148148148149,
+42,encoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.934156378600823,
+42,encoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.7222222222222222,0.840877914951989,
+42,encoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8888888888888888,0.9355281207133058,
+42,encoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7407407407407407,0.7722908093278463,
+42,encoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7777777777777778,0.8340192043895748,
+42,encoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.8703703703703703,0.9629629629629629,
+42,encoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5,0.299039780521262,
+42,encoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5,0.8120713305898491,
+42,encoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.48148148148148145,0.35802469135802467,
+42,encoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5185185185185185,0.7379972565157751,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5740740740740741,0.5349794238683128,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.48148148148148145,0.47050754458161864,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5185185185185185,0.48148148148148145,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7407407407407407,0.7475994513031549,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5370370370370371,0.5596707818930041,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6666666666666666,0.6982167352537723,
+42,encoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5925925925925926,0.5706447187928669,
+42,encoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.8518518518518519,0.9108367626886145,
+42,encoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7407407407407407,0.7928669410150891,
+42,encoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.7037037037037037,0.8203017832647461,
+42,encoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.9492455418381345,
+42,encoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.7407407407407407,0.850480109739369,
+42,encoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8888888888888888,0.9478737997256516,
+42,encoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7777777777777778,0.8010973936899862,
+42,encoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7962962962962963,0.8367626886145404,
+42,encoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.9074074074074074,0.9602194787379972,
+42,encoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5,0.3813443072702332,
+42,encoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5,0.7640603566529492,
+42,encoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5555555555555556,0.49794238683127573,
+42,encoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5,0.7517146776406036,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5370370370370371,0.5569272976680384,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5370370370370371,0.47873799725651567,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5,0.47599451303155005,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.5740740740740741,0.6995884773662552,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5,0.5486968449931413,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7037037037037037,0.7105624142661179,
+42,encoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5740740740740741,0.5939643347050755,
+42,encoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.8148148148148148,0.8998628257887518,
+42,encoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.6296296296296297,0.7722908093278463,
+42,encoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.6851851851851852,0.8134430727023318,
+42,encoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.9519890260631002,
+42,encoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.7407407407407407,0.8436213991769547,
+42,encoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8518518518518519,0.9286694101508917,
+42,encoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7777777777777778,0.7914951989026064,
+42,encoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.8148148148148148,0.8395061728395061,
+42,encoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.8888888888888888,0.9657064471879286,
+42,encoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.48148148148148145,0.5198902606310014,
+42,encoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5555555555555556,0.6200274348422496,
+42,encoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5,0.4622770919067215,
+42,encoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5555555555555556,0.7764060356652949,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.6481481481481481,0.6611796982167352,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5555555555555556,0.5226337448559671,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5,0.4897119341563786,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6851851851851852,0.7791495198902606,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5555555555555556,0.6104252400548696,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6481481481481481,0.7050754458161865,
+42,encoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5555555555555556,0.5706447187928669,
+42,decoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.9444444444444444,0.9958847736625515,
+42,decoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7962962962962963,0.9355281207133059,
+42,decoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.9074074074074074,0.9423868312757201,
+42,decoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.9629629629629629,0.9862825788751715,
+42,decoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.8888888888888888,0.9506172839506172,
+42,decoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9444444444444444,0.9931412894375857,
+42,decoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8148148148148148,0.9094650205761317,
+42,decoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+42,decoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+42,decoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5740740740740741,1.0,
+42,decoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5740740740740741,1.0,
+42,decoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.6666666666666666,1.0,
+42,decoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.6296296296296297,0.9986282578875172,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9259259259259259,0.9615912208504801,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.7037037037037037,0.7832647462277093,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7592592592592593,0.8463648834019204,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7222222222222222,0.8888888888888888,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7592592592592593,0.8436213991769548,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.8333333333333334,0.8477366255144032,
+42,decoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7592592592592593,0.7997256515775034,
+42,decoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.9444444444444444,0.9931412894375857,
+42,decoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.8703703703703703,0.9492455418381345,
+42,decoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.9259259259259259,0.9533607681755829,
+42,decoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.9814814814814815,0.9876543209876544,
+42,decoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.8888888888888888,0.9410150891632373,
+42,decoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9629629629629629,0.9931412894375857,
+42,decoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8333333333333334,0.9190672153635117,
+42,decoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+42,decoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+42,decoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.7592592592592593,1.0,
+42,decoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.6481481481481481,1.0,
+42,decoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.8703703703703703,1.0,
+42,decoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.6481481481481481,0.9972565157750344,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9629629629629629,0.9684499314128943,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6851851851851852,0.7242798353909464,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7592592592592593,0.823045267489712,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6851851851851852,0.850480109739369,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7592592592592593,0.8436213991769547,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7777777777777778,0.868312757201646,
+42,decoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7037037037037037,0.813443072702332,
+42,decoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.9444444444444444,0.9739368998628257,
+42,decoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7777777777777778,0.8998628257887518,
+42,decoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.8703703703703703,0.9163237311385459,
+42,decoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.9074074074074074,0.9766803840877915,
+42,decoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.8333333333333334,0.9108367626886145,
+42,decoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9074074074074074,0.962962962962963,
+42,decoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8148148148148148,0.8888888888888888,
+42,decoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+42,decoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+42,decoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.8333333333333334,0.9972565157750344,
+42,decoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.8518518518518519,0.9835390946502057,
+42,decoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.8703703703703703,1.0,
+42,decoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.8888888888888888,0.9759945130315502,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.8333333333333334,0.9300411522633745,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6111111111111112,0.7229080932784636,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7222222222222222,0.7736625514403291,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6296296296296297,0.7379972565157751,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7037037037037037,0.7256515775034292,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7777777777777778,0.7969821673525378,
+42,decoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.6481481481481481,0.7695473251028807,
+42,encoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6334608843537415,0.7048950415625435,dev (grouped 5-fold CV)
+42,encoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5185185185185185,0.35733882030178327,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.7674897119341564,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.46296296296296297,0.36145404663923186,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.739368998628258,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5212620027434842,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.48148148148148145,0.5116598079561042,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.51440329218107,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.48148148148148145,0.47668038408779145,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.5089163237311385,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.5384087791495199,dev (disjoint source languages)
+42,encoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5370370370370371,0.5384087791495199,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6479166666666667,0.7069669683349531,dev (grouped 5-fold CV)
+42,encoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.46296296296296297,0.43827160493827155,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.6968449931412894,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.4444444444444444,0.294238683127572,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.5569272976680384,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5130315500685871,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5068587105624143,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5061728395061729,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.46296296296296297,0.4519890260631001,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.45747599451303156,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.53360768175583,dev (disjoint source languages)
+42,encoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5185185185185185,0.5109739368998628,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6685374149659864,0.7271444876845296,dev (grouped 5-fold CV)
+42,encoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.46296296296296297,0.3093278463648834,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.7805212620027435,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5185185185185185,0.27914951989026066,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5370370370370371,0.7626886145404664,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.48148148148148145,0.4842249657064472,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5185185185185185,0.5219478737997256,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.4897119341563786,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5370370370370371,0.5178326474622771,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.48148148148148145,0.48079561042524005,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.48148148148148145,0.50960219478738,dev (disjoint source languages)
+42,encoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5185185185185185,0.5397805212620027,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6972363945578232,0.7752967151996853,dev (grouped 5-fold CV)
+42,decoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5185185185185185,0.873113854595336,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.9293552812071331,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.9094650205761315,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5185185185185185,0.9053497942386831,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.527434842249657,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5185185185185185,0.5631001371742113,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5692729766803841,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5555555555555556,0.713991769547325,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5185185185185185,0.5939643347050754,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.5967078189300411,dev (disjoint source languages)
+42,decoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5459533607681757,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.7117772108843538,0.7808904131380443,dev (grouped 5-fold CV)
+42,decoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5555555555555556,0.882716049382716,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5555555555555556,0.9149519890260629,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5555555555555556,0.8799725651577504,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.6296296296296297,0.9176954732510287,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.48148148148148145,0.5150891632373114,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5370370370370371,0.5473251028806584,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5370370370370371,0.556241426611797,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5740740740740741,0.6358024691358025,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5555555555555556,0.5953360768175583,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5555555555555556,0.5521262002743483,dev (disjoint source languages)
+42,decoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5370370370370371,0.5534979423868313,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6665816326530611,0.7437471980714054,dev (grouped 5-fold CV)
+42,decoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.6481481481481481,0.8868312757201646,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.6481481481481481,0.8916323731138545,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.8902606310013718,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5925925925925926,0.8902606310013718,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5397805212620027,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.4979423868312757,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5308641975308641,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5740740740740741,0.5541838134430727,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.5480109739368999,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5185185185185185,0.5747599451303155,dev (disjoint source languages)
+42,decoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5569272976680384,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.8148148148148148,0.8806584362139918,
+1337,encoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7222222222222222,0.7037037037037037,
+1337,encoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.7777777777777778,0.8353909465020576,
+1337,encoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.8703703703703703,0.9341563786008231,
+1337,encoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.7592592592592593,0.8436213991769547,
+1337,encoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8518518518518519,0.9396433470507545,
+1337,encoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7592592592592593,0.8079561042524005,
+1337,encoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7962962962962963,0.8641975308641976,
+1337,encoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.8703703703703703,0.9670781893004115,
+1337,encoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.48148148148148145,0.2839506172839506,
+1337,encoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5,0.8340192043895748,
+1337,encoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.48148148148148145,0.3045267489711934,
+1337,encoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5,0.8203017832647461,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5185185185185185,0.4938271604938272,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.48148148148148145,0.45130315500685875,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5185185185185185,0.4732510288065844,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6111111111111112,0.6598079561042525,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5,0.522633744855967,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6111111111111112,0.6584362139917694,
+1337,encoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5555555555555556,0.5637860082304527,
+1337,encoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.8518518518518519,0.8984910836762688,
+1337,encoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7222222222222222,0.7613168724279835,
+1337,encoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.6851851851851852,0.831275720164609,
+1337,encoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.9074074074074074,0.9423868312757201,
+1337,encoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.7777777777777778,0.8340192043895748,
+1337,encoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8703703703703703,0.9492455418381344,
+1337,encoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7592592592592593,0.8079561042524006,
+1337,encoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7962962962962963,0.8683127572016461,
+1337,encoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.9259259259259259,0.962962962962963,
+1337,encoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5,0.3744855967078189,
+1337,encoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5,0.739368998628258,
+1337,encoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5185185185185185,0.5637860082304527,
+1337,encoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5,0.7640603566529492,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5740740740740741,0.5665294924554184,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5370370370370371,0.4924554183813443,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5,0.4622770919067215,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.5185185185185185,0.588477366255144,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.46296296296296297,0.3580246913580247,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6481481481481481,0.6995884773662552,
+1337,encoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5555555555555556,0.5253772290809328,
+1337,encoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.8333333333333334,0.8737997256515775,
+1337,encoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.6481481481481481,0.7489711934156378,
+1337,encoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.7037037037037037,0.8244170096021948,
+1337,encoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.8703703703703703,0.9533607681755829,
+1337,encoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.7962962962962963,0.8340192043895748,
+1337,encoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8518518518518519,0.9410150891632372,
+1337,encoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7962962962962963,0.8038408779149521,
+1337,encoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7962962962962963,0.8367626886145405,
+1337,encoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.9074074074074074,0.9643347050754458,
+1337,encoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5370370370370371,0.522633744855967,
+1337,encoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5370370370370371,0.7037037037037037,
+1337,encoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5,0.4718792866941014,
+1337,encoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5555555555555556,0.7475994513031551,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.6111111111111112,0.6172839506172839,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5370370370370371,0.541838134430727,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.48148148148148145,0.49382716049382713,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6296296296296297,0.7654320987654321,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5555555555555556,0.5679012345679012,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.5925925925925926,0.6748971193415638,
+1337,encoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5740740740740741,0.5829903978052127,
+1337,decoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.9444444444444444,0.9931412894375857,
+1337,decoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.8333333333333334,0.9272976680384089,
+1337,decoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.8703703703703703,0.9368998628257887,
+1337,decoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.9814814814814815,0.9890260631001372,
+1337,decoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.8888888888888888,0.9547325102880658,
+1337,decoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9629629629629629,0.9972565157750343,
+1337,decoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8518518518518519,0.934156378600823,
+1337,decoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.9814814814814815,1.0,
+1337,decoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+1337,decoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.6111111111111112,1.0,
+1337,decoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5925925925925926,0.962962962962963,
+1337,decoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.6481481481481481,1.0,
+1337,decoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.7222222222222222,0.9396433470507545,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9814814814814815,0.9629629629629629,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6111111111111112,0.7503429355281207,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7222222222222222,0.8230452674897119,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7222222222222222,0.8559670781893004,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7222222222222222,0.8010973936899862,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.8148148148148148,0.8353909465020577,
+1337,decoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7777777777777778,0.7956104252400549,
+1337,decoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.9629629629629629,0.9917695473251029,
+1337,decoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.9259259259259259,0.9547325102880657,
+1337,decoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.8703703703703703,0.9465020576131687,
+1337,decoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.9629629629629629,0.9862825788751716,
+1337,decoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.8703703703703703,0.9382716049382717,
+1337,decoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9629629629629629,0.9986282578875172,
+1337,decoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8888888888888888,0.9300411522633745,
+1337,decoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+1337,decoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+1337,decoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.6481481481481481,1.0,
+1337,decoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.6851851851851852,1.0,
+1337,decoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.7962962962962963,1.0,
+1337,decoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.6851851851851852,0.9903978052126201,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9814814814814815,0.9684499314128944,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6666666666666666,0.7475994513031551,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7592592592592593,0.8353909465020576,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6296296296296297,0.8477366255144033,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7777777777777778,0.8340192043895748,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.8333333333333334,0.8724279835390946,
+1337,decoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7407407407407407,0.8463648834019204,
+1337,decoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.9629629629629629,0.9711934156378601,
+1337,decoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7962962962962963,0.897119341563786,
+1337,decoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.8518518518518519,0.9478737997256514,
+1337,decoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.9684499314128943,
+1337,decoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.8148148148148148,0.8998628257887517,
+1337,decoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8888888888888888,0.9725651577503429,
+1337,decoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8518518518518519,0.8957475994513032,
+1337,decoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+1337,decoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+1337,decoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.8148148148148148,1.0,
+1337,decoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.9444444444444444,0.9725651577503429,
+1337,decoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,1.0,1.0,
+1337,decoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.9444444444444444,0.9732510288065843,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.7962962962962963,0.9410150891632373,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6481481481481481,0.7215363511659808,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7037037037037037,0.7983539094650205,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6481481481481481,0.7407407407407408,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7037037037037037,0.7352537722908095,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7592592592592593,0.8134430727023321,
+1337,decoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7037037037037037,0.7969821673525377,
+1337,encoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6437074829931972,0.7159618822018603,dev (grouped 5-fold CV)
+1337,encoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.4074074074074074,0.2887517146776406,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.48148148148148145,0.40397805212620025,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.3888888888888889,0.21604938271604934,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.38751714677640603,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5185185185185185,0.4979423868312758,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.4828532235939643,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.48079561042524,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5185185185185185,0.4430727023319616,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5370370370370371,0.4732510288065844,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.4842249657064472,dev (disjoint source languages)
+1337,encoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5185185185185185,0.5219478737997256,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6438350340136055,0.7190632013859966,dev (grouped 5-fold CV)
+1337,encoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.4074074074074074,0.3395061728395062,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.48148148148148145,0.3175582990397805,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.2962962962962963,0.24622770919067216,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.25857338820301784,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.46021947873799723,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.48148148148148145,0.47736625514403297,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.46296296296296297,0.47599451303155005,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.4444444444444444,0.41563786008230463,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.42592592592592593,0.40740740740740744,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.4732510288065843,dev (disjoint source languages)
+1337,encoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.46296296296296297,0.5041152263374485,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6563350340136054,0.7354751817818964,dev (grouped 5-fold CV)
+1337,encoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.4074074074074074,0.3669410150891632,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.48148148148148145,0.612482853223594,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.3333333333333333,0.27503429355281206,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5185185185185185,0.7057613168724279,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.4334705075445816,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.4698216735253773,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.46570644718792864,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5370370370370371,0.49794238683127573,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.45884773662551437,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5185185185185185,0.4499314128943758,dev (disjoint source languages)
+1337,encoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5068587105624143,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6808248299319727,0.7692593002336989,dev (grouped 5-fold CV)
+1337,decoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5,0.8840877914951988,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5185185185185185,0.9279835390946503,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.9279835390946501,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.8573388203017833,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5150891632373114,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5212620027434842,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5294924554183813,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5,0.6611796982167352,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.5267489711934156,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.5747599451303155,dev (disjoint source languages)
+1337,decoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5438957475994513,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6931972789115646,0.7846388332118561,dev (grouped 5-fold CV)
+1337,decoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5185185185185185,0.8813443072702332,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.6296296296296297,0.9176954732510288,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.8998628257887517,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.6296296296296297,0.9149519890260631,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5438957475994514,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.53360768175583,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.537037037037037,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5,0.5843621399176955,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.5288065843621399,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.5500685871056241,dev (disjoint source languages)
+1337,decoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5349794238683128,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6851615646258504,0.7604989349055948,dev (grouped 5-fold CV)
+1337,decoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.7407407407407407,0.8861454046639231,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.7407407407407407,0.8751714677640604,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.9087791495198903,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.6481481481481481,0.8600823045267489,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.546639231824417,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5137174211248285,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5212620027434842,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5,0.5363511659807956,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.4876543209876543,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.5466392318244171,dev (disjoint source languages)
+1337,decoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5589849108367626,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.7777777777777778,0.842249657064472,
+2024,encoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7037037037037037,0.720164609053498,
+2024,encoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.7777777777777778,0.8148148148148149,
+2024,encoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.9300411522633745,
+2024,encoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.7407407407407407,0.8257887517146776,
+2024,encoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8333333333333334,0.9176954732510288,
+2024,encoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7222222222222222,0.766803840877915,
+2024,encoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.7777777777777778,0.8436213991769547,
+2024,encoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.8703703703703703,0.9410150891632374,
+2024,encoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.48148148148148145,0.3360768175582991,
+2024,encoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5185185185185185,0.8257887517146776,
+2024,encoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.46296296296296297,0.3251028806584362,
+2024,encoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5555555555555556,0.8285322359396433,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5185185185185185,0.46776406035665297,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5,0.4842249657064472,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5185185185185185,0.45130315500685875,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6666666666666666,0.6982167352537724,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5925925925925926,0.5843621399176955,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6481481481481481,0.7256515775034293,
+2024,encoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.6111111111111112,0.5528120713305898,
+2024,encoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.7962962962962963,0.8751714677640604,
+2024,encoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.7222222222222222,0.737997256515775,
+2024,encoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.7407407407407407,0.839506172839506,
+2024,encoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.9368998628257887,
+2024,encoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.7777777777777778,0.8161865569272978,
+2024,encoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8888888888888888,0.9396433470507544,
+2024,encoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7592592592592593,0.8079561042524006,
+2024,encoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.8148148148148148,0.8641975308641975,
+2024,encoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.9259259259259259,0.9766803840877915,
+2024,encoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.48148148148148145,0.29218106995884774,
+2024,encoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5,0.7846364883401921,
+2024,encoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5370370370370371,0.6131687242798354,
+2024,encoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5185185185185185,0.6680384087791494,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.5925925925925926,0.6063100137174211,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.46296296296296297,0.47599451303155005,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5185185185185185,0.5692729766803841,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7037037037037037,0.691358024691358,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.5555555555555556,0.6186556927297668,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7222222222222222,0.7503429355281207,
+2024,encoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5740740740740741,0.6008230452674898,
+2024,encoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.8333333333333334,0.8847736625514403,
+2024,encoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.6666666666666666,0.7530864197530864,
+2024,encoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.7037037037037037,0.8161865569272976,
+2024,encoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.8888888888888888,0.953360768175583,
+2024,encoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.7777777777777778,0.8422496570644719,
+2024,encoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8148148148148148,0.9176954732510287,
+2024,encoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.7037037037037037,0.7818930041152263,
+2024,encoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.8333333333333334,0.8751714677640604,
+2024,encoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,0.9074074074074074,0.9725651577503429,
+2024,encoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.5555555555555556,0.4348422496570645,
+2024,encoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.5555555555555556,0.7914951989026063,
+2024,encoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.5,0.4718792866941015,
+2024,encoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.5555555555555556,0.7462277091906722,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.6111111111111112,0.6598079561042524,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.5740740740740741,0.5281207133058985,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.5555555555555556,0.5390946502057613,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6851851851851852,0.7750342935528121,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.6666666666666666,0.6886145404663923,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.6481481481481481,0.6982167352537724,
+2024,encoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.5740740740740741,0.5569272976680384,
+2024,decoder,4,toxic_vs_detox_reference,am,am,within_language,244,54,0.9629629629629629,0.9945130315500686,
+2024,decoder,4,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.8518518518518519,0.9327846364883402,
+2024,decoder,4,toxic_vs_detox_reference,de,de,within_language,244,54,0.8888888888888888,0.9533607681755828,
+2024,decoder,4,toxic_vs_detox_reference,en,en,within_language,244,54,0.9629629629629629,0.9862825788751715,
+2024,decoder,4,toxic_vs_detox_reference,es,es,within_language,244,54,0.9074074074074074,0.9492455418381345,
+2024,decoder,4,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9259259259259259,0.9931412894375857,
+2024,decoder,4,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8518518518518519,0.9396433470507545,
+2024,decoder,4,toxic_vs_detox_reference,xh,xh,within_language,244,54,0.9814814814814815,0.9958847736625515,
+2024,decoder,4,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+2024,decoder,4,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.8888888888888888,1.0,
+2024,decoder,4,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.9629629629629629,0.9986282578875172,
+2024,decoder,4,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.7222222222222222,1.0,
+2024,decoder,4,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.8333333333333334,0.9931412894375857,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9629629629629629,0.9698216735253772,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6481481481481481,0.7736625514403291,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7592592592592593,0.8532235939643346,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7222222222222222,0.8257887517146777,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.6851851851851852,0.8203017832647462,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.8333333333333334,0.8491083676268861,
+2024,decoder,4,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7592592592592593,0.7997256515775034,
+2024,decoder,6,toxic_vs_detox_reference,am,am,within_language,244,54,0.9444444444444444,0.9917695473251028,
+2024,decoder,6,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.8703703703703703,0.9272976680384087,
+2024,decoder,6,toxic_vs_detox_reference,de,de,within_language,244,54,0.9259259259259259,0.9561042524005487,
+2024,decoder,6,toxic_vs_detox_reference,en,en,within_language,244,54,0.9629629629629629,0.9849108367626886,
+2024,decoder,6,toxic_vs_detox_reference,es,es,within_language,244,54,0.8703703703703703,0.9327846364883401,
+2024,decoder,6,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.9444444444444444,0.9876543209876543,
+2024,decoder,6,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8148148148148148,0.934156378600823,
+2024,decoder,6,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+2024,decoder,6,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+2024,decoder,6,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.6666666666666666,1.0,
+2024,decoder,6,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.6851851851851852,1.0,
+2024,decoder,6,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.8148148148148148,1.0,
+2024,decoder,6,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.7592592592592593,0.9890260631001372,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.9444444444444444,0.9725651577503428,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6111111111111112,0.7283950617283951,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.7777777777777778,0.8395061728395061,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.7037037037037037,0.7626886145404664,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.8148148148148148,0.8436213991769547,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.8333333333333334,0.8449931412894376,
+2024,decoder,6,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7222222222222222,0.8065843621399177,
+2024,decoder,8,toxic_vs_detox_reference,am,am,within_language,244,54,0.9259259259259259,0.9698216735253772,
+2024,decoder,8,toxic_vs_detox_reference,ar,ar,within_language,244,54,0.8333333333333334,0.897119341563786,
+2024,decoder,8,toxic_vs_detox_reference,de,de,within_language,244,54,0.9259259259259259,0.9629629629629629,
+2024,decoder,8,toxic_vs_detox_reference,en,en,within_language,244,54,0.8703703703703703,0.9766803840877915,
+2024,decoder,8,toxic_vs_detox_reference,es,es,within_language,244,54,0.8703703703703703,0.9300411522633745,
+2024,decoder,8,toxic_vs_detox_reference,hi,hi,within_language,244,54,0.8703703703703703,0.9561042524005487,
+2024,decoder,8,toxic_vs_detox_reference,uk,uk,within_language,244,54,0.8148148148148148,0.8724279835390946,
+2024,decoder,8,toxic_vs_detox_reference,xh,xh,within_language,244,54,1.0,1.0,
+2024,decoder,8,toxic_vs_detox_reference,yo,yo,within_language,244,54,1.0,1.0,
+2024,decoder,8,toxic_vs_detox_reference,EN_DE_ES,yo,cross_language,732,54,0.6851851851851852,0.9958847736625515,
+2024,decoder,8,toxic_vs_detox_reference,EN_DE_ES,xh,cross_language,732,54,0.9074074074074074,0.9945130315500685,
+2024,decoder,8,toxic_vs_detox_reference,all_non_african,yo,cross_language,1708,54,0.9074074074074074,1.0,
+2024,decoder,8,toxic_vs_detox_reference,all_non_african,xh,cross_language,1708,54,0.9444444444444444,0.9739368998628258,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,am,cross_language,488,54,0.7962962962962963,0.9451303155006859,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,ar,cross_language,488,54,0.6481481481481481,0.737997256515775,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,de,cross_language,488,54,0.6851851851851852,0.757201646090535,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,en,cross_language,488,54,0.6481481481481481,0.6844993141289438,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,es,cross_language,488,54,0.7037037037037037,0.737997256515775,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,hi,cross_language,488,54,0.7407407407407407,0.7901234567901235,
+2024,decoder,8,toxic_vs_detox_reference,YO_XH,uk,cross_language,488,54,0.7037037037037037,0.8024691358024693,
+2024,encoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6337585034013606,0.7159307175251053,dev (grouped 5-fold CV)
+2024,encoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.6111111111111112,0.4917695473251029,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5555555555555556,0.7215363511659808,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5555555555555556,0.2777777777777778,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5370370370370371,0.7599451303155006,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.4718792866941015,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.48148148148148145,0.5185185185185185,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5116598079561042,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.48148148148148145,0.4135802469135802,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.47530864197530864,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.4993141289437586,dev (disjoint source languages)
+2024,encoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5370370370370371,0.5329218106995885,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.654124149659864,0.7249817784256558,dev (grouped 5-fold CV)
+2024,encoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5740740740740741,0.6117969821673526,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.6412894375857339,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5740740740740741,0.45267489711934156,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5,0.5246913580246914,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5,0.5006858710562414,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5384087791495199,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.4814814814814815,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.42592592592592593,0.44993141289437577,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.4801097393689986,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.541838134430727,dev (disjoint source languages)
+2024,encoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.522633744855967,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6850340136054422,0.7342397301182377,dev (grouped 5-fold CV)
+2024,encoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5740740740740741,0.503429355281207,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.5,0.8065843621399177,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5555555555555556,0.3559670781893004,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.5740740740740741,0.8600823045267489,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5370370370370371,0.5473251028806584,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5185185185185185,0.5356652949245542,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5185185185185185,0.527434842249657,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5555555555555556,0.5329218106995884,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5185185185185185,0.49519890260631005,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.532235939643347,dev (disjoint source languages)
+2024,encoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5438957475994514,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.7117772108843538,0.788983051766625,dev (grouped 5-fold CV)
+2024,decoder,4,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.6481481481481481,0.9272976680384087,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.6481481481481481,0.9478737997256517,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5370370370370371,0.948559670781893,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.6111111111111112,0.9080932784636487,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5185185185185185,0.5480109739368999,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5185185185185185,0.5761316872427984,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5480109739368999,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5,0.7585733882030179,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5185185185185185,0.5864197530864197,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.6604938271604938,dev (disjoint source languages)
+2024,decoder,4,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.6179698216735254,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.7180697278911565,0.8011135045004396,dev (grouped 5-fold CV)
+2024,decoder,6,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.5370370370370371,0.9163237311385459,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.6666666666666666,0.943758573388203,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.6481481481481481,0.9327846364883402,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.6666666666666666,0.9348422496570644,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5185185185185185,0.5589849108367627,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5631001371742113,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5185185185185185,0.5459533607681756,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5555555555555556,0.6893004115226338,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5185185185185185,0.6172839506172839,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5185185185185185,0.6632373113854595,dev (disjoint source languages)
+2024,decoder,6,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.6021947873799726,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,dev_cv,multilingual_pooled,dev_cv,0,486,0.6892431972789116,0.7790398387246056,dev (grouped 5-fold CV)
+2024,decoder,8,toxic_vs_generated,EN_DE_ES,yo,cross_language,162,54,0.6666666666666666,0.9314128943758573,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,EN_DE_ES,xh,cross_language,162,54,0.6851851851851852,0.9382716049382717,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,all_non_african,yo,cross_language,378,54,0.5,0.9396433470507544,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,all_non_african,xh,cross_language,378,54,0.7407407407407407,0.9417009602194787,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,am,cross_language,108,54,0.5185185185185185,0.5617283950617283,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,ar,cross_language,108,54,0.5,0.5342935528120714,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,de,cross_language,108,54,0.5,0.5246913580246914,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,en,cross_language,108,54,0.5185185185185185,0.6289437585733881,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,es,cross_language,108,54,0.5,0.593278463648834,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,hi,cross_language,108,54,0.5,0.6522633744855967,dev (disjoint source languages)
+2024,decoder,8,toxic_vs_generated,YO_XH,uk,cross_language,108,54,0.5,0.5836762688614541,dev (disjoint source languages)

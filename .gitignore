@@ -8,3 +8,4 @@ results/activations/**/*.pt
 results/training/seed*/
 results/training/stage3_run.log
 results/stage6_run.log
+results/stage7_run.log

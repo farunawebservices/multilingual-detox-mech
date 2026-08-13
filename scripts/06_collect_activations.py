@@ -398,8 +398,16 @@ def run(seed: int, split: str, cfg: dict, device: str, smoke: bool,
                     "fitted_on": "train split only",
                     "seed": seed, "side": side, "layer": int(layer), "condition": cond,
                     "token_mean": toks.mean(0), "token_std": toks.std(0),
-                    "pooled_mean": payload["pooled_mean_content"].mean(0),
-                    "pooled_std": payload["pooled_mean_content"].std(0),
+                    # Statistics are saved per pooling. They are not interchangeable:
+                    # pooled_mean_all includes the task prefix / decoder start token,
+                    # whose states differ sharply from content positions, so applying
+                    # the content statistics to the all-position pooling leaves
+                    # standardised dimensions far from mean 0 / sd 1.
+                    "pooled_mean_all_mean": payload["pooled_mean_all"].mean(0),
+                    "pooled_mean_all_std": payload["pooled_mean_all"].std(0),
+                    "pooled_mean_content_mean": payload["pooled_mean_content"].mean(0),
+                    "pooled_mean_content_std": payload["pooled_mean_content"].std(0),
+                    "n_rows": int(payload["pooled_mean_all"].shape[0]),
                     "max_abs_activation": payload["max_abs_activation"],
                     "n_tokens": int(toks.shape[0]),
                 }, norm_dir / f"seed{seed}_{side}_layer{int(layer):02d}_{cond}.pt")
@@ -412,6 +420,9 @@ def run(seed: int, split: str, cfg: dict, device: str, smoke: bool,
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--smoke", action="store_true", help="small verification pass, writes nothing")
+    ap.add_argument("--rebuild-norm-stats", action="store_true",
+                    help="recompute norm_stats from existing TRAIN activation files "
+                         "without re-running the model; touches no dev/test file")
     ap.add_argument("--splits", nargs="+", default=["train", "dev", "test"])
     ap.add_argument("--seeds", type=int, nargs="+", default=None)
     args = ap.parse_args()
@@ -423,6 +434,39 @@ def main() -> int:
     targets = integrity_targets()
     before = {str(p.relative_to(REPO_ROOT)): file_digest(p) for p in targets}
     print(f"integrity baseline over {len(before)} files (splits, generations, checkpoints)")
+
+    if args.rebuild_norm_stats:
+        norm_dir = ACT_DIR / "norm_stats"
+        norm_dir.mkdir(parents=True, exist_ok=True)
+        n = 0
+        for side in ("encoder", "decoder"):
+            layers = cfg["activations"][f"{side}_layers"]
+            for layer in layers:
+                for seed in seeds:
+                    for path in sorted(
+                        (ACT_DIR / side / f"layer_{layer:02d}").glob(f"train_seed{seed}_*.pt")
+                    ):
+                        cond = path.stem.split(f"train_seed{seed}_")[1]
+                        d = torch.load(path, weights_only=False)
+                        toks = d["tokens"].to(torch.float32)
+                        torch.save({
+                            "fitted_on": "train split only",
+                            "seed": seed, "side": side, "layer": layer, "condition": cond,
+                            "token_mean": toks.mean(0), "token_std": toks.std(0),
+                            "pooled_mean_all_mean": d["pooled_mean_all"].mean(0),
+                            "pooled_mean_all_std": d["pooled_mean_all"].std(0),
+                            "pooled_mean_content_mean": d["pooled_mean_content"].mean(0),
+                            "pooled_mean_content_std": d["pooled_mean_content"].std(0),
+                            "n_rows": int(d["pooled_mean_all"].shape[0]),
+                            "max_abs_activation": d.get("max_abs_activation", float("nan")),
+                            "n_tokens": int(toks.shape[0]),
+                        }, norm_dir / f"seed{seed}_{side}_layer{layer:02d}_{cond}.pt")
+                        n += 1
+        after = {str(p.relative_to(REPO_ROOT)): file_digest(p) for p in targets}
+        changed = [k for k in before if before[k] != after[k]]
+        print(f"rebuilt {n} norm_stat files from TRAIN activations only")
+        print(f"inputs unchanged: {'YES' if not changed else 'NO -> ' + str(changed)}")
+        return 0 if not changed else 1
 
     if args.smoke:
         print("\n=== SMOKE TEST: seed 42, dev, 18 rows, nothing written ===")
