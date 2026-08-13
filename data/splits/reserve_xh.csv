@@ -1,0 +1,4 @@
+pair_id,group_id,language,toxic_input,detox_output,source,orig_split,split,source_row_index
+xh-0054,xh-g0171,xh,Uziphosile nomntu ongalunganga.,Undikhathazile kakhulu.,human_annotated,xh_human_178,reserve,54
+xh-0098,xh-g0145,xh,Uya kujongana nobushushu bam obugcweleyo.,Andikholiswa kakhulu kwaye ndifune ukulungiswa kwangoko.,human_annotated,xh_human_178,reserve,98
+xh-0132,xh-g0005,xh,Awukho umbono omuhle.,Unembonakalo eyahlukileyo.,human_annotated,xh_human_178,reserve,132

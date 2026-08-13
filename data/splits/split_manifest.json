@@ -1,0 +1,256 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T12:08:49.889539+00:00",
+  "git_commit": "77c396c42f5d329c362b7219433a7d0de8ce7c6e",
+  "seed": 42,
+  "policy": {
+    "dedup": "exact (toxic_input, detox_output) duplicates removed after NFC normalisation",
+    "multi_reference": "distinct references for a repeated toxic_input are preserved",
+    "normalisation": "Unicode NFC applied to derived split data only; source CSVs untouched",
+    "grouping": "rows sharing a normalised toxic_input are kept in one split",
+    "target_per_language": {
+      "total": 175,
+      "train": 122,
+      "dev": 27,
+      "test": 26
+    },
+    "sampling": "deterministic, seed 42, per-language RNG stream",
+    "fill_order": [
+      "test",
+      "dev",
+      "train"
+    ],
+    "reserve": "unused groups, held out whole so no toxic input is shared with a split"
+  },
+  "per_language": {
+    "am": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "ar": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "de": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "en": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "es": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "hi": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "uk": {
+      "source_rows": 400,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 400,
+      "n_groups": 400,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 225,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "xh": {
+      "source_rows": 178,
+      "strings_renormalised_to_nfc": 0,
+      "exact_duplicate_pairs_dropped": 0,
+      "rows_after_dedup": 178,
+      "n_groups": 178,
+      "n_multirow_groups": 0,
+      "max_group_size": 1,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 3,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    },
+    "yo": {
+      "source_rows": 178,
+      "strings_renormalised_to_nfc": 25,
+      "exact_duplicate_pairs_dropped": 3,
+      "rows_after_dedup": 175,
+      "n_groups": 169,
+      "n_multirow_groups": 6,
+      "max_group_size": 2,
+      "counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "reserve": 0,
+      "split_total": 175,
+      "target_total": 175,
+      "target_counts": {
+        "train": 122,
+        "dev": 27,
+        "test": 26
+      },
+      "exact_target_met": true,
+      "shortfall": {}
+    }
+  },
+  "totals": {
+    "train": 1098,
+    "dev": 243,
+    "test": 234
+  },
+  "assertions_passed": [
+    "no normalized toxic_input occurs in more than one split",
+    "no toxic_input shared between reserve and any split",
+    "no exact duplicate (toxic_input, detox_output) pair remains",
+    "every language's on-disk count matches the manifest",
+    "no test pair_id or test pair content appears in train or dev",
+    "pair_id is unique across all written files"
+  ]
+}
