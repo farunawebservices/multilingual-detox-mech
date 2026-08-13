@@ -1,0 +1,353 @@
+{
+  "am": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "ar": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "de": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": [
+      {
+        "row_index": 17,
+        "toxic_input": "Nö, der sieht dumm aus. 😾"
+      }
+    ]
+  },
+  "en": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [
+      {
+        "row_index": 122,
+        "toxic_input": "These are public computers. Don't ban uss all because a few people are retarded.",
+        "detox_output": "These are public computers. Don't ban uss all because a few people are retarded."
+      }
+    ],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "es": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "hi": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "uk": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [
+      {
+        "row_index": 87,
+        "toxic_input": "Я: Рєбзь, може суші візьмем?",
+        "detox_output": "Я: Рєбзь, може суші візьмем?"
+      },
+      {
+        "row_index": 169,
+        "toxic_input": "Залякані люди, збайдужілі своїм страхом...",
+        "detox_output": "Залякані люди, збайдужілі своїм страхом..."
+      },
+      {
+        "row_index": 260,
+        "toxic_input": "Найкращі ультрас - дівчата з РГМ.",
+        "detox_output": "Найкращі ультрас - дівчата з РГМ."
+      },
+      {
+        "row_index": 397,
+        "toxic_input": "Моя улюблена \"помаранчева\" пісня - це \"Зимова спека\"  #піснісвободи",
+        "detox_output": "Моя улюблена \"помаранчева\" пісня - це \"Зимова спека\"  #піснісвободи"
+      }
+    ],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "xh": {
+    "missing_any": [],
+    "duplicate_pairs": [],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "yo": {
+    "missing_any": [],
+    "duplicate_pairs": [
+      {
+        "row_index": 136,
+        "toxic_input": "Ìṣe rẹ̀ kò péye",
+        "detox_output": "Ìṣe rẹ̀ nílò àtúnṣe díẹ̀"
+      },
+      {
+        "row_index": 138,
+        "toxic_input": "Ìmọ̀ rẹ̀ ò pé",
+        "detox_output": "Ìmọ̀ rẹ̀ nílò ìtẹ̀síwájú síi"
+      },
+      {
+        "row_index": 143,
+        "toxic_input": "Ìṣe rẹ̀ kò péye",
+        "detox_output": "Ìṣe rẹ̀ nílò àtúnṣe díẹ̀"
+      }
+    ],
+    "identical_exact": [],
+    "identical_normalized_only": [],
+    "rows_with_unk_tokens": []
+  },
+  "en_full": {
+    "missing_any": [],
+    "duplicate_pairs": [
+      {
+        "row_index": 215,
+        "toxic_input": "the second is also untrue to the point of idiocy .",
+        "detox_output": "The second is also untrue."
+      },
+      {
+        "row_index": 246,
+        "toxic_input": "he played you for fools .",
+        "detox_output": "He played you."
+      },
+      {
+        "row_index": 262,
+        "toxic_input": "were tired of your despicable lies",
+        "detox_output": "were tired of your lies"
+      },
+      {
+        "row_index": 390,
+        "toxic_input": "go after criminals not plants idiots !",
+        "detox_output": "go after criminals not plants !"
+      },
+      {
+        "row_index": 411,
+        "toxic_input": "go take a hike , retard .",
+        "detox_output": "go take a hike"
+      },
+      {
+        "row_index": 523,
+        "toxic_input": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+        "detox_output": "I am reading, slowly, mcmasters dereliction of duty about the Vietnam war."
+      },
+      {
+        "row_index": 528,
+        "toxic_input": "voting for her if the examiner and mitch the establishment bitch dont like her",
+        "detox_output": "voting for her if the examiner and mitch the establishment dont like her"
+      },
+      {
+        "row_index": 723,
+        "toxic_input": "suck it up and deal with it .",
+        "detox_output": "Deal with it"
+      },
+      {
+        "row_index": 731,
+        "toxic_input": "these people are nothing but wastes .",
+        "detox_output": "These people are not useful."
+      },
+      {
+        "row_index": 734,
+        "toxic_input": "because they knew how dangerous and stupid it was to carry a gun around in public .",
+        "detox_output": "Because they knew how dangerous it was to carry a gun around in public"
+      },
+      {
+        "row_index": 1022,
+        "toxic_input": "there is no s in fifa its football you dunce",
+        "detox_output": "there is no s in fifa its football"
+      },
+      {
+        "row_index": 1025,
+        "toxic_input": "can we just delete this fucking section ?",
+        "detox_output": "Can we just delete this section?"
+      },
+      {
+        "row_index": 1091,
+        "toxic_input": "why did you remove my edit , you cancer ridden cunt .",
+        "detox_output": "Why did you remove my edit?"
+      },
+      {
+        "row_index": 1118,
+        "toxic_input": "between her and dalton youd think it would make liberals angry they look like idiots .",
+        "detox_output": "between her and dalton youd think it would make liberals angry"
+      },
+      {
+        "row_index": 1264,
+        "toxic_input": "got a link for that , troll ? .",
+        "detox_output": "Got a link for that?"
+      },
+      {
+        "row_index": 1322,
+        "toxic_input": "now the damn government is involved which always leads to problems",
+        "detox_output": "now the government is involved which always leads to problems"
+      },
+      {
+        "row_index": 1381,
+        "toxic_input": "the australian broadcasting commission only use the washington com post as their american new source , pathetic .",
+        "detox_output": "the australian broadcasting commission only use the washington com post as their american new source"
+      },
+      {
+        "row_index": 1408,
+        "toxic_input": "based on what empirical evidence do you make such a ridiculous comment ?",
+        "detox_output": "based on what empirical evidence do you make such a comment ?"
+      },
+      {
+        "row_index": 1794,
+        "toxic_input": "your abuse of admin tools is pathetic and cowardly .",
+        "detox_output": "your abuse of admin tools is pathetic and cowardly ."
+      },
+      {
+        "row_index": 1805,
+        "toxic_input": "quite right payment is none of the governments damn business .",
+        "detox_output": "quite right payment is none of the governments business ."
+      }
+    ],
+    "identical_exact": [
+      {
+        "row_index": 105,
+        "toxic_input": "damn , he was back home and should have stayed there .",
+        "detox_output": "damn , he was back home and should have stayed there ."
+      },
+      {
+        "row_index": 161,
+        "toxic_input": "as useless as a human rights and social justice lawyer masquerading as our minister of environment and climate change .",
+        "detox_output": "as useless as a human rights and social justice lawyer masquerading as our minister of environment and climate change ."
+      },
+      {
+        "row_index": 187,
+        "toxic_input": "a shining beacon of ignorance .",
+        "detox_output": "a shining beacon of ignorance ."
+      },
+      {
+        "row_index": 361,
+        "toxic_input": "you think you are being clever when in fact you are showing ignorance .",
+        "detox_output": "you think you are being clever when in fact you are showing ignorance ."
+      },
+      {
+        "row_index": 394,
+        "toxic_input": "which part is the ignorant section ?",
+        "detox_output": "which part is the ignorant section ?"
+      },
+      {
+        "row_index": 410,
+        "toxic_input": "these are a part of the segment of muslims who are radical extreme muslim terrorists .",
+        "detox_output": "these are a part of the segment of muslims who are radical extreme muslim terrorists ."
+      },
+      {
+        "row_index": 424,
+        "toxic_input": "lets import the syrian rapists in germany first .",
+        "detox_output": "lets import the syrian rapists in germany first ."
+      },
+      {
+        "row_index": 455,
+        "toxic_input": "we are not totally stupid , we know she works for cnn .",
+        "detox_output": "we are not totally stupid , we know she works for cnn ."
+      },
+      {
+        "row_index": 469,
+        "toxic_input": "this diseased sob needs to be silenced for all of eternity",
+        "detox_output": "this diseased sob needs to be silenced for all of eternity"
+      },
+      {
+        "row_index": 473,
+        "toxic_input": "i didnt vote for the liar",
+        "detox_output": "i didnt vote for the liar"
+      },
+      {
+        "row_index": 492,
+        "toxic_input": "the garbage that is being created by cnn and other news agencies is outrageous .",
+        "detox_output": "the garbage that is being created by cnn and other news agencies is outrageous ."
+      },
+      {
+        "row_index": 498,
+        "toxic_input": "we face a tidal wave of aggressive and impatient and ignorant drivers .",
+        "detox_output": "we face a tidal wave of aggressive and impatient and ignorant drivers ."
+      },
+      {
+        "row_index": 654,
+        "toxic_input": "tim : hell do you up a treat , mate .",
+        "detox_output": "tim : hell do you up a treat , mate ."
+      },
+      {
+        "row_index": 728,
+        "toxic_input": "transgender women are not going to hurt you or your children .",
+        "detox_output": "transgender women are not going to hurt you or your children ."
+      },
+      {
+        "row_index": 790,
+        "toxic_input": "trump never mentions that as he lies to his ignorant voters .",
+        "detox_output": "trump never mentions that as he lies to his ignorant voters ."
+      },
+      {
+        "row_index": 795,
+        "toxic_input": "i like petas mission but they are ignorant when it comes to the iditarod and .",
+        "detox_output": "i like petas mission but they are ignorant when it comes to the iditarod and ."
+      },
+      {
+        "row_index": 804,
+        "toxic_input": "far more surprising to me was the percentage of straight people who have admitted to having anal sex .",
+        "detox_output": "far more surprising to me was the percentage of straight people who have admitted to having anal sex ."
+      },
+      {
+        "row_index": 868,
+        "toxic_input": "she would have been a hit if she was an orphan .",
+        "detox_output": "she would have been a hit if she was an orphan ."
+      },
+      {
+        "row_index": 885,
+        "toxic_input": "at least read the article before making silly comments .",
+        "detox_output": "at least read the article before making silly comments ."
+      },
+      {
+        "row_index": 978,
+        "toxic_input": "if we evil whitey dont go , watch , or care .",
+        "detox_output": "if we evil whitey dont go , watch , or care ."
+      }
+    ],
+    "identical_normalized_only": [
+      {
+        "row_index": 507,
+        "toxic_input": "ignorant of the most basic aspects of canadian history .",
+        "detox_output": "ignorant of the most basic aspects of Canadian history ."
+      },
+      {
+        "row_index": 1288,
+        "toxic_input": "doing nothing is better then doing something stupid .",
+        "detox_output": "Doing nothing is better then doing something stupid ."
+      },
+      {
+        "row_index": 2167,
+        "toxic_input": "the attempt to equate these like two sides of a coin is totally ridiculous .",
+        "detox_output": "The attempt to equate these like two sides of a coin is totally ridiculous ."
+      },
+      {
+        "row_index": 2671,
+        "toxic_input": "this woman is a hack .",
+        "detox_output": "This woman is a hack ."
+      },
+      {
+        "row_index": 3063,
+        "toxic_input": "justin is corrupt , you can take that to the bank",
+        "detox_output": "Justin is corrupt , you can take that to the bank"
+      },
+      {
+        "row_index": 10708,
+        "toxic_input": "the naacp was ready to burn all of her citizenship & send her back on a riverboat .",
+        "detox_output": "The naacp was ready to burn all of her citizenship & send her back on a riverboat ."
+      }
+    ],
+    "rows_with_unk_tokens": []
+  }
+}
