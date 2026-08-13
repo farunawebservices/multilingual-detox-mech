@@ -1,0 +1,153 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T13:50:20.448540+00:00",
+  "sta_model": "textdetox/xlmr-large-toxicity-classifier",
+  "sta_supported_languages": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "ru",
+    "uk",
+    "zh"
+  ],
+  "sta_unsupported_study_languages": [
+    "xh",
+    "yo"
+  ],
+  "sim_model": "sentence-transformers/LaBSE",
+  "fl_metric": "chrF1 (sacrebleu CHRF beta=1) against the human reference",
+  "bootstrap": {
+    "resamples": 1000,
+    "ci": 0.95,
+    "unit": "sentence_pair",
+    "seed": 42
+  },
+  "thresholds": {
+    "template_collapse_unique_output_rate": 0.6,
+    "template_collapse_top_output_share": 0.25,
+    "high_copy_rate": 0.2,
+    "sta_high": 0.7,
+    "sim_low": 0.5,
+    "sim_high": 0.7,
+    "sta_low": 0.5
+  },
+  "by_split": {
+    "dev": [
+      {
+        "language": "am",
+        "flags": [
+          "high copy-input rate: 0.395 (exact 0.395)",
+          "SIM high but STA low: SIM=0.962, STA=0.471 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "ar",
+        "flags": [
+          "high copy-input rate: 0.580 (exact 0.580)",
+          "SIM high but STA low: SIM=0.971, STA=0.444 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "de",
+        "flags": [
+          "high copy-input rate: 0.593 (exact 0.556)"
+        ]
+      },
+      {
+        "language": "es",
+        "flags": [
+          "high copy-input rate: 0.309 (exact 0.284)",
+          "SIM high but STA low: SIM=0.936, STA=0.350 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "hi",
+        "flags": [
+          "high copy-input rate: 0.321 (exact 0.321)",
+          "SIM high but STA low: SIM=0.921, STA=0.188 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "uk",
+        "flags": [
+          "high copy-input rate: 0.407 (exact 0.346)",
+          "SIM high but STA low: SIM=0.965, STA=0.364 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "xh",
+        "flags": [
+          "template collapse/repetition: unique_output_rate=0.481, top_output_share=0.457",
+          "STA high but SIM low [STA UNVALIDATED]: STA=0.869, SIM=0.379 -- output may be discarding input content",
+          "STA unavailable/unvalidated: language outside the classifier's nine fine-tuning languages"
+        ]
+      },
+      {
+        "language": "yo",
+        "flags": [
+          "template collapse/repetition: unique_output_rate=0.679, top_output_share=0.284",
+          "STA high but SIM low [STA UNVALIDATED]: STA=0.841, SIM=0.418 -- output may be discarding input content",
+          "STA unavailable/unvalidated: language outside the classifier's nine fine-tuning languages"
+        ]
+      }
+    ],
+    "test": [
+      {
+        "language": "am",
+        "flags": [
+          "high copy-input rate: 0.410 (exact 0.410)"
+        ]
+      },
+      {
+        "language": "ar",
+        "flags": [
+          "high copy-input rate: 0.500 (exact 0.500)"
+        ]
+      },
+      {
+        "language": "de",
+        "flags": [
+          "high copy-input rate: 0.410 (exact 0.397)"
+        ]
+      },
+      {
+        "language": "es",
+        "flags": [
+          "high copy-input rate: 0.231 (exact 0.231)"
+        ]
+      },
+      {
+        "language": "hi",
+        "flags": [
+          "high copy-input rate: 0.397 (exact 0.397)",
+          "SIM high but STA low: SIM=0.894, STA=0.333 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "uk",
+        "flags": [
+          "high copy-input rate: 0.308 (exact 0.269)",
+          "SIM high but STA low: SIM=0.950, STA=0.476 -- output may be echoing the toxic input"
+        ]
+      },
+      {
+        "language": "xh",
+        "flags": [
+          "template collapse/repetition: unique_output_rate=0.423, top_output_share=0.577",
+          "STA high but SIM low [STA UNVALIDATED]: STA=0.852, SIM=0.388 -- output may be discarding input content",
+          "STA unavailable/unvalidated: language outside the classifier's nine fine-tuning languages"
+        ]
+      },
+      {
+        "language": "yo",
+        "flags": [
+          "template collapse/repetition: unique_output_rate=0.667, top_output_share=0.282",
+          "STA unavailable/unvalidated: language outside the classifier's nine fine-tuning languages"
+        ]
+      }
+    ]
+  }
+}
