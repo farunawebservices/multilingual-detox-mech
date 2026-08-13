@@ -3,7 +3,8 @@ results_afrihate/
 __pycache__/
 *.pyc
 models/
-results/activations/
+results/activations/**/*.pt
 .claude/
 results/training/seed*/
 results/training/stage3_run.log
+results/stage6_run.log

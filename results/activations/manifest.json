@@ -1,0 +1,939 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T14:44:10.170465+00:00",
+  "git_commit": "77c396c42f5d329c362b7219433a7d0de8ce7c6e",
+  "model_dir": "models/mt5_detox_baseline",
+  "encoder_layers": [
+    4,
+    6,
+    8
+  ],
+  "decoder_layers": [
+    4,
+    6,
+    8
+  ],
+  "conditions": [
+    "toxic",
+    "detox_reference",
+    "generated"
+  ],
+  "behaviour_label_definitions": {
+    "copy_input": "generation equals the input after NFC, whitespace and case normalisation",
+    "generic_template": "generation string occurs >=2x within its (seed, split, language) cell",
+    "ordinary_rewrite": "non-empty, no sentinel, not a copy, not a repeated template",
+    "other_uncertain": "empty or sentinel-bearing output, or a non-copy identical to input",
+    "no_generation": "train split, where Stage 4 produced no generations",
+    "derivation": "structural only; never a function of STA/SIM/FL"
+  },
+  "totals": {
+    "rows": 4725,
+    "seeds": 3,
+    "languages": 9,
+    "tensor_files": 180,
+    "total_bytes": 2970803340
+  },
+  "rows_by_split": {
+    "dev": 729,
+    "test": 702,
+    "train": 3294
+  },
+  "rows_by_seed": {
+    "42": 1575,
+    "1337": 1575,
+    "2024": 1575
+  },
+  "rows_by_language": {
+    "am": 525,
+    "ar": 525,
+    "de": 525,
+    "en": 525,
+    "es": 525,
+    "hi": 525,
+    "uk": 525,
+    "xh": 525,
+    "yo": 525
+  },
+  "behaviour_labels_overall": {
+    "no_generation": 3294,
+    "ordinary_rewrite": 833,
+    "copy_input": 429,
+    "generic_template": 169
+  },
+  "entries": [
+    {
+      "seed": 42,
+      "split": "train",
+      "n_rows": 1098,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 122,
+        "ar": 122,
+        "de": 122,
+        "en": 122,
+        "es": 122,
+        "hi": 122,
+        "uk": 122,
+        "xh": 122,
+        "yo": 122
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference"
+      ],
+      "behaviour_labels": {
+        "no_generation": 1098
+      },
+      "files": [
+        "results/activations/encoder/layer_04/train_seed42_toxic.pt",
+        "results/activations/encoder/layer_06/train_seed42_toxic.pt",
+        "results/activations/encoder/layer_08/train_seed42_toxic.pt",
+        "results/activations/decoder/layer_04/train_seed42_toxic.pt",
+        "results/activations/decoder/layer_06/train_seed42_toxic.pt",
+        "results/activations/decoder/layer_08/train_seed42_toxic.pt",
+        "results/activations/encoder/layer_04/train_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_06/train_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_08/train_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_04/train_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_06/train_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_08/train_seed42_detox_reference.pt"
+      ],
+      "meta": {
+        "seed": 42,
+        "split": "train",
+        "n_rows": 1098,
+        "conditions": [
+          "toxic",
+          "detox_reference"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed42",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 42,
+      "split": "dev",
+      "n_rows": 243,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 27,
+        "ar": 27,
+        "de": 27,
+        "en": 27,
+        "es": 27,
+        "hi": 27,
+        "uk": 27,
+        "xh": 27,
+        "yo": 27
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 133,
+        "copy_input": 84,
+        "generic_template": 26
+      },
+      "files": [
+        "results/activations/encoder/layer_04/dev_seed42_toxic.pt",
+        "results/activations/encoder/layer_06/dev_seed42_toxic.pt",
+        "results/activations/encoder/layer_08/dev_seed42_toxic.pt",
+        "results/activations/decoder/layer_04/dev_seed42_toxic.pt",
+        "results/activations/decoder/layer_06/dev_seed42_toxic.pt",
+        "results/activations/decoder/layer_08/dev_seed42_toxic.pt",
+        "results/activations/encoder/layer_04/dev_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_06/dev_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_08/dev_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_04/dev_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_06/dev_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_08/dev_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_04/dev_seed42_generated.pt",
+        "results/activations/encoder/layer_06/dev_seed42_generated.pt",
+        "results/activations/encoder/layer_08/dev_seed42_generated.pt",
+        "results/activations/decoder/layer_04/dev_seed42_generated.pt",
+        "results/activations/decoder/layer_06/dev_seed42_generated.pt",
+        "results/activations/decoder/layer_08/dev_seed42_generated.pt"
+      ],
+      "meta": {
+        "seed": 42,
+        "split": "dev",
+        "n_rows": 243,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed42",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 42,
+      "split": "test",
+      "n_rows": 234,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 26,
+        "ar": 26,
+        "de": 26,
+        "en": 26,
+        "es": 26,
+        "hi": 26,
+        "uk": 26,
+        "xh": 26,
+        "yo": 26
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 133,
+        "copy_input": 73,
+        "generic_template": 28
+      },
+      "files": [
+        "results/activations/encoder/layer_04/test_seed42_toxic.pt",
+        "results/activations/encoder/layer_06/test_seed42_toxic.pt",
+        "results/activations/encoder/layer_08/test_seed42_toxic.pt",
+        "results/activations/decoder/layer_04/test_seed42_toxic.pt",
+        "results/activations/decoder/layer_06/test_seed42_toxic.pt",
+        "results/activations/decoder/layer_08/test_seed42_toxic.pt",
+        "results/activations/encoder/layer_04/test_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_06/test_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_08/test_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_04/test_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_06/test_seed42_detox_reference.pt",
+        "results/activations/decoder/layer_08/test_seed42_detox_reference.pt",
+        "results/activations/encoder/layer_04/test_seed42_generated.pt",
+        "results/activations/encoder/layer_06/test_seed42_generated.pt",
+        "results/activations/encoder/layer_08/test_seed42_generated.pt",
+        "results/activations/decoder/layer_04/test_seed42_generated.pt",
+        "results/activations/decoder/layer_06/test_seed42_generated.pt",
+        "results/activations/decoder/layer_08/test_seed42_generated.pt"
+      ],
+      "meta": {
+        "seed": 42,
+        "split": "test",
+        "n_rows": 234,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed42",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 1337,
+      "split": "train",
+      "n_rows": 1098,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 122,
+        "ar": 122,
+        "de": 122,
+        "en": 122,
+        "es": 122,
+        "hi": 122,
+        "uk": 122,
+        "xh": 122,
+        "yo": 122
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference"
+      ],
+      "behaviour_labels": {
+        "no_generation": 1098
+      },
+      "files": [
+        "results/activations/encoder/layer_04/train_seed1337_toxic.pt",
+        "results/activations/encoder/layer_06/train_seed1337_toxic.pt",
+        "results/activations/encoder/layer_08/train_seed1337_toxic.pt",
+        "results/activations/decoder/layer_04/train_seed1337_toxic.pt",
+        "results/activations/decoder/layer_06/train_seed1337_toxic.pt",
+        "results/activations/decoder/layer_08/train_seed1337_toxic.pt",
+        "results/activations/encoder/layer_04/train_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_06/train_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_08/train_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_04/train_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_06/train_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_08/train_seed1337_detox_reference.pt"
+      ],
+      "meta": {
+        "seed": 1337,
+        "split": "train",
+        "n_rows": 1098,
+        "conditions": [
+          "toxic",
+          "detox_reference"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed1337",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 1337,
+      "split": "dev",
+      "n_rows": 243,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 27,
+        "ar": 27,
+        "de": 27,
+        "en": 27,
+        "es": 27,
+        "hi": 27,
+        "uk": 27,
+        "xh": 27,
+        "yo": 27
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 143,
+        "copy_input": 76,
+        "generic_template": 24
+      },
+      "files": [
+        "results/activations/encoder/layer_04/dev_seed1337_toxic.pt",
+        "results/activations/encoder/layer_06/dev_seed1337_toxic.pt",
+        "results/activations/encoder/layer_08/dev_seed1337_toxic.pt",
+        "results/activations/decoder/layer_04/dev_seed1337_toxic.pt",
+        "results/activations/decoder/layer_06/dev_seed1337_toxic.pt",
+        "results/activations/decoder/layer_08/dev_seed1337_toxic.pt",
+        "results/activations/encoder/layer_04/dev_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_06/dev_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_08/dev_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_04/dev_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_06/dev_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_08/dev_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_04/dev_seed1337_generated.pt",
+        "results/activations/encoder/layer_06/dev_seed1337_generated.pt",
+        "results/activations/encoder/layer_08/dev_seed1337_generated.pt",
+        "results/activations/decoder/layer_04/dev_seed1337_generated.pt",
+        "results/activations/decoder/layer_06/dev_seed1337_generated.pt",
+        "results/activations/decoder/layer_08/dev_seed1337_generated.pt"
+      ],
+      "meta": {
+        "seed": 1337,
+        "split": "dev",
+        "n_rows": 243,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed1337",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 1337,
+      "split": "test",
+      "n_rows": 234,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 26,
+        "ar": 26,
+        "de": 26,
+        "en": 26,
+        "es": 26,
+        "hi": 26,
+        "uk": 26,
+        "xh": 26,
+        "yo": 26
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 140,
+        "copy_input": 70,
+        "generic_template": 24
+      },
+      "files": [
+        "results/activations/encoder/layer_04/test_seed1337_toxic.pt",
+        "results/activations/encoder/layer_06/test_seed1337_toxic.pt",
+        "results/activations/encoder/layer_08/test_seed1337_toxic.pt",
+        "results/activations/decoder/layer_04/test_seed1337_toxic.pt",
+        "results/activations/decoder/layer_06/test_seed1337_toxic.pt",
+        "results/activations/decoder/layer_08/test_seed1337_toxic.pt",
+        "results/activations/encoder/layer_04/test_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_06/test_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_08/test_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_04/test_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_06/test_seed1337_detox_reference.pt",
+        "results/activations/decoder/layer_08/test_seed1337_detox_reference.pt",
+        "results/activations/encoder/layer_04/test_seed1337_generated.pt",
+        "results/activations/encoder/layer_06/test_seed1337_generated.pt",
+        "results/activations/encoder/layer_08/test_seed1337_generated.pt",
+        "results/activations/decoder/layer_04/test_seed1337_generated.pt",
+        "results/activations/decoder/layer_06/test_seed1337_generated.pt",
+        "results/activations/decoder/layer_08/test_seed1337_generated.pt"
+      ],
+      "meta": {
+        "seed": 1337,
+        "split": "test",
+        "n_rows": 234,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed1337",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 2024,
+      "split": "train",
+      "n_rows": 1098,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 122,
+        "ar": 122,
+        "de": 122,
+        "en": 122,
+        "es": 122,
+        "hi": 122,
+        "uk": 122,
+        "xh": 122,
+        "yo": 122
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference"
+      ],
+      "behaviour_labels": {
+        "no_generation": 1098
+      },
+      "files": [
+        "results/activations/encoder/layer_04/train_seed2024_toxic.pt",
+        "results/activations/encoder/layer_06/train_seed2024_toxic.pt",
+        "results/activations/encoder/layer_08/train_seed2024_toxic.pt",
+        "results/activations/decoder/layer_04/train_seed2024_toxic.pt",
+        "results/activations/decoder/layer_06/train_seed2024_toxic.pt",
+        "results/activations/decoder/layer_08/train_seed2024_toxic.pt",
+        "results/activations/encoder/layer_04/train_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_06/train_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_08/train_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_04/train_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_06/train_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_08/train_seed2024_detox_reference.pt"
+      ],
+      "meta": {
+        "seed": 2024,
+        "split": "train",
+        "n_rows": 1098,
+        "conditions": [
+          "toxic",
+          "detox_reference"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed2024",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 2024,
+      "split": "dev",
+      "n_rows": 243,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 27,
+        "ar": 27,
+        "de": 27,
+        "en": 27,
+        "es": 27,
+        "hi": 27,
+        "uk": 27,
+        "xh": 27,
+        "yo": 27
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 139,
+        "copy_input": 71,
+        "generic_template": 33
+      },
+      "files": [
+        "results/activations/encoder/layer_04/dev_seed2024_toxic.pt",
+        "results/activations/encoder/layer_06/dev_seed2024_toxic.pt",
+        "results/activations/encoder/layer_08/dev_seed2024_toxic.pt",
+        "results/activations/decoder/layer_04/dev_seed2024_toxic.pt",
+        "results/activations/decoder/layer_06/dev_seed2024_toxic.pt",
+        "results/activations/decoder/layer_08/dev_seed2024_toxic.pt",
+        "results/activations/encoder/layer_04/dev_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_06/dev_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_08/dev_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_04/dev_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_06/dev_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_08/dev_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_04/dev_seed2024_generated.pt",
+        "results/activations/encoder/layer_06/dev_seed2024_generated.pt",
+        "results/activations/encoder/layer_08/dev_seed2024_generated.pt",
+        "results/activations/decoder/layer_04/dev_seed2024_generated.pt",
+        "results/activations/decoder/layer_06/dev_seed2024_generated.pt",
+        "results/activations/decoder/layer_08/dev_seed2024_generated.pt"
+      ],
+      "meta": {
+        "seed": 2024,
+        "split": "dev",
+        "n_rows": 243,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed2024",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    },
+    {
+      "seed": 2024,
+      "split": "test",
+      "n_rows": 234,
+      "n_languages": 9,
+      "rows_per_language": {
+        "am": 26,
+        "ar": 26,
+        "de": 26,
+        "en": 26,
+        "es": 26,
+        "hi": 26,
+        "uk": 26,
+        "xh": 26,
+        "yo": 26
+      },
+      "conditions": [
+        "toxic",
+        "detox_reference",
+        "generated"
+      ],
+      "behaviour_labels": {
+        "ordinary_rewrite": 145,
+        "copy_input": 55,
+        "generic_template": 34
+      },
+      "files": [
+        "results/activations/encoder/layer_04/test_seed2024_toxic.pt",
+        "results/activations/encoder/layer_06/test_seed2024_toxic.pt",
+        "results/activations/encoder/layer_08/test_seed2024_toxic.pt",
+        "results/activations/decoder/layer_04/test_seed2024_toxic.pt",
+        "results/activations/decoder/layer_06/test_seed2024_toxic.pt",
+        "results/activations/decoder/layer_08/test_seed2024_toxic.pt",
+        "results/activations/encoder/layer_04/test_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_06/test_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_08/test_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_04/test_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_06/test_seed2024_detox_reference.pt",
+        "results/activations/decoder/layer_08/test_seed2024_detox_reference.pt",
+        "results/activations/encoder/layer_04/test_seed2024_generated.pt",
+        "results/activations/encoder/layer_06/test_seed2024_generated.pt",
+        "results/activations/encoder/layer_08/test_seed2024_generated.pt",
+        "results/activations/decoder/layer_04/test_seed2024_generated.pt",
+        "results/activations/decoder/layer_06/test_seed2024_generated.pt",
+        "results/activations/decoder/layer_08/test_seed2024_generated.pt"
+      ],
+      "meta": {
+        "seed": 2024,
+        "split": "test",
+        "n_rows": 234,
+        "conditions": [
+          "toxic",
+          "detox_reference",
+          "generated"
+        ],
+        "task_prefix": "detoxify: ",
+        "prefix_token_len": 4,
+        "max_source_length": 96,
+        "max_target_length": 112,
+        "tokenizer": "models/mt5_detox_baseline/seed2024",
+        "module_names": {
+          "encoder.4": "encoder.block.4",
+          "encoder.6": "encoder.block.6",
+          "encoder.8": "encoder.block.8",
+          "decoder.4": "decoder.block.4",
+          "decoder.6": "decoder.block.6",
+          "decoder.8": "decoder.block.8"
+        },
+        "hook_point": "MT5Block forward output[0] (pre final layer norm)",
+        "layer_indexing": "zero-indexed block index; layer 4 is the 5th of 12 blocks",
+        "token_dtype": "torch.bfloat16",
+        "pooled_dtype": "torch.float32",
+        "pooling": {
+          "pooled_mean_all": "mean over all non-pad positions",
+          "pooled_mean_content": "mean over non-pad positions excluding the task prefix (encoder) or the decoder start token (decoder)"
+        },
+        "positions": "all non-pad positions retained; offsets index gives per-row spans",
+        "decoder_teacher_forcing": "encoder input is always the toxic input; decoder is forced onto the condition text via _shift_right"
+      }
+    }
+  ],
+  "activation_file_checksums": {
+    "results/activations/decoder/layer_04/dev_seed1337_detox_reference.pt": "c0fd10bd99325177bf13a7d853d8eb8b",
+    "results/activations/decoder/layer_04/dev_seed1337_generated.pt": "fa5bae01855f36eef35670826c377949",
+    "results/activations/decoder/layer_04/dev_seed1337_toxic.pt": "b3ad6da11cb97fb486e5823d8dfa33d8",
+    "results/activations/decoder/layer_04/dev_seed2024_detox_reference.pt": "5ce8e5d6544b063f151ee9555a593159",
+    "results/activations/decoder/layer_04/dev_seed2024_generated.pt": "c89a01952ae55ab1ceaefa0b809f4a20",
+    "results/activations/decoder/layer_04/dev_seed2024_toxic.pt": "37493176c5e61b9c6ed6786ac5f3e374",
+    "results/activations/decoder/layer_04/dev_seed42_detox_reference.pt": "e1f94c082e30d679d64a631995d839c3",
+    "results/activations/decoder/layer_04/dev_seed42_generated.pt": "9c27dd25d9a003d4d9572f41fb4c9a95",
+    "results/activations/decoder/layer_04/dev_seed42_toxic.pt": "81d9d1fefe60083256ea351848bd4353",
+    "results/activations/decoder/layer_04/test_seed1337_detox_reference.pt": "a5bba42ce52a89d69d38783c13486642",
+    "results/activations/decoder/layer_04/test_seed1337_generated.pt": "4e1c8b1f9b660a4fec68f095db6812f9",
+    "results/activations/decoder/layer_04/test_seed1337_toxic.pt": "b8980e39d7f2d6e5289c7ab84a0dec46",
+    "results/activations/decoder/layer_04/test_seed2024_detox_reference.pt": "f48c354bd5165ff429f8f5d2ea6c33ba",
+    "results/activations/decoder/layer_04/test_seed2024_generated.pt": "a92128517580c51af6618a899beb8201",
+    "results/activations/decoder/layer_04/test_seed2024_toxic.pt": "f91e0a6a1defd35574f7ef076b23e7ea",
+    "results/activations/decoder/layer_04/test_seed42_detox_reference.pt": "c33e75885c1baf17105d179cf0f39eab",
+    "results/activations/decoder/layer_04/test_seed42_generated.pt": "313193162d05196f05c4d68c8dedb079",
+    "results/activations/decoder/layer_04/test_seed42_toxic.pt": "e96d4e3243971e6a28f640c768673d19",
+    "results/activations/decoder/layer_04/train_seed1337_detox_reference.pt": "e83f382f4b7197f67f3a6632a19389ac",
+    "results/activations/decoder/layer_04/train_seed1337_toxic.pt": "12876d26d571ed1925b61dfdac022fe6",
+    "results/activations/decoder/layer_04/train_seed2024_detox_reference.pt": "5d79e83d3ba65e0d15f4d054e60c6f99",
+    "results/activations/decoder/layer_04/train_seed2024_toxic.pt": "28dc1d7b06676b0e04b43413d117cb28",
+    "results/activations/decoder/layer_04/train_seed42_detox_reference.pt": "89088373d0c76ec6674c666c2352c17a",
+    "results/activations/decoder/layer_04/train_seed42_toxic.pt": "ba16b079a9e0e42e360945bc9f98becd",
+    "results/activations/decoder/layer_06/dev_seed1337_detox_reference.pt": "c4ccf8d77d0fbf54c76bef2cce4b6b7b",
+    "results/activations/decoder/layer_06/dev_seed1337_generated.pt": "657b2c6acf5b1bffe34a38467ea2ba02",
+    "results/activations/decoder/layer_06/dev_seed1337_toxic.pt": "c9a229f662779f14b24ff9b54333431d",
+    "results/activations/decoder/layer_06/dev_seed2024_detox_reference.pt": "675fb76674b516d2468c3e10b35b81e2",
+    "results/activations/decoder/layer_06/dev_seed2024_generated.pt": "1fb8c2d736f8692429127fc6797ded43",
+    "results/activations/decoder/layer_06/dev_seed2024_toxic.pt": "456e8f9b70d58be96bc577b0bf0df5aa",
+    "results/activations/decoder/layer_06/dev_seed42_detox_reference.pt": "d117faad427b9b37dab3a9fe80b05b7f",
+    "results/activations/decoder/layer_06/dev_seed42_generated.pt": "23db5cf4270dce4839a0e9dc4428124f",
+    "results/activations/decoder/layer_06/dev_seed42_toxic.pt": "0ff2f372e40339acbcd7da39f11fe54c",
+    "results/activations/decoder/layer_06/test_seed1337_detox_reference.pt": "87c5e4d5a3cb2d52a1d27d48a1470e3a",
+    "results/activations/decoder/layer_06/test_seed1337_generated.pt": "5a4423d702c42bd2c3063bd0e3607f45",
+    "results/activations/decoder/layer_06/test_seed1337_toxic.pt": "ab979e75acd120f6358ddb6f4c954396",
+    "results/activations/decoder/layer_06/test_seed2024_detox_reference.pt": "1732509fc056656fe558c7d1d059ff57",
+    "results/activations/decoder/layer_06/test_seed2024_generated.pt": "bf0979f5514681f7aad902b41e132b40",
+    "results/activations/decoder/layer_06/test_seed2024_toxic.pt": "bfcb510ce96f5445d29171a7d66b69b0",
+    "results/activations/decoder/layer_06/test_seed42_detox_reference.pt": "4ca1120b06b730db5b324e9f67c788db",
+    "results/activations/decoder/layer_06/test_seed42_generated.pt": "f241f95fcfd53591c7b072f36863877d",
+    "results/activations/decoder/layer_06/test_seed42_toxic.pt": "36a9b57defbf62942dbcab4a229fb136",
+    "results/activations/decoder/layer_06/train_seed1337_detox_reference.pt": "fcb1b61566b347cc7cb6d9d30d337742",
+    "results/activations/decoder/layer_06/train_seed1337_toxic.pt": "2b8b8cd10c584c56a0ea2f6b1654cdd9",
+    "results/activations/decoder/layer_06/train_seed2024_detox_reference.pt": "0f195d5af9eb0a69e53eb9094602b2e5",
+    "results/activations/decoder/layer_06/train_seed2024_toxic.pt": "a1818eb34cfc9226a69c0b8dad25c4c9",
+    "results/activations/decoder/layer_06/train_seed42_detox_reference.pt": "b756480858b73421a5c88bcc4eea9a76",
+    "results/activations/decoder/layer_06/train_seed42_toxic.pt": "c7bda6f96d1d7c5d9fe4d02bdf66fede",
+    "results/activations/decoder/layer_08/dev_seed1337_detox_reference.pt": "69361e88080ac08d8886e974ff502e93",
+    "results/activations/decoder/layer_08/dev_seed1337_generated.pt": "674a2df2e12a2bf1a8aa702b4bcd6d05",
+    "results/activations/decoder/layer_08/dev_seed1337_toxic.pt": "fc757ac3ca94f9b50efde32ef9adca85",
+    "results/activations/decoder/layer_08/dev_seed2024_detox_reference.pt": "a9baee526dcc363c12ae885b604f10dd",
+    "results/activations/decoder/layer_08/dev_seed2024_generated.pt": "db937010725eece94699b6c5f2f8fc1c",
+    "results/activations/decoder/layer_08/dev_seed2024_toxic.pt": "1a6888dbe2eb0936e2ee703f99f12532",
+    "results/activations/decoder/layer_08/dev_seed42_detox_reference.pt": "d869affa85e2a7526fbcd1daefc18651",
+    "results/activations/decoder/layer_08/dev_seed42_generated.pt": "ba9d8af30eebe24e4d84f01868e2a905",
+    "results/activations/decoder/layer_08/dev_seed42_toxic.pt": "5fba59c33403d0ba777e9aa3ba44107e",
+    "results/activations/decoder/layer_08/test_seed1337_detox_reference.pt": "264bb3966e800935ade43cf5fad3aae6",
+    "results/activations/decoder/layer_08/test_seed1337_generated.pt": "8dc880b59a47b5b6c8c10fb7dee4bc44",
+    "results/activations/decoder/layer_08/test_seed1337_toxic.pt": "f57cab1cfd9702f193f903891f3f3c67",
+    "results/activations/decoder/layer_08/test_seed2024_detox_reference.pt": "720a5d3ca78393c87e2f40aeaa99d692",
+    "results/activations/decoder/layer_08/test_seed2024_generated.pt": "a156a7b209cc8be3488dbd40f66d8857",
+    "results/activations/decoder/layer_08/test_seed2024_toxic.pt": "a028c3b2bd4671ac6f3149823b486316",
+    "results/activations/decoder/layer_08/test_seed42_detox_reference.pt": "c414d55e877663d496ec73f9de8e6eb0",
+    "results/activations/decoder/layer_08/test_seed42_generated.pt": "53da49fc1c47ba373400ba680eda0f60",
+    "results/activations/decoder/layer_08/test_seed42_toxic.pt": "a15bb92a8dd77db51bb4e686ba91b06e",
+    "results/activations/decoder/layer_08/train_seed1337_detox_reference.pt": "c2962b9fa4daaebb2211316e9af5971a",
+    "results/activations/decoder/layer_08/train_seed1337_toxic.pt": "968009abc1908de74282050a14c80c6b",
+    "results/activations/decoder/layer_08/train_seed2024_detox_reference.pt": "57b6b75919f45657e75547bdd71a12b9",
+    "results/activations/decoder/layer_08/train_seed2024_toxic.pt": "3ddcdf6dcda197e1e2b74c8f83c07cf4",
+    "results/activations/decoder/layer_08/train_seed42_detox_reference.pt": "a1d0f45bc32aa5e5cb99d015855ad985",
+    "results/activations/decoder/layer_08/train_seed42_toxic.pt": "feabd622332ed295fb6a4407ad331937",
+    "results/activations/encoder/layer_04/dev_seed1337_detox_reference.pt": "b200008d217356edf270ba6cef78f930",
+    "results/activations/encoder/layer_04/dev_seed1337_generated.pt": "6661dde4a0072518742d8cfc406f52ea",
+    "results/activations/encoder/layer_04/dev_seed1337_toxic.pt": "9529c00d3259f6b663282961e147d4bf",
+    "results/activations/encoder/layer_04/dev_seed2024_detox_reference.pt": "ff2ab52ec5cc069f9591e18826076d92",
+    "results/activations/encoder/layer_04/dev_seed2024_generated.pt": "23f61ed32af15a95108365ba7a8e10a2",
+    "results/activations/encoder/layer_04/dev_seed2024_toxic.pt": "0be131dab4a6cb2c56062c94bc981b53",
+    "results/activations/encoder/layer_04/dev_seed42_detox_reference.pt": "d0c0d5eb781988029e13e471ad2d970c",
+    "results/activations/encoder/layer_04/dev_seed42_generated.pt": "fc7b3e37633869d4a07d0573dd70f3ca",
+    "results/activations/encoder/layer_04/dev_seed42_toxic.pt": "f34b835131273f1015612cb111c09fc9",
+    "results/activations/encoder/layer_04/test_seed1337_detox_reference.pt": "6a45db029839be84fa157946e66fd1c3",
+    "results/activations/encoder/layer_04/test_seed1337_generated.pt": "efe52922370daaf7d766953c0a6cb3f2",
+    "results/activations/encoder/layer_04/test_seed1337_toxic.pt": "77d6486ebb3c362e4bbbcdebb9580939",
+    "results/activations/encoder/layer_04/test_seed2024_detox_reference.pt": "2f45d49b74f5c7f05b78224b950303ef",
+    "results/activations/encoder/layer_04/test_seed2024_generated.pt": "f677b7c94a452b67474a7c0a63743c8b",
+    "results/activations/encoder/layer_04/test_seed2024_toxic.pt": "45f61747b63232b2f166650baeb75b5f",
+    "results/activations/encoder/layer_04/test_seed42_detox_reference.pt": "e45518827e851a1e0eba8bcfd8af55b0",
+    "results/activations/encoder/layer_04/test_seed42_generated.pt": "034b1a4c12b4f0908e77ad5237ae1f0f",
+    "results/activations/encoder/layer_04/test_seed42_toxic.pt": "fce1a43ee70f6066bdc44960f71c995a",
+    "results/activations/encoder/layer_04/train_seed1337_detox_reference.pt": "f8f360d93372c5f845269a3e3d0d5bd6",
+    "results/activations/encoder/layer_04/train_seed1337_toxic.pt": "533951eda3a20d33c8c916b544b22d91",
+    "results/activations/encoder/layer_04/train_seed2024_detox_reference.pt": "bce00a748ce5af9c9c9fc970e447e7da",
+    "results/activations/encoder/layer_04/train_seed2024_toxic.pt": "1646828e8f88e85afa66b4202f188ee5",
+    "results/activations/encoder/layer_04/train_seed42_detox_reference.pt": "7235979d1922ea35fa534b54241514c6",
+    "results/activations/encoder/layer_04/train_seed42_toxic.pt": "448a45ffc015622242628ed634cb7970",
+    "results/activations/encoder/layer_06/dev_seed1337_detox_reference.pt": "0340b846635a3dfa0c54d0d4f72e52d2",
+    "results/activations/encoder/layer_06/dev_seed1337_generated.pt": "f0ee789bfca3c05e05cdb62c7f0480a3",
+    "results/activations/encoder/layer_06/dev_seed1337_toxic.pt": "b04872927805cade7478d9d5fda8d48d",
+    "results/activations/encoder/layer_06/dev_seed2024_detox_reference.pt": "ca2e01909e6b2ebfc67d518af2ff67bc",
+    "results/activations/encoder/layer_06/dev_seed2024_generated.pt": "7d5bdaffe838bcccec6985bf52acb501",
+    "results/activations/encoder/layer_06/dev_seed2024_toxic.pt": "cbae38b885d0020e7454fe08f0ddecdd",
+    "results/activations/encoder/layer_06/dev_seed42_detox_reference.pt": "1b51fb95a5e3f10a046e279c0b48943f",
+    "results/activations/encoder/layer_06/dev_seed42_generated.pt": "ec6bd0a8e763e55213553e0da03ec4bc",
+    "results/activations/encoder/layer_06/dev_seed42_toxic.pt": "2a0254ea49db0335bed39c86ba04d3c8",
+    "results/activations/encoder/layer_06/test_seed1337_detox_reference.pt": "becde5ac8024e0af881865ca61974e3e",
+    "results/activations/encoder/layer_06/test_seed1337_generated.pt": "cfc32d43e4930746c669c908434806f4",
+    "results/activations/encoder/layer_06/test_seed1337_toxic.pt": "ffb829bf06e4ae2969dd8777287cd304",
+    "results/activations/encoder/layer_06/test_seed2024_detox_reference.pt": "bf523296b5972c7255802027fb6e8357",
+    "results/activations/encoder/layer_06/test_seed2024_generated.pt": "08b098006de09c86b3d2f19bc3b919a9",
+    "results/activations/encoder/layer_06/test_seed2024_toxic.pt": "9afe4e88ca21dc6ec3435d89ff181806",
+    "results/activations/encoder/layer_06/test_seed42_detox_reference.pt": "455b3a8904172bb99322750a220f9b98",
+    "results/activations/encoder/layer_06/test_seed42_generated.pt": "15049443c7b9bb273ca9e645505a71f6",
+    "results/activations/encoder/layer_06/test_seed42_toxic.pt": "8239ac6e31b9a248f500934f4dea5094",
+    "results/activations/encoder/layer_06/train_seed1337_detox_reference.pt": "76a49f0213377ee4bf46d8c2eb674b75",
+    "results/activations/encoder/layer_06/train_seed1337_toxic.pt": "52191f1b2f1f339a7c660d91153b0980",
+    "results/activations/encoder/layer_06/train_seed2024_detox_reference.pt": "f4bb8a04ede0ed4ee7c9150df5114800",
+    "results/activations/encoder/layer_06/train_seed2024_toxic.pt": "02f8baceb3c9d08c596094ff91b46824",
+    "results/activations/encoder/layer_06/train_seed42_detox_reference.pt": "01996788484909e4e91a11a65dee2ef1",
+    "results/activations/encoder/layer_06/train_seed42_toxic.pt": "371db9e88ad7a689c8c02c9b8cb3402d",
+    "results/activations/encoder/layer_08/dev_seed1337_detox_reference.pt": "c1237c37cb133bacc917cc7e91dc2617",
+    "results/activations/encoder/layer_08/dev_seed1337_generated.pt": "b95fe43cfd9bd361a644f8de7e9a307b",
+    "results/activations/encoder/layer_08/dev_seed1337_toxic.pt": "44b5963900e5fe6ef35cc2adb5298843",
+    "results/activations/encoder/layer_08/dev_seed2024_detox_reference.pt": "fd31e8e06a257570febedbf9d33f678d",
+    "results/activations/encoder/layer_08/dev_seed2024_generated.pt": "27bb501f637834972181bfb3e7ed4665",
+    "results/activations/encoder/layer_08/dev_seed2024_toxic.pt": "c4658e515ea0f4539683d3ae245a4421",
+    "results/activations/encoder/layer_08/dev_seed42_detox_reference.pt": "788f9e6f1aa2a2b87c80b7cc27ba8e93",
+    "results/activations/encoder/layer_08/dev_seed42_generated.pt": "57a2ad3e0be6a357408d0c799a46e778",
+    "results/activations/encoder/layer_08/dev_seed42_toxic.pt": "194e721ef009004c10eaf09886ca69aa",
+    "results/activations/encoder/layer_08/test_seed1337_detox_reference.pt": "055507203cd4009a08665a157875fc78",
+    "results/activations/encoder/layer_08/test_seed1337_generated.pt": "71284646ba4e4c5635876f63c91de587",
+    "results/activations/encoder/layer_08/test_seed1337_toxic.pt": "b558e2c43d3b55db64ce0e8528d7fe27",
+    "results/activations/encoder/layer_08/test_seed2024_detox_reference.pt": "58d1c4f3a540d3459ff9730c889bf3ff",
+    "results/activations/encoder/layer_08/test_seed2024_generated.pt": "c5fccfe68c913e4d17d4abe41016739d",
+    "results/activations/encoder/layer_08/test_seed2024_toxic.pt": "a2c992d6eaff135d54fdfb6e597c8031",
+    "results/activations/encoder/layer_08/test_seed42_detox_reference.pt": "5eb57def956eb8712cc0eb34e4e68593",
+    "results/activations/encoder/layer_08/test_seed42_generated.pt": "fe6fa02a18652ff8dd80e21147c699ae",
+    "results/activations/encoder/layer_08/test_seed42_toxic.pt": "7ddb5b39e73a2e21c7e307145eaf16c1",
+    "results/activations/encoder/layer_08/train_seed1337_detox_reference.pt": "3956e467027e7ef2c1285f1410ea463e",
+    "results/activations/encoder/layer_08/train_seed1337_toxic.pt": "9d241296253e95beb79a6e2b8eaf0f6f",
+    "results/activations/encoder/layer_08/train_seed2024_detox_reference.pt": "dc016780203e262ddc26496b1ad0db6c",
+    "results/activations/encoder/layer_08/train_seed2024_toxic.pt": "d9709e08bc19f094bd396fb9c5bc02bb",
+    "results/activations/encoder/layer_08/train_seed42_detox_reference.pt": "f6d0a3ff87c75c61b51771c94160fa2a",
+    "results/activations/encoder/layer_08/train_seed42_toxic.pt": "4a56d36a74e76c9df27e5de5f93e2c97",
+    "results/activations/norm_stats/seed1337_decoder_layer04_detox_reference.pt": "e662674edaeab8074023fb90f5dfd854",
+    "results/activations/norm_stats/seed1337_decoder_layer04_toxic.pt": "eacfbf4f22b4bf89e55636bdd614a780",
+    "results/activations/norm_stats/seed1337_decoder_layer06_detox_reference.pt": "83d2df69e814daba92b963ec9ab37fd0",
+    "results/activations/norm_stats/seed1337_decoder_layer06_toxic.pt": "faf5ea4d59893c9d9fa5c0bec615593c",
+    "results/activations/norm_stats/seed1337_decoder_layer08_detox_reference.pt": "48f732ea0e784e74dad95705ebc14bdc",
+    "results/activations/norm_stats/seed1337_decoder_layer08_toxic.pt": "af86f0f5a013f9ce33761f642ecd483e",
+    "results/activations/norm_stats/seed1337_encoder_layer04_detox_reference.pt": "af8b584a35012c80a997abbdd4ba7728",
+    "results/activations/norm_stats/seed1337_encoder_layer04_toxic.pt": "1b2fe02b9604e3a36cf9dad57750adfb",
+    "results/activations/norm_stats/seed1337_encoder_layer06_detox_reference.pt": "8f4c173040a64c1a531ae056d9ce0c95",
+    "results/activations/norm_stats/seed1337_encoder_layer06_toxic.pt": "d8b3a634ca022730f3025155aa6e2312",
+    "results/activations/norm_stats/seed1337_encoder_layer08_detox_reference.pt": "0086a7c56764e48d112d2de6b67eb951",
+    "results/activations/norm_stats/seed1337_encoder_layer08_toxic.pt": "628d491fa00a3572c270a227cb25030c",
+    "results/activations/norm_stats/seed2024_decoder_layer04_detox_reference.pt": "b3728587524db6ed0e35fa4dca595778",
+    "results/activations/norm_stats/seed2024_decoder_layer04_toxic.pt": "004cf396e04ff6ef534860597febacbe",
+    "results/activations/norm_stats/seed2024_decoder_layer06_detox_reference.pt": "5d7ccc848e59092215e7cab02fc3c0c9",
+    "results/activations/norm_stats/seed2024_decoder_layer06_toxic.pt": "3bb4869e0a2078ac2d84c36d92c3130a",
+    "results/activations/norm_stats/seed2024_decoder_layer08_detox_reference.pt": "65dca418736df20c0bc2e1ff5dff8a1c",
+    "results/activations/norm_stats/seed2024_decoder_layer08_toxic.pt": "948ca5607879364c3a437317e8efc0d9",
+    "results/activations/norm_stats/seed2024_encoder_layer04_detox_reference.pt": "8b59d7270bcfecf7ca13e9251bd40ab5",
+    "results/activations/norm_stats/seed2024_encoder_layer04_toxic.pt": "1d8c2886b5a9d43d1776e3a9958eab6a",
+    "results/activations/norm_stats/seed2024_encoder_layer06_detox_reference.pt": "9d61ab38c1140ff30225ee25b389d7e7",
+    "results/activations/norm_stats/seed2024_encoder_layer06_toxic.pt": "f9d5b8ff473ee39ff68eff08cf85692f",
+    "results/activations/norm_stats/seed2024_encoder_layer08_detox_reference.pt": "720eed7e5ef891c9f06ad4bbf779bf19",
+    "results/activations/norm_stats/seed2024_encoder_layer08_toxic.pt": "a69bf10e9acee9451b79291e370771df",
+    "results/activations/norm_stats/seed42_decoder_layer04_detox_reference.pt": "a9f5acf0d83331d453846653ae8c6f2a",
+    "results/activations/norm_stats/seed42_decoder_layer04_toxic.pt": "65ecbe8cb8d1d565e153f92b037de127",
+    "results/activations/norm_stats/seed42_decoder_layer06_detox_reference.pt": "31d318b5077f8380c31d24cdf5e6ba36",
+    "results/activations/norm_stats/seed42_decoder_layer06_toxic.pt": "c525014ddecc39bb0bcacd3e95eea9ec",
+    "results/activations/norm_stats/seed42_decoder_layer08_detox_reference.pt": "c612adcaca2fd5c746b82924dd1ec4d9",
+    "results/activations/norm_stats/seed42_decoder_layer08_toxic.pt": "cb5858842dc932ddaf407a746a756a87",
+    "results/activations/norm_stats/seed42_encoder_layer04_detox_reference.pt": "bf8793910ea4e8b90295040d36af084e",
+    "results/activations/norm_stats/seed42_encoder_layer04_toxic.pt": "1f6cecf66e03f220f93b0188f8d02348",
+    "results/activations/norm_stats/seed42_encoder_layer06_detox_reference.pt": "d83f2746e398a7dac761efc7442dfd0d",
+    "results/activations/norm_stats/seed42_encoder_layer06_toxic.pt": "7dcaa801db0bf42915d1a0b2d3e84f0a",
+    "results/activations/norm_stats/seed42_encoder_layer08_detox_reference.pt": "d80ab811be40c2770baf2480f642ea12",
+    "results/activations/norm_stats/seed42_encoder_layer08_toxic.pt": "253503812ede44401c27dfddb0e69ddb"
+  },
+  "input_files_unchanged": true,
+  "changed_input_files": []
+}
