@@ -5,3 +5,5 @@ __pycache__/
 models/
 results/activations/
 .claude/
+results/training/seed*/
+results/training/stage3_run.log
