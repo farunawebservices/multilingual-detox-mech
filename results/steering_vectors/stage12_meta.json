@@ -1,0 +1,39 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-13T21:41:54.447754+00:00",
+  "construction_split": "train only",
+  "dev_role": "reserved for the Stage 13 strength sweep",
+  "test_role": "NOT READ",
+  "normalization": "L2 unit norm; pre-normalisation norm recorded as raw_norm",
+  "primary_configuration": {
+    "side": "decoder",
+    "layer": 6,
+    "pooling": "pooled_mean_content"
+  },
+  "retained_layers": [
+    4,
+    6,
+    8
+  ],
+  "sides": [
+    "encoder",
+    "decoder"
+  ],
+  "poolings": [
+    "pooled_mean_all",
+    "pooled_mean_content"
+  ],
+  "direction_types": {
+    "mean_diff": "primary",
+    "probe": "primary",
+    "sae": "control arm only; never a primary candidate",
+    "random": "matched control, identical norm and dimensionality"
+  },
+  "orientation": "all primary vectors oriented toxic-positive",
+  "n_vectors": 1743,
+  "spaces": [
+    "pooled_standardized",
+    "token_standardized"
+  ],
+  "cross_space_cosine_policy": "never computed; pooled and token spaces differ"
+}
