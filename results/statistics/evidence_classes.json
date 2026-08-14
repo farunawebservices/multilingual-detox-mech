@@ -1,0 +1,49 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-14T09:49:05.736522+00:00",
+  "bootstrap": {
+    "resamples": 1000,
+    "ci": 0.95,
+    "unit": "sentence_pair",
+    "pairing": "each pair_id differenced against its own baseline",
+    "macro": "stratified by language"
+  },
+  "sta_coverage_policy": "validated for 7 languages; yo/xh reported without STA",
+  "sources_read": [
+    "results/evaluation",
+    "results/ablation",
+    "results/steering",
+    "results/transfer",
+    "results/probes",
+    "results/sae_features"
+  ],
+  "outputs_written_only_under": "results/statistics/",
+  "reruns_performed": "none",
+  "evidence_classes": {
+    "1_associative_probe_evidence": {
+      "claim_strength": "ASSOCIATIVE ONLY -- correlational, no causal test",
+      "best_dev_accuracy": 0.9327846364883402,
+      "control_baseline": 0.5534979423868311,
+      "note": "Stage 7 linear probes separate toxic from reference; a probe is not evidence that the model uses the feature."
+    },
+    "2_sae_negative_result": {
+      "claim_strength": "NEGATIVE",
+      "n_candidates": 600,
+      "n_promoted_detoxification_features": 0,
+      "n_replicated": 26,
+      "note": "Stage 9: no SAE feature passed replication, controls and behaviour together. Stage 11's SAE ablation arm was null."
+    },
+    "3_causal_ablation_evidence": {
+      "claim_strength": "CAUSAL -- intervention with matched random controls",
+      "note": "Stage 11: mean-ablating top decoder cross-attention heads moves STA while matched random heads do not. Effect is entangled with SIM loss."
+    },
+    "4_steering_null_or_weak": {
+      "claim_strength": "NULL / WEAK",
+      "note": "Stage 13: unit-norm rank-1 additive steering at the pre-specified strengths produces little or no benefit; decoder-side is inert."
+    },
+    "5_cross_lingual_transfer_null": {
+      "claim_strength": "NULL",
+      "note": "Stage 14: transfer into yo/xh is not distinguishable from a matched random vector, and the within-language reference is null too, so the null is about intervention magnitude, not transfer specifically."
+    }
+  }
+}
