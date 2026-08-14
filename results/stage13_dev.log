@@ -27,3 +27,47 @@
   seed1337 primary/decoder/mean_diff/pooled_non_african: swept 5 strengths
   seed1337 primary/decoder/mean_diff/pooled_all_balanced: swept 5 strengths
   seed1337 primary/decoder/mean_diff/pooled_african: swept 5 strengths
+  seed1337 primary/decoder/probe/per_language: swept 5 strengths
+  seed1337 primary/decoder/probe/pooled_non_african: swept 5 strengths
+  seed1337 primary/decoder/probe/pooled_all_balanced: swept 5 strengths
+  seed1337 primary/decoder/probe/pooled_african: swept 5 strengths
+  seed1337 comparison/encoder/mean_diff/per_language: swept 5 strengths
+  seed1337 comparison/encoder/mean_diff/pooled_non_african: swept 5 strengths
+  seed1337 comparison/encoder/mean_diff/pooled_all_balanced: swept 5 strengths
+  seed1337 comparison/encoder/mean_diff/pooled_african: swept 5 strengths
+  seed1337 comparison/encoder/probe/per_language: swept 5 strengths
+  seed1337 comparison/encoder/probe/pooled_non_african: swept 5 strengths
+  seed1337 comparison/encoder/probe/pooled_all_balanced: swept 5 strengths
+  seed1337 comparison/encoder/probe/pooled_african: swept 5 strengths
+  seed1337 random_control/decoder/random/per_language: swept 5 strengths
+  seed1337 random_control/decoder/random/pooled_non_african: swept 5 strengths
+  seed1337 random_control/decoder/random/pooled_all_balanced: swept 5 strengths
+  seed1337 random_control/decoder/random/pooled_african: swept 5 strengths
+  seed1337 sae_control_only/decoder/sae/sae_features: swept 5 strengths
+Loading weights:   0%|          | 0/282 [00:00<?, ?it/s]Loading weights: 100%|██████████| 282/282 [00:00<00:00, 7386.51it/s]
+[transformers] The tied weights mapping and config for this model specifies to tie shared.weight to lm_head.weight, but both are present in the checkpoints with different values, so we will NOT tie them. You should update the config with `tie_word_embeddings=False` to silence this warning.
+  seed2024 primary/decoder/mean_diff/per_language: swept 5 strengths
+  seed2024 primary/decoder/mean_diff/pooled_non_african: swept 5 strengths
+  seed2024 primary/decoder/mean_diff/pooled_all_balanced: swept 5 strengths
+  seed2024 primary/decoder/mean_diff/pooled_african: swept 5 strengths
+  seed2024 primary/decoder/probe/per_language: swept 5 strengths
+  seed2024 primary/decoder/probe/pooled_non_african: swept 5 strengths
+  seed2024 primary/decoder/probe/pooled_all_balanced: swept 5 strengths
+  seed2024 primary/decoder/probe/pooled_african: swept 5 strengths
+  seed2024 comparison/encoder/mean_diff/per_language: swept 5 strengths
+  seed2024 comparison/encoder/mean_diff/pooled_non_african: swept 5 strengths
+  seed2024 comparison/encoder/mean_diff/pooled_all_balanced: swept 5 strengths
+  seed2024 comparison/encoder/mean_diff/pooled_african: swept 5 strengths
+  seed2024 comparison/encoder/probe/per_language: swept 5 strengths
+  seed2024 comparison/encoder/probe/pooled_non_african: swept 5 strengths
+  seed2024 comparison/encoder/probe/pooled_all_balanced: swept 5 strengths
+  seed2024 comparison/encoder/probe/pooled_african: swept 5 strengths
+  seed2024 random_control/decoder/random/per_language: swept 5 strengths
+  seed2024 random_control/decoder/random/pooled_non_african: swept 5 strengths
+  seed2024 random_control/decoder/random/pooled_all_balanced: swept 5 strengths
+  seed2024 random_control/decoder/random/pooled_african: swept 5 strengths
+  seed2024 sae_control_only/decoder/sae/sae_features: swept 5 strengths
+scoring 91854 dev generations ...
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7378.52it/s]
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 7695.40it/s]
+wrote results/steering_dev.csv (3402 cells)
