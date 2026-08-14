@@ -1,0 +1,10 @@
+language,name,n_test,sta_validated,sta_validated_sd,delta_sta_validated,sta_UNVALIDATED_yo_xh,sta_status,sim,sim_sd,fl,fl_sd,j_validated,copy_rate,loose_copy_rate,unique_output_rate,top_output_share,template_rate
+am,Amharic,26,0.561,0.01,0.106,,validated,0.949,0.011,0.476,0.005,0.252,0.41,0.41,1.0,0.038,0.0
+ar,Arabic,26,0.514,0.004,0.08,,validated,0.976,0.007,0.696,0.007,0.355,0.5,0.5,1.0,0.038,0.0
+de,German,26,0.602,0.063,0.21,,validated,0.973,0.011,0.813,0.003,0.473,0.397,0.41,1.0,0.038,0.0
+en,English,26,0.584,0.008,0.583,,validated,0.927,0.01,0.71,0.004,0.406,0.064,0.103,1.0,0.038,0.0
+es,Spanish,26,0.519,0.024,0.202,,validated,0.94,0.013,0.647,0.007,0.32,0.231,0.231,1.0,0.038,0.0
+hi,Hindi,26,0.333,0.08,0.196,,validated,0.894,0.037,0.634,0.007,0.228,0.397,0.397,1.0,0.038,0.0
+uk,Ukrainian,26,0.476,0.086,0.436,,validated,0.95,0.003,0.784,0.015,0.385,0.269,0.308,1.0,0.038,0.0
+yo,Yoruba,26,,,,0.693,UNAVAILABLE/UNVALIDATED,0.454,0.013,0.157,0.004,,0.115,0.115,0.667,0.282,0.0
+xh,isiXhosa,26,,,,0.852,UNAVAILABLE/UNVALIDATED,0.388,0.052,0.181,0.003,,0.064,0.064,0.423,0.577,0.0

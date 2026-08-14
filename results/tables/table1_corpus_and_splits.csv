@@ -1,0 +1,10 @@
+language,name,source,corpus_rows,duplicate_pairs,identical_toxic_detox,non_nfc_strings,toxic_chars_mean,detox_chars_mean,detox_over_toxic_len,mt5_fertility_toxic,prefix_diversity_toxic,train,dev,test,reserve
+am,Amharic,MultiParaDetox,400,0,0,0,70.0,57.6,0.82,3.3,0.973,122,27,26,225
+ar,Arabic,MultiParaDetox,400,0,0,0,59.0,53.4,0.9,2.29,0.963,122,27,26,225
+de,German,MultiParaDetox,400,0,0,0,105.6,98.3,0.93,2.06,0.945,122,27,26,225
+en,English,MultiParaDetox,400,0,1,0,58.4,52.2,0.89,1.6,0.897,122,27,26,225
+es,Spanish,MultiParaDetox,400,0,0,0,69.9,61.4,0.88,1.86,0.963,122,27,26,225
+hi,Hindi,MultiParaDetox,400,0,0,0,54.4,47.7,0.88,2.12,0.958,122,27,26,225
+uk,Ukrainian,MultiParaDetox,400,0,4,0,53.9,50.5,0.94,2.46,0.978,122,27,26,225
+yo,Yoruba,human_annotated,178,3,0,25,23.2,33.5,1.44,2.9,0.478,122,27,26,0
+xh,isiXhosa,human_annotated,178,0,0,0,31.7,39.4,1.24,3.37,0.753,122,27,26,3

@@ -1,0 +1,9 @@
+finding,stage,evidence_class,causal_test,statistic,ci_excludes_zero,claim,evidence_summary_source
+Linear probes separate toxic from reference activations,7,ASSOCIATIVE,none,dev accuracy 0.93 vs 0.553 control,n/a,correlational only; not evidence the model uses the feature,results/statistics/evidence_classes.json
+Probe direction transfers to yo/xh above chance (decoder),7,ASSOCIATIVE,none,0.67-0.83 vs 1.00 within-language; encoder at chance,n/a,partial sharing; confounded by yo/xh length asymmetry,results/statistics/evidence_classes.json
+No SAE feature is a detoxification feature,8/9,NEGATIVE,Stage 11 arm,0/600 promoted; 3.7% replicate across seeds,no,hypothesis tested and not supported,results/statistics/evidence_classes.json
+Ablating top decoder cross-attention heads raises STA,11,CAUSAL,mean ablation + matched random controls,"dSTA +0.0909 [+0.0378, +0.1460], d_z 0.236",yes,causal; controls null; effect size modest,results/statistics/evidence_classes.json
+The same ablation degrades content preservation,11,CAUSAL-HARMFUL,same intervention,"dSIM -0.0659 [-0.0835, -0.0498]",yes,STA gain is partly bought by discarding content,results/statistics/evidence_classes.json
+Top MLP neurons ablation lowers STA,11,CAUSAL-HARMFUL,mean ablation,"dSTA -0.0216 [-0.0447, -0.0022]",yes,attribution rank did not predict causal direction,results/statistics/evidence_classes.json
+Activation steering at unit norm changes little,13,NULL/WEAK,frozen dev-selected config on test,"all frozen arms dJ in [-0.018, +0.005]",no,null at the pre-specified strengths; magnitude-limited,results/statistics/evidence_classes.json
+Cross-lingual transfer of steering vectors,14,NULL,dev steering + matched random control,primary dSIM -0.009 vs random control -0.024,no,no advantage over an arbitrary direction of equal norm,results/statistics/evidence_classes.json

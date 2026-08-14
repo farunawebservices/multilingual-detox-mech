@@ -1,0 +1,13 @@
+side,layer,token_set,mean_max_cosine,frac_matched_above_0_7,n_candidates_layer6,n_replicated_layer6,n_promoted_detoxification_features,evidence_class
+decoder,4,all,0.268,0.0071,600,26,0,negative
+decoder,4,content,0.2639,0.0064,600,26,0,negative
+decoder,6,all,0.2935,0.0116,600,26,0,negative
+decoder,6,content,0.2906,0.0114,600,26,0,negative
+decoder,8,all,0.2974,0.0114,600,26,0,negative
+decoder,8,content,0.2887,0.0089,600,26,0,negative
+encoder,4,all,0.2331,0.002,600,26,0,negative
+encoder,4,content,0.2396,0.0024,600,26,0,negative
+encoder,6,all,0.2664,0.0048,600,26,0,negative
+encoder,6,content,0.2718,0.0036,600,26,0,negative
+encoder,8,all,0.2894,0.0061,600,26,0,negative
+encoder,8,content,0.2918,0.0069,600,26,0,negative

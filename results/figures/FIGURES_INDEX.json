@@ -1,0 +1,146 @@
+{
+  "generated_utc": "2026-08-14T10:25:54.458691+00:00",
+  "language_order": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "uk",
+    "yo",
+    "xh"
+  ],
+  "palette": {
+    "source": "dataviz reference palette (validated)",
+    "slots": [
+      "#2a78d6",
+      "#eb6834",
+      "#1baf7a",
+      "#eda100"
+    ]
+  },
+  "encoding_contract": {
+    "validated_sta": "solid fill, blue",
+    "unvalidated_yo_xh_sta": "never drawn on a STA axis; annotated as unavailable",
+    "associative": "heatmap/ranking panels labelled ASSOCIATIVE",
+    "causal": "solid fill with paired 95% CI error bars",
+    "null_negative": "neutral grey, reduced emphasis",
+    "random_control": "hatched, drawn beside the arm it controls"
+  },
+  "prior_artifacts_modified": [],
+  "figures": [
+    {
+      "figure": "fig1_language_data_overview",
+      "file": "results/figures/fig1_language_data_overview.png",
+      "bytes": 119151,
+      "md5": "3bd54f3ffe274f840aec178aead1879c",
+      "caption": "Corpus size, mT5 fertility, and reference/input length ratio. yo/xh invert the length ratio, an annotation-style difference that confounds later contrasts."
+    },
+    {
+      "figure": "fig1_language_data_overview",
+      "file": "results/figures/fig1_language_data_overview.pdf",
+      "bytes": 21371,
+      "md5": "0d339917ea3ea5b93d42fc750bc5b13d",
+      "caption": "Corpus size, mT5 fertility, and reference/input length ratio. yo/xh invert the length ratio, an annotation-style difference that confounds later contrasts."
+    },
+    {
+      "figure": "fig2_probe_transfer_matrix",
+      "file": "results/figures/fig2_probe_transfer_matrix.png",
+      "bytes": 97076,
+      "md5": "2866cbabf3c61d79d5fcfd6ba5da820e",
+      "caption": "Toxic-vs-reference probe accuracy, source group to target language. Encoder transfer into yo/xh sits at chance. Associative only."
+    },
+    {
+      "figure": "fig2_probe_transfer_matrix",
+      "file": "results/figures/fig2_probe_transfer_matrix.pdf",
+      "bytes": 29844,
+      "md5": "ec0af63c76c6cd4d216df91dc2f4cd5f",
+      "caption": "Toxic-vs-reference probe accuracy, source group to target language. Encoder transfer into yo/xh sits at chance. Associative only."
+    },
+    {
+      "figure": "fig3_sae_feature_stability",
+      "file": "results/figures/fig3_sae_feature_stability.png",
+      "bytes": 154163,
+      "md5": "ff2dd0adb0f38cb170facd20e9468eda",
+      "caption": "Under 1.5% of SAE features find a cross-seed match above cosine 0.7. Negative result: no feature survived replication, controls and behaviour together."
+    },
+    {
+      "figure": "fig3_sae_feature_stability",
+      "file": "results/figures/fig3_sae_feature_stability.pdf",
+      "bytes": 23222,
+      "md5": "4f4336d9a7d650a41f152ebc6c40e39b",
+      "caption": "Under 1.5% of SAE features find a cross-seed match above cosine 0.7. Negative result: no feature survived replication, controls and behaviour together."
+    },
+    {
+      "figure": "fig4_attribution_rankings",
+      "file": "results/figures/fig4_attribution_rankings.png",
+      "bytes": 170436,
+      "md5": "a18ef3dcfb0a569eb4d18849588e33f5",
+      "caption": "Top components by gradient x activation attribution, against the matched random 95th percentile. Ranking only; Stage 11 supplies the causal test."
+    },
+    {
+      "figure": "fig4_attribution_rankings",
+      "file": "results/figures/fig4_attribution_rankings.pdf",
+      "bytes": 22422,
+      "md5": "659a3777fc2a42eeb8efb8d576b2960a",
+      "caption": "Top components by gradient x activation attribution, against the matched random 95th percentile. Ranking only; Stage 11 supplies the causal test."
+    },
+    {
+      "figure": "fig5_ablation_effects",
+      "file": "results/figures/fig5_ablation_effects.png",
+      "bytes": 138872,
+      "md5": "7f54919ac6c7e93b395a71de18155647",
+      "caption": "Test-split \u0394STA per ablation arm with paired bootstrap CIs. All four controls are null; three primary arms exclude zero."
+    },
+    {
+      "figure": "fig5_ablation_effects",
+      "file": "results/figures/fig5_ablation_effects.pdf",
+      "bytes": 23901,
+      "md5": "8e1b2c9c83d645ec3ea1b5d49f0891bf",
+      "caption": "Test-split \u0394STA per ablation arm with paired bootstrap CIs. All four controls are null; three primary arms exclude zero."
+    },
+    {
+      "figure": "fig6_steering_strength_curves",
+      "file": "results/figures/fig6_steering_strength_curves.png",
+      "bytes": 135894,
+      "md5": "f0418fcf547111e3b6875b0a47862d5e",
+      "caption": "Dev strength sweep for the pooled all-language mean-difference vector. Decoder is flat; encoder degrades SIM/FL at larger |\u03b1|. yo/xh omitted from the STA panel."
+    },
+    {
+      "figure": "fig6_steering_strength_curves",
+      "file": "results/figures/fig6_steering_strength_curves.pdf",
+      "bytes": 27383,
+      "md5": "9abc2e3a1e49a9855acbd3923b23130e",
+      "caption": "Dev strength sweep for the pooled all-language mean-difference vector. Decoder is flat; encoder degrades SIM/FL at larger |\u03b1|. yo/xh omitted from the STA panel."
+    },
+    {
+      "figure": "fig7_sta_sim_fl_tradeoff",
+      "file": "results/figures/fig7_sta_sim_fl_tradeoff.png",
+      "bytes": 125092,
+      "md5": "9751aba6f94e8a57823bbfc3ef8b0bdd",
+      "caption": "Left: validated languages only. Right: yo/xh diagnostics with STA deliberately omitted, since the classifier has no validated coverage for them."
+    },
+    {
+      "figure": "fig7_sta_sim_fl_tradeoff",
+      "file": "results/figures/fig7_sta_sim_fl_tradeoff.pdf",
+      "bytes": 23523,
+      "md5": "3b9093d85a842e6d096270b7a500d466",
+      "caption": "Left: validated languages only. Right: yo/xh diagnostics with STA deliberately omitted, since the classifier has no validated coverage for them."
+    },
+    {
+      "figure": "fig8_transfer_vs_random",
+      "file": "results/figures/fig8_transfer_vs_random.png",
+      "bytes": 118374,
+      "md5": "82146726bae01750b6929c98bde34edd",
+      "caption": "Transfer vectors give no SIM advantage over a matched random vector of equal norm at any strength. Null result; STA omitted for both languages."
+    },
+    {
+      "figure": "fig8_transfer_vs_random",
+      "file": "results/figures/fig8_transfer_vs_random.pdf",
+      "bytes": 22054,
+      "md5": "15fb5e815ee51a1e5bb48ec11fe188b7",
+      "caption": "Transfer vectors give no SIM advantage over a matched random vector of equal norm at any strength. Null result; STA omitted for both languages."
+    }
+  ]
+}

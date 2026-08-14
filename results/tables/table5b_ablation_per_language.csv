@@ -1,0 +1,91 @@
+intervention,family,language,delta_sta,delta_sim,delta_fl,delta_j,delta_loose_copy_rate,delta_unique_output_rate,delta_top_output_share,delta_template_rate,sta_status,sta_note
+language_detectors,ablation_primary,am,-0.0052,-0.0079,-0.0059,-0.0039,-0.0513,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,am,0.005,-0.002,0.0002,0.0123,-0.1282,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,am,0.0936,-0.0404,-0.0296,0.0208,-0.1923,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,am,0.0006,0.0009,0.0012,0.0021,0.0256,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,am,0.1347,-0.1702,-0.1159,-0.0264,-0.3333,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,am,0.1545,-0.1941,-0.1278,-0.0437,-0.359,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,am,0.0032,-0.0033,-0.0041,-0.0047,-0.1154,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,am,0.0001,-0.0004,0.0004,0.0002,0.0256,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,am,-0.0039,-0.0062,-0.007,-0.0094,0.0,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,am,0.1008,-0.1145,-0.0644,0.0014,-0.2692,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,ar,-0.0199,0.004,-0.0042,-0.0185,0.0513,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,ar,0.0999,-0.039,-0.0101,0.0468,-0.2308,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,ar,0.0008,-0.0014,-0.0042,-0.0027,0.0,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,ar,-0.0118,0.0023,-0.0003,-0.01,0.0128,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,ar,0.0059,0.0032,0.0049,0.006,0.0128,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,ar,0.0511,-0.0196,-0.0077,0.0336,-0.0897,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,ar,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,ar,0.0057,0.0037,-0.0104,-0.0016,0.0513,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,ar,0.0916,-0.0441,-0.0066,0.0591,-0.2308,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,ar,0.0254,0.0013,0.0032,0.0246,0.0,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,de,-0.021,0.0056,-0.0021,-0.0112,0.0641,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,de,0.0349,-0.0394,-0.0363,-0.023,-0.359,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,de,-0.0308,0.0003,-0.0055,-0.0283,-0.0128,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,de,-0.0467,0.0062,-0.0033,-0.0329,0.0128,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,de,0.0008,-0.0042,-0.0025,-0.0044,-0.0769,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,de,-0.0334,-0.0054,-0.0081,-0.0284,-0.0256,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,de,-0.0379,0.0024,0.0006,-0.0304,-0.0256,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,de,-0.02,-0.0071,-0.009,-0.0267,-0.0769,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,de,-0.0116,-0.0419,-0.0549,-0.0596,-0.3205,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,de,-0.0632,-0.0204,-0.0271,-0.0605,-0.2179,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,en,0.0542,-0.0017,0.0037,0.0303,-0.0128,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,en,-0.0307,0.0068,-0.0033,-0.0246,0.0128,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,en,0.1126,-0.0404,-0.0199,0.031,-0.0128,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,en,0.0128,-0.0028,-0.0029,0.0059,-0.0256,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,en,0.1136,-0.0184,-0.0081,0.0519,-0.0256,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,en,0.1011,-0.0204,-0.0234,0.0243,-0.0128,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,en,-0.005,-0.0057,-0.0014,-0.0062,-0.0256,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,en,0.085,-0.0129,0.0026,0.0514,-0.0513,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,en,-0.0022,-0.0039,-0.0054,-0.0128,0.0513,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,en,-0.0095,0.0065,0.0165,0.0049,-0.0128,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,es,0.2182,-0.0648,-0.0277,0.0806,-0.0897,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,es,-0.039,0.0029,-0.0022,-0.0216,0.0513,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,es,0.087,-0.0193,0.0025,0.0383,-0.0897,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,es,0.0525,-0.0181,-0.001,0.0237,-0.0513,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,es,0.2869,-0.0865,-0.0361,0.1084,-0.1282,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,es,-0.0046,0.0,0.0006,-0.0015,0.0128,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,es,0.2876,-0.0788,-0.0282,0.116,-0.1154,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,es,-0.0186,-0.0034,0.0005,-0.0039,0.0128,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,es,0.0389,-0.008,0.0044,0.0216,-0.0513,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,es,0.018,-0.0194,-0.0129,-0.0014,0.0,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,hi,-0.0381,0.0054,0.0008,-0.0118,-0.0769,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,hi,-0.0395,-0.011,0.0049,-0.0227,-0.1154,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,hi,-0.0126,0.0068,0.0001,-0.0059,0.0256,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,hi,-0.0135,0.009,0.0079,0.0067,-0.0385,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,hi,-0.0122,0.0048,-0.0028,-0.0021,0.0128,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,hi,-0.0127,0.0095,0.0004,0.0013,0.0,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,hi,-0.0355,-0.0384,-0.0058,-0.028,-0.1667,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,hi,-0.0167,-0.0232,-0.0087,-0.0289,-0.2564,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,hi,-0.0277,0.0125,0.0166,0.005,0.0,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,hi,-0.0014,-0.0014,0.0032,0.0043,-0.0128,0.0,0.0,0.0,validated,validated
+random_heads_matched,ablation_random_control,uk,-0.0229,-0.0107,-0.0119,-0.0217,0.0,0.0,0.0,0.0,validated,validated
+top_probe_direction,ablation_primary,uk,0.011,-0.04,-0.0494,-0.0088,-0.1795,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,uk,0.0163,-0.0394,-0.0458,-0.0089,-0.1667,0.0,0.0,0.0,validated,validated
+language_detectors,ablation_primary,uk,0.0027,-0.0014,0.0057,0.0096,-0.0385,0.0,0.0,0.0,validated,validated
+random_neurons_matched,ablation_random_control,uk,0.0101,-0.0006,-0.0041,0.0042,0.0,0.0,0.0,0.0,validated,validated
+sae_replicated_features,ablation_sae_control,uk,0.0101,-0.0064,-0.005,-0.0,-0.0385,0.0,0.0,0.0,validated,validated
+top_encoder_components,ablation_primary,uk,0.0485,-0.0019,-0.0013,0.0429,-0.0513,0.0,0.0,0.0,validated,validated
+top_decoder_mlp_neurons,ablation_primary,uk,-0.0538,0.0012,-0.0058,-0.0503,0.0513,0.0,0.0,0.0,validated,validated
+top_decoder_cross_heads,ablation_primary,uk,-0.0156,-0.0268,-0.0423,-0.0069,-0.2051,0.0,0.0,0.0,validated,validated
+top_decoder_self_heads,ablation_primary,uk,0.0284,-0.0198,-0.0257,0.0023,-0.1154,0.0,0.0,0.0,validated,validated
+top_mean_diff_direction,ablation_primary,yo,,-0.089,-0.0218,,-0.1026,-0.1538,0.1538,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_cross_heads,ablation_primary,yo,,-0.124,-0.0208,,-0.1154,-0.1667,0.1667,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+sae_replicated_features,ablation_sae_control,yo,,-0.0153,-0.0043,,-0.0128,-0.0128,0.0256,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+language_detectors,ablation_primary,yo,,0.0083,-0.0041,,0.0385,0.0128,-0.0128,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+random_heads_matched,ablation_random_control,yo,,0.0117,-0.0036,,0.0513,-0.0769,0.0897,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+random_neurons_matched,ablation_random_control,yo,,0.0081,-0.0022,,0.0128,0.0,0.0128,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_encoder_components,ablation_primary,yo,,-0.0861,-0.0044,,-0.0769,-0.1923,0.1923,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_probe_direction,ablation_primary,yo,,-0.0958,-0.0234,,-0.1154,-0.1923,0.1538,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_mlp_neurons,ablation_primary,yo,,-0.0159,-0.0013,,-0.0128,-0.0128,-0.0,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_self_heads,ablation_primary,yo,,-0.0342,-0.013,,-0.0256,0.0,-0.0,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_cross_heads,ablation_primary,xh,,-0.0435,-0.0061,,-0.0641,0.0769,-0.1154,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_mean_diff_direction,ablation_primary,xh,,0.0108,-0.0087,,-0.0641,0.2821,-0.359,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_mlp_neurons,ablation_primary,xh,,-0.0059,-0.0007,,-0.0256,0.0128,-0.0385,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+sae_replicated_features,ablation_sae_control,xh,,0.0027,0.0044,,-0.0256,0.0385,-0.141,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+random_neurons_matched,ablation_random_control,xh,,-0.0031,-0.0014,,0.0,0.0,-0.0256,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_decoder_self_heads,ablation_primary,xh,,0.0135,-0.005,,-0.0513,0.2051,-0.2949,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+random_heads_matched,ablation_random_control,xh,,-0.0012,0.0009,,-0.0128,-0.0128,-0.0385,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+language_detectors,ablation_primary,xh,,0.0242,-0.0054,,0.0,0.1154,-0.1795,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_probe_direction,ablation_primary,xh,,-0.0251,-0.0063,,-0.0641,0.2949,-0.3462,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only
+top_encoder_components,ablation_primary,xh,,-0.0599,0.0047,,-0.0513,-0.0897,0.0256,0.0,unavailable/unvalidated,STA UNAVAILABLE -- diagnostics only

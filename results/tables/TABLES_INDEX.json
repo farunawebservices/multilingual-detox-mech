@@ -1,0 +1,97 @@
+{
+  "generated_utc": "2026-08-14T10:13:47.785939+00:00",
+  "language_order": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "uk",
+    "yo",
+    "xh"
+  ],
+  "sources": "committed stage artifacts only; no inference re-run",
+  "sta_policy": "validated STA and unvalidated yo/xh STA never share a column",
+  "significance_policy": "a CI containing zero is reported as null, never as a trend",
+  "tables": [
+    {
+      "table": "table1_corpus_and_splits",
+      "path": "results/tables/table1_corpus_and_splits.csv",
+      "rows": 9,
+      "note": "corpus inventory + Stage 2 split counts, per language"
+    },
+    {
+      "table": "table2_baseline_metrics",
+      "path": "results/tables/table2_baseline_metrics.csv",
+      "rows": 9,
+      "note": "Stage 5 test metrics; validated STA and unvalidated yo/xh STA in separate columns"
+    },
+    {
+      "table": "table3a_probe_performance",
+      "path": "results/tables/table3a_probe_performance.csv",
+      "rows": 24,
+      "note": "Stage 7 probes (ASSOCIATIVE)"
+    },
+    {
+      "table": "table3b_probe_transfer_matrix",
+      "path": "results/tables/table3b_probe_transfer_matrix.csv",
+      "rows": 40,
+      "note": "Stage 7 transfer, layer 6, with length-only control per target"
+    },
+    {
+      "table": "table4a_sae_reconstruction",
+      "path": "results/tables/table4a_sae_reconstruction.csv",
+      "rows": 12,
+      "note": "Stage 8 SAE quality"
+    },
+    {
+      "table": "table4b_sae_feature_stability",
+      "path": "results/tables/table4b_sae_feature_stability.csv",
+      "rows": 12,
+      "note": "Stage 8/9 stability + promotion funnel (NEGATIVE)"
+    },
+    {
+      "table": "table5a_ablation_macro_with_ci",
+      "path": "results/tables/table5a_ablation_macro_with_ci.csv",
+      "rows": 20,
+      "note": "Stage 11 macro deltas, paired bootstrap CIs, verdicts"
+    },
+    {
+      "table": "table5b_ablation_per_language",
+      "path": "results/tables/table5b_ablation_per_language.csv",
+      "rows": 90,
+      "note": "Stage 11 per-language test deltas; yo and xh kept separate"
+    },
+    {
+      "table": "table6a_steering_dev_sweep",
+      "path": "results/tables/table6a_steering_dev_sweep.csv",
+      "rows": 96,
+      "note": "Stage 13 dev strength sweep"
+    },
+    {
+      "table": "table6b_steering_test_frozen",
+      "path": "results/tables/table6b_steering_test_frozen.csv",
+      "rows": 8,
+      "note": "Stage 13 frozen test config with CIs (NULL/WEAK)"
+    },
+    {
+      "table": "table7a_transfer_full",
+      "path": "results/tables/table7a_transfer_full.csv",
+      "rows": 640,
+      "note": "Stage 14 dev transfer, all cells"
+    },
+    {
+      "table": "table7b_transfer_vs_random",
+      "path": "results/tables/table7b_transfer_vs_random.csv",
+      "rows": 2,
+      "note": "Stage 14 primary vs matched random control (NULL)"
+    },
+    {
+      "table": "table8_evidence_classification",
+      "path": "results/tables/table8_evidence_classification.csv",
+      "rows": 8,
+      "note": "claim strength per finding; CI-excludes-zero stated explicitly"
+    }
+  ]
+}

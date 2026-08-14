@@ -1,0 +1,13 @@
+side,layer,token_set,train_explained_variance,dev_explained_variance,dev_recon_mse,dev_mean_l0,dev_dead_feature_rate,tokens_per_latent,n_seeds
+decoder,4,all,0.9143,0.7816,0.2189,63.999,0.0004,9.0645,3
+decoder,4,content,0.9057,0.7499,0.2312,64.0,0.0,8.3496,3
+decoder,6,all,0.9114,0.7728,0.2259,64.0,0.0001,9.0645,3
+decoder,6,content,0.9071,0.7521,0.2389,64.0,0.0,8.3496,3
+decoder,8,all,0.9118,0.7707,0.2267,64.0,0.0,9.0645,3
+decoder,8,content,0.9098,0.7547,0.2391,64.0,0.0,8.3496,3
+encoder,4,all,0.9912,0.9894,0.0106,63.7735,0.4643,11.9238,3
+encoder,4,content,0.9876,0.9851,0.0115,62.8168,0.4858,9.0645,3
+encoder,6,all,0.9873,0.9838,0.0162,63.9715,0.342,11.9238,3
+encoder,6,content,0.9824,0.9769,0.0179,63.6064,0.3296,9.0645,3
+encoder,8,all,0.9813,0.9728,0.0272,63.9999,0.1391,11.9238,3
+encoder,8,content,0.9769,0.962,0.03,64.0,0.1273,9.0645,3
