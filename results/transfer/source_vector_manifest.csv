@@ -1,0 +1,217 @@
+scope,vector_type,side,seed,layer,pooling,source_languages,n_rows_toxic,n_rows_reference,underdetermined,built_from
+EN_DE_ES,mean_diff,encoder,42,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,encoder,42,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,encoder,42,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,encoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,encoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,encoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,encoder,42,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,encoder,42,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,encoder,42,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,encoder,42,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,encoder,42,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,encoder,42,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,encoder,42,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,encoder,42,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,encoder,42,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,encoder,42,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,encoder,42,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,encoder,42,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,encoder,42,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,encoder,42,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,encoder,42,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,encoder,42,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,encoder,42,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,encoder,42,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,encoder,42,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,encoder,42,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,encoder,42,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,encoder,42,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,encoder,42,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,encoder,42,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,encoder,42,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,encoder,42,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,encoder,42,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,encoder,42,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,encoder,42,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,encoder,42,6,pooled_mean_content,yo,-1,-1,False,matched random control
+EN_DE_ES,mean_diff,decoder,42,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,decoder,42,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,decoder,42,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,decoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,decoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,decoder,42,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,decoder,42,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,decoder,42,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,decoder,42,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,decoder,42,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,decoder,42,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,decoder,42,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,decoder,42,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,decoder,42,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,decoder,42,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,decoder,42,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,decoder,42,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,decoder,42,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,decoder,42,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,decoder,42,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,decoder,42,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,decoder,42,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,decoder,42,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,decoder,42,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,decoder,42,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,decoder,42,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,decoder,42,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,decoder,42,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,decoder,42,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,decoder,42,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,decoder,42,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,decoder,42,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,decoder,42,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,decoder,42,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,decoder,42,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,decoder,42,6,pooled_mean_content,yo,-1,-1,False,matched random control
+EN_DE_ES,mean_diff,encoder,1337,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,encoder,1337,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,encoder,1337,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,encoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,encoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,encoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,encoder,1337,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,encoder,1337,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,encoder,1337,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,encoder,1337,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,encoder,1337,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,encoder,1337,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,encoder,1337,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,encoder,1337,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,encoder,1337,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,encoder,1337,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,encoder,1337,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,encoder,1337,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,encoder,1337,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,encoder,1337,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,encoder,1337,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,encoder,1337,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,encoder,1337,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,encoder,1337,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,encoder,1337,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,encoder,1337,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,encoder,1337,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,encoder,1337,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,encoder,1337,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,encoder,1337,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,encoder,1337,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,encoder,1337,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,encoder,1337,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,encoder,1337,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,encoder,1337,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,encoder,1337,6,pooled_mean_content,yo,-1,-1,False,matched random control
+EN_DE_ES,mean_diff,decoder,1337,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,decoder,1337,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,decoder,1337,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,decoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,decoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,decoder,1337,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,decoder,1337,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,decoder,1337,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,decoder,1337,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,decoder,1337,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,decoder,1337,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,decoder,1337,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,decoder,1337,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,decoder,1337,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,decoder,1337,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,decoder,1337,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,decoder,1337,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,decoder,1337,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,decoder,1337,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,decoder,1337,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,decoder,1337,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,decoder,1337,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,decoder,1337,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,decoder,1337,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,decoder,1337,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,decoder,1337,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,decoder,1337,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,decoder,1337,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,decoder,1337,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,decoder,1337,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,decoder,1337,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,decoder,1337,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,decoder,1337,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,decoder,1337,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,decoder,1337,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,decoder,1337,6,pooled_mean_content,yo,-1,-1,False,matched random control
+EN_DE_ES,mean_diff,encoder,2024,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,encoder,2024,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,encoder,2024,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,encoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,encoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,encoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,encoder,2024,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,encoder,2024,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,encoder,2024,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,encoder,2024,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,encoder,2024,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,encoder,2024,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,encoder,2024,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,encoder,2024,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,encoder,2024,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,encoder,2024,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,encoder,2024,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,encoder,2024,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,encoder,2024,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,encoder,2024,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,encoder,2024,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,encoder,2024,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,encoder,2024,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,encoder,2024,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,encoder,2024,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,encoder,2024,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,encoder,2024,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,encoder,2024,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,encoder,2024,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,encoder,2024,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,encoder,2024,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,encoder,2024,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,encoder,2024,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,encoder,2024,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,encoder,2024,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,encoder,2024,6,pooled_mean_content,yo,-1,-1,False,matched random control
+EN_DE_ES,mean_diff,decoder,2024,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,probe,decoder,2024,6,pooled_mean_content,en|de|es,366,366,True,train
+EN_DE_ES,random,decoder,2024,6,pooled_mean_content,en|de|es,-1,-1,False,matched random control
+all_non_african,mean_diff,decoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,probe,decoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,854,854,False,train
+all_non_african,random,decoder,2024,6,pooled_mean_content,am|ar|de|en|es|hi|uk,-1,-1,False,matched random control
+YO_XH,mean_diff,decoder,2024,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,probe,decoder,2024,6,pooled_mean_content,yo|xh,244,244,True,train
+YO_XH,random,decoder,2024,6,pooled_mean_content,yo|xh,-1,-1,False,matched random control
+lang_am,mean_diff,decoder,2024,6,pooled_mean_content,am,122,122,True,train
+lang_am,probe,decoder,2024,6,pooled_mean_content,am,122,122,True,train
+lang_am,random,decoder,2024,6,pooled_mean_content,am,-1,-1,False,matched random control
+lang_ar,mean_diff,decoder,2024,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,probe,decoder,2024,6,pooled_mean_content,ar,122,122,True,train
+lang_ar,random,decoder,2024,6,pooled_mean_content,ar,-1,-1,False,matched random control
+lang_de,mean_diff,decoder,2024,6,pooled_mean_content,de,122,122,True,train
+lang_de,probe,decoder,2024,6,pooled_mean_content,de,122,122,True,train
+lang_de,random,decoder,2024,6,pooled_mean_content,de,-1,-1,False,matched random control
+lang_en,mean_diff,decoder,2024,6,pooled_mean_content,en,122,122,True,train
+lang_en,probe,decoder,2024,6,pooled_mean_content,en,122,122,True,train
+lang_en,random,decoder,2024,6,pooled_mean_content,en,-1,-1,False,matched random control
+lang_es,mean_diff,decoder,2024,6,pooled_mean_content,es,122,122,True,train
+lang_es,probe,decoder,2024,6,pooled_mean_content,es,122,122,True,train
+lang_es,random,decoder,2024,6,pooled_mean_content,es,-1,-1,False,matched random control
+lang_hi,mean_diff,decoder,2024,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,probe,decoder,2024,6,pooled_mean_content,hi,122,122,True,train
+lang_hi,random,decoder,2024,6,pooled_mean_content,hi,-1,-1,False,matched random control
+lang_uk,mean_diff,decoder,2024,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,probe,decoder,2024,6,pooled_mean_content,uk,122,122,True,train
+lang_uk,random,decoder,2024,6,pooled_mean_content,uk,-1,-1,False,matched random control
+lang_xh,mean_diff,decoder,2024,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,probe,decoder,2024,6,pooled_mean_content,xh,122,122,True,train
+lang_xh,random,decoder,2024,6,pooled_mean_content,xh,-1,-1,False,matched random control
+lang_yo,mean_diff,decoder,2024,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,probe,decoder,2024,6,pooled_mean_content,yo,122,122,True,train
+lang_yo,random,decoder,2024,6,pooled_mean_content,yo,-1,-1,False,matched random control

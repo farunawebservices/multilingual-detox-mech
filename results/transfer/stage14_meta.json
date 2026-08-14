@@ -1,0 +1,51 @@
+{
+  "run_id": "20260813T114309Z_77c396c",
+  "generated_utc": "2026-08-14T09:06:21.935563+00:00",
+  "split_roles": {
+    "train": "source-vector construction",
+    "dev": "all evaluation reported here",
+    "test": "NOT READ, NOT WRITTEN"
+  },
+  "stage13_test_artifacts": "untouched; Stage 14 writes only under results/transfer/",
+  "source_groups": {
+    "EN_DE_ES": [
+      "en",
+      "de",
+      "es"
+    ],
+    "all_non_african": [
+      "am",
+      "ar",
+      "de",
+      "en",
+      "es",
+      "hi",
+      "uk"
+    ],
+    "YO_XH": [
+      "yo",
+      "xh"
+    ]
+  },
+  "vector_types": [
+    "mean_diff",
+    "probe",
+    "random"
+  ],
+  "strengths": [
+    -1.0,
+    -0.5,
+    0.0,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "layer": 6,
+  "pooling": "pooled_mean_content",
+  "sides": [
+    "encoder",
+    "decoder"
+  ],
+  "strength_selection": "none; full curves reported so no result can drive a choice",
+  "sta_policy": "reported only for the seven covered languages; yo/xh use SIM, FL, copy, template, unique-output and top-output share"
+}
