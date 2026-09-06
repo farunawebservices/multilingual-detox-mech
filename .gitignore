@@ -7,3 +7,5 @@ __pycache__/
 *.pem
 outputs/v2_analysis_error_sample.json
 outputs/v2_generation_error_sample.json
+venv/
+results_afrihate/
