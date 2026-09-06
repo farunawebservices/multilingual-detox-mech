@@ -1,0 +1,14 @@
+{
+  "model": "openai/gpt-4o",
+  "languages": [
+    "Yorùbá",
+    "isiXhosa"
+  ],
+  "pilot_size_per_language": 10,
+  "method": "Dementieva et al. 2024 CoT-style two-stage pipeline",
+  "files": {
+    "generations": "/workspace/detox_cot_pilot/outputs/cot_pilot_v2_generations.csv",
+    "partial": "/workspace/detox_cot_pilot/outputs/cot_pilot_v2_generations_partial.csv"
+  },
+  "created_utc": "2026-08-29T08:23:32.815464+00:00"
+}

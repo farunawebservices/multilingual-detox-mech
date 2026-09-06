@@ -1,0 +1,63 @@
+{
+  "created_utc": "2026-08-29T05:52:30.322231+00:00",
+  "seed": 20260828,
+  "n_demos_per_language": 8,
+  "n_eval_per_language": 6,
+  "conditions": [
+    "direct",
+    "structured_cot"
+  ],
+  "model": "openai/gpt-4o",
+  "temperature": 0.2,
+  "max_tokens": 500,
+  "input_files": {
+    "yo": {
+      "path": "/workspace/detox_cot_pilot/data/yoruba_pairs.csv",
+      "rows": 178,
+      "input_column": "Toxic Sentence (Input)",
+      "target_column": "Detoxified Sentence (Output)",
+      "demo_original_indices": [
+        159,
+        163,
+        48,
+        166,
+        169,
+        55,
+        107,
+        0
+      ],
+      "eval_original_indices": [
+        124,
+        68,
+        33,
+        66,
+        109,
+        112
+      ]
+    },
+    "xh": {
+      "path": "/workspace/detox_cot_pilot/data/isixhosa_pairs.csv",
+      "rows": 178,
+      "input_column": "Toxic Sentence (Input)",
+      "target_column": "Detoxified Sentence (Output)",
+      "demo_original_indices": [
+        159,
+        163,
+        48,
+        166,
+        169,
+        55,
+        107,
+        0
+      ],
+      "eval_original_indices": [
+        124,
+        68,
+        33,
+        66,
+        109,
+        112
+      ]
+    }
+  }
+}

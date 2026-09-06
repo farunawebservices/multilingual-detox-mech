@@ -1,0 +1,42 @@
+You are producing one candidate rewrite for a human-validated {language} text-detoxification dataset. This follows Dementieva et al. (2024): analyze descriptive features, then detoxify with Chain-of-Thought guidance.
+
+SOURCE:
+{toxic_input}
+
+ANALYSIS:
+- source_status: {source_status}
+- toxicity_level: {toxicity_level}
+- tone: {tone}
+- language_style: {language_style}
+- implied_sentiment: {implied_sentiment}
+- toxic_function: {toxic_function}
+- toxic_span: {toxic_span}
+- detox_strategy: {detox_strategy}
+- reason: {reason}
+
+SAME-LANGUAGE EXAMPLES FOR THIS STRATEGY:
+{examples_text}
+
+INSTRUCTIONS:
+Write exactly one natural {language} sentence that:
+- removes or softens the toxic element identified in toxic_span;
+- preserves the target, topic, facts, tense, modality, and speech act;
+- preserves legitimate criticism;
+- makes the smallest possible change;
+- introduces no facts or context;
+- does not become a generic apology;
+- does not strengthen a warning into a threat;
+- does not turn a criticism into praise;
+- does not switch languages.
+
+If safe meaning-preserving rewriting is not possible, return exactly:
+REVIEW_REQUIRED
+
+Return ONLY valid JSON with these keys:
+
+{{
+  "generated_output": "<one sentence or REVIEW_REQUIRED>",
+  "strategy_used": "{detox_strategy}",
+  "meaning_risk": "LOW|MEDIUM|HIGH",
+  "notes": "brief note"
+}}

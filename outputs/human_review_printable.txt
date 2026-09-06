@@ -1,0 +1,84 @@
+[1] Yorùbá
+Input:  Ìwọ yóò banujẹ pé o tako mi.
+Output: Ìwọ yóò mọ̀ pé o tako mi.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The sentence can be rephrased to remove the threatening tone while maintaining the intended message.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[2] Yorùbá
+Input:  Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.
+Output: Máa jẹ́ kí o mọ̀ pé ohun tí o kò rò lè ní ìyípadà.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The sentence contains a threat that can be rephrased to remove the toxic element.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[3] Yorùbá
+Input:  O ti kọjá ààlà tí kò yẹ.
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is not toxic in isolation and does not require detoxification.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[4] Yorùbá
+Input:  Ìpò yìí jẹ́ àjálù.
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is not toxic in isolation; it merely describes a situation negatively.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[5] Yorùbá
+Input:  Máa bá ẹ jẹ́.
+Output: Máa bá ẹ sọ̀rọ̀.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The phrase can be rephrased to remove the threatening implication.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[6] Yorùbá
+Input:  Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is a neutral critique and not inherently toxic.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[7] isiXhosa
+Input:  Ngaba inyuka inyusi yakho phakathi komgangatho?
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is not toxic and does not require detoxification.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[8] isiXhosa
+Input:  Kuya kubakho isihogo ukuba sihlawule.
+Output: Kuya kufuneka sihlawule.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The sentence can be rephrased to remove the threatening tone.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[9] isiXhosa
+Input:  Umsindo wam uya kuba phezu kwakho.
+Output: Ndifuna ukuthetha nawe ngomsindo wam.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The sentence can be rephrased to remove the threatening tone.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[10] isiXhosa
+Input:  Kufana nokuthetha nodonga lwezitena kunye nawe.
+Output: Kunzima ukuncokola nawe.
+Status: toxic_suitable | Strategy: rephrase_derogatory | Risk: LOW
+Reason: The sentence can be rephrased to convey the message without being dismissive.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[11] isiXhosa
+Input:  Uyahla.
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is not toxic in isolation and does not require detoxification.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------
+[12] isiXhosa
+Input:  Ubungqina bokuba indaleko ingahamba umva.
+Output: REVIEW_REQUIRED
+Status: not_toxic | Strategy: review_required | Risk: HIGH
+Reason: The sentence is not toxic in isolation and does not contain any negative or harmful language.
+Decision: ____________  Comments: __________________________
+--------------------------------------------------------------------------------

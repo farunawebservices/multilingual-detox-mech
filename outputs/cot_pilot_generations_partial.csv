@@ -1,0 +1,109 @@
+source_id,language,language_code,original_index,condition,model,temperature,prompt_hash,toxic_input,human_reference,generated_output,raw_response,source_status,strategy,toxic_function,toxic_span,content_to_preserve,edit_operation,meaning_risk,status,error,response_id,created_utc
+yo_124,Yorùbá,yo,124,direct,openai/gpt-4o,0.2,a44d17e062136941,Ìpò yìí jẹ́ àjálù.,Ìpò yìí kò bójú mu,Ìpò yìí jẹ́ ìṣòro.,Ìpò yìí jẹ́ ìṣòro.,,,,,,,,ok,,gen-1787982750-gX4dbYa8wGVFREz6O7A6,2026-08-29T05:52:31.813091+00:00
+yo_124,Yorùbá,yo,124,structured_cot,openai/gpt-4o,0.2,ca65917b19f34eb7,Ìpò yìí jẹ́ àjálù.,Ìpò yìí kò bójú mu,Ìpò yìí jẹ́ ìṣòro.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""àjálù""
+CONTENT_TO_PRESERVE: description of the position
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ìpò yìí jẹ́ ìṣòro.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""àjálù""",description of the position,REPLACE,LOW,ok,,gen-1787982752-WNGtt3v2K3lGxupvBIBG,2026-08-29T05:52:34.111183+00:00
+yo_068,Yorùbá,yo,68,direct,openai/gpt-4o,0.2,cd055d481fef87b3,Ìwọ yóò banujẹ pé o tako mi.,A lè kọ́ ẹ̀kọ́ nínú ìṣẹ̀lẹ̀ yìí; jọ̀wọ́ jẹ́ ká ṣètúnṣe,Ìwọ yóò ṣàníyàn pé o tako mi.,Ìwọ yóò ṣàníyàn pé o tako mi.,,,,,,,,ok,,gen-1787982754-fOx5LtzNLBJECOvW2KXJ,2026-08-29T05:52:35.444879+00:00
+yo_068,Yorùbá,yo,68,structured_cot,openai/gpt-4o,0.2,b6308c5774ef6bb3,Ìwọ yóò banujẹ pé o tako mi.,A lè kọ́ ẹ̀kọ́ nínú ìṣẹ̀lẹ̀ yìí; jọ̀wọ́ jẹ́ ká ṣètúnṣe,O lè rí ìyà kan nígbà tí o bá tako mi.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""Ìwọ yóò banujẹ pé o tako mi.""
+CONTENT_TO_PRESERVE: consequence of opposing
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: O lè rí ìyà kan nígbà tí o bá tako mi.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""Ìwọ yóò banujẹ pé o tako mi.""",consequence of opposing,REPHRASE,LOW,ok,,gen-1787982755-I1b69atEsPMIg3bHfVYt,2026-08-29T05:52:37.241641+00:00
+yo_033,Yorùbá,yo,33,direct,openai/gpt-4o,0.2,f9b5174f91e354bd,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kò tóbi.,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kò tóbi.,,,,,,,,ok,,gen-1787982757-NyjMS7Vw8d8fCTsw9lqv,2026-08-29T05:52:38.593345+00:00
+yo_033,Yorùbá,yo,33,structured_cot,openai/gpt-4o,0.2,af4cf8f65084ad69,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ lè ní àgbéga síi.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré""
+CONTENT_TO_PRESERVE: depth of knowledge
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ lè ní àgbéga síi.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré""",depth of knowledge,REPHRASE,LOW,ok,,gen-1787982759-hI2v9EOnkMDlc67wyr5R,2026-08-29T05:52:40.279311+00:00
+yo_066,Yorùbá,yo,66,direct,openai/gpt-4o,0.2,b89d3189cb0bb9d6,Máa bá ẹ jẹ́.,N kò ní gbàgbé ohun tó ṣẹ̀lẹ̀,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982760-kFUF21CkLpQpQ2DIQlpm,2026-08-29T05:52:41.487294+00:00
+yo_066,Yorùbá,yo,66,structured_cot,openai/gpt-4o,0.2,08f8a9c7550b8131,Máa bá ẹ jẹ́.,N kò ní gbàgbé ohun tó ṣẹ̀lẹ̀,Máa bá ẹ sọ̀rọ̀ nípa èyí.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: A_DELETE_OR_REPLACE_PROFANITY
+TOXIC_FUNCTION: threat
+TOXIC_SPAN: ""Máa bá ẹ jẹ́""
+CONTENT_TO_PRESERVE: intention to confront
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Máa bá ẹ sọ̀rọ̀ nípa èyí.",TOXIC_SUITABLE,A_DELETE_OR_REPLACE_PROFANITY,threat,"""Máa bá ẹ jẹ́""",intention to confront,REPLACE,LOW,ok,,gen-1787982762-dSQFCj2bzbuBPdQmVggZ,2026-08-29T05:52:43.316734+00:00
+yo_109,Yorùbá,yo,109,direct,openai/gpt-4o,0.2,580b1490098cfa77,O ti kọjá ààlà tí kò yẹ.,Ìṣe yìí kọja ààlà,O ti kọjá ààlà tí ó yẹ.,O ti kọjá ààlà tí ó yẹ.,,,,,,,,ok,,gen-1787982763-VLcWSgEGwWxHqJBa8Bnk,2026-08-29T05:52:44.961310+00:00
+yo_109,Yorùbá,yo,109,structured_cot,openai/gpt-4o,0.2,d535f8c84074c9f9,O ti kọjá ààlà tí kò yẹ.,Ìṣe yìí kọja ààlà,O ti kọjá ààlà tí ó yẹ kí o ṣọra.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""ààlà tí kò yẹ""
+CONTENT_TO_PRESERVE: exceeding limits
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: O ti kọjá ààlà tí ó yẹ kí o ṣọra.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""ààlà tí kò yẹ""",exceeding limits,REPHRASE,LOW,ok,,gen-1787982765-YzEErLqm0Kckg9lKnTeb,2026-08-29T05:52:46.745557+00:00
+yo_112,Yorùbá,yo,112,direct,openai/gpt-4o,0.2,95c20940cab0acac,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde nkan lè tóbi ju bó ṣe rò lọ,Ó ṣeé ṣe kí o ní iriri àwọn ìṣòro lórí ohun tí o kò rò.,Ó ṣeé ṣe kí o ní iriri àwọn ìṣòro lórí ohun tí o kò rò.,,,,,,,,ok,,gen-1787982767-ngNAjaJqznnHY0S2bPwv,2026-08-29T05:52:48.495027+00:00
+yo_112,Yorùbá,yo,112,structured_cot,openai/gpt-4o,0.2,543837e2b75eb7e3,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde nkan lè tóbi ju bó ṣe rò lọ,O lè dojúkọ ìṣòro lórí ohun tí o kò rò.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""Máa jẹ́ kí o jìyà""
+CONTENT_TO_PRESERVE: consequence of actions
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: O lè dojúkọ ìṣòro lórí ohun tí o kò rò.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""Máa jẹ́ kí o jìyà""",consequence of actions,REPHRASE,LOW,ok,,gen-1787982769-TYZ9mc1FF9lgoDROiZCp,2026-08-29T05:52:50.287873+00:00
+xh_124,isiXhosa,xh,124,direct,openai/gpt-4o,0.2,d992a31531120f94,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982770-MpMR5eXSiFpAlylZuVn6,2026-08-29T05:52:51.769774+00:00
+xh_124,isiXhosa,xh,124,structured_cot,openai/gpt-4o,0.2,b9cf75f4404b346d,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,Ngaba indlela oziphethe ngayo iyamangalisa?,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: A_DELETE_OR_REPLACE_PROFANITY
+TOXIC_FUNCTION: insult
+TOXIC_SPAN: ""inyuka inyusi""
+CONTENT_TO_PRESERVE: question about behavior
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ngaba indlela oziphethe ngayo iyamangalisa?",TOXIC_SUITABLE,A_DELETE_OR_REPLACE_PROFANITY,insult,"""inyuka inyusi""",question about behavior,REPLACE,LOW,ok,,gen-1787982772-HkO8NxtM5JNpSAiNDRgx,2026-08-29T05:52:53.404772+00:00
+xh_068,isiXhosa,xh,68,direct,openai/gpt-4o,0.2,a97417a41f30dd47,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982773-ZDWb45SmDmmnm49CcG11,2026-08-29T05:52:54.613538+00:00
+xh_068,isiXhosa,xh,68,structured_cot,openai/gpt-4o,0.2,e8f728642b9353d9,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,Kuya kubakho iziphumo ezimbi ukuba sihlawule.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: B_REPHRASE_DEROGATORY_CONTENT
+TOXIC_FUNCTION: derogatory prediction
+TOXIC_SPAN: ""isihogo""
+CONTENT_TO_PRESERVE: future consequence
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Kuya kubakho iziphumo ezimbi ukuba sihlawule.",TOXIC_SUITABLE,B_REPHRASE_DEROGATORY_CONTENT,derogatory prediction,"""isihogo""",future consequence,REPHRASE,LOW,ok,,gen-1787982775-d27YCKPHb1JGFeuUrgHO,2026-08-29T05:52:56.463051+00:00
+xh_033,isiXhosa,xh,33,direct,openai/gpt-4o,0.2,77b55e47d7140947,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982777-JHjKZxWPLRO0j6R6frPr,2026-08-29T05:52:57.662300+00:00
+xh_033,isiXhosa,xh,33,structured_cot,openai/gpt-4o,0.2,246dc6f428605fc8,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,Awuziphathi kakuhle.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: A_DELETE_OR_REPLACE_PROFANITY
+TOXIC_FUNCTION: insult
+TOXIC_SPAN: ""Uyahla""
+CONTENT_TO_PRESERVE: criticism
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Awuziphathi kakuhle.",TOXIC_SUITABLE,A_DELETE_OR_REPLACE_PROFANITY,insult,"""Uyahla""",criticism,REPLACE,LOW,ok,,gen-1787982778-p4IajZIEAN572rAydrdk,2026-08-29T05:52:59.376566+00:00
+xh_066,isiXhosa,xh,66,direct,openai/gpt-4o,0.2,cc993b7c19240782,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982779-wa8FYU6roTSPAQCgvh0S,2026-08-29T05:53:00.840029+00:00
+xh_066,isiXhosa,xh,66,structured_cot,openai/gpt-4o,0.2,1be33524db87cc95,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,Ndicela uqwalaselo lwakho kumcimbi obangela umsindo wam.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile threat
+TOXIC_SPAN: ""Umsindo wam uya kuba phezu kwakho.""
+CONTENT_TO_PRESERVE: expression of anger
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ndicela uqwalaselo lwakho kumcimbi obangela umsindo wam.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile threat,"""Umsindo wam uya kuba phezu kwakho.""",expression of anger,REPHRASE,LOW,ok,,gen-1787982781-FgyRtmJmq2HL1i8nYisb,2026-08-29T05:53:02.653638+00:00
+xh_109,isiXhosa,xh,109,direct,openai/gpt-4o,0.2,188a993c46785e45,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,Kunzima ukuthetha nawe.,Kunzima ukuthetha nawe.,,,,,,,,ok,,gen-1787982783-kD6rHENePKcdF73mdE1Q,2026-08-29T05:53:03.950355+00:00
+xh_109,isiXhosa,xh,109,structured_cot,openai/gpt-4o,0.2,aaebef4fc9a675c0,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,Kunzima ukuncokola nawe.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""Kufana nokuthetha nodonga lwezitena""
+CONTENT_TO_PRESERVE: difficulty in communication
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Kunzima ukuncokola nawe.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""Kufana nokuthetha nodonga lwezitena""",difficulty in communication,REPHRASE,LOW,ok,,gen-1787982784-tMdudXxsdgBDd8V2Csam,2026-08-29T05:53:05.696742+00:00
+xh_112,isiXhosa,xh,112,direct,openai/gpt-4o,0.2,531b1a30127747fc,Ubungqina bokuba indaleko ingahamba umva.,Abantu bafunda kwaye baphuhlise ngamanqanaba ahlukeneyo.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982786-XmKpZgfW34pIStI9JiCC,2026-08-29T05:53:06.987422+00:00
+xh_112,isiXhosa,xh,112,structured_cot,openai/gpt-4o,0.2,f6993921cfc5ee7e,Ubungqina bokuba indaleko ingahamba umva.,Abantu bafunda kwaye baphuhlise ngamanqanaba ahlukeneyo.,Ubungqina bokuba indaleko ingahamba umva.,"SOURCE_STATUS: NOT_TOXIC
+STRATEGY: E_NOT_TOXIC
+TOXIC_FUNCTION: NONE
+TOXIC_SPAN: NONE
+CONTENT_TO_PRESERVE: Indaleko ingahamba umva
+EDIT_OPERATION: NONE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ubungqina bokuba indaleko ingahamba umva.",NOT_TOXIC,E_NOT_TOXIC,NONE,NONE,Indaleko ingahamba umva,NONE,LOW,ok,,gen-1787982787-pPBKV9QKGQPepoyIFD13,2026-08-29T05:53:08.729881+00:00

@@ -1,0 +1,313 @@
+row_id,source_id,language,condition,toxic_input,generated_output,verification_status,error,verifier_model,verifier_raw_response,source_status,detox_status,toxicity_removed,meaning_preserved,naturalness,language_correct,new_content_added,generic_template,copied_input,reason,native_review_required,response_id,created_utc
+0,yo_124,Yorùbá,direct,Ìpò yìí jẹ́ àjálù.,Ìpò yìí jẹ́ ìṣòro.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate successfully removes the toxic element by replacing 'àjálù' (disaster) with 'ìṣòro' (problem), preserving the main meaning."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,5,True,False,False,False,"The candidate successfully removes the toxic element by replacing 'àjálù' (disaster) with 'ìṣòro' (problem), preserving the main meaning.",True,gen-1787983480-m3qIlW0IggtUDbjNxDZV,2026-08-29T06:04:42.457348+00:00
+1,yo_124,Yorùbá,structured_cot,Ìpò yìí jẹ́ àjálù.,Ìpò yìí jẹ́ ìṣòro.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source sentence is not toxic, and the candidate provides a less severe interpretation while preserving meaning."",
+  ""native_review_required"": true
+}",not_toxic,accepted,True,4,5,True,False,False,False,"The source sentence is not toxic, and the candidate provides a less severe interpretation while preserving meaning.",True,gen-1787983482-QuEuez5EGsleml4yvdr1,2026-08-29T06:04:44.318969+00:00
+2,yo_068,Yorùbá,direct,Ìwọ yóò banujẹ pé o tako mi.,Ìwọ yóò ṣàníyàn pé o tako mi.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the toxic element of regret and replaces it with concern, preserving the main meaning."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,"The candidate removes the toxic element of regret and replaces it with concern, preserving the main meaning.",True,gen-1787983484-5Qk4F0mb6vn0JpCxFGsD,2026-08-29T06:04:45.950687+00:00
+3,yo_068,Yorùbá,structured_cot,Ìwọ yóò banujẹ pé o tako mi.,O lè rí ìyà kan nígbà tí o bá tako mi.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 2,
+  ""naturalness"": 3,
+  ""language_correct"": true,
+  ""new_content_added"": true,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate introduces a threat, which retains toxicity."",
+  ""native_review_required"": true
+}",toxic_suitable,rejected,False,2,3,True,True,False,False,"The candidate introduces a threat, which retains toxicity.",True,gen-1787983486-HzhSH35SlG5klZp40YbG,2026-08-29T06:04:47.496004+00:00
+4,yo_033,Yorùbá,direct,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kò tóbi.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 5,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source sentence is not toxic, and the candidate maintains the meaning while using natural language."",
+  ""native_review_required"": true
+}",not_toxic,accepted,False,5,5,True,False,False,False,"The source sentence is not toxic, and the candidate maintains the meaning while using natural language.",True,gen-1787983487-kmid0WFylxI2VUQGUJly,2026-08-29T06:04:49.167708+00:00
+5,yo_033,Yorùbá,structured_cot,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ lè ní àgbéga síi.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 3,
+  ""language_correct"": true,
+  ""new_content_added"": true,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source sentence is not toxic, and the candidate changes the meaning by adding new content."",
+  ""native_review_required"": true
+}",not_toxic,rejected,False,1,3,True,True,False,False,"The source sentence is not toxic, and the candidate changes the meaning by adding new content.",True,gen-1787983489-ZUh1ApNVsdzEpyt7CjO2,2026-08-29T06:04:50.785710+00:00
+6,yo_066,Yorùbá,direct,Máa bá ẹ jẹ́.,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""needs_edit"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate requires review to determine if the source is toxic based on context."",
+  ""native_review_required"": true
+}",toxic_context_required,needs_edit,False,1,1,True,False,False,False,The candidate requires review to determine if the source is toxic based on context.,True,gen-1787983491-S4v7UzbJmRTiJEjOySnF,2026-08-29T06:04:52.338817+00:00
+7,yo_066,Yorùbá,structured_cot,Máa bá ẹ jẹ́.,Máa bá ẹ sọ̀rọ̀ nípa èyí.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 3,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the toxic element and maintains a similar context of engagement."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,3,4,True,False,False,False,The candidate removes the toxic element and maintains a similar context of engagement.,True,gen-1787983492-kS4nXf1BXAhCkqAvZAl8,2026-08-29T06:04:53.840155+00:00
+8,yo_109,Yorùbá,direct,O ti kọjá ààlà tí kò yẹ.,O ti kọjá ààlà tí ó yẹ.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 5,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the negative connotation by changing 'kò yẹ' to 'ó yẹ', making it non-toxic."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,5,5,True,False,False,False,"The candidate removes the negative connotation by changing 'kò yẹ' to 'ó yẹ', making it non-toxic.",True,gen-1787983494-pwQS1A2IoTBHJ7MqSDZl,2026-08-29T06:04:55.385495+00:00
+9,yo_109,Yorùbá,structured_cot,O ti kọjá ààlà tí kò yẹ.,O ti kọjá ààlà tí ó yẹ kí o ṣọra.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the implicit insult and suggests caution instead."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,The candidate removes the implicit insult and suggests caution instead.,True,gen-1787983495-rsPD9azdUJceA6Gc0j67,2026-08-29T06:04:56.853675+00:00
+10,yo_112,Yorùbá,direct,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Ó ṣeé ṣe kí o ní iriri àwọn ìṣòro lórí ohun tí o kò rò.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the direct threat and maintains the meaning in a more neutral form."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,The candidate removes the direct threat and maintains the meaning in a more neutral form.,True,gen-1787983497-iTWD9nP1Mp5EYAzktVlZ,2026-08-29T06:04:58.451759+00:00
+11,yo_112,Yorùbá,structured_cot,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,O lè dojúkọ ìṣòro lórí ohun tí o kò rò.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the threat and maintains the core meaning."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,The candidate removes the threat and maintains the core meaning.,True,gen-1787983498-oOWP8NILDtIwfXk2ci84,2026-08-29T06:04:59.903988+00:00
+12,xh_124,isiXhosa,direct,Ngaba inyuka inyusi yakho phakathi komgangatho?,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate is not provided, making it impossible to evaluate the detoxification."",
+  ""native_review_required"": true
+}",toxic_context_required,rejected,False,1,1,True,False,False,False,"The candidate is not provided, making it impossible to evaluate the detoxification.",True,gen-1787983500-OUCQgeAk0fFiLh301gSk,2026-08-29T06:05:01.596404+00:00
+13,xh_124,isiXhosa,structured_cot,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba indlela oziphethe ngayo iyamangalisa?,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""needs_edit"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 3,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": true,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate changes the original meaning and introduces new content."",
+  ""native_review_required"": true
+}",toxic_context_required,needs_edit,True,3,4,True,True,False,False,The candidate changes the original meaning and introduces new content.,True,gen-1787983502-kr8pUQA07zntvf5rx4AN,2026-08-29T06:05:03.246231+00:00
+14,xh_068,isiXhosa,direct,Kuya kubakho isihogo ukuba sihlawule.,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate is marked as requiring review, indicating it is not a finalized detoxified version."",
+  ""native_review_required"": true
+}",toxic_context_required,rejected,False,1,1,True,False,False,False,"The candidate is marked as requiring review, indicating it is not a finalized detoxified version.",True,gen-1787983503-UN6H7RslyDP2O1xOAq34,2026-08-29T06:05:04.961561+00:00
+15,xh_068,isiXhosa,structured_cot,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho iziphumo ezimbi ukuba sihlawule.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the toxic element by replacing 'isihogo' with 'iziphumo ezimbi', maintaining the overall meaning."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,"The candidate removes the toxic element by replacing 'isihogo' with 'iziphumo ezimbi', maintaining the overall meaning.",True,gen-1787983505-nYb8fMJMdHpQ6GBFIhYp,2026-08-29T06:05:06.636726+00:00
+16,xh_033,isiXhosa,direct,Uyahla.,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate is not a detoxified rewrite but a placeholder indicating review is needed."",
+  ""native_review_required"": true
+}",toxic_context_required,rejected,False,1,1,True,False,False,False,The candidate is not a detoxified rewrite but a placeholder indicating review is needed.,True,gen-1787983507-uVc85TmdPx3uoBIuc0Ui,2026-08-29T06:05:08.373560+00:00
+17,xh_033,isiXhosa,structured_cot,Uyahla.,Awuziphathi kakuhle.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""needs_edit"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 2,
+  ""naturalness"": 3,
+  ""language_correct"": true,
+  ""new_content_added"": true,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source sentence is ambiguous and requires context to determine toxicity. The candidate changes the meaning by adding new content."",
+  ""native_review_required"": true
+}",toxic_context_required,needs_edit,False,2,3,True,True,False,False,The source sentence is ambiguous and requires context to determine toxicity. The candidate changes the meaning by adding new content.,True,gen-1787983508-4GhCDbiI22YLKIluykS9,2026-08-29T06:05:10.418373+00:00
+18,xh_066,isiXhosa,direct,Umsindo wam uya kuba phezu kwakho.,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate is not a detoxified rewrite and does not address the toxicity of the source."",
+  ""native_review_required"": true
+}",toxic_suitable,rejected,False,1,1,True,False,False,False,The candidate is not a detoxified rewrite and does not address the toxicity of the source.,True,gen-1787983510-i88pR5bC2cqUjjr8hd07,2026-08-29T06:05:12.060193+00:00
+19,xh_066,isiXhosa,structured_cot,Umsindo wam uya kuba phezu kwakho.,Ndicela uqwalaselo lwakho kumcimbi obangela umsindo wam.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_suitable"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 4,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate removes the direct threat and maintains the context of addressing the cause of anger."",
+  ""native_review_required"": true
+}",toxic_suitable,accepted,True,4,4,True,False,False,False,The candidate removes the direct threat and maintains the context of addressing the cause of anger.,True,gen-1787983512-T2yhUoXCIb9KMwsaCKda,2026-08-29T06:05:13.609486+00:00
+20,xh_109,isiXhosa,direct,Kufana nokuthetha nodonga lwezitena kunye nawe.,Kunzima ukuthetha nawe.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 4,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source is not toxic, and the candidate maintains the meaning while being natural and correct."",
+  ""native_review_required"": true
+}",not_toxic,accepted,True,4,5,True,False,False,False,"The source is not toxic, and the candidate maintains the meaning while being natural and correct.",True,gen-1787983514-XT2ykFaoAUArWsRFtQ0f,2026-08-29T06:05:15.201603+00:00
+21,xh_109,isiXhosa,structured_cot,Kufana nokuthetha nodonga lwezitena kunye nawe.,Kunzima ukuncokola nawe.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 5,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The source is not toxic, and the candidate maintains the meaning while being natural and correct."",
+  ""native_review_required"": true
+}",not_toxic,accepted,True,5,5,True,False,False,False,"The source is not toxic, and the candidate maintains the meaning while being natural and correct.",True,gen-1787983515-rOMzRsEFKCoEPeF6Zg8q,2026-08-29T06:05:16.650523+00:00
+22,xh_112,isiXhosa,direct,Ubungqina bokuba indaleko ingahamba umva.,REVIEW_REQUIRED,ok,,openai/gpt-4o,"{
+  ""source_status"": ""toxic_context_required"",
+  ""detox_status"": ""rejected"",
+  ""toxicity_removed"": false,
+  ""meaning_preserved"": 1,
+  ""naturalness"": 1,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": false,
+  ""reason"": ""The candidate is not provided, making it impossible to evaluate the detoxification."",
+  ""native_review_required"": true
+}",toxic_context_required,rejected,False,1,1,True,False,False,False,"The candidate is not provided, making it impossible to evaluate the detoxification.",True,gen-1787983517-6Q5Qmi7fhCnpGxTbV1p0,2026-08-29T06:05:18.115325+00:00
+23,xh_112,isiXhosa,structured_cot,Ubungqina bokuba indaleko ingahamba umva.,Ubungqina bokuba indaleko ingahamba umva.,ok,,openai/gpt-4o,"{
+  ""source_status"": ""not_toxic"",
+  ""detox_status"": ""accepted"",
+  ""toxicity_removed"": true,
+  ""meaning_preserved"": 5,
+  ""naturalness"": 5,
+  ""language_correct"": true,
+  ""new_content_added"": false,
+  ""generic_template"": false,
+  ""copied_input"": true,
+  ""reason"": ""The source sentence is not toxic, and the candidate is identical to the source."",
+  ""native_review_required"": true
+}",not_toxic,accepted,True,5,5,True,False,False,True,"The source sentence is not toxic, and the candidate is identical to the source.",True,gen-1787983518-BdZ6yPE7k92B1hGkciJI,2026-08-29T06:05:19.666131+00:00

@@ -1,0 +1,199 @@
+row_id,language,toxic_input,human_reference,analysis_raw,source_status,toxicity_level,tone,language_style,implied_sentiment,toxic_function,toxic_span,detox_strategy,detoxifiable,analysis_reason,generated_output,strategy_used,meaning_risk,generation_notes,generation_raw,model,created_utc
+0,Yorùbá,Ìwọ yóò banujẹ pé o tako mi.,A lè kọ́ ẹ̀kọ́ nínú ìṣẹ̀lẹ̀ yìí; jọ̀wọ́ jẹ́ ká ṣètúnṣe,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""threatening"",
+  ""language_style"": ""informal"",
+  ""implied_sentiment"": ""negative"",
+  ""context"": ""The sentence implies a threat or warning to someone for opposing the speaker."",
+  ""negative_connotations"": [""banujẹ"", ""tako""],
+  ""toxic_function"": ""The sentence serves as a warning or threat to the listener."",
+  ""toxic_span"": ""Ìwọ yóò banujẹ pé o tako mi"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The sentence can be rephrased to remove the threatening tone while maintaining the intended message.""
+}",toxic_suitable,medium,threatening,informal,negative,The sentence serves as a warning or threat to the listener.,Ìwọ yóò banujẹ pé o tako mi,rephrase_derogatory,True,The sentence can be rephrased to remove the threatening tone while maintaining the intended message.,Ìwọ yóò mọ̀ pé o tako mi.,rephrase_derogatory,LOW,The sentence was rephrased to soften the threatening tone while maintaining the intended message.,"{
+  ""generated_output"": ""Ìwọ yóò mọ̀ pé o tako mi."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The sentence was rephrased to soften the threatening tone while maintaining the intended message.""
+}",openai/gpt-4o,2026-08-29T08:22:51.067408+00:00
+1,Yorùbá,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde nkan lè tóbi ju bó ṣe rò lọ,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""threatening"",
+  ""language_style"": ""informal"",
+  ""implied_sentiment"": ""negative"",
+  ""context"": ""The sentence implies a threat of making someone suffer for something they didn't consider."",
+  ""negative_connotations"": [""jìyà""],
+  ""toxic_function"": ""The sentence threatens to cause suffering or punishment."",
+  ""toxic_span"": ""Máa jẹ́ kí o jìyà"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The sentence contains a threat that can be rephrased to remove the toxic element.""
+}",toxic_suitable,medium,threatening,informal,negative,The sentence threatens to cause suffering or punishment.,Máa jẹ́ kí o jìyà,rephrase_derogatory,True,The sentence contains a threat that can be rephrased to remove the toxic element.,Máa jẹ́ kí o mọ̀ pé ohun tí o kò rò lè ní ìyípadà.,rephrase_derogatory,LOW,The sentence was rephrased to remove the threat while maintaining the original intent of cautioning about unforeseen consequences.,"{
+  ""generated_output"": ""Máa jẹ́ kí o mọ̀ pé ohun tí o kò rò lè ní ìyípadà."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The sentence was rephrased to remove the threat while maintaining the original intent of cautioning about unforeseen consequences.""
+}",openai/gpt-4o,2026-08-29T08:22:54.821074+00:00
+2,Yorùbá,O ti kọjá ààlà tí kò yẹ.,Ìṣe yìí kọja ààlà,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""critical"",
+  ""language_style"": ""neutral"",
+  ""implied_sentiment"": ""neutral"",
+  ""context"": ""The sentence suggests someone has exceeded a limit."",
+  ""negative_connotations"": [""ààlà""],
+  ""toxic_function"": ""The sentence points out a boundary being crossed."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is not toxic in isolation and does not require detoxification.""
+}",not_toxic,low,critical,neutral,neutral,The sentence points out a boundary being crossed.,NONE,review_required,False,The sentence is not toxic in isolation and does not require detoxification.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:22:57.197148+00:00
+3,Yorùbá,Ìpò yìí jẹ́ àjálù.,Ìpò yìí kò bójú mu,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""critical"",
+  ""language_style"": ""neutral"",
+  ""implied_sentiment"": ""negative"",
+  ""context"": ""The sentence describes a situation as a disaster."",
+  ""negative_connotations"": [""àjálù""],
+  ""toxic_function"": ""The sentence expresses a negative opinion about a situation."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is not toxic in isolation; it merely describes a situation negatively.""
+}",not_toxic,low,critical,neutral,negative,The sentence expresses a negative opinion about a situation.,NONE,review_required,False,The sentence is not toxic in isolation; it merely describes a situation negatively.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:22:59.405655+00:00
+4,Yorùbá,Máa bá ẹ jẹ́.,N kò ní gbàgbé ohun tó ṣẹ̀lẹ̀,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""threatening"",
+  ""language_style"": ""informal"",
+  ""implied_sentiment"": ""negative"",
+  ""context"": ""The phrase can be interpreted as a threat depending on the context."",
+  ""negative_connotations"": [""jẹ́""],
+  ""toxic_function"": ""The phrase implies a threat or harm."",
+  ""toxic_span"": ""Máa bá ẹ jẹ́"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The phrase can be rephrased to remove the threatening implication.""
+}",toxic_suitable,medium,threatening,informal,negative,The phrase implies a threat or harm.,Máa bá ẹ jẹ́,rephrase_derogatory,True,The phrase can be rephrased to remove the threatening implication.,Máa bá ẹ sọ̀rọ̀.,rephrase_derogatory,LOW,"The threatening implication is softened by changing 'jẹ́' (harm) to 'sọ̀rọ̀' (talk), maintaining the interaction without the threat.","{
+  ""generated_output"": ""Máa bá ẹ sọ̀rọ̀."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The threatening implication is softened by changing 'jẹ́' (harm) to 'sọ̀rọ̀' (talk), maintaining the interaction without the threat.""
+}",openai/gpt-4o,2026-08-29T08:23:03.082730+00:00
+5,Yorùbá,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""critical"",
+  ""language_style"": ""neutral"",
+  ""implied_sentiment"": ""neutral"",
+  ""context"": ""The sentence comments on the depth of someone's knowledge."",
+  ""negative_connotations"": [""kéré""],
+  ""toxic_function"": ""The sentence critiques the depth of knowledge."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is a neutral critique and not inherently toxic.""
+}",not_toxic,low,critical,neutral,neutral,The sentence critiques the depth of knowledge.,NONE,review_required,False,The sentence is a neutral critique and not inherently toxic.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:23:05.145645+00:00
+0,isiXhosa,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""other"",
+  ""language_style"": ""neutral"",
+  ""implied_sentiment"": ""neutral"",
+  ""context"": ""The sentence is a question about an elevator."",
+  ""negative_connotations"": [],
+  ""toxic_function"": ""The sentence does not serve a toxic function."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is not toxic and does not require detoxification.""
+}",not_toxic,low,other,neutral,neutral,The sentence does not serve a toxic function.,NONE,review_required,False,The sentence is not toxic and does not require detoxification.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:23:07.278331+00:00
+1,isiXhosa,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""threatening"",
+  ""language_style"": ""colloquial"",
+  ""implied_sentiment"": ""negative"",
+  ""context"": ""The sentence implies a threat of punishment or suffering."",
+  ""negative_connotations"": [""isihogo""],
+  ""toxic_function"": ""The sentence uses the concept of hell as a threat."",
+  ""toxic_span"": ""Kuya kubakho isihogo"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The sentence can be rephrased to remove the threatening tone.""
+}",toxic_suitable,medium,threatening,colloquial,negative,The sentence uses the concept of hell as a threat.,Kuya kubakho isihogo,rephrase_derogatory,True,The sentence can be rephrased to remove the threatening tone.,Kuya kufuneka sihlawule.,rephrase_derogatory,LOW,The sentence was rephrased to remove the threatening element while maintaining the original intent of accountability.,"{
+  ""generated_output"": ""Kuya kufuneka sihlawule."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The sentence was rephrased to remove the threatening element while maintaining the original intent of accountability.""
+}",openai/gpt-4o,2026-08-29T08:23:15.418550+00:00
+2,isiXhosa,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""threatening"",
+  ""language_style"": ""informal"",
+  ""implied_sentiment"": ""angry"",
+  ""context"": ""The sentence implies a threat or anger directed at someone."",
+  ""negative_connotations"": [""umsindo"", ""phezu""],
+  ""toxic_function"": ""The sentence conveys a threat of anger or harm."",
+  ""toxic_span"": ""Umsindo wam uya kuba phezu kwakho"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The sentence can be rephrased to remove the threatening tone.""
+}",toxic_suitable,medium,threatening,informal,angry,The sentence conveys a threat of anger or harm.,Umsindo wam uya kuba phezu kwakho,rephrase_derogatory,True,The sentence can be rephrased to remove the threatening tone.,Ndifuna ukuthetha nawe ngomsindo wam.,rephrase_derogatory,LOW,The sentence was rephrased to express a desire to discuss the anger without the threatening tone.,"{
+  ""generated_output"": ""Ndifuna ukuthetha nawe ngomsindo wam."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The sentence was rephrased to express a desire to discuss the anger without the threatening tone.""
+}",openai/gpt-4o,2026-08-29T08:23:23.873494+00:00
+3,isiXhosa,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,"{
+  ""source_status"": ""toxic_suitable"",
+  ""toxicity_level"": ""medium"",
+  ""tone"": ""dismissive"",
+  ""language_style"": ""colloquial"",
+  ""implied_sentiment"": ""disdainful"",
+  ""context"": ""The phrase implies that talking to the person is pointless."",
+  ""negative_connotations"": [""udonga"", ""izitena""],
+  ""toxic_function"": ""The sentence dismisses the person as unresponsive or unworthy of conversation."",
+  ""toxic_span"": ""Kufana nokuthetha nodonga lwezitena"",
+  ""detox_strategy"": ""rephrase_derogatory"",
+  ""detoxifiable"": true,
+  ""reason"": ""The sentence can be rephrased to convey the message without being dismissive.""
+}",toxic_suitable,medium,dismissive,colloquial,disdainful,The sentence dismisses the person as unresponsive or unworthy of conversation.,Kufana nokuthetha nodonga lwezitena,rephrase_derogatory,True,The sentence can be rephrased to convey the message without being dismissive.,Kunzima ukuncokola nawe.,rephrase_derogatory,LOW,The sentence was rephrased to soften the dismissive tone while maintaining the original sentiment of difficulty in communication.,"{
+  ""generated_output"": ""Kunzima ukuncokola nawe."",
+  ""strategy_used"": ""rephrase_derogatory"",
+  ""meaning_risk"": ""LOW"",
+  ""notes"": ""The sentence was rephrased to soften the dismissive tone while maintaining the original sentiment of difficulty in communication.""
+}",openai/gpt-4o,2026-08-29T08:23:27.524882+00:00
+4,isiXhosa,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""other"",
+  ""language_style"": ""colloquial"",
+  ""implied_sentiment"": ""neutral"",
+  ""context"": ""The sentence 'Uyahla' means 'You are going' in isiXhosa and is not inherently toxic."",
+  ""negative_connotations"": [],
+  ""toxic_function"": ""The sentence does not serve a toxic function."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is not toxic in isolation and does not require detoxification.""
+}",not_toxic,low,other,colloquial,neutral,The sentence does not serve a toxic function.,NONE,review_required,False,The sentence is not toxic in isolation and does not require detoxification.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:23:30.188278+00:00
+5,isiXhosa,Ubungqina bokuba indaleko ingahamba umva.,Abantu bafunda kwaye baphuhlise ngamanqanaba ahlukeneyo.,"{
+  ""source_status"": ""not_toxic"",
+  ""toxicity_level"": ""low"",
+  ""tone"": ""neutral"",
+  ""language_style"": ""neutral"",
+  ""implied_sentiment"": ""neutral"",
+  ""context"": ""The sentence discusses the concept of evolution or progress potentially regressing."",
+  ""negative_connotations"": [],
+  ""toxic_function"": ""The sentence does not serve a toxic function."",
+  ""toxic_span"": ""NONE"",
+  ""detox_strategy"": ""review_required"",
+  ""detoxifiable"": false,
+  ""reason"": ""The sentence is not toxic in isolation and does not contain any negative or harmful language.""
+}",not_toxic,low,neutral,neutral,neutral,The sentence does not serve a toxic function.,NONE,review_required,False,The sentence is not toxic in isolation and does not contain any negative or harmful language.,REVIEW_REQUIRED,review_required,HIGH,Skipped generation due to source status,"{""generated_output"": ""REVIEW_REQUIRED""}",openai/gpt-4o,2026-08-29T08:23:32.304496+00:00

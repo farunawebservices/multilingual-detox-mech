@@ -1,0 +1,29 @@
+language,language_code,role,original_index,toxic_input,human_reference,source_id
+Yorùbá,yo,demo,159,A kò ní fi ọ síbẹ̀ mọ́,A ó fi ọ síbẹ̀ bí o bá ṣiṣẹ́ dáadáa,
+Yorùbá,yo,demo,163,Iwọ jẹ́ aláìwúlò,O ní agbára àti oye tó yẹ kí o lo,
+Yorùbá,yo,demo,48,Ìnù-rere ìrò rẹ jẹ́ ohun irira,Ìfihàn ìnù-rere yìí kò ṣàfihàn òótọ́,
+Yorùbá,yo,demo,166,Ó dájú pé o máa kùnà,"O lè dojukọ ìṣòro, ṣùgbọ́n o tún lè ṣàṣeyọrí",
+Yorùbá,yo,demo,169,Ẹ̀rù rẹ̀ ń bà mí,Ìhùwàsí rẹ̀ ń fa ìṣòro fún ìbáṣepọ̀ wa,
+Yorùbá,yo,demo,55,O n sọrọ bi alagabagebe,Ọ̀rọ̀ rẹ yìí ko yémi; jọ̀wọ́ sọ̀ ko yémi,
+Yorùbá,yo,demo,107,Ìwọ yóò mọ̀ ìbínú mi.,Ìdáhùn mi yóò hàn,
+Yorùbá,yo,demo,0,Ìwọ jẹ́ aláìmọ̀,Ìwọ nílò lati kọ́ ẹ̀kọ́ síi,
+Yorùbá,yo,eval,124,Ìpò yìí jẹ́ àjálù.,Ìpò yìí kò bójú mu,yo_124
+Yorùbá,yo,eval,68,Ìwọ yóò banujẹ pé o tako mi.,A lè kọ́ ẹ̀kọ́ nínú ìṣẹ̀lẹ̀ yìí; jọ̀wọ́ jẹ́ ká ṣètúnṣe,yo_068
+Yorùbá,yo,eval,33,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi,yo_033
+Yorùbá,yo,eval,66,Máa bá ẹ jẹ́.,N kò ní gbàgbé ohun tó ṣẹ̀lẹ̀,yo_066
+Yorùbá,yo,eval,109,O ti kọjá ààlà tí kò yẹ.,Ìṣe yìí kọja ààlà,yo_109
+Yorùbá,yo,eval,112,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde nkan lè tóbi ju bó ṣe rò lọ,yo_112
+isiXhosa,xh,demo,159,Ungumxhaphazi.,Indlela oziphethe ngayo iyandoyikisa.,
+isiXhosa,xh,demo,163,Uyinyoka.,Awunyanisekanga.,
+isiXhosa,xh,demo,48,"Uya kufumana into oyifaneleyo, ulishumi.",Ndiyakholelwa ngokulinganayo.,
+isiXhosa,xh,demo,166,Awunyanisekanga.,Andiziva ndinokuthembela kuwe.,
+isiXhosa,xh,demo,169,Uyintlungu.,Ubangela ubunzima.,
+isiXhosa,xh,demo,55,Le iya kuba yimpazamo yokugqibela owakha wayenza.,Ndiyathemba ukuba oku kusebenza njengamava okufunda.,
+isiXhosa,xh,demo,107,Ngaba awukhe ucinge ngaphambi kokuba uthethe?,Kunokuba luncedo ukuqwalasela ifuthe lamagama akho.,
+isiXhosa,xh,demo,0,Ulibele ukuba ungumntu ongenangqondo nje?,Ulibele ukuba ungumntu ongena lwazi?,
+isiXhosa,xh,eval,124,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,xh_124
+isiXhosa,xh,eval,68,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,xh_068
+isiXhosa,xh,eval,33,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,xh_033
+isiXhosa,xh,eval,66,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,xh_066
+isiXhosa,xh,eval,109,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,xh_109
+isiXhosa,xh,eval,112,Ubungqina bokuba indaleko ingahamba umva.,Abantu bafunda kwaye baphuhlise ngamanqanaba ahlukeneyo.,xh_112

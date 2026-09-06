@@ -1,0 +1,179 @@
+Language,Toxic Sentence (Input),Detoxified Sentence (Output)
+isiXhosa,Ulibele ukuba ungumntu ongenangqondo nje?,Ulibele ukuba ungumntu ongena lwazi?
+isiXhosa,"Hamba uyokufa wedwa, asinamdla ngawe!","Ungasifaki kulongxaki yakho, asinamdla ngawe!"
+isiXhosa,"Yhu, uthetha izinto ezisisenxibo nje!","Ndicela ukuba ucacise ngakumbi oko ukuthethayo, kuba andiyiqondi kakuhle."
+isiXhosa,Ndiza kukwenza uzisole ngale.,Ndiyathemba ukuba uya kucamngca ngeziphumo zezenzo zakho.
+isiXhosa,Uya kuhlawula into oyenzileyo.,Uyakujongana neziphumo zalento uyenzileyo.
+isiXhosa,Ndiza kubophula ubuso bakho.,Ndidinga ukuwubonisa umsindo wam.
+isiXhosa,Ndiza kukufumana.,Andiyi kuyivumela le nto ingadlikisi.
+isiXhosa,Ndiza kukubetha,Ndicela ukuba uyeke le ndlela yokuziphatha.
+isiXhosa,Ndiza kukwenza okungazalwanga.,Ndifuna ukuba sifumane isisombululo esisebenza kuye wonke umntu.
+isiXhosa,Uya kuzisola ngokundila.,Ndiya kuphoxeka ukuba uwele umda ekuvunyelwene ngawo.
+isiXhosa,Ndiza kukutshabalalisa.,Ndiza kwenza yonke into esemandleni am ukukhusela umdla wam. 
+isiXhosa,Ndiza kukwenzakalisa.,Ndiziva ndonzakele ngamazwi / izenzo zakho.
+isiXhosa,Awunokwazi ukuba kubetha ntoni.,Ndiza kukwenza indawo yam icace.
+isiXhosa,Ndiza kukwenza ukubandezeleka.,Andifuni ukuba nabani na abe neengxaki.
+isiXhosa,Ndiza kukufundisa isifundo.,Ndifuna ufunde kule meko.
+isiXhosa,Uya kufumana into eza kuwe.,Kuya kubakho iziphumo zezi zenzo.
+isiXhosa,Ndiza kwenza ubomi bakho bube lusizi.,Andonwababga yindlela ondiphethe ngayo.
+isiXhosa,Uza kuzisola.,Ndifuna ukuqhubela phambili kwicala elifanelekileyo.
+isiXhosa,Ndizakufumana nawe.,Ndiyakholelwa kwisigqibo esifanelekileyo.
+isiXhosa,Ndiza kukwenza uhlawule.,Ndizimisele ukufuna imbuyekezo.
+isiXhosa,Awusoze uyibone ezayo.,Ndiza kunxibelelana neenjongo zam.
+isiXhosa,Ndiza kuphelisa le nto.,Ndifuna ukuzisa esi sigqibo esaneleyo.
+isiXhosa,Udlala umdlalo oyingozi.,Ndixhalabile ngomngcipheko obandakanyekayo.
+isiXhosa,Ndizakuvala.,Ndicela ukuba uyeke ukuphazamisa.
+isiXhosa,Uyakufumana into ekufaneleyo.,Uxanduva lokuphendula lubalulekile.
+isiXhosa,Ndiza kwenza umzekelo wakho.,Ndifuna ukuqinisekisa ukuba le nto iphinde yenzeke.
+isiXhosa,Uya kuzisola ngemini odibene naye.,Ndiyazisola ngendlela esiphuhliswe ngayo intsebenzo yethu.
+isiXhosa,Ndiza kususa loo mazwi ebusweni bakho.,Andonwabanga yindlela yakho.
+isiXhosa,Ndiza kukwenza utye la magama.,Andivumelani nento oyithethileyo.
+isiXhosa,Uya kwenzakala.,Ndikhathazekile ukuba umntu uya kukwenzakala.
+isiXhosa,Ndiza kuthatha yonke into kuwe.,Ndiza kukhusela iimpahla zam.
+isiXhosa,Uya kuzisola owakhe waqalisa oku.,Ndinqwenela ukuba sifumane isisombululo esinoxolo ngakumbi.
+isiXhosa,Ndiza kukwenza ukuba ucele.,Ndifuna ukuba sifumane isisombululo esigcina isidima sakho kumntu wonke.
+isiXhosa,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.
+isiXhosa,Ndiza kuqinisekisa ukuba ungaze ulibale le nto.,Ndiyathemba ukuba singafunda kula mava.
+isiXhosa,Ndiza kukonakalisa.,Ndiza kukhusela igama lam.
+isiXhosa,Uya kuhlawula ixabiso.,Kukho iimpembelelo zemali kwezi zenzo.
+isiXhosa,Ndiza kukwenza uzisole ngesi sigqibo.,Andivumelani nesi sigqibo.
+isiXhosa,Ndiza kukwenza ukuba ube ufile.,Ndibuhlungu ngale meko.
+isiXhosa,"Uya kufumana into eza kuwe, kwaye imbi.",Ndiyakholelwa kubulungisa.
+isiXhosa,Ndiza kukwenza ukuba ubendezeleke iziphumo ongakwaziyo nokucinga.,Ndifuna ukuqinisekisa ukuba iziphumo zinhle.
+isiXhosa,Ndiza kutshabalalisa igama lakho.,Ndixhalabile ngomonakalo kuwo onke amaqela abandakanyekayo.
+isiXhosa,Uya kuphulukana nayo yonke into.,Ndifuna ukufumana isisombululo esinciphisa ilahleko.
+isiXhosa,Ndiza kukwenzela umzekelo kwabanye.,Ndifuna ukuseka izikhokelo ezicacileyo.
+isiXhosa,Uya kujongana nengqumbo yam.,Ndinomsindo kakhulu.
+isiXhosa,Ndiza kungena esihogweni.,Ndibona uxinzelelo olukhulu kakhulu.
+isiXhosa,Uya kuzisola ngemini owazalwa ngayo.,Ndidanile kakhulu.
+isiXhosa,Ndiza kwenza ubomi bakho bube sisihogo esiphilayo.,Ndifuna ukukuphucula le meko.
+isiXhosa,"Uya kufumana into oyifaneleyo, ulishumi.",Ndiyakholelwa ngokulinganayo.
+isiXhosa,Ndiza kukwenza ukuba ungakhange udibane nam.,Ndiyazisola ukusebenzisana kwethu.
+isiXhosa,Uza kuhlawula kakuhle ngale nto.,Oku kuya kuba neendleko ezibalulekileyo.
+isiXhosa,Ndiza kuqinisekisa ukuba ungaze ulibale lo mhlazo.,Ndiyathemba ukuba singafunda kwaye sikhule kule nto.
+isiXhosa,Uya kubandezeleka iziphumo zezenzo zakho.,Izenzo zinezinto ezihlaziyiweyo.
+isiXhosa,Ndiza kuwe.,Ndilandela zonke iindlela zokusombulula lo mbandela.
+isiXhosa,Uziphosile nomntu ongalunganga.,Undikhathazile kakhulu.
+isiXhosa,Le iya kuba yimpazamo yokugqibela owakha wayenza.,Ndiyathemba ukuba oku kusebenza njengamava okufunda.
+isiXhosa,Usayine nje iwaranti yakho.,Ubunzulu bemeko kukubona kakhulu.
+isiXhosa,Ndiza kukuphelisa.,Ndiza kuyizisa le nto.
+isiXhosa,Unyathela umkhenkce omncinci.,Izenzo zakho ziyingozi.
+isiXhosa,"Ndinqumle, kwaye uya kuzisola.",Ndiyakubongoza ukuba uqwalasele kwakhona iziphumo zakho ngezizenzo.
+isiXhosa,Ndizokuphulukana nomonde wam nawe.,Ndizakuphelelwa lelixesha ndinalo nawe.
+isiXhosa,Undityhala kumda.,Undisondeza kumda wam.
+isiXhosa,Zilungiselele okona kubi.,Ndilindele imiphumo emibi.
+isiXhosa,Undenze utshaba olunamandla namhlanje.,Ububonile ubudlelwane bethu.
+isiXhosa,Imbuyiselo iya kukhawuleza.,Ndiza kufuna okusesikweni ngokukhawuleza.
+isiXhosa,Uya kurhalela olu suku.,Nditsho neminyhadala yosuku.
+isiXhosa,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.
+isiXhosa,Utywine ikamva lakho.,Ukukhetha kwakho kukhokelele kwimeko enzima.
+isiXhosa,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.
+isiXhosa,Izenzo zakho ziya kuba nemiphumo.,Izenzo zakho ziya kuba nemiphumo emihle.
+isiXhosa,Uya kujongana neziphumo zokuphumelela kwakho.,Ukungahloniphi kwakho akuyi kuhamba ungabi nazityhakala.
+isiXhosa,Ndiza kukwenza uzisole ngemini owazalwa ngayo.,Ndilusizi kakhulu ngeli thuba seziganeko.
+isiXhosa,Uyenzele ukungakholiswa kwam.,Ndicaphukile kakhulu.
+isiXhosa,Andizukuphumla ndide ndiphinde ndiziphindezelele.,Ndiza kulandela isisombululo sokuzimisela okungagungqiyo.
+isiXhosa,Uvele wabonakalisa isigebenga sokulala.,Uye wacaphukisa ukuphendula.
+isiXhosa,Ukungathobeki kwakho akuyi kohlwaywa.,Ukungathobeli kwakho kuya kulungiswa.
+isiXhosa,Uya kufunda intsingiselo yentlungu.,Andinqweneli ukuba nabani na afumane iintlungu.
+isiXhosa,Ndiza kukwenza ukuba uve ubunzima obukhulu. ,Ndiyathemba ukuba isisombululo esinciphisa ingozi.
+isiXhosa,Uya kucela inceba yam.,Ndifuna isisombululo esigcina isidima.
+isiXhosa,Ubomi bakho buya kuphulukana.,Le meko iye yanda ukuya kwinqanaba elinzima.
+isiXhosa,Ndiza kukwenza umnikelo awukwazi ukwala.,Ndiza kuzisa isindululo esinyanzelekileyo.
+isiXhosa,Udlala ngomlilo.,Uthatha umngcipheko onobungozi.
+isiXhosa,Uya kuwuva umsindo wam.,Andikholiswa kakhulu.
+isiXhosa,Ndiza kukuthatha i-peg okanye ezimbini.,Ndiza kulungisa indlela oziphethe ngayo.
+isiXhosa,Ukwi-ice emkhenkceni kunye nam.,Ndilahlekelwe ngumonde.
+isiXhosa,Andifuni ukuba kwizihlangu zakho ngoku.,Andisithandi isikhundla sakho.
+isiXhosa,Uza kuvuswa krwada.,Ungothuki.
+isiXhosa,Ndiza kukubeka endaweni yakho.,Ndiza kuqinisekisa igunya lam.
+isiXhosa,Uwele umgca ongafanelekanga ukuba ungawuwela.,Ukrwada umda.
+isiXhosa,Uya kuzisola ngale ntsasa.,Unokuziva ngokwahlukileyo ngale nto kamva.
+isiXhosa,Ndiza kwenza ukuba ubhatale kalishumi ngaphezulu.,Ndiza kufuna umonakalo obalulekileyo.
+isiXhosa,Wenze nje utshaba olunamandla.,Uyenzile i-rift.
+isiXhosa,Ndiza kuqinisekisa ukuba awusoze uyilibale le nto.,Ndifuna ukuqinisekisa ukuba oku kushiya umbono oqinisekileyo.
+isiXhosa,"Uya kufumana into eza kuwe, emva koko.",Ndiyakholelwa uyakufumana iziphumo ezikulinganayo.
+isiXhosa,Ndiza kukwenza ukuba ubandezeleke iziphumo ongakwaziyo nokuzicinga.,Ndifuna ukuqinisekisa iziphumo ezifanelekileyo nezilinganayo.
+isiXhosa,Ndiza kutshabalalisa ukuthembeka kwakho.,Ndixhalabile ngefuthe kwigama lakho.
+isiXhosa,Uya kuphulukana nayo yonke into oyithandayo.,Ndiyathemba ukuba isisombululo esinciphisa ukonakaliswa kwawo onke amaqela abandakanyekayo.
+isiXhosa,Ndiza kukwenzela umzekelo ukuze ubone.,Ndifuna ukuzekelisa izikhokhelo ezicacileyo ukuze ufunde.
+isiXhosa,Uya kujongana nobushushu bam obugcweleyo.,Andikholiswa kakhulu kwaye ndifune ukulungiswa kwangoko.
+isiXhosa,Ndizokuyeka amandla am aphelele kuwe.,Ndifumana uxinizelelo olukhulu kwaye ndifuna isisombululo esikhawulezileyo nesilinganayo.
+isiXhosa,Uya kuzisola ngeemeko zokuzalwa kwakho.,"Ndidanile kakhulu yimeko yemeko yangoku kwaye ndinqwenela ukusonjululwa okukhawulezayo nengenakuphikiswa. Ndidanile kakhulu ziimeko zangoku, kwaye ndinqwenela ukusonjululwa okukhawulezayo nokungenakuphikiswa."
+isiXhosa,Ndiza kwenza ukubakho okuqhubekayo kokubakho.,Ndizimisele ukufumana indlela eya phambili eqinisekisa ukuba impilo-ntle yabo bonke ababandakanyekayo kwaye bathintela ukonakala okungaphezulu.
+isiXhosa,Uya kufumana into oyifaneleyo.,Ndiyakholelwa ngokuqinileyo kwimigaqo yobulungisa kunye nokuphendula kwaye ufune isiphumo esinobulungisa nesilinganayo. Ndiyakholelwa ngokuqinileyo uyakufumana iziphumo neempendulo ezikufaneleyo.
+isiXhosa, Ingaba uhlala ungenanto?,Kubonakala ngathi unengxaki yokuqonda oku.
+isiXhosa,Akukho isixhobo esibukhali kwi-shed.,Awunakho ukuba namava amaninzi ngale nto njengabanye.
+isiXhosa,Ngaba ingqondo yakho yenziwe ziziponji?,Ingaba uziva ungaphilanga?
+isiXhosa,Unobukrelekrele begolide.,Wonke umntu unamandla ahlukeneyo.
+isiXhosa,Ngaba awukhe ucinge ngaphambi kokuba uthethe?,Kunokuba luncedo ukuqwalasela ifuthe lamagama akho.
+isiXhosa,U-DUMBER kune-geknob.,Unendlela eyahlukileyo yokujonga izinto.
+isiXhosa,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.
+isiXhosa,Ngaba wazalwa kwindlela enkulu? Kulapho uninzi lweengozi lwenzeka khona.,Ndixhalabile kukhuseleko lwakho.
+isiXhosa,Awungekhe ugalele amanzi kwi-boot enemiyalelo yesithende.,Lo msebenzi unokuba ngumngeni kuwe.
+isiXhosa,Ubungqina bokuba indaleko ingahamba umva.,Abantu bafunda kwaye baphuhlise ngamanqanaba ahlukeneyo.
+isiXhosa,Usebenza kwi-frequency engezantsi.,Kubonakala ngathi sinezitayile zonxibelelwano ezahlukeneyo.
+isiXhosa,Ndinemibhoxo yekofu ngobuntu obungaphezulu kunye nobukrelekrele.,Ndiyayixabisa imbono yakho eyodwa.
+isiXhosa,Usondele njengobukhali njengemabula.,Uzisa iseti yezakhono ezahlukeneyo kwitafile.
+isiXhosa,Ngaba uwile ngaphandle komthi wobudenge wabetha onke amasebe ngasendleleni?,Ndiyathemba ukuba uyalunga.
+isiXhosa,Ambalwa amabele amafutshane kwisidlo esonwabileyo.,Unokuziva udiniwe okanye uxinzelelo.
+isiXhosa,Inqaku lakho le-IQ libushushu kwigumbi.,Ubukrelekrele bunzima kwaye bungangafani.
+isiXhosa,Awudlali ngedesika epheleleyo.,Unendlela eyahlukileyo yokusombulula ingxaki.
+isiXhosa,Ungumntu we-sandwich enye yepikniki.,Uzisa umbono ohlukileyo.
+isiXhosa,Ukhethe njengokukhanya njenge-lletbulb etshisiweyo.,Unendlela ekhethekileyo yokuzichaza.
+isiXhosa,Ndikhe ndabona amatye abuhlungu.,Wonke umntu unamandla okufunda nokukhula.
+isiXhosa,Ngokucacileyo awuzange umphambukeli ngumphezulu wengqondo.,Unazo ezinye iimpawu ezixabisekileyo.
+isiXhosa,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?
+isiXhosa,Wenza imeko enyanzelekileyo yokhetho lwendalo.,Ndiyayihlonipha imbono yakho.
+isiXhosa,Uphila ubungqina bokuba ukungazi kubalulekile.,Wonke umntu unolwazi kunye namava abo.
+isiXhosa,Ujongeka ngathi yiyo i-Cat etsaliwe.,Awubonakali ngathi uziva ungcono.
+isiXhosa,Unxibe ubumnyama?,Ingubo yakho ngokuqinisekileyo yahlukile.
+isiXhosa,Unobuso kuphela umama onokuthanda.,Unenkangeleko eyahlukileyo.
+isiXhosa,Ujongeka ngathi ulele kwilahleko.,Ujongeka ngathi ungasebenzisa ukuphumla.
+isiXhosa,Kwenzeka ntoni ebusweni bakho?,Ingaba ulungile?
+isiXhosa,Awukho umbono omuhle.,Unembonakalo eyahlukileyo.
+isiXhosa,Ujongeka rhabaxa.,Ubonakala udiniwe.
+isiXhosa,Ujongeka ngathi awukalalanga ngeentsuku.,Ujongeka ngathi ufuna ukuphumla.
+isiXhosa,Ingqondo yakho yefashoni ayinangqondo.,Unengqondo yengqondo.
+isiXhosa,Lowo ulisikizi lisikizi.,Ngokuqinisekileyo impahla inyulu ngokuqinisekileyo lukhetho.
+isiXhosa,Ujongeka ngathi ngumdaka oshushu.,Kubonakala ngathi uhamba kakhulu.
+isiXhosa,Unesitayile sobuso.,Unesitayile esikhethekileyo kakhulu.
+isiXhosa,Ubonakala ngathi ungochukunyiswe yinkawu engaboniyo.,Isimbo sakho ngokuqinisekileyo sivakalisa.
+isiXhosa,Inkangeleko yakho lixesha.,Unembonakalo eyahlukileyo.
+isiXhosa,Ujongeka ngathi udlule kwi-blender.,Ujongeka ngathi unexesha elinzima.
+isiXhosa,Lo mbala awukwenzi nto kuwe.,Lo mbala awunakuba lolona khetho lufanelekileyo kuwe.
+isiXhosa,Ujongeka ngathi unxibe iimpahla zomnye umntu.,Iingubo zakho azibonakali zikulungele kakuhle.
+isiXhosa,Unembonakalo ekhethekileyo kakhulu.,Unesitayile somntu ngamnye.
+isiXhosa,Ubonakala ngathi awukasiboni isipili kwiminyaka.,Mhlawumbi i-hairtyle eyahlukileyo iya kukulungela.
+isiXhosa,Ujongeka ngathi yifoto.,Unakho ukujonga konke okusemandleni akho.
+isiXhosa,Ujongeka ngathi uphononongo lwe bhanyabhanya ye-zombie.,Unomtsalane omangalisayo.
+isiXhosa,Ubonakala ngathi ugqogqe i-bigger kunye nebheji ephumelele.,Ujongeka ngathi ukwimeko enzima.
+isiXhosa,Ubonakala ngathi uneminyaka elishumi ubusuku bonke.,Ujongeka ngathi uhamba ngexesha loxinzelelo.
+isiXhosa,Unobuso obungalibalekiyo ... kuzo zonke izizathu eziphosakeleyo.,Uvele kakhulu.
+isiXhosa,Ungumntu owoyikekayo.,Ndixhalabele indlela oziphethe ngayo.
+isiXhosa,Awunayo indlela yokuziphatha.,Andivumelani nezenzo zakho.
+isiXhosa,Uzingca.,Izenzo zakho zibonakala zibeka phambili iimfuno zakho.
+isiXhosa,Ulihlazo.,Ndiphoxekile kwihambo yakho.
+isiXhosa,Uyiphoxile.,Ndandilindelwe kakhulu.
+isiXhosa,Unovelwano.,Ndixhalabele impilo yakho.
+isiXhosa,Uhamba ngendlela.,Ubonakala ngathi uyathandabuza ukuba ume.
+isiXhosa,Uligwala.,Ubonakala woyika.
+isiXhosa,Ungumxhaphazi.,Indlela oziphethe ngayo iyandoyikisa.
+isiXhosa,Unetyhefu.,Ukuziphatha kwakho kuyingozi.
+isiXhosa,Uyintsapho leyo.,Kubonakala ngathi usebenzisa abanye.
+isiXhosa,Ungumgangatho weparasite.,Izenzo zakho ziyingozi kwabanye.
+isiXhosa,Uyinyoka.,Awunyanisekanga.
+isiXhosa,Ujongene nelinye.,Awungqinelani kumazwi nakwizenzo zakho.
+isiXhosa,Ungumntu ongasemva.,Uvelise ukuthembana kwam.
+isiXhosa,Awunyanisekanga.,Andiziva ndinokuthembela kuwe.
+isiXhosa,Awunakuthenjwa.,Awuxhomekekanga.
+isiXhosa,UnguKumkanikazi weDrama / inkosi.,Uthanda ukuphuphuma.
+isiXhosa,Uyintlungu.,Ubangela ubunzima.
+isiXhosa,Uyinkathazo.,Uyaphazamisa.
+isiXhosa,Uyinyama.,Uyacaphukisa.
+isiXhosa,Uyinkcitho yendawo.,Awunagalelo ngokuqinisekileyo.
+isiXhosa,Usisizathu esilahlekileyo.,Imeko inzima.
+isiXhosa,Ukungasebenzi.,Awukwazi ukutshintsha.
+isiXhosa,Ungqengqa.,Indlela oziphethe ngayo iyacaphukisa.
+isiXhosa,isidenge,ukuqonda kwakho kufuna ukuphuculwa
+isiXhosa,umfana ophambeneyo,indlela yakho imbi kakhulu

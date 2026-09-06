@@ -1,0 +1,29 @@
+Running yo_124 | direct
+Running yo_124 | structured_cot
+Running yo_068 | direct
+Running yo_068 | structured_cot
+Running yo_033 | direct
+Running yo_033 | structured_cot
+Running yo_066 | direct
+Running yo_066 | structured_cot
+Running yo_109 | direct
+Running yo_109 | structured_cot
+Running yo_112 | direct
+Running yo_112 | structured_cot
+Running xh_124 | direct
+Running xh_124 | structured_cot
+Running xh_068 | direct
+Running xh_068 | structured_cot
+Running xh_033 | direct
+Running xh_033 | structured_cot
+Running xh_066 | direct
+Running xh_066 | structured_cot
+Running xh_109 | direct
+Running xh_109 | structured_cot
+Running xh_112 | direct
+Running xh_112 | structured_cot
+
+Complete.
+Generations: /workspace/detox_cot_pilot/outputs/cot_pilot_generations.csv
+Split manifest: /workspace/detox_cot_pilot/outputs/cot_pilot_split_manifest.csv
+Run manifest: /workspace/detox_cot_pilot/outputs/cot_pilot_run_manifest.json

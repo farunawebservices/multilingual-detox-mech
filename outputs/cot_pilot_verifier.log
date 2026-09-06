@@ -1,0 +1,26 @@
+Verifying row 1/24: yo_124 | direct
+Verifying row 2/24: yo_124 | structured_cot
+Verifying row 3/24: yo_068 | direct
+Verifying row 4/24: yo_068 | structured_cot
+Verifying row 5/24: yo_033 | direct
+Verifying row 6/24: yo_033 | structured_cot
+Verifying row 7/24: yo_066 | direct
+Verifying row 8/24: yo_066 | structured_cot
+Verifying row 9/24: yo_109 | direct
+Verifying row 10/24: yo_109 | structured_cot
+Verifying row 11/24: yo_112 | direct
+Verifying row 12/24: yo_112 | structured_cot
+Verifying row 13/24: xh_124 | direct
+Verifying row 14/24: xh_124 | structured_cot
+Verifying row 15/24: xh_068 | direct
+Verifying row 16/24: xh_068 | structured_cot
+Verifying row 17/24: xh_033 | direct
+Verifying row 18/24: xh_033 | structured_cot
+Verifying row 19/24: xh_066 | direct
+Verifying row 20/24: xh_066 | structured_cot
+Verifying row 21/24: xh_109 | direct
+Verifying row 22/24: xh_109 | structured_cot
+Verifying row 23/24: xh_112 | direct
+Verifying row 24/24: xh_112 | structured_cot
+
+Wrote /workspace/detox_cot_pilot/outputs/cot_pilot_verification.csv

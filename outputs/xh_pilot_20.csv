@@ -1,0 +1,46 @@
+source_id,language,language_code,original_index,condition,model,temperature,prompt_hash,toxic_input,human_reference,generated_output,raw_response,source_status,strategy,toxic_function,toxic_span,content_to_preserve,edit_operation,meaning_risk,status,error,response_id,created_utc,score,split
+xh_068,isiXhosa,xh,68,structured_cot,openai/gpt-4o,0.2,e8f728642b9353d9,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,Kuya kubakho iziphumo ezimbi ukuba sihlawule.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: B_REPHRASE_DEROGATORY_CONTENT
+TOXIC_FUNCTION: derogatory prediction
+TOXIC_SPAN: ""isihogo""
+CONTENT_TO_PRESERVE: future consequence
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Kuya kubakho iziphumo ezimbi ukuba sihlawule.",TOXIC_SUITABLE,B_REPHRASE_DEROGATORY_CONTENT,derogatory prediction,"""isihogo""",future consequence,REPHRASE,LOW,ok,,gen-1787982775-d27YCKPHb1JGFeuUrgHO,2026-08-29T05:52:56.463051+00:00,3,pilot_20
+xh_068,isiXhosa,xh,68,direct,openai/gpt-4o,0.2,a97417a41f30dd47,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982773-ZDWb45SmDmmnm49CcG11,2026-08-29T05:52:54.613538+00:00,3,pilot_20
+xh_066,isiXhosa,xh,66,direct,openai/gpt-4o,0.2,cc993b7c19240782,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982779-wa8FYU6roTSPAQCgvh0S,2026-08-29T05:53:00.840029+00:00,3,pilot_20
+xh_066,isiXhosa,xh,66,structured_cot,openai/gpt-4o,0.2,1be33524db87cc95,Umsindo wam uya kuba phezu kwakho.,Umsindo wam uyamqaphela.,Ndicela uqwalaselo lwakho kumcimbi obangela umsindo wam.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile threat
+TOXIC_SPAN: ""Umsindo wam uya kuba phezu kwakho.""
+CONTENT_TO_PRESERVE: expression of anger
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ndicela uqwalaselo lwakho kumcimbi obangela umsindo wam.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile threat,"""Umsindo wam uya kuba phezu kwakho.""",expression of anger,REPHRASE,LOW,ok,,gen-1787982781-FgyRtmJmq2HL1i8nYisb,2026-08-29T05:53:02.653638+00:00,3,pilot_20
+xh_033,isiXhosa,xh,33,structured_cot,openai/gpt-4o,0.2,246dc6f428605fc8,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,Awuziphathi kakuhle.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: A_DELETE_OR_REPLACE_PROFANITY
+TOXIC_FUNCTION: insult
+TOXIC_SPAN: ""Uyahla""
+CONTENT_TO_PRESERVE: criticism
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Awuziphathi kakuhle.",TOXIC_SUITABLE,A_DELETE_OR_REPLACE_PROFANITY,insult,"""Uyahla""",criticism,REPLACE,LOW,ok,,gen-1787982778-p4IajZIEAN572rAydrdk,2026-08-29T05:52:59.376566+00:00,2,pilot_20
+xh_033,isiXhosa,xh,33,direct,openai/gpt-4o,0.2,77b55e47d7140947,Uyahla.,Ndiyakholelwa ukuba sinokufumana indlela ebhetele.,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982777-JHjKZxWPLRO0j6R6frPr,2026-08-29T05:52:57.662300+00:00,2,pilot_20
+xh_124,isiXhosa,xh,124,direct,openai/gpt-4o,0.2,d992a31531120f94,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,REVIEW_REQUIRED,REVIEW_REQUIRED,,,,,,,,ok,,gen-1787982770-MpMR5eXSiFpAlylZuVn6,2026-08-29T05:52:51.769774+00:00,1,pilot_20
+xh_124,isiXhosa,xh,124,structured_cot,openai/gpt-4o,0.2,b9cf75f4404b346d,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,Ngaba indlela oziphethe ngayo iyamangalisa?,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: A_DELETE_OR_REPLACE_PROFANITY
+TOXIC_FUNCTION: insult
+TOXIC_SPAN: ""inyuka inyusi""
+CONTENT_TO_PRESERVE: question about behavior
+EDIT_OPERATION: REPLACE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Ngaba indlela oziphethe ngayo iyamangalisa?",TOXIC_SUITABLE,A_DELETE_OR_REPLACE_PROFANITY,insult,"""inyuka inyusi""",question about behavior,REPLACE,LOW,ok,,gen-1787982772-HkO8NxtM5JNpSAiNDRgx,2026-08-29T05:52:53.404772+00:00,1,pilot_20
+xh_109,isiXhosa,xh,109,direct,openai/gpt-4o,0.2,188a993c46785e45,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,Kunzima ukuthetha nawe.,Kunzima ukuthetha nawe.,,,,,,,,ok,,gen-1787982783-kD6rHENePKcdF73mdE1Q,2026-08-29T05:53:03.950355+00:00,1,pilot_20
+xh_109,isiXhosa,xh,109,structured_cot,openai/gpt-4o,0.2,aaebef4fc9a675c0,Kufana nokuthetha nodonga lwezitena kunye nawe.,Ndinengxaki yokunxibelelana kakuhle nawe.,Kunzima ukuncokola nawe.,"SOURCE_STATUS: TOXIC_SUITABLE
+STRATEGY: C_SOFTEN_HOSTILE_CRITICISM
+TOXIC_FUNCTION: hostile criticism
+TOXIC_SPAN: ""Kufana nokuthetha nodonga lwezitena""
+CONTENT_TO_PRESERVE: difficulty in communication
+EDIT_OPERATION: REPHRASE
+MEANING_RISK: LOW
+DETOX_OUTPUT: Kunzima ukuncokola nawe.",TOXIC_SUITABLE,C_SOFTEN_HOSTILE_CRITICISM,hostile criticism,"""Kufana nokuthetha nodonga lwezitena""",difficulty in communication,REPHRASE,LOW,ok,,gen-1787982784-tMdudXxsdgBDd8V2Csam,2026-08-29T05:53:05.696742+00:00,1,pilot_20

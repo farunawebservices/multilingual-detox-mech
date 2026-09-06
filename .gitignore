@@ -1,2 +1,9 @@
-venv/
-results_afrihate/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.key
+*.pem
+outputs/v2_analysis_error_sample.json
+outputs/v2_generation_error_sample.json

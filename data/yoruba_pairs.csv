@@ -1,0 +1,179 @@
+﻿Language,Toxic Sentence (Input),Detoxified Sentence (Output)
+Yoruba,Ìwọ jẹ́ aláìmọ̀,Ìwọ nílò lati kọ́ ẹ̀kọ́ síi
+Yoruba,O jẹ́ aláìlera pátápátá,Ìlera rẹ nilo àtúnṣe
+Yoruba,Ìwọ ò mọ ohun tí o ṣe,Ìṣe rẹ nilo lati farahàn sí
+Yoruba,O jẹ́ asán,Ìṣe rẹ ní àǹfààní lati dara síi.
+Yoruba,O ń nimí lára,Ìṣe rẹ lè nílò àtúnṣe
+Yoruba,Ìwọ jẹ́ ẹni tí kò yẹ,Ìṣe rẹ ní àǹfààní lati dára si
+Yoruba,O kùn fún àìlera,Ìlera rẹ lè dara síi
+Yoruba,Ìwọ ò ní àbájáde rere,Ìṣe rẹ lè ní àbájáde rere pẹ̀lú àmójútó
+Yoruba,O jẹ́ aláìmọ̀kan,O lè gba ìmọ̀ síi pẹ̀lú ìtọ́sọ́nà
+Yoruba,Ìwọ jẹ́ aṣiwèrè,O nílò àkíyésì tó dáa
+Yoruba,Ọ̀rọ̀ rẹ̀ kún fún àlùfànṣá,Ọ̀rọ̀ rẹ̀ nílò ìmúlò díẹ̀ kí ó lè dáa jù báyìí lọ
+Yoruba,O jẹ́ olè,Ìṣe rẹ ní nílò àtúnṣe
+Yoruba,Ìwọ jẹ́ olóríburúkú,Ìṣe rẹ nilo àtúnṣe pẹ̀lú ìmúlò
+Yoruba,O jẹ́ olórí burúkú,Ìṣe rẹ lè ṣe ànfàní pẹ̀lú àtúnṣe
+Yoruba,O jẹ́ aláìṣètó,Ìṣe rẹ nílò àtúnṣe tó dáa
+Yoruba,Ìwọ jẹ́ aláìgbọràn,Ìwà rẹ lè dara síi pẹ̀lú ìtósọ́nà
+Yoruba,O jẹ́ aláìlera ní ọpọlọ,Ìmọ̀ rẹ lè tẹ̀síwájú pẹ̀lú ìmúlò
+Yoruba,O jẹ́ ẹni tí kò tọ́,Ìṣe rẹ lè wúlò pẹ̀lú àtúnṣe
+Yoruba,O jẹ́ aláìnífọwọ́sowọpọ̀,Ìṣe rẹ lè ní tẹ̀síwájú pẹ̀lú ìfọwọ́sowọpọ̀
+Yoruba,O jẹ́ ẹni tí kò yẹ láti gbà àṣẹ,Ìṣe rẹ lè dara síi kí ó yẹ fún àṣẹ
+Yoruba,Ìṣe rẹ̀ kù díẹ̀,Ìṣe rẹ̀ nílò àfikún síi
+Yoruba,Ìtàn rẹ̀ kò mọ́,Ìtàn rẹ̀ nílò àtúnṣe
+Yoruba,Ìsọ̀kan rẹ̀ kéré,Ìsọ̀kan rẹ̀ nílò ìgbéga díẹ̀
+Yoruba,Ìtọ́sọ́nà rẹ̀ kùnà,Ìtọ́sọ́nà rẹ̀ nílò àfikún díẹ̀
+Yoruba,Ìwádìí rẹ̀ kò péye,Ìwádìí rẹ̀ nílò ìfọkànsìn síi
+Yoruba,Ìmúlò rẹ̀ kò pé,Ìmúlò rẹ̀ nílò àfikún díẹ̀
+Yoruba,Ìpinnu rẹ̀ kéré,Ìpinnu rẹ̀ nílò ìgbéga díẹ̀
+Yoruba,Ìmọ̀ràn rẹ̀ kò pé,Ìmọ̀ràn rẹ̀ nílò àfikún síi
+Yoruba,Ìsọ̀kan rẹ̀ ko dára,Ìsọ̀kan rẹ̀ nílò àfikún síi
+Yoruba,Ìdáhùn rẹ̀ burú,Ìdáhùn rẹ̀ nílò ìtúnṣe díẹ̀
+Yoruba,Ìbéèrè rẹ̀ kò yẹ,Ìbéèrè rẹ̀ nílò àtúnṣe díẹ̀
+Yoruba,Ìmọ̀ rẹ̀ ò dájú,Ìmọ̀ rẹ̀ nílò ìmúdájú díẹ̀
+Yoruba,Ìṣe rẹ̀ kò péye,Ìṣe rẹ̀ nílò àtúnṣe díẹ̀
+Yoruba,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi
+Yoruba,Ìmọ̀ rẹ̀ ò pé,Ìmọ̀ rẹ̀ nílò ìtẹ̀síwájú síi
+Yoruba,Ìdí ọ̀rọ̀ rẹ̀ ò dájú,Ìdí ọ̀rọ̀ rẹ̀ nílò àlàyé díẹ̀
+Yoruba,"Otitọ rẹ kodara, kò si ẹni to beere",Ọ̀rọ̀ rẹ̀ kò bójú mu; jọwọ ronú kí o yí iwa padà
+Yoruba,Ọmọ yìí jẹ́ aláṣejù,Ìhùwàsí ọmọ yìí kò dára tó
+Yoruba,Ọrẹ irọ rẹ ko bamilara mu.,Ìwà rẹ̀ yìí kò bójú mu; jọwọ ṣàtúnṣe
+Yoruba,Máa jẹ́ kí o ní ìfarapa,Ìṣe yìí lè ní àbájáde; jọwọ yí ìwà padà
+Yoruba,Ọmọ yìí ṣọ̀kanjúwà,hùwàsí ọmọ yìí kò tọ́; ó yẹ kí ó ṣàtúnṣe.
+Yoruba,Kò sí ẹni tó fẹ́ ẹ níbi iṣẹ́,Ìhùwàsí rẹ̀ níbi iṣẹ́ lè kó ìṣòro bá ọ; jọwọ ṣe àtúnṣe
+Yoruba,Ìròyìn rẹ jẹ́ aṣejù; kò tọ́,Ìròyìn rẹ̀ kò péye; jọwọ ṣàtúnṣe
+Yoruba,O jẹ aláìwúlò àti ènìyàn ọ̀lọ́nkànlílẹ̀,Ìṣe rẹ yìí kò munadoko; jọ̀wọ́ ṣe ní ọ̀nà tó yẹ
+Yoruba,O jẹ aláìníwà àti ẹni ẹ̀rù,Ìwà yìí kò pé; jọ̀wọ́ ṣàtúnṣe
+Yoruba,O ń ní mí lara pẹ̀lú ẹ̀rín àsán yẹn,Ìfarahàn rẹ yìí kò tọ́
+Yoruba,"O ń ṣe bí ẹni pé o dára, ṣùgbọ́n irọ ni",Ìhùwàsí rẹ yìí kò bójúmu tó
+Yoruba,O ń hùwà bí alágàbàgebẹ̀ nígbà gbogbo,Ìhùwàsí rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+Yoruba,Ìnù-rere ìrò rẹ jẹ́ ohun irira,Ìfihàn ìnù-rere yìí kò ṣàfihàn òótọ́
+Yoruba,O jẹ onírò alágàbàgẹ̀bẹ̀,Ọ̀rọ̀ yìí kò yémi; jọ̀wọ́ ṣàlàyé ní kedere
+Yoruba,Má ṣe hùwà bí ẹni tó mọ ohun gbogbo,Jọ̀wọ́ jẹ́ ká fi àyè fun ìmọ̀ tuntun
+Yoruba,"O ń rìn mí lara, àti pé wahalà rẹ pọ̀ jù",Ìhùwàsí yìí ko bójúmu tó; jọ̀wọ́ mu ìbáṣepọ̀ wa rọrùn
+Yoruba,"O ń ṣe bí ẹni pé o jẹ onínúúre, ṣùgbọ́n alágàbàgẹ̀bẹ̀ ni ẹ́",Ìfarahàn ìnù-rere yìí kò yege; jọ̀wọ́ ṣe àtúnṣe
+Yoruba,O jẹ oníwà-buburu ẹ̀dá ti o n yọ gbogbo eniyan lẹnu.,Ìhùwàsí rẹ yìí ń yà míì lẹ́nu; jọ̀wọ́ yi ìwà padà
+Yoruba,"O n ṣe bi ẹni pe o gbọn, ṣugbọn onigberaga ni ẹ",Ìfarahàn ọgbọ́n rẹ kò tẹ́milọ́rùn
+Yoruba,O n sọrọ bi alagabagebe,Ọ̀rọ̀ rẹ yìí ko yémi; jọ̀wọ́ sọ̀ ko yémi
+Yoruba,Inudidun rẹ jẹ iro o tun ṣàárẹ̀,Ìfihàn ayọ̀ yìí kò yege; jọ̀wọ́ ṣàtúnṣe
+Yoruba,O jẹ atanijẹ oni irọ́.,Ìhùwàsí rẹ kò bójú mi; jọ̀wọ́ ṣàtúnṣe
+Yoruba,Iwa rere rẹ jẹ asan.,ìwà rẹ yìí kò bójú mu; jọ̀wọ́ ṣètúnṣe
+Yoruba,O jẹ alagidi lasan,Ìhùwàsí yìí kò dára; jọ̀wọ́ ṣe àtúnṣe
+Yoruba,Ọgbọn rẹ jẹ asan,Ìfarahàn ọgbọ́n rẹ dà bí ìgbéraga
+Yoruba,O jẹ alaiwulo,Ìpinnu àti ìṣe yìí kò munadoko
+Yoruba,O jẹ alaiwulo nigbagbogbo,Ìpinnu àti ìṣe yìí kò munadoko
+Yoruba,Máa jẹ́ kí o bínú gan-an.,ìwà rẹ yìí ko bójúmu to
+Yoruba,Iwọ yóò gba esan ohun tí o ṣe,Iwa yìí leni àbájáde; jọ̀wọ́ ronú kí o yi wa padà.
+Yoruba,Máa fọ ojú ẹ,Mo bínú gan-an sí ohun tí o ṣe
+Yoruba,Máa bá ẹ jẹ́.,N kò ní gbàgbé ohun tó ṣẹ̀lẹ̀
+Yoruba,O ń wá ìjà lọ́wọ́.,Ìṣe re yìí lè ní ewu
+Yoruba,Ìwọ yóò banujẹ pé o tako mi.,A lè kọ́ ẹ̀kọ́ nínú ìṣẹ̀lẹ̀ yìí; jọ̀wọ́ jẹ́ ká ṣètúnṣe
+Yoruba,Máa pa ẹ run.,Máa fi hàn pé o sì jẹ́ aṣìṣe
+Yoruba,Máa jẹ́ kí o ní ìfarapa.,Máa fi hàn pé o ṣe ohun ti ko dara
+Yoruba,Iwọ kò ní mọ ohun tó kọlu rẹ.,Àbájáde lè wà fun ìwà yíì; jọ̀wọ́ ṣe atunṣe
+Yoruba,Máa jẹ́ kí o ṣàníyàn lórí ìṣe rẹ.,Mo fẹ́ kí o mọ́ bí iṣẹ́ rẹ ní ipa tó lágbára
+Yoruba,Máa kọ́ ẹ ní ẹ̀kọ́.,O nílò láti kọ́ ẹ̀kọ́ láti inú ìṣẹ̀lẹ̀ yìí
+Yoruba,Iwọ yóò rí ohun tó tọ́ sí ọ.,Ìṣe rẹ yìí yo ní àbájáde; jọ̀wọ́ yan ọ̀nà tó dara
+Yoruba,Máa jẹ́ kí ayé rẹ dà rú.,Ọ̀nà yìí lè nira; jọ̀wọ́ jẹ́ ká yan ìlànà míràn tó rọrùn
+Yoruba,Ìwọ yóò banujẹ.,Ìṣẹ̀lẹ̀ yìí lè fa ìbànújẹ́; jọ̀wọ́ ronú kí o ṣe ìtúnṣe tó tọ́
+Yoruba,Máa padà fi ẹ̀sùn kan ẹ.,Máa ṣe àtúnṣe lórí ohun tó ṣẹlẹ̀
+Yoruba,Máa jẹ́ kí gba esan iwa rẹ.,Mọ̀ pé ìṣe yi ní àbájáde; jọ̀wọ́ ṣe bó ṣe yẹ
+Yoruba,Ìwọ kò ní iwá.,ìwà rẹ nílò atunṣe
+Yoruba,O ń ṣeré pẹ̀lú ìná.,ìhùwàsí rẹ yìí kò tẹ́milórùn
+Yoruba,Máa mú ẹnu rẹ.,Jọ̀wọ́ sọ̀rọ̀ ní ìwònba
+Yoruba,Ìwọ yóò gba ohun tí o tọ́ sí.,Jọ̀wọ́ tẹ̀lé ìlànà nínú ìṣe rẹ
+Yoruba,Máa fi ọ ṣe àpẹẹrẹ.,Ṣàlàyé ìṣe rẹ kedere ní ìbọ̀wọ̀
+Yoruba,Ìwọ yóò banujẹ pé o pàdé mi.,"Ọ̀rọ̀ yìí lè fa ìyàgò, jọ̀wọ́ je kí ìpàdé wa jẹ́ aláfià"
+Yoruba,Máa gba ẹ́rin yìí kúrò lenu rẹ.,Jọ̀wọ́ má ṣe ṣe ẹ̀gàn; sọ̀rọ̀ ní kíkún
+Yoruba,Ìwọ yóò ní ìfàrápá,Ewu le wà ninu èyí; jọ̀wọ́ gba ìtọ́nisọ́nà
+Yoruba,Ìwọ yóò banujẹ pé o bẹ̀rẹ̀ èyí.,Ronú  lori ìpinnu yìí kò to dáwọ́ le
+Yoruba,Máa jẹ́ kí o bẹ̀ mí.,"Tí o bá nílò ìrànlọ́wọ́, béèrè pẹ̀lú àlàyé"
+Yoruba,Ìwọ yio ṣòfò.,Ìṣe yìí le ma ní èso rere; jọ̀wọ́ yí ọ̀nà padà
+Yoruba,Máa bà  aye ẹ jẹ́.,Jọ̀wọ́ yan ìbánisọ̀rọ̀ aláfiyà kí o lè ṣètúnṣe
+Yoruba,Máa jẹ́ kí o banujẹ ìpinnu yìí.,Ìpinnu yìí lè yọrí sí abájáde mìíràn
+Yoruba,Máa jẹ́ kí o banuje pe o wà láyé.,Kò yẹ kí a sọ ọ̀rọ̀ tó le ba ìlera ọkàn jẹ
+Yoruba,"Ìwọ yóò gba ohun tí o tọ́ sí ọ, pẹ̀lú àrùn.","O máa gba ohun tó tọ́ sí ọ, láì ni àìlera"
+Yoruba,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde na lè ju ohun tí o rò lọ
+Yoruba,Máa bà orúkọ rẹ jẹ́.,Ìṣe yìí lè ba orúkọ rẹ jẹ́
+Yoruba,Ìwọ yóò sọ gbogbo nkan nù.,Ohun tí o ní lè dín kù
+Yoruba,Máa fi ọ ṣe àpẹẹrẹ fún gbogbo ènìyàn.,A ó fi ìṣẹ̀lẹ̀ yìí ṣe àpẹẹrẹ
+Yoruba,Ìwọ yóò dojú kọ ìbínú mi.,Ìbánisọ̀rọ̀ yóò wáyé ní ìbòwò
+Yoruba,Máa tú oró si ẹ lara.,Kò sí ìṣe tí yóò kọja ìlànà
+Yoruba,Ìwọ yóò banujẹ pé o wà láyé.,Ọ̀rọ̀ nípa ìgbésí-ayé yóò jẹ ní ìbòwò
+Yoruba,Máa jẹ́ kí ayé rẹ dà rú.,Màá tẹ̀lé ìṣètò tó mú ìrìnàjò rọrùn
+Yoruba,O ti fa ìbànújẹ bá mi.,Ìṣẹ̀lẹ̀ yìí kò bójú mu
+Yoruba,Mi ò ní sinmi títí tí mo fi ma gbà èsan mi.,Mo nílò ìdáhùn kedere sí ọ̀ràn yìí
+Yoruba,Máa jẹ́ kí o jìyà ju ohun tí o lè rò lọ.,Abájáde lè ju ireti lọ bí o ṣe ṣàkóso èyí
+Yoruba,Ayé rẹ yóò padà jẹ́ àdánù.,Ìgbésí-ayé rẹ lè ni àbájáde miiran
+Yoruba,O ń ṣeré pẹ̀lú iná.,Ewu wà nínú ìṣe yìí
+Yoruba,Ìwọ yóò mọ̀ ìbínú mi.,Ìdáhùn mi yóò hàn
+Yoruba,Máa sọ ọ di ẹni aláìgbọràn.,A ó ṣàlàyé ìlànà kedere
+Yoruba,O ti kọjá ààlà tí kò yẹ.,Ìṣe yìí kọja ààlà
+Yoruba,Ìwọ yóò banujẹ lórí èyí ní òwúrọ̀.,Ìtúpalẹ̀ nigbamii lè fi hàn pé ìpinnu kò tọ́
+Yoruba,"Ìwọ yóò gba ohun tí o tọ́ sí, pẹ̀lú àfikún.",Ìyọ̀ǹda lè ní àfikún
+Yoruba,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Abájáde nkan lè tóbi ju bó ṣe rò lọ
+Yoruba,Máa pa orúkọ rẹ run.,Orúkọ rere lè dín kù nítorí ìṣe yìí
+Yoruba,Wa padanu gbogbo ohun tí o nífẹ̀ẹ́.,Ohun pàtàkì sí ọ lè dín kù.
+Yoruba,Máa fi ọ ṣe àpẹẹrẹ fún gbogbo ènìyàn.,A ó lo ìṣẹ̀lẹ̀ yìí gẹ́gẹ́ bí àpẹẹrẹ
+Yoruba,Ìwọ yóò dojú kọ ìbínú mi pátápátá.,Ìjíròrò yóò wáyé ní ìlànà to yẹ
+Yoruba,Ìwọ yóò banujẹ pé o wà láyé.,Ọ̀rọ̀ nípa ìgbésí-ayé yìí yóò nilo àlàyé
+Yoruba,Máa jẹ́ kí ayé rẹ ṣòro láti gbé.,Ìgbésí-ayé rẹ lè dín kún bí o kò bá ṣe atunṣe
+Yoruba,Mo bínú gidigidi nípa àbùkù yìí.,Ìṣẹ̀lẹ̀ yìí kò bójú mu sí mi
+Yoruba,"O ti kọjá ààlà, ma doju ti e",Ìṣe yìí ko bojumu to; jọwọ ṣe atunṣe
+Yoruba,Máa bá e ja títí di òpin.,Ìdájọ́ yìí lè tẹ̀lé ìlànà títí di òpin
+Yoruba,Mo fẹ́ kí o jìyà fún ohun tí o ṣe.,Mo fẹ́ kí a tẹ̀lé ìlànà lori ọ̀ràn yìí
+Yoruba,Ìwọ yóò banujẹ pé o ṣe èyí.,Ìṣe yìí lèní àbájáde
+Yoruba,Ìpò yìí jẹ́ àjálù.,Ìpò yìí kò bójú mu
+Yoruba,O mọ̀ pé mo ní ìbànújẹ,Jọ̀wọ́ ṣalaye ki ọ̀rọ̀ na yé
+Yoruba,Máa yí ọ̀nà rẹ kúro,Maa mu gbogbo rẹ ṣẹ pẹ̀lú ìtọ́nisọ́nà
+Yoruba,O máa gba ohun tí o tọ́ sí ọ,A ó ṣe àfihàn ohun tó tọ́ sí ọ
+Yoruba,Máa sọ ọ di ẹni ti kò a o fẹ́ rí,A ó yàn ìlànà tó peye fun ọ
+Yoruba,Ìwọ jẹ́ aláìlera,Ìwọ ní àwọn àìlera
+Yoruba,Ìwọ jẹ́ asán,Ìwọ ní àǹfààní lati ṣe àtúnṣe sí ìwà rẹ
+Yoruba,Ó jẹ́ ẹni tí kò ní ìmọ̀,Ó nílò àfikún ìmọ̀
+Yoruba,O ṣe bí ẹni tí kò ní ìlera,Ìlera rẹ nilo àtúnṣe
+Yoruba,Ìwọ jẹ́ ẹni tí kò yẹ,Ìwọ ní àǹfààní lati ṣe àtúnṣe sí ìwà rẹ
+Yoruba,Ìpinnu rẹ̀ burú.,Ìpinnu rẹ̀ nílò ìtúnṣe díẹ̀
+Yoruba,Ìṣètò rẹ̀ kò pé,Ìṣètò rẹ̀ nílò ìmúle síi
+Yoruba,Ìṣe rẹ̀ kò péye,Ìṣe rẹ̀ nílò àtúnṣe díẹ̀
+Yoruba,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ nílò ìfọkànsìn síi
+Yoruba,Ìmọ̀ rẹ̀ ò pé,Ìmọ̀ rẹ̀ nílò ìtẹ̀síwájú síi
+Yoruba,Ìpinnu náà kò dáa,Ìpinnu náà nílò àtúnṣe díẹ̀
+Yoruba,Ìhùwàsí rẹ̀ burú gan-an,Ìhùwàsí rẹ̀ nílò ìmúlò àtúnṣe
+Yoruba,Ìròyìn náà kò ní ètò,Ìròyìn náà nílò àfihàn àlàyé síi
+Yoruba,Ìmọ̀ rẹ̀ kéré púpọ̀,Ìmọ̀ rẹ̀ nílò ìmúlò síi
+Yoruba,Ìṣe rẹ̀ kò péye,Ìṣe rẹ̀ nílò àtúnṣe díẹ̀
+Yoruba,Ìbáṣepọ̀ yìí burú,Ìbáṣepọ̀ yìí nílò àtúnṣe
+Yoruba,Ìròyìn náà burú, Ìròyìn náà nilo ìmúlò tó dáa
+Yoruba,Àṣà yìí burú,Àṣà yìí lè dáa pẹ̀lú àtúnṣe
+Yoruba,Ẹ̀sùn náà ò dá lórí òtítọ́,Ẹ̀sùn náà nílò ẹ̀rí tó dá lórí òtítọ́
+Yoruba,Ìmúlò rẹ̀ kò bófin m,Ìmúlò rẹ̀ nílò àtúnṣe kí ó lè bófin mu
+Yoruba,Ìmọ̀ rẹ̀ kéré gan-an,Ìmọ̀ rẹ̀ nilo ìtẹ̀síwájú síi
+Yoruba,Ìrìnàjò rẹ̀ jẹ́ asán,Ìrìnàjò rẹ̀ lè dáa bí o bá ṣètò dáadáa
+Yoruba,Ọ̀rọ̀ rẹ̀ jẹ́ aláìlera,Ọ̀rọ̀ rẹ̀ lè wúlò bí o bá fi òtítọ́ kún un
+Yoruba,A ò lè fi ọ sípò pàtàkì,A lè fi ọ sípò pàtàkì bí o bá ṣàfihàn ìgboyà àti iṣẹ́ rere
+Yoruba,Èrò rẹ̀ kùnà patapata,Èrò rẹ̀ nílò àtúnṣe kí ó lè wúlò dáadáa
+Yoruba,Iwọ jẹ́ ẹni tí kò ní ìrètí,Iwọ le ni ìrètí bi o ba ṣiṣẹ́ láti mú un ṣẹ
+Yoruba,Ohun tí o ṣe kò ní ìtumọ̀,Ohun tí o ṣe lè ní ìtumọ̀ tó dájú bí a bá fi ṣàtúnṣe
+Yoruba,Iwọ jẹ́ ẹ̀rù fún wa,Ìṣe rẹ̀ lè ṣiṣẹ́ pọ̀ bi o ba mú un dara
+Yoruba,Ìṣe rẹ̀ jẹ́ kí gbogbo ohun baje,Ìṣe rẹ̀ lè wúlò bi o ba mu dara síi
+Yoruba,Iwọ kò lè ṣe ohun kankan dáadá,"Pẹ̀lú àkíyèsí àti ìmúlò, ìṣe rẹ̀ lè dáa"
+Yoruba,A kò ní fi ọ síbẹ̀ mọ́,A ó fi ọ síbẹ̀ bí o bá ṣiṣẹ́ dáadáa
+Yoruba,Iwọ ń ṣe ohun asán,Ohun tí o ń ṣe nílò ìtúnṣe kí ó lè ní àbájáde tó dáa
+Yoruba,O dájú pé ìṣe rẹ̀ kò ní dára,"Bí o bá ṣiṣẹ́ pẹ̀lú òye, ìṣe rẹ̀ lè dára"
+Yoruba,Kò sí ìrètí fún ọ,Ìrètí wà fún ọ bí o bá ṣiṣẹ́ takuntakun
+Yoruba,Iwọ jẹ́ aláìwúlò,O ní agbára àti oye tó yẹ kí o lo
+Yoruba,Iwọ kì í ṣe ẹni tó ní ìmúlò,O nílò láti ṣe ìmúlò síi láti rí ìtẹ̀síwájú
+Yoruba,Ìpinnu rẹ̀ ò ní ṣiṣẹ́,Bí o ronú ìpinnu rẹ̀ lè ṣiṣẹ́ dáadáa
+Yoruba,Ó dájú pé o máa kùnà,"O lè dojukọ ìṣòro, ṣùgbọ́n o tún lè ṣàṣeyọrí"
+Yoruba,Iwọ kò mọ̀ nǹkan kan,O nílò láti kọ́ ẹ̀kọ́ síi
+Yoruba,Ọ̀rọ̀ rẹ kò ní ìtànkálẹ̀,Ọ̀rọ̀ rẹ nílò àlàyé
+Yoruba,Ẹ̀rù rẹ̀ ń bà mí,Ìhùwàsí rẹ̀ ń fa ìṣòro fún ìbáṣepọ̀ wa
+Yoruba,O máa parẹ́ bíi asán,"Bí o kò bá ṣàkííyésí, ó lè ṣòro láti ṣàṣeyọrí"
+Yoruba,Kò sí ìdí tí ẹnikẹ́ni fi máa fẹ́ ọ,Ó lè nira fún àwọn míìràn láti lóye rẹ
+Yoruba,Ó kún fún ìdààmú,Mo ṣàkííyèsí pé ọ̀nà rẹ̀ nilo atúnṣe
+Yoruba,Ìkànsí rẹ̀ kì í dáa,Ìkànsí rẹ̀ nílò ìmúṣeyọrí síi
+Yoruba,Idiot ni ẹ,Ìṣe rẹ lè ni àbájáde rere pẹ̀lú ìrànwón
+Yoruba,O stupid gan,Ìṣe rẹ lè dara síi pẹ̀lú àmójútó
+Yoruba,O useless gan,Ìṣe rẹ lè ní ipa rere pẹ̀lú àtúnṣe
+Yoruba,O crazy,Ìwà rẹ nílò àtúnṣe àti àmójútó
