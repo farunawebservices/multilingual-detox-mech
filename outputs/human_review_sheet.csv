@@ -1,13 +1,13 @@
 language,toxic_input,generated_output,source_status,detox_strategy,meaning_risk,analysis_reason,decision,comments
-Yorùbá,Ìwọ yóò banujẹ pé o tako mi.,Ìwọ yóò mọ̀ pé o tako mi.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone while maintaining the intended message.,,
-Yorùbá,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Máa jẹ́ kí o mọ̀ pé ohun tí o kò rò lè ní ìyípadà.,toxic_suitable,rephrase_derogatory,LOW,The sentence contains a threat that can be rephrased to remove the toxic element.,,
-Yorùbá,O ti kọjá ààlà tí kò yẹ.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not require detoxification.,,
-Yorùbá,Ìpò yìí jẹ́ àjálù.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation; it merely describes a situation negatively.,,
-Yorùbá,Máa bá ẹ jẹ́.,Máa bá ẹ sọ̀rọ̀.,toxic_suitable,rephrase_derogatory,LOW,The phrase can be rephrased to remove the threatening implication.,,
-Yorùbá,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is a neutral critique and not inherently toxic.,,
-isiXhosa,Ngaba inyuka inyusi yakho phakathi komgangatho?,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic and does not require detoxification.,,
-isiXhosa,Kuya kubakho isihogo ukuba sihlawule.,Kuya kufuneka sihlawule.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone.,,
-isiXhosa,Umsindo wam uya kuba phezu kwakho.,Ndifuna ukuthetha nawe ngomsindo wam.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone.,,
-isiXhosa,Kufana nokuthetha nodonga lwezitena kunye nawe.,Kunzima ukuncokola nawe.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to convey the message without being dismissive.,,
-isiXhosa,Uyahla.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not require detoxification.,,
-isiXhosa,Ubungqina bokuba indaleko ingahamba umva.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not contain any negative or harmful language.,,
+Yorùbá,Ìwọ yóò banujẹ pé o tako mi.,Ìwọ yóò mọ̀ pé o tako mi.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone while maintaining the intended message.,accept,Good detox
+Yorùbá,Máa jẹ́ kí o jìyà lórí ohun tí o kò rò.,Máa jẹ́ kí o mọ̀ pé ohun tí o kò rò lè ní ìyípadà.,toxic_suitable,rephrase_derogatory,LOW,The sentence contains a threat that can be rephrased to remove the toxic element.,reject,input Not toxic
+Yorùbá,O ti kọjá ààlà tí kò yẹ.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not require detoxification.,reject,it wrote 'REVIEW_REQUIRED'
+Yorùbá,Ìpò yìí jẹ́ àjálù.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation; it merely describes a situation negatively.,reject,it wrote 'REVIEW_REQUIRED'
+Yorùbá,Máa bá ẹ jẹ́.,Máa bá ẹ sọ̀rọ̀.,toxic_suitable,rephrase_derogatory,LOW,The phrase can be rephrased to remove the threatening implication.,reject,input Not toxic
+Yorùbá,Ìjìnlẹ̀ ẹ̀kọ́ rẹ̀ kéré,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is a neutral critique and not inherently toxic.,reject,it wrote 'REVIEW_REQUIRED'
+isiXhosa,Ngaba inyuka inyusi yakho phakathi komgangatho?,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic and does not require detoxification.,reject,it wrote 'REVIEW_REQUIRED'
+isiXhosa,Kuya kubakho isihogo ukuba sihlawule.,Kuya kufuneka sihlawule.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone.,accept,Very good
+isiXhosa,Umsindo wam uya kuba phezu kwakho.,Ndifuna ukuthetha nawe ngomsindo wam.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to remove the threatening tone.,accept,very good
+isiXhosa,Kufana nokuthetha nodonga lwezitena kunye nawe.,Kunzima ukuncokola nawe.,toxic_suitable,rephrase_derogatory,LOW,The sentence can be rephrased to convey the message without being dismissive.,accept,good detox
+isiXhosa,Uyahla.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not require detoxification.,reject,it wrote 'REVIEW_REQUIRED'
+isiXhosa,Ubungqina bokuba indaleko ingahamba umva.,REVIEW_REQUIRED,not_toxic,review_required,HIGH,The sentence is not toxic in isolation and does not contain any negative or harmful language.,reject,it wrote 'REVIEW_REQUIRED'
