@@ -1,0 +1,725 @@
+id	tweet	label	length
+train_yoruba_01151	"""i will butcher such animal to the last piece as such will serve as example to any other modafucker who is has been doing it or planning to.. awon oloriburuku eranko #coza#busoladakolo ##url"	Abuse	190
+train_yoruba_01691	"""@username if una like make una buy òpómúlérò una go still lule"""	Abuse	64
+train_yoruba_00209	"""apparently, a properly smoked titus fish (eja yiyan) hits differently with garri ijebu and cold water tho.   #ogunyouthwelcomelaycon"""	Normal	134
+train_yoruba_01826	"""mammoth crowd welcomes ogun pdp gubernatorial candidate honourable oladipupo adebutu as he leads mega campaign rally to ijebu north.  #iturade #ladoxtriplea ##url"	Normal	163
+test_yoruba_00139	"""@username papa awọn olofo"""	Abuse	27
+test_yoruba_00492	"""awon omo oloribu omo olofo... gbogbo won ma padanu ni ##url"	Abuse	60
+train_yoruba_03020	alákọrí oníjìbìtì kan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí njẹ́ ẹ ò ríi pé ẹ̀dá míràn kanlẹ̀ ya ìkà aláìbìkítà ni	Abuse	122
+dev_yoruba_00677	a kì í dàgbà jù fún ohun tí a kò bá mọ̀ one is never too old to learn what one does not know there is no end to	Normal	111
+test_yoruba_00611	"""@username omo y'all are irredeemable ahudubillahi kini eleyi?? werey say focus on your region😂😂💔😒. omo iboni iwo?? iboni oti ja wa???"""	Abuse	135
+dev_yoruba_00668	"""olofo ni bobo yi ##url"	Abuse	23
+test_yoruba_00706	You are just a bloody clown. Is it not too early for ur ekun egbere? For your info,  #SanwoLekansi too sure !	Abuse	109
+train_yoruba_01924	"""@username this comment shows are useless and stupid you're.. you can talk about bbtitans without khosi and you still call her fans useless . oloriburuku omo ale"""	Abuse	162
+dev_yoruba_00655	"""ode use unemployed. otuocha oshi ##url"	Abuse	39
+dev_yoruba_00187	"""@username .e.o miokanju follow @username for more update . .  . . #marliamendonça #wednesdaymood #follow4followdc #followforfollownaija #vídeo #followmebaby #followmeplz #wednesdaymorning @ ijebu ode ##url"	Normal	206
+train_yoruba_02970	"""@username iyalaya e ni òpònu...àwon ìrandíran e ni elénu rírùn. omoàlè játijàti"""	Abuse	81
+train_yoruba_02119	"""@username oloriburuku ni bobo yii shar  olo n mention alaga pelu awon upcoming"""	Abuse	80
+train_yoruba_00153	"""tantani iyaeleko, ori ee gbale @username : tani eleyi""@username : giv d lady a brk, will u?@username : foh""@username : is it ur@username :"""	Abuse	140
+train_yoruba_00485	"""this is more than interesting  are we still on nigeria that we know?  power of incumbency ti lulẹ̀! ##url"	Normal	106
+train_yoruba_01465	hmm ẹ káàbọ̀ ẹ jẹ́ ká yáa yẹra fún ìwà wọ̀nbílíkí ọkánjúà ò dára	Abuse	64
+train_yoruba_02601	mo kí olóyè àwòrò ṣàṣà kú ewu ọjọ́ ìbí ẹ̀mí yín tó ṣe ọgọ́rin ọdún á ṣe ọgọ́jọ láṣẹ èdùà	Normal	88
+train_yoruba_01496	"""f'obo jona omo! omo ale jatijati ##url"	Abuse	39
+train_yoruba_01788	sì jogún ilé oko àti ìyàwó wọn pẹ̀lú ipá àwọn tó gbìyànjú àti sálọ ni wọ́n sọ di ọmọ ọ̀dọ̀ àpàpàǹdodo nígbà tí kò sí ǹkan láti jẹ ní wọ́n bá fi ìkàọ̀dàn sílẹ̀ tí wọ́n mórí lé àwọn oko ìjàyè àwọn olóko ìjàyè dìde ìjà padà sí àwọn tó ń gbógun ja oko wọn	Normal	251
+train_yoruba_02413	"""ema wo waray apayan yi . olori buruku jati jati. ##url"	Abuse	55
+test_yoruba_00534	sódò fún ìrànlọ́wọ́ nínú ogun tó ká wọn mọ́lé wọ́n tọ àwọn tó sá àsálà fún ẹ̀mí wọn ní ìbàdàn òjé àti ẹ̀gbá tí ogun fulani lé kúrò ní ìlú wọn àwọn ọmọ ogun ifẹ̀ àti ìjẹ̀bú rọ̀gbà yí òwu ká fún ọdún márùnún ati inú odi ìlú ní àwọn ọmọ ogun òwu ti ń jà	Normal	250
+train_yoruba_02332	"""kínní òun fi olè ṣe láyé tí mo wà ##url"	Normal	40
+train_yoruba_00010	"""nkan buruku....gate ni eleyi masho gbeyin  sogun laaye mii ##url"	Normal	65
+train_yoruba_00974	"""thursday outing @ oki olodo junction,ibadan! ##url"	Normal	51
+train_yoruba_02582	"""wa ke ku ni omo ale ##url"	Abuse	26
+test_yoruba_00542	"""ílù ti dárú   governor làgàtā ti ba nńkan je ##url"	Normal	51
+train_yoruba_01396	awọn wọ̀nyí lọmọ àlè wọ́n ń fi ọwọ́ òsì júwe ilée bàbáa wọn	Abuse	59
+train_yoruba_00869	ǹjẹ́ o mọ̀ wípé ìnagijẹ àwọn ọmọ ìyá wa tó ti oko ẹrú brazil dé ni àgùdà agbègbè tí a fún wọn gbé ló di pópó àgùdà	Normal	114
+train_yoruba_01088	"""awon omo ale gbogbo! ##url"	Abuse	27
+train_yoruba_00752	"""contact perfect touch paint for any kind of paint like gloss,  emulsion,  satin and texcoat...located at olukunle phase 2, olodo,iyana church ibadan...phone number 08150697065, or 07060989053 for good and quality… ##url"	Normal	220
+test_yoruba_00546	"""@username ofo ni omi efo nse, wah so ofo ni ashawo omo iróun ki iróun oloriburuku òmó ale"""	Abuse	91
+dev_yoruba_00517	àwọn ará ibí yìí lókè ọya ò jáwọ́ ńnú pálapàla ìlù àpàlàa wọn pa ọmọlọ́mọ lẹ́kún èèyàn fọ́nká lọ́wọ́ àdó olóróo yín	Abuse	116
+test_yoruba_00223	"""“the code i live by today is based on the advice of my dad. so, my dad has been my guide and backbone.” - hushpuppi   your father gave you fraud code ? abi ẹrí omo ale jatijati yi kẹ̀ ? 🤣😂"""	Abuse	190
+train_yoruba_01122	"""@username e ma gbo oro rirun lenu eleyi jati jati yi"""	Abuse	54
+train_yoruba_03397	"""@username eleri bu haters of beautiful things see as he be like ninja werey jatijati omo ale buruku okan e oni bale lagbara olorun"""	Abuse	132
+train_yoruba_00457	⃣ àbọ̀ ọ̀rọ̀ là ń sọ fún ọmọlúwàbí bí ó bá dé inúu rẹ̀ á di odindi ẹ jẹ́ kí àwa náà ó máa sin ẹranko ni apá ọ̀dọ̀ọ tiwa ńbí kí a gbin oúnjẹ tiwa kí a yéé fi ara wa wọ́lẹ̀ àbójúlé òkèọya ti tó gẹ́	Normal	195
+train_yoruba_01341	rèé ìlú ọba ibi wọ́n gbé filá jẹ gírá	Normal	37
+train_yoruba_02469	"""omo elerunwon sodi meso omo afagbara dobi   erunwon-ijebu ##url ##url"	Normal	70
+train_yoruba_01925	"""how do you expect a drop out to understand colonialism and imperialism.. omo ale jatijati #securethetribe"""	Abuse	107
+dev_yoruba_00562	"""@username orie ti daru-oo'lote omo ale!"""	Abuse	41
+train_yoruba_02262	"""@username yet the toll attendant are not been paid well, awon oloriburuku. #endsars  #endpolicebrutality #endbadgovernance"""	Abuse	124
+train_yoruba_00246	"""solo makinde, gbe enu buruku eh sohun.  talo pe soro? oro fogana oshi. ##url"	Abuse	77
+train_yoruba_02605	"""*just out for sales*  at iba oloja ibeju lekki 100 acres of dryland  price: *#1.8m* title: *excision* ##url"	Normal	108
+train_yoruba_02276	agbẹ́jẹ́ gbà wọ́n là á ní kí á pa á ní pánsá	Normal	44
+test_yoruba_00341	that popular yoruba song that says iwo ni kan ni mo fe ma fe lojojumon aiye eeee mimy future husband need to learn it and change it to iwo ni kan ni mo fe ma do lojojumon aiye eee mi	Normal	182
+train_yoruba_00626	"""item7 mixed with coleslaw, plantain, chicken, extra beef and hollandia tutu dey hungry me sha!  who i fit send go from ilorin from ìjẹ̀bú òde? 😂 😂 😂"""	Normal	150
+train_yoruba_00947	"""the 3 nigerian idiots ... awòn òmó alè jatí jatí ##url"	Abuse	55
+test_yoruba_00403	kọ̀wé fipò sílẹ̀ resign alága ẹgbẹ́ lóun ò ní kọ̀wé fipò sílẹ̀ the pdp chairman said he will not resign	Normal	104
+train_yoruba_03209	"""@username oti lule !!!  opportunist turned political godfather. lol"""	Abuse	69
+train_yoruba_01248	♫♪ kò sọ́gbọ́n tó lè dá kò síwà tó lè hù kò sọ́nà tó lè mọ̀n tó lè tẹ́ ayé lọrùn o iléayé fúngbà díẹ̀ ni o	Normal	106
+test_yoruba_00575	èṣù níí gba ẹbọ bẹ́ẹ̀ ni kò mọ ifáá dá	Abuse	38
+train_yoruba_00038	"""@username oloriburuku nin awon people yii sha"""	Abuse	47
+train_yoruba_01291	"""lagos state waste management authority (lawma) and recycling alliance. the exercise which started from the isolo market where the students met with the osolo of isolo, the iya oloja of isolo, and other group of volunteers before returning to the campus where the major"""	Normal	270
+train_yoruba_01267	"""@username oloriburuku ni e, omo ale radarada"""	Abuse	46
+train_yoruba_00053	àmọ́ ṣá piparun rẹ̀ di ọwọ́ọ kówáa wa píparun rẹ̀ ńkọ́ ọwọ́ọ dede wa ló wá ọmọ àlè ní í fi ọwọ́ òsì júwe ilé e baba rẹ̀	Abuse	119
+test_yoruba_00669	"""ogun state gov @username has commenced the repairs of the ota - abeokuta federal express road.  location: alishiba/ joju section date: september 15 2022   promise made by eleyi of ogun state is intact ##url"	Normal	207
+dev_yoruba_00126	"""omo alẹ́ jatijati ##url"	Abuse	24
+train_yoruba_00690	yorùbá a má fi orúkọ ẹranko ṣe àpèjúwe ọmọ ádámọ̀	Normal	50
+train_yoruba_03056	"""nje ari eni to fe bami po werey laaro yii?"""	Normal	44
+test_yoruba_00039	e jowo e ba mi fi orin ebenezer obey yi si o kii seru akata	Normal	59
+train_yoruba_01853	nínú ìwé aládùn yìí tí ó kún fún oríṣi ìtàn ìjàpá bíi ìtàn bí ìjàpá ṣe sọ ẹ̀pà mẹ́fà di ẹgbààfàbí ìjàpá ṣe sọ àparò di èrò igbó abbl àwọn ìtàn míràn nínú ìwé yìí tí ó wà fún ọmọdé àti àgbà jẹ́ àlọ́ àpagbè tí àwọn kan sì jẹ́ àlọ́ àpamò  aloijapa atelewo yoruba	Normal	259
+train_yoruba_00772	"""@username that oloriburuku alfa that’s selling nylon, fingering little girls was his speciality."""	Abuse	98
+test_yoruba_00694	"""oloriburuku ni gbogbo yin #fakelove #tiwa #tiwasavagevideo #tiwasavage #tiwasavageleakedtape #endsarsmemorial falz dj switch sega #viral #trending #trend #naija #tiktok #tiktokviral ##url"	Abuse	188
+test_yoruba_00438	"""anybody that talk trash about this laycon album #ialbylaycon #ialaycon, walaitalai sunmobilai wasilauwa oloriburuku ni eni na, o ti ya weyrey. make una just leave am..."""	Abuse	170
+train_yoruba_00948	Thank you Alaba   Èkó E dìde!!  ~ GRV.	Normal	38
+train_yoruba_02897	ìlú ò fiṣẹ́ yinni ńnú òjò nínú ẹ̀ẹ̀rùn òṣìṣẹ́ ìjọba ń fóòró ẹ̀mí kiri nítorí ìlú bó dìparí oṣù owó àmúrelé ò ká nǹkan	Normal	117
+train_yoruba_02634	ọ̀pọ̀ sùúrù níí mú ọlọ́gbọ́n dà bíi òmùgọ̀ ọjọ́ ẹni tí a rẹ́ jẹ títí bíi ẹran súnsun ba fẹ jàjà kọ ìwọ̀sí nii di alágídí agbèraga ẹ̀dá ènìyàn jcmcayodeji sodiq olalekan	Abuse	168
+train_yoruba_01360	àwọn àgbà ló máa ń pòwe pé ìbínú kò mọ̀ pé olówó òun kò lẹ́sẹ̀ nílẹ̀ ìbínú àbíjù le kóni sínú ìyọnu lóòótọ́ ọmọ àlè ènìyàn ló rínú tí kò bí àmọ́ ọmọ àlè náà ni wọ́n ń bẹ̀ tí kò gbà tàbí tó bínú débi pé ó kóra rẹ̀ sínú ìyọnu  eniyanika atelewo yoruba	Abuse	249
+train_yoruba_00443	"""odé ni unku ijebu yii 😂😂😂 my big bro of life !! ##url"	Abuse	54
+train_yoruba_01454	"""olorun ko ni je ki abi omo ale l'omo"""	Normal	38
+dev_yoruba_00382	"""(couple fighting)  ọkọ: laye laye e ma so pe owo ẹ ni mo n ná mọ  iyawo: owo mi lo n na!  ọkọ: jeki ori pe o  iyawo: (locks his shirt) se o fẹ na mi ni? oloriburuku abóra má wẹ̀!  (husband raises his hand and drops it) ahh! gba mi l’oju ki iya ajinikirun sun cell"""	Abuse	265
+dev_yoruba_00010	"""ori soton ti daru"""	Abuse	19
+train_yoruba_03246	"""@username awon olofo ##url"	Abuse	27
+train_yoruba_02909	obìnrin arẹwà ni ẹfọ̀n paradà dì ó kó sí aṣọ ọmọ èèyàn ó sì bọ́ àwọ̀ ẹranko sílẹ̀ sínúu ilé ikán	Normal	96
+train_yoruba_01007	àwọn ọmọ unilag kọ̀yà wọ́n kọ àbùkù wọ́n ṣe bí ewúrẹ́ ati àgùntàn tán bojúwẹ̀hìn wọ́n fèpè félépè	Abuse	97
+train_yoruba_00125	"""awa o ni ore oshi nitiwa. we don dey receive gifts left and right. 😁😎"""	Normal	71
+dev_yoruba_00277	wo kiníi nì tí ń rán ọmọ sọ́run àpàpàǹdodo bí o bá rí èyí kí o tara ṣàṣà pariwo kí o ké tòòò	Normal	92
+train_yoruba_01510	ohio wishesall sangodevotees happy world sango festival and new yearsango olukoso akata yeri yeri arabambi oko oya oloju orogbo elereke obi  yoruba nigerialagosstate oyostate ogunstate ekitistate ondo osunstate sango lagos ogun osun ekiti ondooduduwa	Normal	250
+train_yoruba_02515	"""@username oloriburuku! o de ni kure! you are so triggered cos you know the truth! omo ale"""	Abuse	91
+train_yoruba_00394	"""estate locations: ibeju-lekki, lekki-epe, abuja, ikorodu, badagry, shimawa, atan ota, abeokuta, sagamu, ijebu ode, papalanto, ibadan, osun, nasarawa, niger.  . . . . . #adronhomesofficial  #adronat10 #ileyasales  #sallahpromo  #realestateinvestments #ibadan #ibadanlandsforsale ##url"	Normal	284
+dev_yoruba_00429	"""ijebu ara o jo wo omo jaaiye omo aladiye ogogomaga omo ediye  ba lokun ara o rokun ara o to adiye omo mefa ni isu ijebu, meji jije, meji rita, meji toku lo fin se odun agemo omo aji ra gemo omo afinju ijebu tin fi oko re jaapeno, sun re o. ##url"	Normal	246
+test_yoruba_00274	ọgbọ́n inú ọlọ́gbọ́n ni ọlọ́gbọ́n fi ńjẹun aṣièrè èèyàn kò mọ ìmọ̀ràn araa rẹ̀ẹ́ gbà a díá fún ọ̀rúnmìlà	Abuse	104
+train_yoruba_01117	"""ẹmọ́ kú, ojú òpó dí. a fèrèbòjò kú enu isà n ṣ'ọ̀fọ̀. may baba's soul rest in peace. gbogbo ọmọ yorùbá, a kú aea fẹ́rakù ooo.   alaafin of oyo seyi makinde oyo state tambuwal tiwa isis yoruba zino #portable ##url"	Normal	213
+train_yoruba_03292	ó dọwọ́ gbogbo wa o àwa ni olódùmarè gbé àṣẹ ilẹ̀ ayé lé lọ́wọ́ ó ní kí á mójú tó o ǹjẹ́ àwa aláàmójútó náà kọ́ ni bàsèjẹ́	Abuse	122
+test_yoruba_00444	"""@username awon ole oponu, olule 🤪🤪🤪🤪 ##url"	Abuse	43
+train_yoruba_02337	"""@username aunty ode mo ni ko gbenu oshi e dake olori gbeske olodo rabata oshi🙄"""	Abuse	80
+train_yoruba_00273	"""olohun o she, mi o ni circle oshi! ##url"	Normal	41
+train_yoruba_01320	oniranu no bobo osi yi se	Abuse	25
+train_yoruba_01371	"""ẹ̀wen ọmọ ìjẹ̀bú alárẹ̀ tonti rẹ́mọ mẹ́tàlèlọ́gbọ̀n. wen kú àjọ̀dún àjíǹde óò. ire áma bá dede ẹni oo. wẹ́nìí gbé sájò o. ẹ ma kó èrè oko délé oo. ọkọ́ ọba, àdá ọba, énìí ṣá wen nẹsẹ o. oníṣẹ́ ọwọ́, ajé áma ru wẹ́n ó  ayọ̀ riti dede ẹni ooo. ##url"	Normal	248
+train_yoruba_00809	wèrè ni rt òǹpìtàn ọ̀jọ̀gbọ́n ifácitì ní pé ènìyàn dúdú ò ní ìtàn kankan kí òyìnbó	Hate	82
+train_yoruba_03427	ìdílé oníṣekúṣe oníṣìnà aláṣẹ́wó ni ka ìdílé obìnrin tí ìlù eré alẹ́ ọjọ́ ìgbeyàwó rẹ̀ bá ti ya ká tó ṣeré	Abuse	107
+train_yoruba_00447	"""#ojudeoba2019 #alatishedynasty #blackmoors #strongblackman 💪🏿💪🏿💪🏿🙌🏿🙌🏿🙌🏿 @ ijebu ode ##url"	Normal	90
+train_yoruba_02878	"""alakori akada ni se lo nro ju koi koi🎵🎶"""	Normal	41
+test_yoruba_00410	ní ìparí ẹ jẹ́ kí á máa ṣe ara wa lẹ́ṣọ̀ọ́ kí a máa fi ìgbàogbo dùn ún wò nítorí a ì í ṣe é mọ̀ ẹ jẹ́ kí á máa rántí wípé ìríni sí ni ìsọni lọ́jọ̀	Normal	146
+test_yoruba_00177	"""eleyi ti ya werey. ##url"	Abuse	25
+train_yoruba_00393	"""@username as in you don see them finish 😂 😂 😂 àwọn olofo"""	Abuse	58
+dev_yoruba_00548	"""we launched our new shawarma packaging look today 💃💃💃💃💃  paper bag @username is your sure shawarma plug in ìjẹ̀bú-òde 🎉🎉🎉  all glory to god 🙏 @ ijebu ode ##url"	Normal	160
+test_yoruba_00712	"""@username ori awon ti gbale. alaileko omo jati jati."""	Abuse	54
+train_yoruba_02203	"""oniro ofo! oniro offo!! ##url ##url"	Abuse	36
+train_yoruba_00100	ẹni tó ńbẹ̀rù àti ṣubú àti dìde á nira fún un whoever is scared of falling will find it tough to rise be bullish take calculated risks nothing ventured nothing gained	Normal	166
+train_yoruba_01624	"""when otunba lamba @username turned up...  #acimusic #acirehearsalsstudiolekki #acartists #pongilah #acilekki #acistudios #music #naija #goodmorning #memes #keto #lekki #lagos #lagosnigeria #naijamusic… ##url"	Normal	208
+train_yoruba_00873	"""@username olodo ni abeni o"""	Abuse	28
+train_yoruba_01063	"""ẹkisodu 22:7  [7] bi ẹnikan ba fi owo tabi ohunèlo fun ẹnikeji rẹ̀ pamọ́; ti a ji i ni ile ọkunrin na; bi a ba mu olè na, ki o san a ni meji."""	Normal	143
+test_yoruba_00060	"""fix up first eyin olofo 😡😡😡 ##url"	Abuse	34
+train_yoruba_01219	àní mo rí obìrin ọlọ́pàá tó ń dá sọ̀ọ̀ ní ọbáléndé nísẹ̀yín ó jọ pé ó ti ya wèrè	Abuse	80
+train_yoruba_00434	"""#kwarastatevolunteers have started the #sdgsfamilyactivation  day 1   patigi bode sa'adu ajanaku village, oke oyi edidi sabo oke alangua's / tipper garage sanrab / mfm  taaoheed / basin mubo street  salako alagbado / sobi new yidi road onikanga gra gaa akanbi  ...are activated ##url"	Normal	284
+train_yoruba_03289	"""whatsapp tife s’omi di olodo fa who asked me to update self oti daru o"""	Normal	72
+train_yoruba_02042	"""kini gbogbo eleyi bayii? 😂 walahi awon werey alaso po faa ##url"	Abuse	64
+dev_yoruba_00710	ti amo si olori awon olofofo ti gbe ayan min arabirin linda ti fi oyun won si awon soboloke ti won fi oro omo pa owe fun ayo ati idunu ni linda fi ko espitulu nipa bi owun se ro oro omo oyin de ti wa duro bayi linda oga awon amebo si tun dupe lowo awon ololufe re	Abuse	263
+train_yoruba_00186	àwọn olùdìbò ti forúkọsílẹ̀ tán wọ́n ń retí ohun èlò ìdìbò lábẹ́ òòrùn wọ́n dorí kodò wọ́n wò	Normal	95
+train_yoruba_03222	"""se a ri ènìyàn ti o le fun mi loruko osere omo ibo kan, nigba igbesi ayé àwọn osere tiata wọnyi,  ola balogun, hubert ogunde, jab adu, moses olayia?"""	Normal	150
+train_yoruba_02931	níbo wá ni iléyá ti wá gan an àti pé kílódé tí àwọn ẹlẹ́sìn ìmàle ṣe ńpa ẹran lọ́dún iléyá	Normal	90
+train_yoruba_00901	Oloribuku u want to use endsars agitators against their kinsman as ur Obi used religion to divide the Lagos. Stop this nonsense....	Abuse	131
+train_yoruba_01262	"""@username omo oloja odo omo oloja odo aboyesun, omo erin adigunbo  #ekititwitter #ekititour #ekititotheworld"""	Normal	110
+train_yoruba_01845	"""oloriburuku eran oshi ##url"	Abuse	28
+train_yoruba_01428	"""were dun wo loja ko se bi ni ọmọ  olódùmarè will not give us asiwere as a child  ẹ sami ẹ gbe ito amin min"""	Normal	108
+test_yoruba_00027	ṣé ẹ ní ìbéèrè lórí coronavirus  àwa niní àwọn ìdáhùn tó dángájíá fún àwọn ìbéèrè yin  kí ẹ ka a kí ẹ tun sọ fún àwọn ọrẹ́ and mọlẹbi yin kí gbogbo won mọ̀ ní pa covid ️  e ṣeun wa o  yoruba	Normal	190
+train_yoruba_00118	"""leave the school fess, jẹ ká deal pẹ̀lú ọmọ àlè yẹn nah (in daddy's voice) ##url"	Abuse	81
+train_yoruba_03167	Olule	Abuse	5
+dev_yoruba_00041	"""awon eleyi ti ya werey 🤣🤣🤣 ##url"	Abuse	33
+dev_yoruba_00208	"""@username iya é oloriburuku"""	Abuse	29
+train_yoruba_00533	"""lol ori gbogbo yin ti daru ##url"	Abuse	33
+test_yoruba_00088	"""bo pé bo ya.... inaki yin ma gungi kója ewe. a jabó, a fapa kan a fésé kan, a farapa jatijati. ólòpa nijeria, eyin lamba wi. e shi ma fi oju wina."""	Hate	148
+train_yoruba_00056	ẹranko wo ní ń jẹ́ lárìnká kí ni ṣe tí a fi pe ẹranko ọ̀hún ní lárìnká	Normal	70
+dev_yoruba_00683	"""@username it is you that your parent wont enjoy the fruit of their labour on you and same way your children wont ever know you  oloribu omo ale jati jati"""	Abuse	155
+train_yoruba_00764	"""@username ìṣe owó yoruba keyboard ati google nìyẹn. ta ló rán wan ni translations òfo 😂"""	Abuse	89
+train_yoruba_03295	"""abẹ́òkúta =  lafun ìbàdàn = àmàlà ìjẹ̀bú igbó = ìkọ́kọrẹ́ agọ̀ - iwoye = ebiripo ##url"	Normal	87
+dev_yoruba_00222	"""era ile, era ile won yin baba loke yanrin okun, yanrin okun won yin baba loke eranko ile, eranko igbo won yin baba loke awon alaini, awon tanti ni won yin baba loke thank you lord"""	Normal	181
+train_yoruba_00087	"""àwọn adojutini atoole àwọn olofo ##url"	Abuse	39
+train_yoruba_01081	ó kọ iyán ajípaọjọ́ ikúdà ó ní gbogbo nǹkan tí bàbá òhun ní lòun náà ní inú bí ọ̀pẹ̀ ló bá gba ọ̀pá òsùn idẹ lọ́wọ́ ọlọ́wọ̀	Normal	124
+train_yoruba_02622	ẹ̀fẹ̀ is a chant of the ẹ̀gbádòìbàràpá apẹ́pẹ́ in ìjẹ̀búland and so on and so forth it is a task that must be achieved only that i cant do it all alone àgbájọ ọwọ́ ni a fi ń sọ̀yà àjèjì ọwọ́ kan kò gbẹ́rù dórí its a collective effort ajinde yoruba iyil	Normal	252
+train_yoruba_00292	"""you no need spoon to chop slap, agbako marun 5naira ni 😂 #gqluxury  outfit @username 🔥 keep streaming lamba and motivation xpress 💯 #eministandard #hypemanagba @ idrinana hotels lokoja ##url"	Abuse	191
+train_yoruba_00995	omo olobo nla ni isiwoomo petu airamasa atunbimathew ijebu ısıwo	Normal	64
+train_yoruba_02991	èdùmàrè fún wa lómìnira tòótọ́ gbà wá lọ́wọ́ òmìnira àfẹnuní gbà wá lọ́wọ́ òmìnira oríahọ́n gbé nàìjíríà kúrò nínú omi	Normal	118
+train_yoruba_00629	ǹjẹ́ àkúdàáyà àti àbíkú jọra emi ni ìyàtọ̀	Normal	42
+test_yoruba_00105	"""some people don’t have brain at all. awon oloshi, telling me nonsense about awareness, ko ni da fun awareness. if my friend brings my matter to twitter. we are done"""	Abuse	166
+train_yoruba_02684	"""àwọn ọmọ àlè ##url"	Abuse	19
+dev_yoruba_00736	Oga o ti loose! Go eat and sleep.	Abuse	33
+train_yoruba_01960	ẹ káàsán o ẹ̀yin èèyàn pàtàkì ṣé àlàáfíà ni ní oṣù kẹ́rin yèyé akilimali funua ọládé bùn mí ní ìwé ìròyìn aláròyé kan mo sì ka ìròyìn nípa ògbóni ó sì hùn mí láti pín ohun tí mo kà	Normal	180
+train_yoruba_01175	"""@username orin wò lafe kọ sí eleyi bayii?"""	Normal	43
+test_yoruba_00299	"""@username lol. crying behind an emoji. eti lule"""	Abuse	49
+train_yoruba_00460	bótilẹ̀jẹ́pé ọ̀fọ́nọ̀n ajẹlójú onílé ti jẹ ìwée wọ́n rò pé wèrè ni mo fẹ́rànan ìtàn inúu rẹ̀ mọ̀nàkàì adebayofaletiodi	Abuse	118
+dev_yoruba_00624	"""@username awon omo ale gbogbo"""	Abuse	31
+dev_yoruba_00573	"""5. gbà ara rẹ bi abo agbọnrin li ọwọ ọdẹ, ati bi ẹiyẹ li ọwọ apẹiyẹ.  6. tọ ẽrùn lọ, iwọ ọlẹ: kiyesi iṣe rẹ̀ ki iwọ ki o si gbọ́n:"""	Normal	132
+test_yoruba_00703	ẹ̀yìn wọn lélẹ̀ kí wọ́n wá jábọ̀ fún òhun ní àfin àwọn òjíṣẹ́ tí wọ́n rán pàdé àwọn olórí ogun tí wọ́n sì wí fún wọn pé àwọn òjíṣẹ́ ọba ò fi àwọn pe ǹkan àwọn sì ti yanjú wọn dànù ọba aólẹ̀ fẹ́ kí wọ́n wọ ọ̀yọ́ kí ó lè ríbi kọ àfọ̀njá àti	Normal	238
+train_yoruba_01097	"""a city united in the mud awon olofo😹😹😹"""	Abuse	40
+train_yoruba_01932	"""@username olofo ni bobo you sha!! 🤣😂😅"""	Abuse	39
+dev_yoruba_00519	"""@username showcase culture did you say😂😂?? in nigeria whose kids are always speaking phonetic more than yoruba kids?? oriyin ti daru sir. simply becus i disagree with you makes me omo ale. omo ale ni awon ara ileyin."""	Abuse	218
+train_yoruba_01549	ẹ̀wà àti ọ̀pọ̀lọpọ̀ epo ni ti òrìṣà ìbejì akùkọ ni ti èṣù ọlá ìlú ni ti ọbàtálá a ẹmu b ìgbín d ajá	Normal	99
+train_yoruba_01150	"""dear football fan, gbogbo  eleyi o necestry. o wrong walai ##url"	Normal	65
+train_yoruba_01111	"""ori e ti daru , you think you made sense, adagba ma danu. gtfoh! ##url"	Abuse	71
+train_yoruba_00295	"""especially unilag girls… awon onirò oshi #smh ##url"	Abuse	52
+train_yoruba_00888	"""you are a bastard for tweeting this omo ale jati jati #shutitalldown #buhariresignnow #ogbomoso #endpolicebrutalitynow #buhariresignnow ##url"	Abuse	142
+test_yoruba_00572	Werey ni Bobo Chinedu MIT yi Sore Loser like your liar oga OBI	Abuse	62
+test_yoruba_00562	"""awon òlé bùrúkú ##url"	Abuse	22
+train_yoruba_00600	"""@username gbògbò èléyí o necessary, go tweet am for your account gan gan ................ no dey do behind the scene 😖😣😖😩 ##url"	Normal	128
+dev_yoruba_00701	"""@username all i know is everything that happened in 20/10/20 in lekki toll gates happened to your 10th generation starting from you  since u claimed the properties destroy is worth more than those innocent lives oloriburuku eniyan, koni dafun awon iran diran ee oma sofo danu bi omi efo ni"""	Abuse	291
+train_yoruba_02065	Shey werey léleyi ni  Alaye go and rest jor	Abuse	43
+train_yoruba_00996	èjìlù àti málàkì wá bẹ ọmọlẹ́bí wọn olúgbani olorì àdó wó àmọ́ ìròyìn ọba ti wàjà ni wọ́n dé bá àna wọn ti dòrìṣà	Normal	113
+train_yoruba_03140	"""unah no shout weather for two again? ara yin o move mo. emi yin ti fe bo. sapa pro max ti regulate hormones gbogbo yin. eyin werey gbogbo oni dokudo."""	Abuse	151
+train_yoruba_02356	"""somebody that i'm just looking at. which mumu amosun ?  outside of abeokuta, the roads are out of shape. no where looks neat. ota, owode, yewa, agbara, igbesa, ìjẹ̀bú òde (fair), etc. ##url"	Abuse	190
+dev_yoruba_00327	ìjẹ̀bú mo júbà òpómúléró káàárọ̀ oòjíire	Normal	40
+test_yoruba_00531	"""@username you are an idiot for this nonsense you posted. didn't you see i asked a question? eyin omo radarada alainironu apoda oshi. your entire family will be blind. alaileko omo ale lasan lasan ko de ni da fun e."""	Abuse	216
+dev_yoruba_00370	adùńṣe bí ohun tí ọlọ́run lọ́wọ́ sí aṣòroóṣe bí ohun tí ọlọ́run kò lọ́wọ́ sí ~ as easy to achieve as what god sanctions and as difficult to do as what he opposes if god is in it it will work out	Normal	194
+train_yoruba_02759	"""won ni ki e sheeee yes daddy shirt ati yes daddy cap ki falz omo olorin takasufe tun ba yin ko orin ekun yes daddy bayi wipe yessssss daaadidi yes yes dadidi o dadidi ke fi ilu si awon alakori eda. ##url"	Abuse	204
+train_yoruba_01015	"""green carpet courtesy @username only at the omoalare concert on august 12. ijebu ode, you don’t want to miss this.  #omoalaretheconcert2019 #omoalaretheconcert #greenaceentertainment ##url"	Normal	189
+train_yoruba_00105	ẹkùn bẹ̀rẹ̀ sí ní rí ìyàtọ̀ láàárin ẹranko àti èèyàn lára ọmọ àgbàtọ́ rẹ̀	Normal	73
+train_yoruba_00776	àwọn ará ibí tún ń gbèrò láti ta national arts theatre tafawa balewa square pápá ìṣeré national stadium èkó àti pápá ìṣeré moshood abiola stadium ní abuja irú àwọn olóríkórí wo ni a kó jọ ní ìlú yìí ganan náà	Abuse	208
+train_yoruba_00716	àlọ́ o ọ̀pá tínínrín kalẹ̀ ó kànrun	Normal	35
+dev_yoruba_00508	"""love is a beautiful thing its an engagement @ oki olodo junction,ibadan! ##url"	Abuse	79
+test_yoruba_00167	ẹ mọ́ pè wá làlejò mọ́ àwa yín la nìlùú ọmọ ìyà kan náà ni wá ẹ̀sìn kò fàjà àwọ̀ ara kò fa ìyàsọ́tọ̀	Normal	100
+train_yoruba_00436	"""and if someone addresses or treats you like “a thing that ruins lives”, you will open teeth and be shouting objectification. ori yin o tie pe lori twitter yi. opolo eleyi ti lazdent. 🙄😏 ##url"	Normal	192
+train_yoruba_00154	"""@username iran re ala koko tofi de ori iran tobi e lomo. eni di ago mejila ijo monday. olofo omo, adanu omo, omo abi pa"""	Abuse	121
+train_yoruba_00176	"""@username olodo atiku of all people"""	Abuse	37
+train_yoruba_01350	either ways sars ends or not ajá ló ma jẹ òkú buhari	Abuse	52
+train_yoruba_01057	"""@username ok ma, emabinu olori olodo"""	Abuse	38
+train_yoruba_01604	"""@username thunder will fire you musiliu akinsanya 🔥 i be ikechukwu i will vote for gvr tomorrow bring it on.!!😎 you will not see the end of this fight you have started 🦅  ayé ewó atí awón omó é má bà jé ní. oloriburuku somebody.  who you be???  #eníkuré"""	Abuse	255
+test_yoruba_00695	kálára ó para mọ́ àwa ọlọ́sà tí a ṣe ìlérí pé à ń bọ̀ wá ja ìlú yín yìí lólè lóru àná a kò le wá mọ́ ó dùn wá díẹ̀	Normal	114
+train_yoruba_00865	ọdún lọ sókè ọ̀wọ̀ tí di ìlú tó dúró gírí tí ó sì ní odi sí àríwá àti àríwáìlà oòrùn èkìtì odi sí àríwá àkókó àti odi sí gúúsù ìlàoòrùn benin ọ̀wọ̀ gbógun dìde sí àwọn ìlú kéékèèké wọ̀nyìí ifọ̀n sobe imoru ute ajagba abbl láti jẹ́ aláṣẹ lórí wọn	Normal	245
+train_yoruba_01518	"""òtìya wèrey. ìyá rey. you are so stupid and foolish mother f****r ##url"	Abuse	72
+train_yoruba_03301	"""ko ni da fun gbogbo eyin rep ti e approve loan yii. eyin ole oloriburuku. e fe fi gbogbo wa ya owo tan abi. e sa fe ta orile ede yii si oko eru. ##url"	Abuse	151
+dev_yoruba_00681	"""omo ale ni lana yi sha.😭😭😭 ##url"	Abuse	33
+train_yoruba_02549	"""@username alatenuje ni awon baba e ati iya ee oloriburuku omo ofo  if u are not oloriburuku. u will use your main account. olofo who is looking for relevancy?  i know you guys are pained to the marrow when i disnt go your stup1d way to shade and abuse tinubu for your runrunrun. ema sofo ni"""	Abuse	292
+test_yoruba_00264	"""@username má pe pàdí e l'óle"""	Normal	30
+train_yoruba_01332	"""if you like, tell me asiwaju is pablo escobar’s great grand father, on that election day, na for broom me and my entire family  go still put our thumb print . if e pain you, lagoon and river niger are closer to you . awon ómó àlé jàtíjàtí"""	Abuse	240
+train_yoruba_01375	"""we're at the very time when we must decide well as kwarans. we must not allow being derailed from the right tracks of prosperous kwara.  ẹni tí yóò pẹ̀gàn àjànàkú ni yóò sọ pé mo rí nǹkan fìrí, bí a bá rí erin ká sọ pé a rí erin ##url"	Normal	235
+dev_yoruba_00664	"""kilo kan vinicius ninu èlèyi 😂😂🤣🤣 ##url"	Abuse	40
+train_yoruba_03102	"""àmín jésù, àwọn olofo ##url"	Abuse	28
+train_yoruba_01514	"""se oloribuku ni eh ni? iwo agbaya oshi  #endsarsnow abi wetin dey happen?"""	Abuse	75
+test_yoruba_00250	"""wahala ni eleyi ooooo"""	Normal	23
+train_yoruba_01106	ó ní iṣẹ́ gbogbo wa ni láti tún ìlú ṣe	Normal	38
+train_yoruba_01492	"""@username mi se omo lole logba esi wa   or someone you can refer home   i’ll give you generational scar !   omo osan ti ko popo ba awon to ni !   omo ale jatijati !"""	Abuse	166
+train_yoruba_00392	"""kitty kat oshi ti eyin girls yi fin doko kiri ma pada di kati kati mo yin lowo 😒😒😒😒"""	Abuse	85
+train_yoruba_01035	"""ọrọ dùn wère, oloriburuku ọmọ alè.  the baboon blocked me ##url"	Abuse	64
+train_yoruba_01254	"""@username ani werey ni gbogbo wan  awon omo ale jati jati  and the funniest part is prof wole soyinka might have tot some of their papas and mamas o. if prof is radical now, what is their mama and papa?  awon omo a ko ni sita bi omo ojo mejo"""	Abuse	243
+train_yoruba_02687	"""@username obi enabled touts in anambra too oloriburuku omo ofo"""	Abuse	64
+train_yoruba_02841	"""oloriburuku ni gbogbo awon politicians wa  #endswat #endsars #endpolicebrutalityinnigeria"""	Abuse	91
+train_yoruba_01633	"""please come to nigeria...ori iya e ma buru ni,sho lo stupid ni 🤦‍♂️ ##url"	Abuse	74
+train_yoruba_02699	"""olofo niyin egbon ##url"	Abuse	24
+train_yoruba_02661	"""ole ole ole! ole ole ole! ole! ole!  olajide adeniji chicago university ruben abati supreme court chicago state university amoda sangodele tinubu atiku reno south east atiku tunde bakare ##url"	Abuse	193
+train_yoruba_00312	"""omo ale jati jati kan tun leleyi.   low budget skones. ##url"	Abuse	61
+train_yoruba_02020	bh pa ìgbàgbọ́ ó pa ìmàle ó pa onílé ó pa àlejò alákọríi wọn pa yorùbá ti wọ́n tún pa araa wọ́n	Abuse	96
+train_yoruba_00896	"""@username you won’t regret it sis , we are 100% cool. kosi ibi ti omo ale o si fa"""	Abuse	83
+train_yoruba_03403	OTI LULÈ	Abuse	8
+train_yoruba_01049	"""lmao... awon olofo 😂 ##url"	Abuse	27
+train_yoruba_00095	dídé tí àwọn ọlọ́ọ̀pá dé ibi ìwọ́de náà àwọn awọ́de dúró láìjà àwọn ọlọ́ọ̀pá ní wípé àwọn awọ́de náà ní agídí púpọ̀ wọ́n sì yin ìbọn lu méjì nínú àwọn awọ́de náà olórí àwọn àgbẹ́kọ̀yà dé ibi tí ìṣẹ̀lẹ̀ ọlọ́ọ̀pá náà ti ṣẹlẹ̀ ó ri wípé nínú	Abuse	238
+train_yoruba_00510	"""@username awon eleyi ti fenu pa baba oni baba"""	Normal	47
+train_yoruba_00435	kí wá lọ́nà àbáyọ àfàìmọ̀ kí a máà ṣẹrú ẹgbẹ́ wọ sààárè ọmọ yoòbá ò a ti jẹ́ ègún mọ́yán tó ẹ jẹ́ kí a jáwọ́ lápọ̀n	Normal	115
+dev_yoruba_00528	"""there's a brother kola in all the towns in that area. from ikenne to ilishan to odogbolo,ijebu ode,ife,sagamu,ode-remo,iperu,ipara etc. those places mad gan😂😂😂😂 ##url"	Normal	167
+dev_yoruba_00169	"""mussels ni eleyi nje ? ##url"	Normal	29
+train_yoruba_00098	"""ori won ti daru sef....rada rada ##url"	Abuse	39
+dev_yoruba_00303	"""awa omo oo’dua, a kin je omo ale, omoluabi ni wa. save for ffk sha… ##url"	Normal	74
+train_yoruba_01480	Awon omo werey fe gbo itan, je kan mo	Abuse	37
+train_yoruba_00007	"""@username mo ní ọfọ̀ lọ́pọ̀lọpọ̀. ṣé ó lọ? #yoruba #incantation #bilingual"""	Normal	76
+train_yoruba_02170	ko kin se gbogbo wifi lo le lo sora fun awon ti o fe se ijamba si ero ibanisoro e  dabobo whatsapp e lona meji pelu	Normal	115
+dev_yoruba_00474	wọ́n gba wèrèe àṣàa aláṣà ó burú jáì torí wọn ò gba wèrèe àṣà ti wọn	Abuse	68
+train_yoruba_01888	"""@username olówó ti gba ìyàwó òle oo🥲💔"""	Normal	39
+test_yoruba_00497	"""🎶 o fe shey ika fun mi mo de’n shadura ni bi mo shey n gbadura mi allah n gba adura mi atilo atide eni ori yo odile eni balo lo ba de igba timo pada de shey ni won de mi lade kade ko pe lori, ki bata ko pe lese ki awon ota mi kan lese kawon eleribu aimo na kan lese🎶"""	Abuse	268
+train_yoruba_00724	Oloriburuku...	Abuse	14
+train_yoruba_01720	bí ṣágbuà òkúbọ́nnà àti àwọn ará ìlú ṣe ń ṣàtúnṣe sí odi ìlú méjì ti àríwá ìlàoòrùn kò jẹ́ ṣíṣe gbalaja ló wà àwọn òṣìṣẹ́ ìjọ ọlọ́run bíi ọ̀gbẹ́ni crowther kò leè jà àdúrà ni wọ́n gbójúlé láti borí ogun	Normal	202
+test_yoruba_00608	"""@username iya e,baba e,ponri pongba iyalaya baba e ni fool,ko ni ye e,omo ale jati jati"""	Abuse	89
+dev_yoruba_00022	ṣebí àwọn kan náà ló pòwe pé bí ilé bá tòrò ọmọ àlè ibẹ̀ ni kòì dàgbà	Abuse	69
+train_yoruba_00640	"""eranko ni yin sir. 😏 ##url"	Abuse	27
+train_yoruba_02716	gbedu wey dey travel no visa gbedu alaso tun tun not akisa gbedu ton le so amala di pizza gbedu ton borobo shiba gbedu to ma je ki o pariwo yeepa oja gan gan moti di aleeba ussd ni se ko lo data malo go o ma tele wan wa later	Normal	225
+train_yoruba_03107	"""mo ma need bi eniyan 10 ki won sa ma hail mi, ki won ma yin mi , ki ori mi ma swell bi garri ijebu 😂"""	Normal	102
+test_yoruba_00227	"""@username awon brother kunle ofo"""	Abuse	34
+train_yoruba_01091	"""nigerian police is just a minus for nigeria...see as dem pai army officer for ikorodu now they are running...awon oloshi"""	Normal	122
+dev_yoruba_00414	"""@username really , omo ale leleyi ooooo bandits and yo vice president  eleribu nioooor"""	Abuse	88
+train_yoruba_00993	"""@username bingo is a name given to a dog. dogs behave like humans. dogs are loyal to their masters and are not treated like slaves. at least they are better than 'use and dump"" agbado street urchins. mumu tí ó ti ṣí' èrè ni ẹ. oponu."""	Abuse	235
+train_yoruba_02617	gbọ́nmi si omi ò tó ìjọba britain àti ẹ̀gbá ní ọdún ìjọba britain ní èkó fa igi lé ìṣe ọ̀rẹ́jọ̀rẹ́ tí ó wà láàárín wọn pẹ̀lú àwọn ará ẹ̀gbá látàrí wípé àwọn ará ẹ̀gbá ò fi inú dídùn sí ìjọba britain tí ó fi àyè gba àwọn ẹrú tó gba òmìnira tí	Normal	241
+train_yoruba_02580	"""lmaooo saheed osupa is truly rugged. he survived the biggest fuji war.  i’m here listening to all the diss tracks he released during the period.  ‘omo olomo laarin ero, oromodiye laarin asa. ori lo yo omo o ya e ba mi pa atewo fun, ruggedity lo so omo di ajanaku’"""	Normal	265
+train_yoruba_02426	"""i played her again. mo na bí olè. mo na bí bastard. her and that man she dey put chest on for dp. payback is sweet especially when yours is better😄 ##url"	Normal	154
+test_yoruba_00701	àwọn aláwọ̀ funfun tí wọ́n ma ń ti orí omi wá ṣòwò pẹ̀lú wọn ní ibi tí wọ́n ti ń ra ìbọn pẹ̀lú ọ̀tá ìbọn tí wọ́n sì ma ṣe pàṣí pàrọ̀ pẹ̀lú ẹrú ọwọ́ àwọn ọmọ ogun ìjẹ̀bú kìí tàsé bí wọ́n bá ń yin ìbọn àwọn òwu bá tutọ́ sókè fojú gbàá wípé bí	Hate	240
+train_yoruba_02946	"""ugly things like that of  your governor's follow you for the rest of your life and that of your family 😄😄. omo ale jati jati, omo por bi osan bor ##url"	Abuse	152
+train_yoruba_00281	"""@username omo oloja oke ni di ogun,omo fabunmi orara lada. omo afaganja omo arogun yo. omo oke agbonna, omo oke ludi ogun atiri ogu #ekititwitter #ekititour #ekititotheworld"""	Normal	175
+dev_yoruba_00026	"""olohun maje ki a bi omo ale ##url"	Normal	34
+train_yoruba_00673	"""how can you put ""handsome ashiere and intelligent olofo"" papọ in a sentence 😳😳 mo foh oooo 🤣 🤣 🤣 🤣 🤣 🤣"""	Abuse	104
+train_yoruba_00417	"""omo ale jati jati nimi"""	Abuse	24
+train_yoruba_00330	"""@username your job is hard. your tribal and ethnic bias is the basis for your stupid justification.   iwo ọmọ àlè, àbíìpàbẹ́, fabẹ́jóná, ọmọ lásán ìkejì ajá, ọmọ langìdí, ìwọ jatijati yìí.   irredeemable lot. ##url"	Abuse	215
+train_yoruba_00942	"""i dont know who needs to hear this but sis ,your soulmate is not that lady’s husband.... fi oko loko si le ,iwo omo ale onijekuje yii."""	Abuse	136
+test_yoruba_00075	"""@username iwo olódò obà, omo aténí gbolá 🥰 ##url"	Normal	49
+train_yoruba_03146	"""frame 1 &amp; 2 - àkànbí ọmọ olódò idẹ, h.e. asíwájú bola ahmed tinubu addressing the audience of oyo state apc stakeholders and delegates present. frame 3 - abat &amp; governor of kano state, @username discussing. the way those two discussed every now and then is second to none ##url"	Normal	286
+train_yoruba_00598	Werey!  Your boys beating people in Oshodi while you are deceiving yourself that you are before God.  Abeg face front, Olorun osi leyin alabosi !	Abuse	145
+train_yoruba_00332	awon were àwọn wo tún nìyẹn o ṣé wèrè gbígbẹ ni wọ́n ni àbí tútù	Abuse	65
+train_yoruba_03216	"""ori buoda kayode tu tin daru laleyi o! #bbnaija"""	Abuse	49
+train_yoruba_01418	igi àko náà ni igi ògùrọ̀ láàńbẹ́ náà ni ìjímèrè  náà ni pẹ̀ǹlẹ̀pẹ́  a ajá b kìnnìún d ìkòrikò  ibeere yoruba	Normal	109
+train_yoruba_00980	"""who's going for #kutaphotowalk organised by @username happening in ijebu ode today? meetup: nest by kuta, oke-iléwò (8:30am) let's get ready to tell ìjèbú-òde's story with the creative #kutaphotowalk community! #mytwitteranniversary  #thegoldenmoustache ##url"	Normal	260
+train_yoruba_00871	"""this evening, i was at muslim town hall, ikija - ijebu, ijebu east lg. to represent mr. segun adesanya (ceo rèrè foundation) at the walimatul ceremony of our dear brother alfa. musiliu adetayo, son of mrs fadekemi, one of our member at rere foundation.   barakallahu fihi👏🏼👏🏼 ##url"	Normal	282
+test_yoruba_00354	"""your drug lord that called himself jagaban don come back from the abroad your moral too don high. o ni má lọ ṣe mtchew fún morpol. tí òkú idà ó má tẹ owó ọmọ, ọmọ ó gbọ́dọ̀ birọ ohun tó pá iba rẹ. na folks like you we use gun iga ni ìjẹ̀bú òde. ##url"	Normal	251
+train_yoruba_02316	"""@username as said by omo àle jatijati"""	Abuse	39
+train_yoruba_02024	oloribu no bobo yiii	Abuse	20
+train_yoruba_00669	"""ti yin ti rin 😏  eyin werey gbogbo 😂😂😂 ##url"	Abuse	45
+dev_yoruba_00394	"""awon ole jatijati ##url"	Abuse	24
+train_yoruba_01501	lásán ni ajánaku fojú ìṣẹ́ wo ọ̀bọ ṣèbí ọ̀bọ ò kú tọrọ jẹ where to whom can we use this proverb níbo àti tani a lè lo òwe yìí fún	Normal	129
+test_yoruba_00026	"""and till date the whole of africa has not recorded half of what one country has recorded in terms of covid-19 cases in europe. still you talk this nonsense. ko dẹ ni dafun ẹ bi mo ṣe n wo ẹ yi. oloriburuku. ##url"	Abuse	213
+train_yoruba_01541	"""@username okan yin o ni baaale eyin omo werey 😎"""	Abuse	49
+train_yoruba_02871	"""eleda madun. gbogbo oshi aiye mi ni ko bami cancel."""	Normal	53
+dev_yoruba_00313	ifá bara àgbọnnìrègún èṣù ẹlẹ́gbára ògún lákáayé yẹmoja	Normal	55
+train_yoruba_00763	"""opakan rebirth, ole alayo ##url"	Normal	32
+train_yoruba_00798	a ṣí ipa ló di aṣípa oní ọ̀pá ló di ọlọ́pàá ló di ìjọba ibeere yoruba	Normal	69
+train_yoruba_02255	ajé á wá wa wálé  a óò lájé lọ́wọ́ a kò ní ní i lọ́rùn  a óò rí ajé jẹ gbámú fi ṣe ohun rere  ajé ò ní hán mi nítorí ojú owó kì í pọ́n dàda ǹjẹ́ mo ti di dàda ọmọ olówó ẹyọ owó ò tún hán mi mọ́   ajé ò  iwure ojoaje yoruba	Normal	222
+dev_yoruba_00717	njẹ ọ mọ njẹ o mọ pe iyi diẹdiẹ lara n fẹ ko yẹ ki ẹnikẹni ko jẹ iya aitọ ki a ko wọn loko ẹru tabi ki a fi tipatipa mu wọn ṣe iṣẹ asekara amọ o o tọ keeyan ṣe iṣẹ asekara bi ọrọ ba ri bayii	Normal	190
+test_yoruba_00086	iṣẹ́ gbomi mu fún mi lẹ́nu ọjọ́ mẹ́ta yìí ìtẹ̀síwájú lọ̀pá ìṣẹ́gun	Normal	66
+test_yoruba_00441	"""gbo gbo yin o ni ise she eyin werey 🤣 ##url"	Abuse	44
+train_yoruba_03367	"""lamba yii ti poju nibo leti man ri runsa abegi no kill us😭😭😭😂 #runtwitter"""	Normal	75
+train_yoruba_01078	"""tawbah 💯   won ni iwa werey po ni sin 😂😂"""	Normal	42
+test_yoruba_00104	"""werey ti ri alert, ori fifo lo ma fi wo olofo ##url"	Abuse	52
+train_yoruba_02834	"""omo ofo ni e... onkr ... very sure you don't know your father , oloriburuku omo ale ##url"	Abuse	90
+train_yoruba_00627	tani tabi kini oke nla ti o do ju ko o bi iṣoroidaamuapata ninu aye ati ẹbi rẹ olodumare yoo fi gbogbo wọn le ọ lọ wọ ni osù yii ni orukọ jesu iwọ yoo jẹ nitõtọ a ku ayo osu titun happy new month	Normal	195
+train_yoruba_00294	oooooo eyin na ku idodimu o mo kí gbogbo èyàn wa lókè òkun àti lẹ́hìn odi gbogbo ẹkú àìgbàgbé	Normal	93
+train_yoruba_00228	ìlú mi tí èèbó ti fi búrẹ́dì kó lọ́bẹ̀ jẹ alákòówábá lọ tán àwa ara wa náà ń ṣe àwaarawa araìlú bí ọṣẹ́ ti í ṣojú ó ga	Normal	118
+train_yoruba_00718	"""a masquerade danafojura came along with h.r.m, alaafin of oyo, in honour of the awujale of ijebu land, oba sikiru adetona at the 2019 ojude oba festival in ijebu ode, ogun state.   ojude oba was agog when the masquerade was set ablaze and came out unhurt.  #yorubaculture ##url"	Normal	278
+train_yoruba_00376	sílẹ̀ ogun náà ma tán àṣegbé bá padà sí ìpààgọ́ ọ̀gbómọ̀ṣọ́ láti lọ jíṣẹ́ àṣeyọrí ọ̀rọ̀ tó lọ bá ọba ẹdẹ sọ inú àwọn olórí ogun dùn ọba ẹdẹ san àwọn ohun wọ̀nyìí tí ó sì fi hàn wípé òhun kò jagun mọ́ bí àwọn ọmọ ogun ọ̀gbómọ̀ṣọ́ ṣe kúrò	Normal	236
+train_yoruba_01727	ojúmọ́ rere mọ́ wa lónìí oṣù ire ajé oníso ibòoji mẹ́rìndínlógún á wá wa wálé lọ́láa elédùà ẹ pé á á ṣẹ	Normal	103
+train_yoruba_02791	"""eranko ni bobo yen. 😂 ##url"	Abuse	28
+train_yoruba_03084	"""chealse arsenal  @username te support wan ti lule owo ti nwogbo 😂🤣😂#egesports"""	Abuse	79
+train_yoruba_01667	"""😂 😂 😂 omo ale jati jati. landlord’s daughter? ##url"	Abuse	52
+train_yoruba_00513	"""ori e ti daru.. face ti daddy eh fi wa booking code kakiri ##url"	Abuse	65
+test_yoruba_00234	"""massive turn out for ademola jackson adeleke. oyetola ti lulẹ 😄😄. #osundecides2022 #osunelection #davido ##url"	Abuse	111
+train_yoruba_01697	"""@username eleyi wá, le ni kò sí nkan"""	Normal	38
+train_yoruba_00219	toò gbogbo oníṣẹ́ oníṣẹ́ ìjọba ẹ kú ọjọ́ oní o iṣẹ́ á gbè wa o iṣẹ́ wa ò si ni di ìṣẹ́ o àṣẹ	Normal	92
+train_yoruba_00994	wọ́n ní kẹ́ ẹ gbórí mi wá ẹ sì sọ́ di orí ajá   a whole alaafins head	Normal	69
+train_yoruba_02905	"""ori e ti daru ##url"	Abuse	20
+train_yoruba_02901	bílíkí súlè ẹ kú ọjọ́ ìbí o igba ọdún ọdún kan ni | bílíkí súlè	Normal	63
+train_yoruba_03325	"""gbé sénlé ko soro soké werey #endsars #endpolicebrutality"""	Abuse	59
+train_yoruba_03058	"""you're irredeemably stupid... à dàgbà ma dànù oshi... olorikori ##url"	Abuse	70
+train_yoruba_02397	"""eni to ti ya weyrey... ##url"	Abuse	29
+test_yoruba_00661	"""olofo l’on binu ologo…  man no fit tire man always on the roll…"""	Abuse	65
+train_yoruba_01022	ọ̀pọ̀lọpọ̀ ìlú ìjọba ìjẹ̀bú mú ètò ààbò fún ìlú wọn láti dẹ́kun ìjínigbé bí wọn kò ti lè dá èèyàn tó jẹ́ ajínigbé mọ̀ yàtọ̀ sí èèyàn tó ń bá tiẹ̀ lọ àlejò tí ìrìn rẹ̀ kò bá dán mọ́rán tí kò sì lè ṣe àlàyé ohun tí òhun ń ṣe nínú ìlú ìjẹ̀bú	Normal	238
+train_yoruba_01338	"""@username olodo niwọn"""	Abuse	23
+train_yoruba_01317	èyí o wù ó jẹ́ akọ ìgbádùn nbẹ ní ìjẹ̀bú òde ọmọ ìya mi	Normal	55
+train_yoruba_00943	showing now on omoboriowo staring	Normal	33
+train_yoruba_03369	àwọn ìgbìmọ̀ mẹ́ta tí ń darí ètò ìṣèlú ní àárín àwọn ìjẹ̀bú pín sí ọ̀nà mẹ́ta awo ògbóni èyí ni ìgbìmọ̀ tó ga jù tí ọba sì gbọ́dọ̀ jẹ́ ọ̀kan nínú wọn ìpàmpà èyí ni ìgbìmọ̀ tó tẹ̀lé ògbóni lámúrìn èyí ni ìgbìmọ̀ tó kéré jù lọ nínú wọn	Normal	233
+train_yoruba_03360	a ò bá à ṣaájò gbékúdè ẹgbẹ̀rún ọdún yóò ku ọjọ́ kan bí òwe àgbà ìgbà wo ni mákùú ò ní kú	Normal	89
+train_yoruba_00897	"""with olokeorundun of oke orundun, during #stayhomestaysafe #covidー19 #live_ijebu_ode @username the coming oba of orundun kingdom #covid19real_staysafe... ##url"	Normal	160
+train_yoruba_01455	"""27th august, 2022: the former senate president dr. abubakar bukola saraki booed at okekere, ilorin as the chant of ole ole ole (thief) takeover the air as he visits kwara. ##url"	Abuse	178
+train_yoruba_01011	ẹni tó jọba tán tó tún ńwo òkè fẹ̀ fẹ̀ fẹ̀ ṣé ó fẹ́ di olódùmarè ni a person already crowned a king still kept looking upward in dire expectation does he want to become god contentment is it lack of contentment can be stressful	Normal	227
+train_yoruba_03199	kété tí baáálé rẹ̀ ọdẹ ọ̀dàlẹ̀ gánánní ẹfọ̀n mẹ́ta ọkàn an rẹ̀ sọ pé ṣàǹgbá fọ́	Normal	79
+test_yoruba_00217	"""@username i'm even popular than you in twitter... olofo to binu awa ologo 😅😁🙄"""	Abuse	79
+train_yoruba_03259	"""@username awon olodo gbogbo."""	Abuse	30
+dev_yoruba_00109	lẹ́yìn tí a ti kó ọ̀pám̀bàtà jáde àwọn awo yóò máa yí de ní ṣísẹ̀ntẹ̀lé	Normal	71
+train_yoruba_00078	àìsanra tó ajá ológìnní kì í ṣe ti àìjẹun kánú bíran rẹ̀ ṣe mọ ni  cats relative smallness to dogs isnt for want of food thats how cats are appearance can be deceptive respect what at first sight is not clearly obvious yoruba proverb	Normal	233
+train_yoruba_03024	"""@username nah idiot your stupid papa be for giving birth to oloriburuku like you. ko ni da fun baba e"""	Abuse	103
+train_yoruba_00887	"""eleyi wa leni ko si ikan. ##url"	Normal	32
+train_yoruba_00357	mo ti rorín mo ti bọ́jú èmi ò kí í ṣe ọ̀bùn ènìyàn tí í fojú àná wòran	Abuse	70
+dev_yoruba_00056	"""so, #ankaraarmy #belikengozichallenge is trending but you no go join..if na to open your reversable breast and shake yansh😞. you go don post like 8 diff vids. omo ale #belikengozichallenge #ankaraarmy #noigoestowto #okonjoiweala"""	Abuse	230
+train_yoruba_00226	"""awon omoluabi yoruba atata ni ijebu!  i love this. it came from  ijebu ode, south west of the yoruba race in nigeria. beautiful sight to behold. happiness is everywhere in nigeria and is rated the happiest people in the world. ##url"	Normal	233
+train_yoruba_03197	"""ko si omo kidi ni apc ni ?....awon omo buruku, oniranu, alatenuje alainironu nah e plenty for southwest wing of apc. ##url"	Hate	123
+dev_yoruba_00392	"""awe titan, k'e wáá bèrè àsèje yin padà lójú páálí, pèlú ebu àti oti lord/schnapps. eyin omo àlè omo yahoo gbogbo yii."""	Abuse	119
+train_yoruba_03135	"""@username wòn ti tó werey wòn tin ri werey awón ómó alé dédé"""	Abuse	62
+train_yoruba_02892	"""@username it is unfortunate that your father is an unfortunate man who gave birth to an unfortunate son...oloriburuku omo jati jati..."""	Abuse	136
+dev_yoruba_00336	"""girl: shina, anything for your girl? (winks)  shina: okó wà, ẹpọ̀n náà sì wà. which one do you want?  girl: (hisses and walks away) oníranù ni boy shina yìí sha. rubbish!  shina: now you're familiar with my game. ##url"	Abuse	219
+test_yoruba_00099	"""awon eleyi ti ya weyrey ##url"	Abuse	30
+train_yoruba_02233	òkú olówó oṣù mẹ́ta òkú òtòṣì oṣù mẹ́fà òkú ọlọ́mọ àṣeeṣètán ni	Normal	63
+dev_yoruba_00054	"""omo, o ti re body yii lati ana 😓😪 shugbon, ola ni ojo aiku...🤧  mo need lati sun dada...nitori pe, ori ti'n fo mi radarada oshi bayii! 🤕  kilode gan na? 🤒 ##url"	Normal	161
+train_yoruba_00258	"""nigerian government shey eni oloriburuku niyin ni... awa youth gan ti di rakitic moyin lowo #endsars #endbadgovernanceinnigeria #foolishpartyinnigeria"""	Abuse	152
+train_yoruba_00519	"""oponu, arindin, didirin, odè, òle, ole, adagba madani, weyrey dey disguise thank god day na jack you dey whyne, lenu ko sha e ni blocking ni, bloody terrorist #endsars #endswat #cutthecostofgovernanceinnigeria ##url"	Abuse	216
+test_yoruba_00366	"""ise eniyan ni ise eranko"""	Normal	26
+train_yoruba_00740	"""werey ni distinguished, nkan rere wun ole. ##url"	Abuse	49
+train_yoruba_02986	"""oloriburuku maashafaniyin gbogbogbo, werey niyin o, (#iyenphuungbel-iyen#)!!!"""	Abuse	79
+train_yoruba_02200	romans awa si mọ̀ pe ohun gbogbo li o nṣiṣẹ pọ̀ si rere fun awọn ti o fẹ ọlọrun ani fun awọn ẹniti a pè gẹgẹ bi ipinnu rẹ̀	Normal	122
+train_yoruba_00534	"""apada si buruku oni kan wa ✨🙏"""	Abuse	31
+train_yoruba_03282	"""to mark the 5th years coronation of kabiyesi, hrm oba (engr) moses olufemi agunsoye. the elegboro of ijebu jesa. the planning committee wishes to intimate the public that kabiyesi shall grant a press conference on 11th nov 2022 join via the link below. 👇 ##url ##url"	Normal	267
+test_yoruba_00589	"""here's the 7.4km oru-awa-ilaporu road in ijebu north local government that will be commissioned today.  indeed, dapo abiodun @username is a silent achiever   #buildingourfuturetogether #iseya #ogunstate #dapoabiodun #datill2027 #apc2023 #igbega2023 #renewedhope23 ##url"	Normal	270
+train_yoruba_00037	ìran gàmbàrí ló kó ẹṣin wá ojúọjọ́ọ ti wa níwọ̀oòrùn gúúsù níbi ò fi bẹ́ẹ̀ dára fún ìsìn ẹṣin mọ́là ní í ṣètọ́jú wọn itandowe yoruba	Hate	132
+train_yoruba_01971	"""@username ani mumu ni bobo daniel yi seh 🤣🤣"""	Abuse	45
+test_yoruba_00205	ọ̀pàpà paradà ó dèèmọ̀ gòdògbò taani ò mọ̀ pẹ́nu àgbà òṣèlú lèèmọ̀ ti ń gbó àgbà òṣèlú àgbà ọ̀jẹ̀lú	Abuse	99
+train_yoruba_02555	wọ́n níkú akọni ní í pa akọni ikú omi ní í pa ọ̀mọ̀wẹ̀ òwò tẹ́dàá bá mọ̀ ní ṣẹ́ ẹ̀dá lẹ́yìn adebayofaletiodigba yoruba omoyoobaatata	Normal	132
+train_yoruba_02088	"""@username iyalaya eeee ati baba eeee ni werey, oloriburuku omo iya olosho irandiran eee ti gbogbo yin ma ta danu ni"""	Abuse	117
+train_yoruba_01235	ẹ̀bùn edùmarè ni ọmọ ẹ̀rí ìfẹ́ rẹ̀ sí wa ni wọ́n èdùmàrè à ń bẹ̀ ọ́ bá wa wo àwọn èwe yè fi wọ́n fún àwọn tí ń wojú rẹ fún ẹ̀bùn wọn má ṣe jẹ́ kí wọ́n kú mọ́ àwọn òbí wọn lọ́wọ́ èyí a wí yìí kárọ̀ rọ̀ mọ́ ọn	Normal	207
+train_yoruba_00558	àgùtàn tó bá bá ajá rìn á jẹ ìgbẹ́ ajá tó bá bá ewúrẹ́ rìn á jẹ èpo iṣu a sheep that moves with dogs will eat faeces and a dog that moves with goats will eat yam peelings be mindful of your close associates good morning	Normal	219
+train_yoruba_02598	"""oshey million dollar’s business selling claniv klein. ori e ti daru.. awon molebi e lohn po ekoh gbigbona fun ##url"	Abuse	116
+train_yoruba_03405	"""ẹni tó lẹ fìlà mọ́ àjànàkú náà ṣe aájò ajé, ọlọ́hun ni kò fún-un lẹ́ran pa.. adíá fún àwọn elupeee! smiiiiiiiiiling 🚶🙄🚶🙄🚶"""	Normal	123
+dev_yoruba_00057	"""@username joey barton has always and will continue to be a foooooool.. oloriburuku...."""	Abuse	88
+train_yoruba_02253	"""whatsapp tí lulẹ...."""	Abuse	22
+test_yoruba_00631	àbẹ́ẹ̀ rí nkan ilá rèé lọ́jà àṣé àwọn ará a náà má njẹ ilá	Normal	58
+train_yoruba_01297	"""@username oloriburuku ni lord lugard"""	Abuse	38
+train_yoruba_01034	"""omo alè jati jati ##url"	Abuse	24
+dev_yoruba_00588	Omo ale ni bobo yi	Abuse	18
+train_yoruba_01087	odi gba miran sugbon o le tele mi padafollow back	Normal	49
+train_yoruba_00194	"""mo kede gege bi iranse ọlọ́run olódùmarè, gbogbo emi okunkun ati agbara ti wọn n fi igbiyanju ati isẹ re se ofo, agbara emi mimo tu wọn ka loni loruko jesu. #ojuaroleoodua ##url"	Normal	178
+test_yoruba_00697	"""your caption says it all. buying votes ahead of time, ori gbogbo yin tali daru. ##url"	Abuse	86
+train_yoruba_01937	"""let people 'mourn' in piss, plis dear. olófo ni beauharry"""	Abuse	59
+test_yoruba_00616	"""bloody bastard... omo àlè jatijati ##url"	Abuse	41
+train_yoruba_01178	"""@username none of these 2, my candidate is asiwaju bola ahmed tinubu,the jagaban of nigeria, akanbi omo olodo ide, bat, omo ju omo lo 1 of nigeria,e mi l'okan 1 of nigeria, city boy, oko city girl distinguished senator oluremi tinubu"""	Normal	235
+train_yoruba_02054	kò sí ẹni tí ọlọ́run ò ṣe fún àfi ẹni tó bá ní tòun kò tó	Normal	57
+dev_yoruba_00007	"""eleyi tigbe no egbon, e bami bororo itura si ni sir 🙁 ##url"	Normal	60
+train_yoruba_00568	"""radarada… that thing can be annoying😏iwo to pa ęran , o tun fun ęni to pa ęran lę ran.  carry food go house wey dem dey celebrate, kill 5 rams🤣😅😂 shey ęn shi ni"""	Abuse	162
+dev_yoruba_00017	"""oriki corona virus...  túálè o ✌🏻 ọmọ ológo tó gbàlú kan a múni dúró sílé tipátipá a múni daṣọ bomú dandandan a mú ará ìlú òyìnbó wálé pàjáwìrì a múni sá f'ólólùfẹ́ ẹni ọmọ burúkú tó ń ṣẹ̀rùba gbogbo ìlú ọ̀ da jìnnìjìnnì bolẹ̀ ẹkùn olùkápá gbogbo olóṣèlú"""	Normal	256
+train_yoruba_03042	"""adape ole ni omo nfewo, ibaje di ewa lo nmu obinrin lu eti, kosi ohun to nje orekunrin ati ore binrin ju yiyan ara eni lale lo. ekola kuro leko eko okola ewe lo ko. say no to boyfriend and girlfriend ❌🙀  can you read yoruba very well?"""	Normal	236
+train_yoruba_00235	"""@username then leave another person's coven alone and face your hell. oloriburuku omo jati jati"""	Abuse	97
+train_yoruba_01606	"""a ma pada fi werey port oro ílé ayé yi ni cos o ti súmì but ko ni rè mì💪🏽"""	Abuse	75
+test_yoruba_00563	"""@username then you will d*e like never before. àwọn ọmọ ale jati jati"""	Abuse	71
+train_yoruba_00259	"""on-going construction of the multi-million naira prince senator buruji kashamu (psbk) skill acquisition centre, oke-oyinbo atikori, ijebu-igbo... facilitated by the rt. hon. adekoya adesegun abdel-majid (attacker)  a good development for the people in that constituency. ##url"	Normal	277
+train_yoruba_02117	ẹ bá mi kìlọ̀ fajáni kò fọwọ́mu àṣàkẹ́ lọla àti sade ifè olójú mẹta arike nìkan ni tèmi kò má de bẹ ayinde yàtò sajani olójú mẹ́ta oleku happyvalentinesday yoruba	Normal	162
+test_yoruba_00437	"""@username olofo ọmọ àgbàdo"""	Hate	28
+train_yoruba_00829	"""aiteteji inu ota n dun, aji tan inu n bi baba baba won. @ gra ijebu ode ##url"	Normal	78
+train_yoruba_00043	"""@username olódo ni yín ma...."""	Abuse	31
+train_yoruba_00727	"""it’s very sad that you’re existing, oye ki won pa e dami ni, olofo ##url"	Abuse	73
+train_yoruba_03119	"""i don't like those ones,this is actually meant for the elder statesman and agba!!! those ijebu royal ones make me look like someone whonhas arrived, mi ò dẹ̀ tíì dé ##url ##url"	Normal	177
+train_yoruba_02957	"""@username iya laya e baba e mofo  oloriburuku oloyinbo  oni shey birthday"""	Abuse	75
+train_yoruba_00491	"""attacker on the move again. orimolusi palace, ijebu-igbo nearing completion.courtesy of rt. hon. adesegun abdel-majid adekoya (attacker) ##url"	Normal	143
+train_yoruba_01323	wàláhì tàlahì fulani ló ń ba nigeria jẹ́	Hate	40
+train_yoruba_00847	"""oloshi ni won ##url"	Abuse	20
+train_yoruba_02439	"""@username i worry oooo. we need to do everything possible so we won't worry for next 4 years  okan awon omo ale gbogbo ko ni bale."""	Abuse	132
+test_yoruba_00457	no obo like nkan okunrin she mean	Normal	33
+train_yoruba_00400	"""#naijiria lefitiku 26:6 [6] emi o si fi alafia si ilẹ na, ẹnyin o si dubulẹ, kò si sí ẹniti yio dẹruba nyin: emi o si mu ki ẹranko buburu ki o dasẹ kuro ni ilẹ na, bẹ̃ni idà ki yio là ilẹ nyin já."""	Normal	198
+dev_yoruba_00654	ọlọ́gbọ́n ni í fi ọ̀ràn elòmíràn kọ́gbọ́n òmùgọ̀ á fi tirẹ̀ kọ́gbọ́n  it is a wise person who learns from the experience	Normal	120
+dev_yoruba_00605	"""@username ofo lomi eko n ṣe wa soofo.... oloriburuku somebody kadaa fun e"""	Abuse	75
+train_yoruba_00229	ajírorín lorúkọ tí mò ń jẹ́ ajíwẹ̀ ni wọ́n mọ̀n mí sí lágbolé wa bẹ́ẹ̀ ni o èmi ò lè ṣèṣe ọ̀bùn nígbà kankan	Normal	108
+train_yoruba_02668	"""oniranu sug president. ##url"	Abuse	29
+train_yoruba_01293	creole di kiriyó somebody yes sir di sọ̀bọ̀dìyẹsà ló di àǹńkò	Normal	61
+train_yoruba_02328	"""maraji... arà e o tí ji pépè... lo lò màrájí è, so that you will be alright! do you mean those people who died before christ were recreated so that they could go to father through him!... i’ve got a lot màrá jí at ijebu ode ##url"	Normal	230
+train_yoruba_01221	"""this 1⃣ sef na photoshop oo, na me get the website ooo 😂😂😂😂 àwọn olofo tó ń bínú ológo ##url"	Normal	93
+train_yoruba_00183	"""@username the people he claims to be in the same profession with 😭😭😭 oloriburuku jati jati"""	Abuse	92
+test_yoruba_00737	bótilẹ̀jẹ́pé ọ̀fọ́nọ̀n ajẹlójú onílé ti jẹ ìwée wọ́n rò pé wèrè ni mo fẹ́rànan ìtàn inúu rẹ̀ mọ̀nàkàì adebayofaletiodigba yoruba	Abuse	128
+train_yoruba_02891	mo ki gbogbo omo kaaro ojiire patapata nile loko ati leyin odi a dara fun gbogbo wa o amin	Normal	90
+dev_yoruba_00416	"""o ba iya e laiye ! omo ale jati jati 😯 get the fuvk outta here dummy! ##url"	Abuse	76
+train_yoruba_01314	kódà orúkọ tí lárúbáwá ń pe ẹranko kútúpà onípátákó lẹ́sẹ̀ yìí ni a yà tí a fi ń pè é lọ̀la nítorí ó ṣàjòjìi wa	Normal	111
+train_yoruba_01405	kíni ìtumọ̀ọ ajá ò gbọdọ̀ bá ẹkùn ní bùbá kíni bùbá	Normal	54
+train_yoruba_02095	òkè pẹ̀lẹ́ o àtàgé ọlọ́mú orù ó wo ọmọ wo ìyá ó wo bàbá wo ọmọ òkè gbà mí o ọ̀lọ́mú orú máà jẹ ki tèmi ó sòro ṣe aképè níjọ́ tí ọ̀ràn kò sunwọ̀n omi rere nílé ẹni tí ó ń tọ́jú òkè dákun gbà mí	Normal	192
+test_yoruba_00730	"""oponu ni awon brothers and sisters eeeee nile were omo  you think we fees on twitter news like you? asiwere  😃😃 ##url"	Abuse	118
+train_yoruba_01945	"""@username oti yawerey oloriburuku, due to self interest wish your family was among those that were shot at the lekki toll gate, oloribu onikure koni dafu iya e"""	Abuse	161
+train_yoruba_02920	Awon Clown gbogbo.	Abuse	18
+train_yoruba_03099	wọ́n á ní ajagajígì ẹni tí ó mi kùkùté mi ra rẹ̀ kíni ajagajígì ibeere yoruba	Hate	77
+test_yoruba_00126	"""@username in ijegun market, they collect money everyday, baba oloja money and mama oloja money, they always come up with different tickets"""	Normal	140
+train_yoruba_02222	"""akpabio never see anything! aunty tutu i diekolola omo oolore stand gidigba on your side..  a won eranko! ##url"	Abuse	112
+train_yoruba_02803	"""#bbnaija oloriburuku,omo ale ,omo abi pape  omopapa langi,omo lasan  lasan ,be afraid of what is coming to u.wunmi be afraid. ##url"	Abuse	132
+train_yoruba_03413	Ẹku isẹ sir, Ọmọ baba emi lokan	Normal	31
+dev_yoruba_00646	"""ó t'esè'lé bò yahoo ni babaláwo olè l'everybody eni ilè mó bá ṣá ni bàráwò  a ti lo a ti dé (a ti lo a ti dé) eni orí yo ó dilé (eni orí yo ó dilé) ení ba lo l'ó ba dé  inside life, l'oó ti rí five alive inside life, l'oó ti rí deeper life  just lyrics by pep president 🤣 ##url"	Normal	278
+train_yoruba_00360	"""èpè ní ń p'olè... ##url"	Normal	24
+train_yoruba_02388	"""lmfaooooooo   isé éyan n’isé erankó 😂 ##url"	Normal	44
+train_yoruba_03081	"""@username oloriburuku omo. a ni ko ye fagbo mo, u no go hear."""	Abuse	63
+train_yoruba_02653	"""daddy freeze can't say pim now, but he can sit in the comfort of his home to call out pastors. oloshi alatenuje, bororo asiwin okunrin. eyinbo eribu nioma so kura.  hypocrite"""	Abuse	176
+train_yoruba_00094	lágbájá ìbá wà a di ìjímèrè ẹni tó bá níwájú doloyo were soandso alive he would transform himself into a brown monkey did the person who preceded him ever transform himself into any kind of	Normal	189
+train_yoruba_02134	"""can someone please explain this to me, ori mi t'ifẹ dàrú oo 😩😩 ##url"	Normal	69
+train_yoruba_00152	wọ́n ti ma pèsè ohun jíjẹ fún àwọn ọkùnrin tó ń jagun ní odi ìlú ní àwọn ìgbà òmíràn ẹ̀wẹ̀ àwọn obìnrin ni wọ́n ma gbára jọ láti lọ fi ohun oúnjẹ jíṣẹ́ fún àwọn ológun tó jìnnà sí ilé àwọn obìnrin kópa ní gidi nínú òwò ṣíṣe ní ìlú ọlọ́nà jíjìnnàréré	Normal	249
+train_yoruba_02509	Bobo yi, o ma lulè badly on 11th	Abuse	32
+train_yoruba_01204	"""this is the period you start planning how to save your salary. by next week plan tí dàrú."""	Normal	91
+train_yoruba_02210	oníṣẹ́ ìbílẹ̀ wo ni à ń pè ní ọ̀pàpàpagidàsọgidèèyàn  a onígẹdú b agbẹ́gilére d àgbẹ̀  ibeere yoruba	Normal	100
+train_yoruba_02814	"""@username obasanjo is a waste products to all yoruba's , olorun n gbo . omo ale jatijati"""	Abuse	90
+train_yoruba_01911	"""@username you're actually the one carrying an imbecile child in your avi...have you forgotten so soon?  gedifuk omoàlè játijàti...."""	Abuse	133
+train_yoruba_00420	"""you must be an oloriburuku oloshi, its decent not descent 🤡🤡🤡 #bbtitans #bbtitans2023 ##url"	Abuse	92
+dev_yoruba_00599	mo ti kuro ni le baba landlord o keni keni ma wa mi o da wipe omobinrin re yen ti loyun o de ma n paro ju odigba	Normal	112
+train_yoruba_02551	"""werey leleyi o 😂 nibo lo toju enzo fernandez si? 😕 ##url"	Abuse	57
+train_yoruba_00168	ohun tí ọ̀rúnmìlà kò mọ̀ ni pé ìyáa èṣù èyí kì í ṣe sàtánì o ni ìyá tí ó gbẹ́mìí mì yìí ń ṣe	Normal	92
+train_yoruba_03318	mo fi déédé ìwòyí kí amòfin àgbà babátúndé fáshọlá kúu aráfẹ́rakù bàbá wọn ibrahim adémọ́lá fáshọlá tó dolóògbé lónìí	Normal	121
+train_yoruba_00248	"""@username the only answer of 2023 . others shall lule 😭😭😭😭 awon ole gbogbo 🤡🤡🤡🤡 ##url"	Abuse	86
+train_yoruba_01084	"""ole le toba wonu eko ko tun jade mo 😭😭🙏 ##url"	Normal	46
+train_yoruba_01070	"""david moyes, olule. van gaal, olule. ole gunnar, olule. ralf ragnick agba 4-2-2-2 ghen ghen, olule. ten haag, olule ##url"	Abuse	122
+train_yoruba_02874	"""omo oba dapo 𝓐𝓫𝓲𝓸𝓭𝓾𝓷  has been officially declared by inec  eleyi of ogun state congratulations 🎉👍 ##url"	Normal	105
+train_yoruba_00678	ẹni tó jẹ ọba tán tó tún ńwo òkè fẹ̀ fẹ̀ fẹ̀ ṣé ó fẹ́ di olódùmarè ni does the person who kept looking upwards in dire expectation after just being crowned a king want to become god contentment is it lack of contentment can be stressful	Normal	236
+train_yoruba_01141	maferefun oshun ololodi	Normal	23
+dev_yoruba_00565	"""i confessed my feelings to you😒,   you come replied with   “mad ooo”   kosi igba ti oni pada ya weyrey na   🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️"""	Abuse	130
+test_yoruba_00435	"""omo olodo ide ##url"	Normal	20
+dev_yoruba_00726	"""@username dear  @username ,  i have the pleasure of telling u sir, that oloriburuku ni yin sir!  yours, a concerned nigerian!"""	Abuse	127
+train_yoruba_00928	"""lmao 😂 awon omo ale jatijati ##url"	Abuse	35
+dev_yoruba_00101	"""@username can you imagine someone that portrays to be a pastor?🤷🏾‍♂️ confirmed oloriburuku! he does not even care about the life that was lost, he's a only concerned about the training. animal in human form! if you check his background very well, he's obidient. aṣièrè!☹️🤔🤷🏾‍♂️"""	Abuse	279
+train_yoruba_03198	"""oju toti mo ra .....ole ni oun mora mo ##url"	Normal	45
+train_yoruba_00621	"""this is jungle justice in ipob biafraud. awon oniranu ##url"	Abuse	60
+test_yoruba_00222	"""ori yin ti daru olohun ngbo. ##url"	Abuse	35
+train_yoruba_01310	gbogbo ẹyin ti wọn lo láti ní orílè èdè yí lára ọlọ́run a ní yín lára ẹyin ọmọ àlè jati jati	Abuse	92
+train_yoruba_02162	òjíjí bá jí wọn ẹnikẹ́ni tí ìrànlọ́wọ́ọ̀ mi bá ń bẹ níkàwọ́ọ rẹ̀ afà máa fà wọ́n bọ̀ pitipiti nítorí ẹṣin ní í pé bo ẹran nínú igbá ṣìkìtì ni ẹyẹ ń pé bo ẹyìn lóko kí ọmọ aráyé ó máa fi ọlá ńlá wá mi kí ọlà ṣù bìrìbìrì bò mí	Normal	224
+train_yoruba_01707	"""olodo òsì 🏃🏃🏃🏃 ##url"	Abuse	21
+train_yoruba_02527	"""i'm competing with nobody  forget alakori  won binu ori ni  fi won le ko soro  leave dem make dem just dey yarn  🎵🎶🎶🎼  who get the lyrics? ##url"	Abuse	145
+train_yoruba_01540	obìnrin alápá idán yìí tí pa ẹgbẹlẹmùkù owó o òun lónìí òun lánàá a gọ̀ nígbà tí wọ́n gbé màkàrúrú wọ̀nyí wá ní a ò tíì já ní a ṣì gọ̀ àti èyí àtìkejì ló ń mú wa ní ìgán àwọn àsè ló ṣì ń tọ̀ wọ́n lẹ́yìn bí afọ́jú mo wí tèmi sọ tiẹ̀	Abuse	231
+test_yoruba_00582	kí ìjọba britain tó ṣẹ́gun ìjẹ̀bú àwọn ará ìjẹ̀bú gẹ́gẹ́ bíi ìtàn ti sọ jẹ́ àwọn ẹni tí kò gba àlejò láyè nínú ìlú wọn tí wọ́n kórira ará ìta ẹni tí kìí ṣe ìjẹ̀bú àwọn ìjẹ̀bú ti ẹnu ibodè wọn kí àwọn ará ìta má lè bàá wọlé tí wọ́n sì ń	Hate	235
+train_yoruba_01901	"""@username awon oloriburuku omo ."""	Abuse	34
+test_yoruba_00588	kí ní fà á tí a fi pé ọmọlẹ́hìn islam ni ìmàle	Normal	46
+test_yoruba_00084	"""in the book of ismealola emilokan or what?   eranko ##url"	Abuse	58
+dev_yoruba_00577	gbori le odi gobe	Normal	17
+train_yoruba_02249	Omo igbo jat jati oleeee get the fuck....	Hate	41
+train_yoruba_01987	mo gba àwọn oríkì èṣù tó pọ̀ sílẹ̀ wákàtí méjì ni wọ́n fi ki èṣù fún mi eéèpà èṣù eéèpà	Normal	87
+train_yoruba_00587	"""@username oloriburuku ni ee tele"""	Abuse	34
+dev_yoruba_00043	"""soro soke if you are dissatisfied with the situation in our country tori aile soro ni ibere oriburuku #endsars"""	Normal	112
+test_yoruba_00049	ẹ bá mi kírà fún màmáà mi  òrìṣà bí ìyá o kò sí láyé  ẹ bá mi kírà fún màmáà mi  òòṣà bí ìyá o kò sí láyé   ayajoojoiya yoruba	Normal	126
+train_yoruba_01044	ẹ máa pé kó ṣẹ owó á wá wa wálé	Normal	31
+train_yoruba_01443	"""adding to the ratio   eyin olofo 😩 ##url"	Abuse	41
+dev_yoruba_00523	"""@username and i’m pretty sure nigerians are the ones kidnapping raping and murdering your girls right?? omo oshi!! omo jati jati!!! oloriburuku niyen!!!"""	Abuse	154
+dev_yoruba_00396	"""we don’t take birthdays lightly @ @username happy birthday to:  superior evng. (prince) m. o. j. olunuga (baba ajagami bo)  shepherd &amp; founder of ccc blessed royal model parish, behinde oando filling station, òsòsà. ìjẹ̀bú òde  #birthday #ccc #celestial ##url"	Normal	264
+train_yoruba_00862	"""ojúṣe wa si ìjọba  a) bẹ́ẹ̀ni ni pé kò sí ọmọ re nínú iban, àmọ́ lọ́pọ̀ ìgbà, ọmọ burúkú inú ìban ni ọdẹ n mú láti pèsè jíjẹ àti mímu fún àwọn ẹbí rẹ̀, bẹ́ẹ̀ni òun yìí ni àwọn ológun n mú láti dáàbò bo ará ìlú"""	Normal	211
+train_yoruba_01216	ó jọ pé buhari ń bẹ lèkó ọlọ́pàá gbégi dínà ní ìlúbìnrin	Normal	56
+train_yoruba_03182	"""am at post office ooo @ odogbolu - ijebu ode.. ##url"	Normal	53
+train_yoruba_00681	ológìní dúró tandi kò mira ó na ìbọn rẹ̀ sí lákátabú ò sì yín níbọn nígbà tí ọta ìbọn bàá lákínyẹmí ara inú bí ẹrin	Normal	115
+train_yoruba_00225	"""@username koni baba..... omo ale niii"""	Abuse	39
+train_yoruba_00846	"""some of them just don’t want to use their money to live their best life. awon ole odaran omo. ##url"	Abuse	100
+train_yoruba_00244	"""@username ole oloriburuku,ólé.akotileta,apayan.he met the lady online, he's 30+ while the lady is close to 50.she bought him a toyota highlander,he sold it off.the lady got very angry when she found out,he hit the lady on the head with a pestle."""	Abuse	247
+test_yoruba_00580	"""@username 😆😆😆😆😆😆 i saw it and i was pained and i said no way i am not going to be alone...so there you go!!!  awon okunrin mi ti sign ooo oloriburuku gba le lomi men!"""	Hate	168
+dev_yoruba_00173	"""iffa type what is going through my mind for you ehn, you will hate yourself this night... oloshi olójú bí ojú inaki 😒😣asinwin ##url"	Abuse	132
+dev_yoruba_00123	ati douglas oo ati bebeee lai se odi  ori gbogbo yin ti buru oo useless mofos	Abuse	77
+train_yoruba_00654	bó jẹ́ ọmọdé ló ń perí mi níbi ògúlùtu máà wó lù wọ́n lọ àgbà ló ń perí mi níbi ògíri àlàpà kó máà wó lù wọ́n lọ	Abuse	121
+train_yoruba_01357	"""death by hanging? ninu 2020? ṣe ẹranko ni a bi?"""	Abuse	49
+train_yoruba_01737	"""gbogbo yin ti yà weyrey 🤣🤣🤣🤣😅🤣😅😂🤣😂 ##url"	Abuse	41
+dev_yoruba_00608	àti pé olè ńlá ni wọ́n wọn ò ṣẹ̀ṣẹ̀ ńkó owó gọbọi bẹ́ẹ̀ mìn wọ́n ti kó iye tó jù yẹn lọ ó ti di bára kú	Abuse	104
+train_yoruba_00833	"""@username awon olofo"""	Abuse	22
+train_yoruba_02415	"""oloriburuku ni ole man #oleout #munpar #mufc"""	Abuse	46
+test_yoruba_00350	"""kòkòrò ìfé ❤ bite me yesterday, kia kia mo sáré da antidote bo werey😂😂. no time."""	Abuse	82
+test_yoruba_00343	"""@username oloriburuku ni yi sir!  eti ya werey!  alayebaje alatenuje! when your name is maritemise obviously you are a selfish entity living your name."""	Abuse	153
+train_yoruba_03226	"""oriburuku omo ale!! oponu ayerade ##url"	Abuse	40
+test_yoruba_00722	"""ògbójú ọdẹ nínú igbó irúnmọlẹ  by d o fagunwa   i really really need this book."""	Normal	81
+dev_yoruba_00142	"""wtf uses ""if"" and ""maybe"" together in this context? olodo niyin o #kwasuvsunilorin ##url"	Abuse	89
+train_yoruba_00525	ni èjìlù tòun málàkì bá mú u níbàádà wọ́n ṣe orò egúngún fún àna wọn ọba àdó orò ọjọ́ náà ló dẹ̀yọ̀	Normal	99
+train_yoruba_03089	"""oluwa lo nile sugbon mc lo n gbowo ile ah ema wo obote ofe fi owo mompha we dangote ah oluwa lo’n sho yan awon girls gan o fe wo koste eyan no manners talo l’oba werey ti oh ni palace. @username """	Abuse	197
+train_yoruba_00940	"""@username kino dafun o, osini s'orire. oloriburuku. ọmọ ale, ole. you should rather wake up from your reality. ọlọriburuku. you won't die well, whatever you wish me shall be fall on you and whoever you cherish."""	Abuse	212
+train_yoruba_00371	ọmọ àlè ní í fi ọwọ́ òsì júwe ilé bàbá ẹ̀ speakyoruba learnyoruba language inyoruba yoruba	Abuse	90
+test_yoruba_00439	"""@username awon obinrin ile yin ni oloshi …omo ale alakori"""	Abuse	59
+train_yoruba_00797	orí bíbẹ́ ni fún àwọn tí wọ́n rú òfin aníwúrà jẹ́ olórí alátakò fún ààrẹ ọ̀nà kakaǹfò ààrẹ látòòṣà ààrẹ látòòṣà kọ ẹ̀yìn sí ìwà aburú aníwúrà sí àwọn ẹrú rẹ̀ ó sì ráńṣẹ́ pe aníwúrà ṣùgbọ́n aníwúrà kọ etí ikún sí ìpè náà	Normal	219
+dev_yoruba_00714	ọmọdé kékeré ni ọjọ́ orí rẹ̀ ò lè ju ọdún mẹ́wàá sí méjìà lọ wèrè ni mo rí i lẹ́bàáa títì ńgbàa mo rè é ra sèré mo kó àánú rẹ̀	Abuse	126
+train_yoruba_00692	omo olobo nla ni isiwoomo petu airamasayoruba heritageatunbimathewgarri ijebu ijebuisiwoijebu ısıwo	Normal	99
+train_yoruba_03178	"""@username awon oloriburuku aye yin o ni da"""	Abuse	44
+train_yoruba_02656	tú èyàn jẹ to deceive someone apẹẹrẹ jọ̀wọ́ má pe ajá lọ́bọ fun mi o jàre please dont deceive me	Normal	96
+dev_yoruba_00452	"""@username omo ale jati jati, ni irandiran e"""	Abuse	45
+train_yoruba_01395	"""@username olodo ràbàtà"""	Abuse	24
+test_yoruba_00080	"""@username and he has the guts to post it.... what a crazy world . he deserves to rot in jail, oloriburuku omoale!"""	Abuse	115
+dev_yoruba_00353	"""insulting  buhari is not a gej endorsement pls don’t be unfortunate. all of u who turn people’s frustrations with this stupid wretched government and make it partisan are idiots. awon oloshi oniranu buruku."""	Normal	208
+train_yoruba_02376	"""you will lose all your kids in your life time. oloriburuku oloshi woman that’s a witch. aye yin ma baje ni ti iran ti iran ##url"	Abuse	129
+train_yoruba_01112	"""#tbt @username made this beautiful #architecturephotography during the last #kutaphotowalk experience in ilaro, ogun state.   join our community of creative photographers as we visit  ijebu ode to tell her story in… ##url"	Normal	222
+dev_yoruba_00121	"""i really really really really really really really really and a whole lot really do not understand you ole.  shey oloriburuku ni e ni ##url"	Abuse	140
+train_yoruba_00389	ọ̀bọ lágídò lẹ́bí tó pọ̀ nígbó sọ mẹ́rin péré ńnú wọn	Normal	53
+train_yoruba_00944	"""🤣 🤣 awon eleyi governor abi? awon orishirishi jati jati omo ale... serves yall right"""	Abuse	86
+dev_yoruba_00195	"""soró sóke weréy 🔊#endswat ##url"	Abuse	32
+test_yoruba_00098	"""you got it.  ole is always will be an ole  oloju kokoro   agbaya ##url"	Abuse	71
+dev_yoruba_00432	"""eranko ni yin se"""	Abuse	18
+train_yoruba_01331	"""ìrànwọ́ owó orí epo dà bí gbẹ̀gbẹ̀ lọ́rùn ọrọ̀ ajé wa tí a gbudọ̀ yọ kúrò kí a lè ní àṣeyọrí.  èyí tó burú jù ni wípé àwọn èèyàn péréte bí mama tee nìkan ló n'jèrè yí, àsìkò sì ti tó láti jẹ́ kí òpin dé bá a. #abcoffuelsubsidy ##url"	Normal	233
+train_yoruba_02861	"""‘owó lulè’ : how football rejects nff’s money ##url via @username """	Abuse	68
+train_yoruba_00029	"""orisirisi lamba ni bobo yi maa fun wa sha!   🌝🌝🌝 ##url"	Normal	55
+dev_yoruba_00492	"""@username tí ó bá wù yín kí ẹ lọ rá òpómúlérò, sì bẹ ẹ má lùlè ní"""	Abuse	67
+train_yoruba_02477	ẹ bá mi kìlọ̀ fajáni kò fọwọ́mu àṣàkẹ́ lọla àti sade ifè olójú mẹta arike nìkan ni tèmi kò má de bẹ ayinde yàtò sajani olójú mẹ́ta	Normal	130
+train_yoruba_00020	"""@username ìyen ò jo wá lójú mó bàbá mi ..bhet èwo ni fùrò rádaràda , fùrò òfò !!!"""	Abuse	83
+train_yoruba_02209	"""@username omo ofo,ori buruku loma se,eranko leave lagos for us and go back to your local town"""	Abuse	95
+train_yoruba_01409	"""@username the boy say view my profile for more.... oloriburuku lo poju lori x yi😂"""	Abuse	83
+train_yoruba_02727	"""council polls: ondo state governor, @username , san, and his wife, @username cast their votes at unit 6, ward 5, ijebu owo in owo local government area on saturday, 22nd august, 2020. @username #ondodecides ##url"	Normal	213
+train_yoruba_01093	"""they should end the movie with the emilokan speech where new words were added to the political dictionary  eleyi olule emilokan ##url"	Normal	134
+train_yoruba_02267	ẹgbẹ́ olùkọ́ ìlú ò fi owó sí ife ẹ̀yẹ àgbáyé torí ìjọba ò gbọ́ ti wọn	Normal	70
+dev_yoruba_00047	"""omo ale ma ni tracy zille abi kini won pe oruko re."""	Abuse	53
+train_yoruba_03074	"""@username olofo oloriburuku kodeni dafun iya laku iya  koshida danu  who dey follow your mama play abi dis one forigbalè ní aben shiere koshilo ko kooru lo"""	Abuse	157
+dev_yoruba_00636	"""won ti shey epe fun yin. cos your candidate lost you want to nigeria to return to military. alaye baje. oloriburuku ##url"	Abuse	122
+test_yoruba_00433	wọ́n fi ẹ̀sìn ìṣẹ̀ṣe ọ̀yọ́ tayín wọ́n sọ ọ̀rọ̀ òdì sí ìṣètò ẹ̀sìn àti ìṣesí ìlú wọ́n dá ilé kéwú sílẹ̀ fún àwọn ọmọdé wọ́n ń kọ́ àwọn èèyàn ní kùrání bẹ́ẹ̀ wọn kò mẹ́nu kúrò nínú ìsọ̀rọ̀ òdì sí ẹ̀sìn àwọn ará ìlú	Hate	212
+train_yoruba_01461	"""wà là hi, òun ti o yẹ àwọn ẹranko yẹn nìyí ..... 🤣🤣🤣🤣🤣🤣🤣🤣  reposted from @username the nepa episode(10)  hold @username responsible if my oga @username start acting crazy  🤪 🤪 🤪 🤪 🤪 🤪 @ lagos, nigeria ##url"	Abuse	207
+train_yoruba_03419	"""@username iragbiji olokemeji,  tako tabo lori ara won, okan yi lule, oku kan…. ##url"	Normal	85
+train_yoruba_00359	"""@username awon ole ati janduku oloriburuku lo wa ladugbo yen... eewon loto is won... 😂 😂"""	Abuse	90
+train_yoruba_02056	ọdẹ tó bá ṣiyèméjì òun lẹranko ńpa an indecisive hunter easily gets killed by an animal in the forest be decisive indecision can come with intolerable risks	Normal	156
+train_yoruba_02593	"""@username omo ofo,omo ale aletenuje,oniranu,oni doti,afofun , were omo,alatenuje,elenu pelebe ,koshidanu"""	Abuse	106
+test_yoruba_00277	"""@username e go shock you! shey eni oloriburuku ni yin ni, aiye yin jona sir!"""	Abuse	78
+dev_yoruba_00405	"""@username president awon olodo😁😁"""	Abuse	34
+train_yoruba_00201	"""my friend staying with me happens to be a chelsea fan. he just told me that “olowo gba iyawo olé”"""	Normal	99
+train_yoruba_01120	ẹ kú àárọ̀ ṣé àlàáfíà ni ‍️ ojúmọ́ ire ló mọ́ wa lónìí o ọ̀sẹ̀ yí á yabo fún gbogbo wa good morning how are you ‍️ today is a good day may this week be positive for us all	Normal	171
+train_yoruba_01828	ò yẹ ká sọ pé èrò láti ṣe òwò ló kọ́kọ́ gbé èèbó oníṣòwò dé ilẹ̀ adúláwọ̀ kọ́tó gba ilẹ̀ẹ wa mọ́wa lọ́wọ́	Normal	105
+train_yoruba_00959	ọ̀nà tí èèyàn tọ̀ tó ṣubú bí èèyàn bá ní sùúrù èyàn lè tọ̀ ọ́ là a path that one treads and fails with patience one may tread it to success no closed case and no impossiblity be patient be steadfast and be persistent	Normal	216
+test_yoruba_00496	ìjẹ̀bú ló ni ẹ̀wẹ̀só ẹ̀gbá ló ni báa wà ta ló ni okun ibeere yoruba	Normal	67
+test_yoruba_00636	"""awon olofo ti won binu ologo 🤣♾️🌽 ##url"	Abuse	40
+train_yoruba_00336	"""won ba ti fi ogun baye awon werey yen je, ki won she won yama yama, awon oloriburuku, oloshi, aye won ma baje ni"""	Abuse	114
+train_yoruba_03370	ẹyin dídín àti ẹran ọ̀yà tí a gé sí wẹ́wẹ́	Normal	42
+train_yoruba_00836	"""olúwatóbilọ́ba and ọláídé are getting married 💘🎉 ... #tlaffairs we are getting ready💃 ... #seemieevents @ ijebu ode ##url"	Normal	122
+train_yoruba_01539	"""@username oloribu ni e se werey 😂😂😂"""	Abuse	37
+train_yoruba_03181	orúkọ tó bá wuni la ń jẹ́ lẹ́yìn odi were at liberty to bear whatever name we choose when were abroad	Normal	101
+train_yoruba_02201	iyewa dọ̀bálẹ̀ gbalaja ó ké pe olódùmare ọlọ́run ọba òkè fún ìrànlọ́wọ́ rẹ̀ yewa ki èdùmàrè lọ ó kì í bọ̀	Normal	105
+train_yoruba_01535	"""baba weyrey... òdè apeerin one of lagos ##url"	Abuse	46
+train_yoruba_00875	"""@username congratulations ma . won ti lule. imole ti de!!!!!!! #osundecides2022"""	Normal	81
+train_yoruba_02080	"""favorite yelled out words for danfo and keke:  1. olofo 2. shori e gbale ni 3. shey oju e o fo sha 4. cut your hand go the other side na 5. eranko ni e walahi  😁"""	Abuse	163
+train_yoruba_02193	E ti ya werey sir, emi lo kan koh, agbo lo ma kan yin pa lo ju orun....	Abuse	71
+train_yoruba_00531	"""@username chai! alaimore ẹda ni bọbọ yẹn ooo!  where most of us re looking up to dis kind of opportunity &amp; he @username just messed things up.  ajeh, werey lo pọju láàrin àwọn ẹlòmi shaaaa! werey gidigidi gaaaaani!  he @username is still doubting d delivery process 🥺"""	Abuse	273
+train_yoruba_03023	ẹgbẹ́ òṣèlú pdp ti ké gbàjarè síta nípa bí àwọn èèyàn kan nínu ìjọba ààrẹ mùhámádù buhari àti ẹgbẹ òṣèlú apc ṣe ṣe owó biliyan mẹ́talelọgbọn kúmọkùmọ lagos ìbàdàn abéòkúta òsogbo th of january	Normal	192
+train_yoruba_02693	"""@username oloriburuku ni gbogboyin.. if we check and balance you now..you would have done worse.. looking for validation yet seeking to destroy a teenager. hypocrite"""	Abuse	167
+train_yoruba_01193	ẹ̀rínkẹ́rìnín ni asínwín ń rín ìdìkudì ni wèrè ń di ẹrùu tirẹ̀ ìwọ làkáṣègbé  máa rẹ́rìnínkẹ́rìnín ìwọ tàmẹ̀dù máa dìdìkudì ẹrù kiri   ewì òkè yìí jẹ́ àpẹẹrẹ irú ewì alohùn wo  a oríkì b èṣù pípè d ọfọ̀  ibeere yorubaewi	Abuse	220
+test_yoruba_00731	odindin ọba aládé wa di ohun tí à ń fi ẹ̀bẹ̀ wá kiri ọba igbá kejì òrìṣà náà ló di ìwọ́lẹ̀ débi pé wọ́n ń jọ́ba ilẹ̀ yorùbá gbé	Normal	127
+train_yoruba_00744	"""osogbo to lagos na long distance relationship, but lagos to dubai nah true love abii. okan yin oni bale awon weyrey 😂"""	Abuse	119
+train_yoruba_02039	"""shey awon eleyi o ti wa ya werey bayii? 😳 ##url"	Abuse	48
+train_yoruba_00913	òwúrọ̀ lọjọ́ elédùmarè bá mi ṣí wọn nídìí àwọn tí yóò gbé ire owó tabua kò mí lóòórọ̀ yìí	Normal	89
+train_yoruba_02392	ọlọ́hun yọ ọmọ ikọ̀ agbábóòlù ńnú ìjàmbá ọkọ̀ tí ẹni márùún fara pa	Normal	69
+dev_yoruba_00013	ọjọ́ ìyá ẹkùn ti di alẹ́ ó ti di ògbó ọjọ́ ikú ti ń súnmọ́ ó wọ ìlú wá láti wá dágbére fún ọmọ rẹ̀ èèyàn	Normal	104
+train_yoruba_00052	"""oba ti o je nigbati aiye gun ,a koni gbagbe,  eleyi ti o je nigbati ilu daru na,a koni gbagbe. ese aiye re😭."""	Normal	110
+train_yoruba_01992	bí a bá wí tàì wí nípa nínífẹ̀ sí àṣà yorùbá àwọn aláìmọ̀kànmọ̀kan wọ́n á máa ní abọ̀rìṣà ni babaláwo ni ó ṣe	Abuse	110
+train_yoruba_03123	@BOGbadams  coman carry ur olodo brother. Both of u are just twins	Abuse	66
+train_yoruba_02830	"""eleribu ni yin oooo ##url"	Abuse	26
+train_yoruba_01502	àwọn ìjọ kátólíkì núú àwọn èrò kan ṣẹ̀ṣẹ̀ rìn kọjáàlùfáà wọn gbé àgbélébùú kọ́ èjìká àwọn ìjọ tò tẹ̀lé e	Normal	104
+test_yoruba_00063	méje lògún ògún alárá ní í gbajá ògún onírè a gbàgbò ògún ìkọ̀lé a gbàgbín ògún ẹlẹ́mọnà ní í gba esunsu	Normal	104
+train_yoruba_00016	"""@username oloriburuku ni gbogbo awa ti a nsese repost lasiko yii. when the things has spoiled so is this d right time to do this. dz is campaign after election. we are all unfortunate persons because we don’t listened to him when he was alive. maybe if we have posted this b4 like 2week ago"""	Abuse	292
+train_yoruba_00046	"""òlé ni everybody😀 ##url"	Abuse	24
+train_yoruba_00677	"""@username awon ipanle omo. omo jatijati"""	Abuse	41
+train_yoruba_01729	"""@username olofo ni keyamo yi shaaa  like we are not dummies man!🤷🏽‍♂️"""	Abuse	71
+test_yoruba_00586	"""@username awon oloshi ti won bi e maa sukun e gbeyin ni. elenu yama yama omo ale.  your type is the one dragging our name in the mud."""	Abuse	135
+train_yoruba_01673	gbólóhùn and mi ò kọ ẹnu ìfẹ́ sí èyíkéyìí nínú àwọn ìyàwô mi ó hùn wọ́n láti dúró tì mí nítorí pé mo rán wọn lọ sí ilé ìwé gbólóhùn and sí ìparí mi ò kí ń wí ọ̀rọ̀ tí mo bá ìyàwó kan sọ fún òmíràn níṣe ni mo máa ń mẹ́nu mọ́	Normal	223
+train_yoruba_00570	ṣé toilet roll ń nùdìí mọ́ ni ṣé kì í ṣe ìwà ọ̀bùn ni kí a máa lo kí ni ọ̀hún fi nùdìí kò sóhun tó dàbí omi láyé ń bí ká ṣu tán ká sì fi omi ṣàndìí ni ìmọ́tótó ọ̀bùn ènìyàn ni ẹni tó bá ń lo tissue fi nu ìdí lẹ́yìn ìgbọ̀nsẹ̀ ọ̀bùn ni ọ́	Abuse	236
+train_yoruba_02044	"""phyna is the real o sekini lule, o sekeji lule 🙆🏿‍♂️ #bbnajia"""	Abuse	63
+train_yoruba_00411	"""""nobody said it will be easy"".  time. #dimhsfootball  #football #lifestyle #livingfootball #lagos #ijebu #ijebuode #ighalo #academy #explore #friendly #gateway @ otunba dipo dina international stadium ##url"	Normal	207
+dev_yoruba_00471	Shey eyin Oloriburuku yi lo school rara sha.... Courtesy demand sha.... SMH	Abuse	75
+dev_yoruba_00071	bẹ́ ẹ bá wá rí ọ̀kọlà ẹ má mà mà bu ẹ má pè é lójú ẹlẹ́gba ẹ má fi rẹ́ẹ̀rín àṣà ilẹ̀ẹ wa ìgbaanì ló ńgbé lárugẹ	Abuse	111
+test_yoruba_00494	"""@username gbogbo yin ti yawerey 😂😂"""	Abuse	36
+train_yoruba_02270	"""eleribu ni david luiz yi olohun masanfani omo!!!"""	Abuse	50
+train_yoruba_01158	"""@username werey ni bọbọ yìí sha  🤣😂🤣"""	Abuse	38
+train_yoruba_01771	"""awon eleyi nbinu gan,whatever they believed in they go all out to support check @username record. asiwaju bola ahmed tinubu is sure lucky to have a supporter like otedola femi. ##url"	Normal	183
+train_yoruba_00889	"""eleribu ni boda desmondi ##url"	Abuse	31
+dev_yoruba_00435	ó máa wu ẹ̀yin ganan tí ẹ kì í ṣe awo kíákíá lẹ máa fẹ́ẹ́ darapọ̀ mọ́ wa kò sóhun tí à ń gbà lọ́wọ́ àwọn ọmọ awo tó papòdà ju ẹran àgùtàn lọ ẹ̀jẹ́ nìyẹn téèyàn gbọdọ̀ san nígbà tó bá fẹ́ẹ́ darapọ̀ mọ́ ẹgbẹ́ awo tó bá ṣẹlẹ̀ pé	Normal	225
+train_yoruba_02993	àpà gidi wọ́n tún wá ya bàsèjẹ́ obì tí í so lẹ́ẹ̀rùn wọn ò ṣe nkan tuntun kankan àmọ́ wọ́n ba èyí tọ́n bá níbẹ̀ jẹ́	Abuse	115
+train_yoruba_03026	"""@username ashierey post it , oloshi. oloriburuku, omo irankiran"""	Abuse	65
+train_yoruba_03005	"""we've successfully completed the ijebu ode-epe-sagamu-benin expressway interchange. ##url"	Normal	90
+test_yoruba_00074	"""if dna is free, nigeria maa daru, ile ola ma d'horo, rogbodiyan maa sele, isinku orun maa soro, akufa maa rapid gaann, olopa 👮‍♂️ maa ko everybody, omo eleran a je egun-un-gun.😁"""	Normal	179
+test_yoruba_00619	"""you are stopping an igbo person from voting and you get angry when your daughter you sent aboard is racially segregated.  ori yin gbo gbo yin ti daru"""	Abuse	151
+train_yoruba_03251	awùjalẹ̀ karùnún ni ọmọ yorùbá ọmọ oòduà àkọ́kọ́ tó jẹ ọba síkírù adétọ̀nà ọ̀gbágbá ii ni ọba ìlú ìjẹ̀bú	Normal	108
+dev_yoruba_00040	kùkùté igi àgbọn olódu igi yìí nípọn tó bẹ́ẹ̀ tí àwọn baba wa fi ń kan òrúlé	Abuse	76
+train_yoruba_01864	"""@username òpònu ni àwon family e àti ìrandíran e. omo àlè játijàti"""	Abuse	68
+train_yoruba_01872	Your father not our father OLE NI GBOGBO YIN. You will have to return that certificate of return.	Abuse	97
+train_yoruba_01058	"""✔️ iphone x   ✔️ 64gb   ✔️price :165,000  ✔️ kaduna 📍  ✔️ nationwide delivery   dm/call:  07032655719   aids mayorkun ayra teni fulani olodo kwankwaso apostle suleiman oxlade atiku niger delta lake chad rufai biology #oyowelcomesobidatti ibadan peter obi ipob nnpc even tinubu ##url"	Normal	283
+train_yoruba_01159	"""@username they're oloriburuku gbogbo 😂😂😂"""	Abuse	42
+train_yoruba_01564	"""@username ndi igbo, not omo ibo? laughing in swahili."""	Normal	55
+train_yoruba_03313	"""not with that olodo occupying agodi 🤣 ##url"	Normal	44
+test_yoruba_00206	sọ àwọn ọ̀rọ̀ ní yorùbá pronounce words in yoruba ̀dog ajá monkey ọ̀bọ goat ewúrẹ́ pls subscribe to our youtube channel	Normal	119
+train_yoruba_00691	"""kí lọ́kàn irú wá yí pẹ̀lú standard radarada. ìyẹn tí kọjá. 😁   make una do wetin rock your boat. if you like wake up by 1am or 5pm,na una know. and if you like, take your girl out to clean the whole street because of love, na una sabi."""	Abuse	237
+train_yoruba_00988	kò sì sí ǹkan míràn tí àwọn bàbáa wa fi ńsọ èyí ju pé ẹnu ma ńrí roboto ẹnu á kákò bí a bá pe owó owó àpèkáẹnukò	Normal	112
+test_yoruba_00306	"""and the award for the dumbest artiste of the year goes to... yours truly temmie ovwasa 🙌🏿 eranko ##url"	Abuse	103
+dev_yoruba_00511	"""kindly patronize us today a trial will surely convince you, we are located at ouc villa opposite omo_ole mosque jobele oyo state. ##url"	Normal	136
+train_yoruba_00080	"""@username koko 'sè yén buru gan 🔥"""	Normal	35
+dev_yoruba_00332	"""make i watch #bbnaija jeje, oloshi goalkeeper 😏"""	Abuse	49
+train_yoruba_03258	"""oloriburuku ni bobo yen se oloun ##url"	Abuse	39
+train_yoruba_03126	ègún àfọwọ́fà pọ̀ ju ègún àfiṣe lọ àṣà ìgbàlódé lonìgbà ń lò ti gba mọ́ndé gbé sátidé le wa lọ́ọ́ kí wọ́n ba wọlé sí wa lára ni wọ́n fi parọ́ ayérayé fún wa nípa nǹkan ìbílẹ̀ wa ìgbésẹ̀ yìí fa ìfàsẹ́yìn fún wa nílẹ̀ adúláwò	Normal	223
+test_yoruba_00014	"""@username àwon omo olè gbogbo😂"""	Abuse	32
+train_yoruba_00856	"""ori jide ti pada daru! odindin gomina????"""	Abuse	43
+train_yoruba_03422	"""@username abi this one is mad ni koni ragba fun e may u be unfortunate in life oloriburuku"""	Abuse	92
+train_yoruba_03291	ní àtijọ́ ní ọ̀yọ́ ilé wọ́n ma ń lọ sí ogun ní ọdún méjì sí mẹta láti gba ilẹ̀ mọ ilẹ̀ tí wọ́n ti ní àwọn ọmọ ogun ọ̀yọ́ kì í lo ìbọn ní ojú ogun wọ́n ma ń ṣe ọdún bẹrẹ láti fi ìdí ìsinmi múlẹ̀ fún ọdún mẹta ní ìlú	Normal	214
+train_yoruba_01018	"""@username for mentioning my father and mother..awon obi e ma gbe e sin liape..omo eran jati jati.."""	Abuse	100
+train_yoruba_02483	ọ̀yàyà = cheerfulness arábìnrin náà lọ́yàyà gan an ni the woman is so cheerful ̀bá	Normal	82
+train_yoruba_01761	"""awọn werey tunti gbede o"""	Abuse	26
+train_yoruba_00954	ǹjẹ́ o mọ̀ pé olóyè mọ́ṣúdì káṣìmáawòó ọláwálé abíọ́lá ni ààrẹ ọ̀nà kakanǹfọ̀ ilẹ̀ tó jẹ kẹ́hìn	Normal	95
+dev_yoruba_00289	"""yorùbá of about more than 16 subgroups, from àwórì to ìjẹ̀ṣà, ìjẹ̀bú, ẹ̀gbá, ògù, ìbọ̀lọ́, ìlàjẹ́, ìgbómìnà, èkìtì, àkókó, ifẹ̀ àti bẹ́ẹ̀bẹ́ẹ̀ lọ have delicacies that are particular to each subgroups but today these are almost going into extinction. yorùbá nation now ##url"	Normal	274
+dev_yoruba_00210	ìtẹ̀síwájú lọ̀pá ìṣẹ́gun máa ṣẹ́gun ó di dandanǹdan nítorí bí orí bá pẹ́ nílẹ̀ á dire ìgbégaà mi ò pẹ́ mọ́	Normal	106
+train_yoruba_01948	àìnísùúrù ìnàkí ló sọọ́ di ará inú igbó gorillas impatience is what made it an inhabitant of the forest be patient impatience can exact a heavy price	Abuse	149
+train_yoruba_00450	"""@username ambode was right. omo oloja ni bobo yi"""	Normal	50
+train_yoruba_01967	"""this is not unexpected afterall, it is an obvious fact that olofo lo n binu ologo, asiwaju bola ahmed tinubu is the city boy &amp; star of attraction &amp; attack, pdp &amp; pdp lite called lp presidential candidates combined cannot match asiwaju sagacity &amp; statesmanship in any quarter ##url"	Normal	297
+train_yoruba_02604	"""@username olóríburuku gbogbo..... but why are u guys traveling abroad for medical care?"""	Abuse	89
+train_yoruba_00031	"""eranko ni e ##url"	Abuse	18
+train_yoruba_02400	"""@username awọn were jatijati"""	Abuse	30
+dev_yoruba_00177	"""@username oponu omo ale ikeji aja, have you collected the useless palliative you came to this world to eat."""	Abuse	109
+train_yoruba_00595	"""ólè eleyi jeun kaanu ooo 😊...ólè nla ##url"	Abuse	43
+train_yoruba_01002	"""i haven't seen tweets from #arewatwitter abi baba block his people too ni? , awon oloriburuku😒😔.   #endbantwitterng  #keepiton"""	Abuse	128
+train_yoruba_01260	"""@username gboripongba furo iyalaya è onijere ,ofolomi efo nse ofo loma se, obo yi jere leyin oko onijere. ke san fesan ke wo fe wo, koni san fun è koni woo fun è. oloun abaye iyalaya é jeni"""	Abuse	191
+train_yoruba_01807	"""@username bobo yi omo anything,ko lo si school mennn 😔shhhh, overrated olodo!"""	Abuse	79
+train_yoruba_00155	"""kìnìún l’ọba ẹranko ##url"	Normal	26
+train_yoruba_00322	"""if you wan analyse politics, try understand word usage first....a lose ko.. oloyinbo oshi ##url"	Abuse	96
+train_yoruba_00134	"""@username yes ooo. omo olodo de ti de  awon ti fi okan bale"""	Abuse	61
+train_yoruba_02410	"""them don give this jargons to you too to tweet. una go dey alright last last.  olofo lo ni bínú ologo. ##url"	Abuse	109
+dev_yoruba_00542	"""seh werey ni paraga yi ni because ah ogun aye ati toruń ba ja ##url"	Abuse	68
+dev_yoruba_00256	"""leemaooooooo eranko ni elomi sha ##url"	Abuse	39
+train_yoruba_01100	ẹnikẹ́ni tí ó bá dá àdápa irọ́ mọ́ ọlọ́hun lẹhìn eléyìí àwọn wọ̀nyí ni alábòsí	Abuse	78
+test_yoruba_00251	"""(yoruba adage)  àjànàkú kọjá a mo rí nkan fìrí, bí a bá rí erin, kaapa r'erin.  (translation)  the elephant is beyond what is said to be seen in a jiffy; it's presence is unmistakable.  all eyes shall see the manifestation of god's beautification in our lives and homes ijmn. ##url"	Normal	282
+test_yoruba_00646	"""the lulẹ́ that will happen to some people on saturday will be so loud 🔊  ẹ lọ fọkàn balẹ   #sanwoolulekansi"""	Normal	109
+dev_yoruba_00484	ìjọba láwọn mọbi tí wọ́n wà àsìkò ò sì tíì tó kí wọ́n ó lọ gbà wọ́n nígbẹ̀sìn	Normal	77
+dev_yoruba_00409	"""@username awon eleyi bi ti bawo, e jowo e count mi out"""	Normal	56
+test_yoruba_00624	"""olofo lon binu ologo @username verify laycon ##url"	Normal	51
+train_yoruba_01713	"""you asked if she was dead yet, lied that she was not in the country saying ""you were too smart to be fooled"" and now ""not everyone who attacked you cared about chinelo? let me just tell you something, òfò lomi ẹ̀fọ́ ńṣe, o ma ṣòfò ni. agùnmáníyè, igi ọparun. ##url"	Abuse	265
+train_yoruba_02066	"""has in is better to be single than dating awon oloriburuku somebody,chai epele😂🤷🏾‍♀️👍 ##url"	Abuse	92
+train_yoruba_02707	"""this is touching  a pdp delegate voting during the #pdpconventionphc  sadly, the sọ called civil and intelligent elite will be sitting comfy with their phones churning big grammars on social media.  àwọn alakori lásán-làsàn ##url"	Abuse	230
+train_yoruba_00807	"""meet olori oluwakemi. aya oba sikiru kayode adetona ogbagha ii   awùjalẹ̀ (the biopic)  he became the youngest ọba in the almost 700-year-old history of ìjẹ̀bú land, he also became the longest serving first-class monarch in nigeria.   dede ọmọ nàìjíríà, wẹn ku oju lọna o. ##url"	Normal	279
+test_yoruba_00613	"""@username oloriburuku ni eyin mejeji"""	Abuse	38
+dev_yoruba_00291	"""olodo rabata ni bobo yen ##url"	Abuse	31
+dev_yoruba_00216	"""@username àbí ọdẹ ní eleyi ni. tell who and who because your are the one feeding him àbí."""	Abuse	91
+dev_yoruba_00039	"""2020 make way lamba omo_ekpeye done come happy new year to all my fans i love you all ♥️♥️♥️ . . #akcanchiawathisyear . #efizyice #omo_ekpeye #makewaylamba #shaku_shaku @ lagos, nigeria ##url"	Normal	192
+train_yoruba_01483	"""talo ni bro oshi 😏 ##url"	Abuse	25
+train_yoruba_00651	àmodi ► illness ọdún méjì ni àmodi fi ṣe é = she was ill for years	Normal	66
+dev_yoruba_00075	"""@username oloriburuku! iya ti ba e mule ni egbe isu"""	Abuse	53
+train_yoruba_00461	"""shebi if your brother or sister was killed at the lekki toll gate this is what you’d be saying abi, awon olori buruku oshi. ko de ni dafun iyala iya yin ##url"	Abuse	159
+train_yoruba_00021	awodi jeun ku fun eyele orofo jeun ku fun awoko dun nii ede	Normal	59
+train_yoruba_03212	"""na god go kill you.. oloriburuku omo alé jati jati ##url"	Abuse	57
+train_yoruba_00840	ní ọ̀yọ́ wọ́n yọ aláàfin àjàká èyí tí ń ṣe ẹ̀gbọ́n ṣàǹgó kúrò lórí oyè ọba nítorí pé wọ́n ní kò gbójúgbóyà wọ́n pe ṣàǹgó ẹni líle ọkùnrin ogun wálé láti àjò láti wá jọba lẹ́hìn ìgbà ṣàǹgó lórí oyè àjàká padà wá jọba ọ̀yọ́	Normal	221
+train_yoruba_02213	"""so now everybody is encouraging cheating abii? ori gbogbo yin ti daru... eyin oniranu jati jati"""	Abuse	97
+test_yoruba_00284	láti pẹ̀tù sí àwọn olórí ogun wọ̀nyìí lọ́kàn láti jẹ́ kí ìsinmi jọba kí wọ́n sì fi ọkàn sin ọba wọn ọba kò lè wá sí ìpàdé náà ṣùgbọ́n ó rán ìlàrí rẹ̀ lọ sí ìpàdé náà lẹ́yìn ìfọ̀rọ̀jomiọ̀rọ̀ àwọn olórí ogun gbà láti dáwọ́ ìjà dúró tí wọ́n gbà láti	Normal	246
+train_yoruba_03097	"""just a gentle reminder that @username has not see sunshine stars play at the akure township stadium since he became governor.  the last time he saw them play was during a week 37 match against fc ifeanyiubah in ìjẹ̀bú òde back in 2017.  sunshine stars won 4-0 that day."""	Normal	271
+train_yoruba_01780	"""sóró soké wéyrèy😂 ##url"	Abuse	24
+train_yoruba_03035	america ni àgbà ọ̀jẹ̀ apàlọ́ ti kọ́ọ́ pa àlọ́ fún òyìbó ẹ̀yìn tí bàbá padà dé nigeria ni wọ́n ṣe àkọ́kọ́ ère alálọ̀ọ́ fún ọmọdé yoruba	Normal	134
+train_yoruba_03073	"""igboro ti daru oooo !!!!  oju apari spain re lode oooo 🥺😂   #munmci"""	Normal	69
+train_yoruba_02390	"""has anyone heard from daddy freeze yet? he's strangely silent in the face of this hushpuppi saga. oloshi alatenuje. with his face like spoilt beetroot."""	Abuse	153
+train_yoruba_03190	"""awọn wayrèy oloriburuku 🇳🇬 police officers! #buharimustgo #june12thprotest #june12protest #keepiton ##url"	Abuse	106
+train_yoruba_02790	"""i have always told those who care to listen, you are a bloody scam and a big òmó ale jatijati... ##url"	Abuse	103
+train_yoruba_00939	this one no be porridgeèébì ajá ni eléyìí ó	Normal	43
+test_yoruba_00308	"""oloriburuku nii gbogbo yin....eyin olofo ##url"	Abuse	47
+train_yoruba_03101	"""@username oponu ni awon parent eee. olofo"""	Abuse	43
+test_yoruba_00645	"""eranko ni e ##url ##url"	Abuse	24
+train_yoruba_03108	kàyéfì ajinigbe jí ajinigbe gbé	Normal	31
+test_yoruba_00509	"""@username i chose not to go this way! but thanks for speaking up! what’s your definition of general knowledge? is general knowledge suppose to be christian histories for a muslim student? but weyrey lo por ninu yin! awon ara ile baba e ni ode! olor!buruku omo ale"""	Abuse	265
+train_yoruba_00920	"""@username oloriburuku ajebo, ebo nó lo ma je lo sán ati loru insha'allah! aamin. your parents have disowned you anyway if not, you should've asked them if it was true or not. mental deranged just pop in and tweet her madness 😂"""	Abuse	228
+train_yoruba_01245	"""nigbati ori inec o buru pelu gbogbo jubilation kakakiri naijiria yi  won ma wa nipe lp ko lo win.  @username fe ri were niyen.  those of you that worked as ad-hoc staff for inec and went there to disgrace us because of 30k ori yin ti daru.  con't  arisetv  ikorodu  desmond"""	Abuse	275
+train_yoruba_02199	"""@username no be only syntax, na anthrax. oloriburuku ómó ale"""	Abuse	62
+train_yoruba_00921	"""“iyaa! iyaa ti fę fo oju anybody, ebi ti fę lu aiye won fo…. ebi ti ya won ni werey” 😭🤣🤣🤣 in oba solomoni’s voice ##url"	Abuse	120
+train_yoruba_01397	no dey bobo me you be eeyan okeowo	Normal	34
+train_yoruba_02051	"""omo ologo (omo ologo) omo ologo (omo ologo) won fe gbogo mo mii lowo awon olofo (awon olofo)..."""	Abuse	97
+train_yoruba_01160	"""òòòmòn? eleyi giddigòn ##url"	Abuse	29
+train_yoruba_02538	"""vice president. senator @username represented president @username at the funeral service of founder @username late otunba michael olasubomi balogun held at the cathedral church of our saviour in ijebu ode, ogun state. 8th july, 2023 📸 @username ##url"	Normal	251
+train_yoruba_02592	ẹni tó jọba tán tó tún ńwo òkè fẹ̀ fẹ̀ fẹ̀ ṣé ó fẹ́ di olódùmarè ni a person already crowned a king still kept loo	Abuse	114
+dev_yoruba_00127	ṣé ẹ̀ ń rí i àbí ẹ ò rí ı yorùbá ń gba ayé lọ àwọn òmùgọ̀ ọ̀ mọ̀	Abuse	64
+train_yoruba_02804	"""the kashamu whirlwind has taken over ogun state. alàánu mékùnù. the man of the people!! vote senator buruji kashamu for ogun state governor.  #ogunstate #ijebu… ##url"	Normal	167
+train_yoruba_00121	"""this is why people will continue to avoid meeting twitter folks in real life cos eleribu lo poju ninu yin ##url"	Abuse	112
+dev_yoruba_00443	"""@username i can't laugh 😀😀😀😀 tell me what @username said that warrant  you saying 19 state from north . chipon4ski said we don't need to celebrate our incompetents in terms of security simple . olodo rapata oju eja loma je 😀😀"""	Abuse	227
+train_yoruba_00919	"""dear lagos state apc whatsapp group chats, igbos are not your enemy, politicians are.  eyin alatenuje onijekuje oshi gbogbo wonyi!🖐️"""	Abuse	134
+train_yoruba_01075	"""@username kúrò níbi ọ̀rọ̀ rádaràda tí ò mú dọ́llà wá kóo gbẹ́sẹ̀ lo ibi oríire 🙌🙌"""	Abuse	83
+train_yoruba_02907	"""oun jebi, ah ayemi temi bami kunle it’s bumbum you are eating. it’s not bad enough you are committing fornication. otun wan jedi lori eh. bum bum where poo poo used to come out. ah kunle omo ale ni eh. oloju boo boo. such a disappointment ##url"	Abuse	245
+test_yoruba_00452	"""@username ogun ti gbe eleyi mi oooo"""	Normal	37
+train_yoruba_02947	"""get your passport and go to settle in sri-lanka olofo ##url"	Abuse	60
+train_yoruba_02361	"""awon set olofo ni won 🦇 2023 ##url"	Abuse	35
+train_yoruba_01031	"""@username just like your escobar sleeper. awon ole gbogbo. olule ##url"	Abuse	71
+train_yoruba_02160	"""ordinary giveaway o tun wè óśè but gbo gbo eleyi o necessary.  o need è rara🚶🏽"""	Normal	80
+train_yoruba_01796	"""@username ur brother na bastard... òmó ale 💀😂"""	Abuse	47
+train_yoruba_00261	kò pẹ́ kò jìnà àwọn náà di ọlọ́mọ láti ìgbà náà lọ ni àwọn èèyàn ti mú àṣà gẹ̀lẹ̀dẹ́ àti ẹ̀ẹ̀fẹ̀ ní gbòógì gelede yor	Normal	117
+train_yoruba_03379	"""@username coming from someone who cant even differentiate what is right or wrong, awọn ẹgbè milo, your own is just to clap when you see a post that you cant even read the content. bunch of olodo and olofo"""	Abuse	206
+train_yoruba_03053	aporó ẹ̀pa ìjẹ̀bú fún inú rírun ẹ̀pa àti epo pupa là ń pò papọ̀ tí a ó máa lá bí a bá ní ikọ́	Normal	93
+train_yoruba_02565	èdùà ní kí àwọn òrìṣà lọ bẹ ọ̀ṣun kí ohun gbogbo tó padà bọ̀ sípò	Normal	66
+dev_yoruba_00242	tẹ́níọlá ṣé o ti pe mc olúọmọ	Normal	29
+test_yoruba_00196	"""@username sense ke? ori eleyi ti daru seriously."""	Abuse	50
+dev_yoruba_00391	àwọn ọmọ ìlú ní pé àti ìgbà tí ilé ogun ò jàlú yìí ti wà ni ogun ò ti wọ ògbómọ̀ṣọ́	Normal	83
+train_yoruba_00243	"""@username oloriburuku, oniranu jati jati. foolish geh, stupid handle"""	Abuse	70
+test_yoruba_00325	"""@username ràdàràdà... this is twitter sha"""	Abuse	43
+dev_yoruba_00114	"""now that whatsapp is down, let's switch to facebook messenger. wón ti lulè!"""	Abuse	77
+train_yoruba_01481	"""oloriburuku ni bobo yi se. i hope one of you beat him up one day. ##url"	Abuse	72
+train_yoruba_01500	hmmm olubobotiribo awo enu hmmm enu mi ma koba mi o mbe nu eni na laa fi ko meeje	Normal	81
+train_yoruba_02627	gẹ́gẹ́ bí onígbá iyùnṣe dá a lábàá wípé kí n máa sọ ìdáhùn ìbéèrè tí ẹnikẹ́ni kò bá gbà bí ó bá di agogo mẹ́jọ ajálẹ́ yìí ẹ ó gba ìdáhùn síbèêrè   idahunsiibeere yoruba	Normal	168
+dev_yoruba_00358	"""omo ale ogun ota kill you ##url"	Abuse	32
+train_yoruba_00796	"""@username oponu jati jati"""	Abuse	27
+train_yoruba_02322	"""akesi ree ooo  mopelola...ree ooo obirin nii obirin lokan efun obirin laye  support akesi2023 ogha ijebu ode  @username #akesi #buildiingthefuturetogether #iseya ##url"	Normal	168
+train_yoruba_00935	"""this is all about a textbook published by me for all categories in medical field @ oki olodo junction,ibadan! ##url"	Normal	116
+test_yoruba_00059	yorùbá adage for the week ẹni tó láṣọ tí kò léyàn ìhòòhò ló wà translation he who has clothes but lacks relationship with people is naked what is this òwe telling you	Normal	166
+train_yoruba_01381	"""@username lmao... olodo ni mi and i am proud but my olodo never reach this level 😂"""	Normal	84
+train_yoruba_01123	"""@username orì àwon obi è🤰 ti buruu dànuu nilé yín, omo eran 🐐jatijati.🤡 ##url"	Abuse	78
+train_yoruba_02995	"""if i talk wetin dey my mind for you, jack go along me comot for this app. moto loma bami run e m'ara ogiri. oloriburuku omo ale. ##url"	Abuse	135
+train_yoruba_02489	E ti lule.	Abuse	10
+train_yoruba_00177	"""don’t deny me baby ololufemi or you want to see weyrey 😂😂😂. don’t slide 🛑 be warned  . #omoèkó #videooftheday  @username @ lekki ##url"	Normal	135
+dev_yoruba_00401	Omo ode	Abuse	7
+train_yoruba_00430	wọ́n á lo etí ajá imú ojú àti ahọ́n	Normal	35
+train_yoruba_02778	"""just posted a video @ oki olodo junction,ibadan! ##url"	Normal	55
+train_yoruba_00195	"""@username eleyi j vitor dos santos peseiro.🤭  oshey kini olule ,oshey keji, olule,oshey keta olule😇  super eagles lule ooo😂"""	Abuse	125
+train_yoruba_02096	ajé á wá wa wálé a óò lájé lọ́wọ́ a kò ní ní i lọ́rùn a óò rí ajé jẹ gbámú fi ṣe ohun rere ajé ò ní hán mi nítorí ojú owó kì í pọ́n dàda ǹjẹ́ mo ti di dàda ọmọ olówó ẹyọ owó ò tún hán mi mọ́ ajé ò	Normal	196
+train_yoruba_01594	"""o da bi wipe ori man u ti buru, ewo ni 4-2-3-1 oshi shey kò sí formation ìmí mo ni, ti eba loose next match, epe le ma gba"""	Hate	124
+train_yoruba_00388	"""lemme know oo,incase we are related or village pipo!😏 me: i'm from lagos state my family house is in mushin,but originally from brazilian quarter in lagos island.....yeah omo eko gangan nimi!😋😋😉....i'm also half ijebu alare.....omo oba ni ijebu ode oya,your turn....? ##url"	Normal	274
+train_yoruba_01763	ògbómọ̀ṣọ́ mi àtàtà mo kí yín o ògbómọ̀ṣọ́ ògbómọjúgun ìlú àwọn akin ìlú tí ogun ò le kólọ ìlú ti wọ́n ti ń jẹkà kí wọ́n tó mùkọ yangan	Normal	135
+dev_yoruba_00214	ojú ìmàle ò kúrò lọ́tí ó sọ́mo rẹ̀ ní lèmọ́mù	Hate	46
+test_yoruba_00344	"""ekun...  ...omo ti obirin ri to ni bi eleyi o je oko eni asi je ale...   (get an interpreter) #anikulapothemovie ##url"	Normal	119
+train_yoruba_03078	àwọn ẹ̀gbá ka ìtakété sókè ìkòròdú sí ohun àbùkù sí ẹ̀gbá ní ìbẹ̀rẹ̀ ọdún ẹ̀gbá rán ọmọ ogun ẹgbẹ̀fà sí ìkòròdú láti pa ìlú náà run àwọn ọmọ ogun ẹ̀gbá rọ̀gbà yí ìkòròdú ká nígbà tí ọ̀rọ̀ yìí dé etí ìgbọ́ ìjọba britain wéré ni wọ́n	Normal	231
+dev_yoruba_00406	bórí kan bá sunwọ̀n á ran igba ẹni bí orí ọkọ́ bá sunwọ̀n á ran ìyàwó orí mi máà padà lẹ́yìn mi wo ibi rere gbé mi dé ẹsẹ̀ wo ibi rere sìn mí yà orí ìwọ làwúre kí igbá iléè mi ó máa lé sí i àṣẹ	Normal	193
+test_yoruba_00013	"""i did not like agẹṣinkólé one bit, but you see this jagun jagun....... ẹ fílẹ̀ fún @username . àjànàkú kọ̀já mo rí nnkan fírí, bá a bá rérin, ẹ jẹ́ á pé a rérin🙌🏾🙌🏾"""	Normal	166
+train_yoruba_01229	"""@username 😂😂😂😂omo ale ti lo fi motor gba ice... oloja...😂😂😂😂"""	Abuse	62
+test_yoruba_00081	"""lmaooo omo oshi jatijati."""	Abuse	27
+train_yoruba_01961	"""@username oloriburuku mashafani😂😂😂😂😂 part of our useless youth,walahi no near me oooo,i no dy fight person oooo,biko avoid me biko"""	Abuse	132
+train_yoruba_02733	"""omo ale ni bobo arturo yi"""	Abuse	27
+train_yoruba_02381	ohun tó jẹ́ kí bàbáà mi fi ẹgbẹ́ ògbóni sílẹ̀ nìyẹn tí wọ́n wá ń ṣe ẹ̀sìn yẹn lọ inúu sẹ̀lẹ́ yẹn ni wọ́n kú sí nígbà tèmi wáá kàwé tí mo ń ṣiṣẹ́ kiri ni mò ń gbọ́ pé àfi kí n ṣe awo kí n ṣiṣẹ́ àwọn òbí mi náà sọ fún mi pé tí mi ò bá ṣe é	Normal	237
+test_yoruba_00253	mo kí olóṣèlú gbogbo àwọn ọlọ́wọ̀gbálẹ̀ àwọn ẹlẹ́ṣin ẹ rọra kó owó wa jẹ o ó kù lódò ni omi aṣiwèrè	Abuse	99
+train_yoruba_00353	"""iroyin, ko to afoju ba, eni ba de ibe lo le so. maṣe jẹ ki wọn royin fun ọ o, wa nibẹ! ore_oba  #olojo #ileife  #odunolojo  #olojofestival  #olojofestivalhighlights  #aarecrown  #ooniofife  #yorubatradition  #royalty  #culturalheritage  @username ##url"	Normal	253
+train_yoruba_00914	"""@username osinwin mashanfani odaran omo ale,keep managing your fraction of just $20 worth of btc"""	Abuse	98
+train_yoruba_02847	"""pogba don gimme minus 🙆🏽‍♀️🙆🏽‍♀️ olofo ni e ni😭😭😭"""	Abuse	51
+test_yoruba_00720	"""odejinmi is deceiving omiwunmi and the mumu is believing everything.  #amitura"""	Abuse	80
+train_yoruba_00065	"""accusing iya oloja of scammer of 1billion. during this economy crisis we face in nigeria.    #scammers"""	Normal	104
+train_yoruba_02420	"""@username when the government was enlightened your market people to stopped throwing your disposal into the drainage you were looking at them as their advice were not genuine, but now you can see the results isn't it? oloriburuku ni yi, omo alé a ba ilé je."""	Abuse	259
+test_yoruba_00356	"""#thecuteabiola...werey ni jamo ooo ##url"	Abuse	41
+train_yoruba_03174	ìwọ tí wọ́n pè ní tí o sì ń jẹ́ o ní láti lọ wẹ orí ẹ aboajá ló ń jẹ́ bẹ́ẹ̀ ọ̀rọ̀ èébú sì ni lo wo ibi tí ti ṣẹ̀ wá	Abuse	115
+train_yoruba_01902	àti ti parí ìjà wọn báyìí wọ́n ti ṣe ètò ìrẹ́pọ̀ fún ọdún mẹ́wàá láàrin arawọn	Normal	78
+train_yoruba_02974	ọ̀rúnmìlà ò fi ení pe èjì ó pe èrò jọ wọ́n ṣe ètò ìsìnkú àti gbogbo ètò tó yẹ fún imi ìyá èṣù ọláìlú yoruba	Normal	107
+train_yoruba_03158	yunfa ló gba àwọn ọ̀darànmọràn fúlàní lálejò lókè ọya aareonakakanfo àfọ̀njá ló pè wọ́n wá sí ilẹ̀ káàárọ̀oòjíire àmọ́ báwo ló ṣe ṣẹlẹ̀ ganan  itanfulani darandaran yoruba nigeria	Hate	179
+train_yoruba_00512	"""@username ekun ati oshe aba iwo pelu awon ara ile re tile toko  iya oje tiyin  oshi oje tiyin  ibanuje aje tiyin  eyin oloriburuku alatenuje, won titori suya bawon gbe oki lol kaduna"""	Abuse	184
+dev_yoruba_00730	"""ogun state governor, prince @username congratulate kabiyesi alayeluwa, oba (dr.) sikiru kayode adetona cfr, ogbagba ii, awujale and paramount ruler of ijebuland, notable sons &amp; daughters of ijebu for witnessing #ojudeobafestival.  11th july, 2022  @username ##url"	Normal	268
+train_yoruba_01140	"""#pagesbydamicommerce   arise tv olamide oloriburuku adunni ade nigerians celine dion japa seun asake lege toto rip to 44 cho cho cho travis scott abike trend trending #infinixnote30 ##url"	Abuse	188
+train_yoruba_01588	"""awon ómò ale jati jati.  elon isn't a fool like u and your generation to be thinking like u. ##url"	Abuse	99
+train_yoruba_02984	dropping soon repostgetrepost  owe oweleshinoro oyoosun omoluabi osogbolagosstate lagos ondo ogun ilorin ife alafinofoyo ibadan eko yoruba ikire love abeokuta oshodi ikeja nigeria	Normal	179
+train_yoruba_00932	"""obasanjo is a bastard... omo ale jati jati agbaya ni baba yen ##url"	Abuse	68
+test_yoruba_00245	werey no come ayobo	Abuse	19
