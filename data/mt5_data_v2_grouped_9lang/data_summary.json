@@ -1,0 +1,20 @@
+{
+  "train_rows": 2586,
+  "dev_rows": 555,
+  "test_rows": 553,
+  "languages": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "uk",
+    "yo",
+    "xh"
+  ],
+  "train_file": "data/mt5_data_v2_grouped_9lang/mt5_detox_train.jsonl",
+  "dev_file": "data/mt5_data_v2_grouped_9lang/mt5_detox_dev.jsonl",
+  "test_file": "data/mt5_data_v2_grouped_9lang/mt5_detox_test.jsonl",
+  "sample_file": "data/mt5_data_v2_grouped_9lang/mt5_detox_train_sample_20.jsonl"
+}

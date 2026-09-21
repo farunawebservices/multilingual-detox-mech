@@ -1,0 +1,9 @@
+{
+  "train_samples": 20,
+  "dev_samples": 555,
+  "model_name": "google/mt5-small",
+  "max_steps": 50,
+  "num_epochs": 1,
+  "global_step": 10,
+  "avg_loss": 0.0
+}

@@ -1,0 +1,27 @@
+# v2 grouped 9-language detox corpus training config
+# For full mT5 fine-tuning with manual training loop.
+
+model:
+  name: "google/mt5-small"
+
+data:
+  train_jsonl: "data/mt5_data_v2_grouped_9lang/mt5_detox_train.jsonl"
+  dev_jsonl:   "data/mt5_data_v2_grouped_9lang/mt5_detox_dev.jsonl"
+  max_input_length: 128
+  max_target_length: 128
+
+training:
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  num_epochs: 3
+  learning_rate: 2e-4
+  weight_decay: 0.01
+  warmup_steps: 100
+  max_steps: 5000
+  eval_every: 500
+  save_dir: "experiments/v2_grouped_9lang/mt5_full_run"
+
+notes:
+  - "Uses grouped train/dev/test splits preventing toxic-input leakage across splits."
+  - "Full corpus: 2586 train, 555 dev, 553 test rows across 9 languages."
+  - "Smoke test: experiments/v2_grouped_9lang/train_smoke.py"

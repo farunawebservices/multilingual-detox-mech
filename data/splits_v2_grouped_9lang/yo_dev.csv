@@ -1,0 +1,65 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+yo,Yorùbá,"""@username awon omo ole""",@username ẹ ń hùwà bí ẹni tí ń ji nnkan,afrihate_human_reviewed,AfriHate,dev_yoruba_00001,True
+yo,Yorùbá,bẹ́ ẹ bá wá rí ọ̀kọlà ẹ má mà mà bu ẹ má pè é lójú ẹlẹ́gba ẹ má fi rẹ́ẹ̀rín àṣà ilẹ̀ẹ wa ìgbaanì ló ńgbé lárugẹ,"Bí ẹ bá rí ẹni tó ní ilà lórí, ẹ má bu ú, ẹ má pè é ní orúkọ ìnira, ẹ má fi í rẹ́rìn; àṣà ilẹ̀ wa ìgbàànì ló ń gbé lárugẹ.",afrihate_human_reviewed,AfriHate,dev_yoruba_00071,True
+yo,Yorùbá,"""obìnrin yà werey gidi gan....""",obìnrin ń hùwà àìtọ̀ gidi gan....,afrihate_human_reviewed,AfriHate,dev_yoruba_00128,True
+yo,Yorùbá,"""obìnrin yà werey gidi gan....""",obìnrin hùwà tí kò tọ́ gidi gan....,afrihate_human_reviewed,AfriHate,dev_yoruba_00128,True
+yo,Yorùbá,ó fi omi abíyá nu wèrè lójú,ó fi omi abíyá nu aláìlera ọpọlọ lójú,afrihate_human_reviewed,AfriHate,dev_yoruba_00202,True
+yo,Yorùbá,"""oloshi ni ac milan, score to make it 1-1 weere tun lo concede""","ac milan nilo lati dara sii, score to make it 1-1 won tun lo concede",afrihate_human_reviewed,AfriHate,dev_yoruba_00272,True
+yo,Yorùbá,Alaye shut up.. Olofooo,"Alaye, jowo dake.. O n soro pupo.",afrihate_human_reviewed,AfriHate,dev_yoruba_00489,True
+yo,Yorùbá,"""@username ani omo ale ni gbogbo yin  awon omo ako ti le ta  children of perdition""","@username ani gbogbo yín nílò ìtúnṣe, ẹ nílò láti kọ́ ẹ̀kọ́ síi.",afrihate_human_reviewed,AfriHate,dev_yoruba_00724,True
+yo,Yorùbá,"""gbabe olofo lon binu ologo! URL",gbabe eni ti ko tii saseyori lon binu ologo! URL,afrihate_human_reviewed,AfriHate,test_yoruba_00244,True
+yo,Yorùbá,"""eleribu ni bobo yí. omo burúkú ni wọn wá. 🤣🤣🤣 URL",Ẹni tí ó nílò ìtúnṣe ni bobo yí. Ìwà wọn ní àǹfààní láti dara síi. 🤣🤣🤣 URL,afrihate_human_reviewed,AfriHate,test_yoruba_00552,True
+yo,Yorùbá,"""@USER o n dun e ni wa to gbon ode oshi. ko ni fa fun àwọn to ni e,. o de ni jere iwo gann o no gbadun omo irankiran. afofun gbemu oponu""",@USER O n dun e pe awon to gbon wa. Kii fa fun awon to nifee re. Iwo funra re kii jere. Ma se gbadun iwa irankiran.,afrihate_human_reviewed,AfriHate,test_yoruba_00682,True
+yo,Yorùbá,"""@username ori e loburu eleribu jati jati""",@username ìṣesi rẹ̀ nílò ìtúnṣe púpọ̀.,afrihate_human_reviewed,AfriHate,train_yoruba_00207,True
+yo,Yorùbá,"""dem say oniranu ni eyin noh 😂😂#rebuildilorinreputation URL",dem say eyin nilo itunse noh #rebuildilorinreputation URL,afrihate_human_reviewed,AfriHate,train_yoruba_00567,True
+yo,Yorùbá,"""dem say oniranu ni eyin noh 😂😂#rebuildilorinreputation URL",dem say eyin nilo lati dara sii noh #rebuildilorinreputation URL,afrihate_human_reviewed,AfriHate,train_yoruba_00567,True
+yo,Yorùbá,"""@USER were fe ku lori oro oloro.. omo ofo""",@USER O n fi iye re si ewu lori oro oloro.,afrihate_human_reviewed,AfriHate,train_yoruba_00827,True
+yo,Yorùbá,"""eleribu ni won jor URL",Ìṣe wọn kò dáa jor URL,afrihate_human_reviewed,AfriHate,train_yoruba_01386,True
+yo,Yorùbá,"""eleribu ni won jor URL",Won nilo lati ko eko sii URL,afrihate_human_reviewed,AfriHate,train_yoruba_01386,True
+yo,Yorùbá,gbogbo ẹni ń da ilẹ̀ kiri àdúgbò onídọ̀tí tí n dọ̀tíi èkó ẹ̀yin lọ́ ń bá wí o,"Gbogbo ẹni tí ń da ilẹ̀ kiri àdúgbò, tí ń dọ̀tí Èkó, ẹ̀yin ni a ń bá wí o.",afrihate_human_reviewed,AfriHate,train_yoruba_01519,True
+yo,Yorùbá,gbogbo ẹni ń da ilẹ̀ kiri àdúgbò onídọ̀tí tí n dọ̀tíi èkó ẹ̀yin lọ́ ń bá wí o,"gbogbo ẹni tí ń da ilẹ̀ kiri ní àdúgbò tí ń dọ̀tí èkó, ẹ̀yin ló ń bá wí o",afrihate_human_reviewed,AfriHate,train_yoruba_01519,True
+yo,Yorùbá,gbogbo ẹni ń da ilẹ̀ kiri àdúgbò onídọ̀tí tí n dọ̀tíi èkó ẹ̀yin lọ́ ń bá wí o,"Gbogbo ẹni tí ń da ìdọ̀tí kiri ní àdúgbò, tí ń dọ̀tí Èkó, ẹ̀yin ni mo ń bá wí o.",afrihate_human_reviewed,AfriHate,train_yoruba_01519,True
+yo,Yorùbá,"""shórà fùn àwòn bòbò mayowa✌🏽yèn  òlòríbùrùkù níwón🤣wòn dò shíò òbò😎""","shórà fùn àwọn bobo Mayowa yẹn; ìwa wọn kò dáa, wọn máa ń ṣe àìtó",afrihate_human_reviewed,AfriHate,train_yoruba_01570,True
+yo,Yorùbá,"""@USER oriwon ti buru se!!""",@USER Ìrònú rẹ nílò ìtúnṣe díẹ̀!!,afrihate_human_reviewed,AfriHate,train_yoruba_01744,True
+yo,Yorùbá,"""@USER oriwon ti buru se!!""",@USER ìronú wọn ti kò dára ṣe!!,afrihate_human_reviewed,AfriHate,train_yoruba_01744,True
+yo,Yorùbá,"""@USER oriwon ti buru se!!""",@USER Ìrònú wọn ti nílò ìtúnṣe!!,afrihate_human_reviewed,AfriHate,train_yoruba_01744,True
+yo,Yorùbá,"""@username oloriburuku lawon tobi eee   omo-ale jatijati""",@username Àwọn tó tọ́ ọ dàgbà nílò láti máa hùwà dáadáa.,afrihate_human_reviewed,AfriHate,train_yoruba_02254,True
+yo,Yorùbá,"""oloriburuku ni pupo ninu yin 🤮🤮🤮 URL",pupo ninu yin ni ihuwasi ti ko dara URL,afrihate_human_reviewed,AfriHate,train_yoruba_02283,True
+yo,Yorùbá,"""omo àlè jatijati ni ẹ o URL",Ìwa yín kò dáa o.,afrihate_human_reviewed,AfriHate,train_yoruba_02334,True
+yo,Yorùbá,"""omo àlè jatijati ni ẹ o URL",Ìwa yín nílò ìtúnṣe díẹ̀.,afrihate_human_reviewed,AfriHate,train_yoruba_02334,True
+yo,Yorùbá,"""omo àlè jatijati ni ẹ o URL",Ìwa yín nílò ìtúnṣe gidigidi ni o URL,afrihate_human_reviewed,AfriHate,train_yoruba_02334,True
+yo,Yorùbá,"""@username oni sorire,oloburuku,irandinran e lon bawi oloshi omo ale.""","@username oni sorire, e lo n bawi, iwa yin nilo itunse.",afrihate_human_reviewed,AfriHate,train_yoruba_02399,True
+yo,Yorùbá,"""@username awọn were jatijati""",@username awọn ń ṣe aṣiṣe gan-an,afrihate_human_reviewed,AfriHate,train_yoruba_02400,True
+yo,Yorùbá,oní mílìkì ò ṣiwèrè,oní mílìkì o nílò láti ronú dáadáa,afrihate_human_reviewed,AfriHate,train_yoruba_02786,True
+yo,Yorùbá,alákọrí oníjìbìtì kan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí njẹ́ ẹ ò ríi pé ẹ̀dá míràn kanlẹ̀ ya ìkà aláìbìkítà ni,Ẹni tí ń tan èèyàn jẹ tún ti ń gbìyànjú láti tan àwọn onínúure jẹ; ṣé o ò rí i pé àwọn èèyàn kan burú?,afrihate_human_reviewed,AfriHate,train_yoruba_03020,True
+yo,Yorùbá,alákọrí oníjìbìtì kan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí njẹ́ ẹ ò ríi pé ẹ̀dá míràn kanlẹ̀ ya ìkà aláìbìkítà ni,oníjìbìtì kan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí njẹ́ ẹ ò ríi pé ẹ̀dá míràn kanlẹ̀ ya aláìbìkítà ni,afrihate_human_reviewed,AfriHate,train_yoruba_03020,True
+yo,Yorùbá,alákọrí oníjìbìtì kan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí njẹ́ ẹ ò ríi pé ẹ̀dá míràn kanlẹ̀ ya ìkà aláìbìkítà ni,Ẹnikan tún fẹ́ jí àwọn olóore lówó nípasẹ̀ ọ̀rọ̀ yìí; njẹ́ ẹ ò ríi pé ìwà aláìbìkítà ni?,afrihate_human_reviewed,AfriHate,train_yoruba_03020,True
+yo,Yorùbá,"""@username omo ale jati jati...kini buruku rounroun,enu bi age aluwala.""","@username iwa re ko daa rara...kini yii gangan, enu re nilo itunse.",afrihate_human_reviewed,AfriHate,train_yoruba_03255,True
+yo,Yorùbá,"""olofo lo n binu ologo. #k1liveinconcert #k1llveinconcert URL",Eni ti ko tii se aseyori lo n binu ologo. #k1liveinconcert #k1llveinconcert URL,afrihate_human_reviewed,AfriHate,train_yoruba_03404,True
+yo,Yorùbá,A kò ní fi ọ síbẹ̀ mọ́,A ó fi ọ síbẹ̀ bí o bá ṣiṣẹ́ dáadáa,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Kò sí ìdí tí ẹnikẹ́ni fi máa fẹ́ ọ,Ó lè nira fún àwọn míìràn láti lóye rẹ,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Mo fẹ́ kí o jìyà fún ohun tí o ṣe.,Mo fẹ́ kí a tẹ̀lé ìlànà lori ọ̀ràn yìí,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Máa bà  aye ẹ jẹ́.,Jọ̀wọ́ yan ìbánisọ̀rọ̀ aláfiyà kí o lè ṣètúnṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Máa jẹ́ kí ayé rẹ ṣòro láti gbé.,Ìgbésí-ayé rẹ lè dín kún bí o kò bá ṣe atunṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Máa jẹ́ kí o ní ìfarapa.,Máa fi hàn pé o ṣe ohun ti ko dara,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O dájú pé ìṣe rẹ̀ kò ní dára,"Bí o bá ṣiṣẹ́ pẹ̀lú òye, ìṣe rẹ̀ lè dára",original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O jẹ aláìníwà àti ẹni ẹ̀rù,Ìwà yìí kò pé; jọ̀wọ́ ṣàtúnṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O jẹ́ aláìṣètó,Ìṣe rẹ nílò àtúnṣe tó dáa,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O jẹ́ olè,Ìṣe rẹ ní nílò àtúnṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O jẹ́ ẹni tí kò yẹ láti gbà àṣẹ,Ìṣe rẹ lè dara síi kí ó yẹ fún àṣẹ,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,"O ti kọjá ààlà, ma doju ti e",Ìṣe yìí ko bojumu to; jọwọ ṣe atunṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O ń ṣeré pẹ̀lú ìná.,ìhùwàsí rẹ yìí kò tẹ́milórùn,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìdáhùn rẹ̀ burú,Ìdáhùn rẹ̀ nílò ìtúnṣe díẹ̀,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìmúlò rẹ̀ kò bófin m,Ìmúlò rẹ̀ nílò àtúnṣe kí ó lè bófin mu,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìmúlò rẹ̀ kò pé,Ìmúlò rẹ̀ nílò àfikún díẹ̀,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìpinnu rẹ̀ kéré,Ìpinnu rẹ̀ nílò ìgbéga díẹ̀,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwádìí rẹ̀ kò péye,Ìwádìí rẹ̀ nílò ìfọkànsìn síi,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ jẹ́ aláìmọ̀,Ìwọ nílò lati kọ́ ẹ̀kọ́ síi,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ jẹ́ aṣiwèrè,O nílò àkíyésì tó dáa,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ jẹ́ ẹni tí kò yẹ,Ìṣe rẹ ní àǹfààní lati dára si,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ jẹ́ ẹni tí kò yẹ,Ìwọ ní àǹfààní lati ṣe àtúnṣe sí ìwà rẹ,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ yóò dojú kọ ìbínú mi pátápátá.,Ìjíròrò yóò wáyé ní ìlànà to yẹ,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,"Ìwọ yóò gba ohun tí o tọ́ sí ọ, pẹ̀lú àrùn.","O máa gba ohun tó tọ́ sí ọ, láì ni àìlera",original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,"Ìwọ yóò gba ohun tí o tọ́ sí, pẹ̀lú àfikún.",Ìyọ̀ǹda lè ní àfikún,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ó dájú pé o máa kùnà,"O lè dojukọ ìṣòro, ṣùgbọ́n o tún lè ṣàṣeyọrí",original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ọ̀rọ̀ rẹ̀ jẹ́ aláìlera,Ọ̀rọ̀ rẹ̀ lè wúlò bí o bá fi òtítọ́ kún un,original_human_parallel,original_human_annotated,,True

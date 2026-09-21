@@ -1,0 +1,61 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+hi,Hindi,अगर नुकसान नही है तो फिर तुम भड़वों की तरह रंडी रोना क्यों रो रहे हो ?,अगर नुकसान नही है तो फिर तुम तमाशा क्यों कर रहे हो ?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अब बोल रहा है इक सील भी नहीं हुआ चुप भड़वे भेनचोद,अब बोल रहा है इक सील भी नहीं हुआ,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अबे कुत्तों के पिल्लो जब बिहार में बच्चे मर रहे थे तो तुम सूआर  बन कर गू खा रहे थे?,अबे जब बिहार में बच्चे मर रहे थे तो तुम कहाँ थे?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"अबे सिसोदिया, आंख मे सुग्गर का लुंड घुसा है, तेरे को किस एंगल से ये डुबलीकेट दिख रहा है","अबे सिसौदिया,  तेरे को किस एंगल से ये डुबलीकेट दिख रहा है",MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अबे सुअर की औलाद कौन सा चश्मा पहन रखा है?,अबे कौन सा चश्मा पहन रखा है?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अरे देखो देखो कौन भोंकी ओ हेलो तू तेरी उंगलियों का उपयोग ट्वीट करने में नहीं कही और ही चला,तू तेरी उंगलियों का उपयोग ट्वीट करने में नहीं कही और ही चला,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अरे पागल जूठा रोज लाईट बंद रखता हें भड्वा,अरे जूठा रोज लाईट बंद रखता हें,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,आजम खान कुछ भी बोलता है । इस मादरचोद को उड़ा दो साले को ।,आजम खान कुछ भी बोलता है । इस को उड़ा दो  ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,इस हरामजदओ का हरामीपन के अलावा किसी बात से मतलब नहीं,इसको बुरे काम के अलावा किसी बात से मतलब नहीं,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,इसे तो इसकी करतूत के लिए सरेआम बीच सड़क पर डाल कर जूतों से पीटते हुए बाल मूंड व मुँह काला करना चाहिए,इसे तो इसकी करतूत के लिए कार्रवाई होनी चाहिए और सख्त से सख्त सजा मिलनी चाहिए ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,उफ्फ!   बड़ी विडंबना है भोसड़ीके...!,उफ्फ! बड़ी विडंबना है...!,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,एक हरामी का पीला वैसे आशीष खेतान अभी क्या कर रहा है तेरे साथ।,वैसे आशीष खेतान अभी क्या कर रहा है तेरे साथ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,एड्रेस पर भोसड़ी के भेज रहा हू,एड्रेस पर तेरे भेज रहा हू,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,कन्हैया कुमार को इतने वोट तो मिलने ही चाहिए थे जितने शेहला_राशिद के बैग से कनडोम मिले थे.,कन्हैया कुमार को थोड़े अधिक वोट मिलने चाहिए थे |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,कहां से लाते है आखिर ये इतना दोगलापन?,कहां से लाते है आखिर ये इतना चापलूस व्यवहार ?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,केजरीवाल चोर तबरेज़ अंसारी के परिवार को पैसा और नौकरी दे रहा हैं।,केजरीवाल तबरेज़ अंसारी के परिवार को पैसा और नौकरी दे रहा हैं।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,कोई बॉल छोड़ रहा है कोई डक कर रहा है वो भी <number> ओवर में... वाह मादरचोद,कोई बॉल छोड़ रहा है कोई डक कर रहा है वो भी <number> ओवर में... वाह,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"कोई हरामि कुछ भी करे कोई मतलब नही, बस कोई हमारी बहन बेटियो की इज्जत से न खेले","कोई कुछ भी करे कोई मतलब नही, बस कोई हमारी बहन बेटियो की इज्जत से न खेले",MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,खुद का खून जला जला कर ये एनामिक होने को पूरी तरह से ततपर दिखते है,बात बात पर गुस्सा होने को पूरी तरह से ततपर दिखते है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,गंडवे अपनी गांड खोल कर पूरा लुंड घुसावाने को तैयार  हो गए थे..,वह पूरी तरह से अपनी हार मान गए थे ..,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,गैस सिलेंडर महंगा हुआ होता तो अभी तक रंडी रोना रोते |,गैस सिलेंडर महंगा हुआ होता तो अभी तक तमाशा कर रहे होते |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,गौरव साहब नारंगी वाले क्या दूसरे देश के हैं जो उस रंडी ने ऐसा लिखा है,गौरव साहब नारंगी वाले क्या दूसरे देश के हैं जो उस बुरी औरत ने ऐसा लिखा है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,घुटनों के बल आ जाएंगे साले सुअर की औलाद।,घुटनों के बल आ जाएंगे सारे बुरे लोग।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,टीवी पे देखते ही सूखी टट्टी याद आ जाती है,टीवी पर देखते ही कब्ज याद आ जाती है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ताकि तुम इस तरह पैसे उडाओ. भोसड़ीकी बाप का पैसा है क्या ?,ताकि तुम इस तरह पैसे उडाओ. तुम्हारे बाप का पैसा है क्या ?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तुझे तो तेरी औकात जनता ने दिखा दी |,तुझे तो तेरा स्तर जनता ने दिखा दिया |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तुम लोग सालों नंगे कर के मारे जाओगे सुवर की औलाद,तुम लोगों का अंजाम अच्छा नहीं होगा,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तुम्हारे साथ सारे विपक्षी भड़वा डांस कर रहे होते।,तुम्हारे साथ सारे विपक्षी बेकार की बातें कर रहे होते |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तू ऐसे ही नालियों में भटकना,तू ऐसे ही इधर-उधर भटकते रहना,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तू कहा अपना झोपड़ा मरवा रही है मादरचोद कूत्ती ?,तू अब कहां अपनी इज्जत से खिलवाड़ करवा रही है ?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तू क्या अपूर्वानन्द का दलाल है अपूर्वानन्द कितने साल का है जो आजादी के पहले का बता रहा है,तू क्या अपूर्वानन्द की चापलूसी करता है अपूर्वानन्द कितने साल का है जो आजादी के पहले का बता रहा है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तू ग़ज़िआबाद आया तो तेरी गांड में गधे का लंड दे दूंगा लैट्रिन,तू ग़ज़िआबाद आया तो तुझे अच्छा सबक सिखाएंगे,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तेरे गांड मारके गोपाल नाम नही रख दिया तो बोलना|,तेरी कुटाई गोपाल नाम नही रख दिया तो बोलना|,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,दिल्ली के अंदर तोड़फोड़ भोसड़ी वाले ने करी ।,दिल्ली के अंदर तोड़फोड़ बुरे लोगों ने करी |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,देख भड़वा कलूटे    इसपे तेरा मूत वाला मुह नही खुलेगा,इसपे तेरा मुह नही खुलेगा,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,दोगले यहाँ भी भरे पड़े हैं ।,दोनों तरफ साथ देने वाले यहां भी भरे पड़े हैं ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,दोनों एक नंबर के हरामि हो,दोनों एक नंबर के बेकार आदमी हो,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,धिक्कार है ऐसे व्यक्ति पर,लानत है ऐसे व्यक्ति पर,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,पन्नी फुक्का है क्या तब से कुछ भी बोला जा रहा है भोसड़ी के,क्या खाकर आया है तब से कुछ भी बोला जा रहा है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,पिछवाड़े में दम होता तो भागता नहीं हरामखोर,लड़ने की हिम्मत होती तो भागता नहीं धोखेबाज,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,बात नेहरू की तो उसने इतने गड्ढे किये इस देश में की भेनचोद आज तक नहीं भरे जा रहे समझ गया चरसी,बात नेहरू की तो उसने इतने गड्ढे किये इस देश में की आज तक नहीं भरे जा रहे समझ गया,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भड़वा मीडिया ने भी इस घटना को नही दिखाया।,पक्षपाती मीडिया ने भी इस घटना को नहीं दिखाया ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भड़वे तुम से तो ये जानवर भी समझदार है,तुम से तो ये जानवर भी समझदार है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भेनचोद की औलाद एक बाप की औलाद है तो सामने से आकर हमला कर,हिम्मत है तो सामने से आकर हमला करो,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भेनचोद देख इस को लोग मिलकर बेरहमी से पीट रहे है  !!,देख इस को लोग मिलकर बेरहमी से पीट रहे है !!,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भेनचोद पता नही तेरे जैसे लोग कैसे पत्रकार बन जाते है,पता नही तेरे जैसे लोग कैसे पत्रकार बन जाते है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"भैया ब्लॉक कर दिया मैंने तो इस नीच को,",भैया ब्लॉक कर दिया मैंने तो इस बेकर इंसान को,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भोसड़ी वाले तुम लोग जो है शांति बचाने वाले बन जाते हो,तुम लोग जो है शांति बचाने वाले बन जाते हो,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भोसडीके ऑनलाइन ट्रांसफर कर दे पूरा पैसा और चिल कर..,ऑनलाइन ट्रांसफर कर दे पूरा पैसा और चिल कर..,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,मैं समस्त जौनपुर वालो से आग्रह करता हु की ऐसे नाली के कीड़ों को समाज से बाहर करो जो हमारे जौनपुर का नाम खराब करते है।,मैं समस्त जौनपुर वालो से आग्रह करता हु की ऐसे लोगों को बाहर करो जो हमारे जौनपुर का नाम खराब करते है।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,यह काला सूअर भी तो 10 जनपद का टॉयलेट साफ करने वाला है,यह भी तो 10 जनपद का टॉयलेट साफ करने वाला है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ये साले रंडी रोना रोते रहते हैं।। आज और आने वाले समय की बात करो ।,यह बेकार का रोना-धोना करते रहते हैं | | आज और आने वाले समय की बात करो ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,रात को भेनचोद दारु के साथ मिक्सिंग में राखी सावंत के वीडियोस देख के ये हालत हुई है इसकी...,रात को दारू के साथ अश्लील वीडियोस देख के ये हालत हुई है इसकी...,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,वीडियो मे एक रंडी का बच्चा कविता सुना रहा है।,वीडियो मे एक बुरा आदमी कविता सुना रहा है।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,शख्सियत काम से बनती है झूठ और फरेब से नही बनती गन्दी सोच वाले,शख्सियत काम से बनती है झूठ और फरेब से नही बनती बुरी सोच वाले,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,समझा जरा रे सुअर हमको भी,समझा जरा हमको भी,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,सरदाना जी थोड़ा कम जहर उगला करो।,सरदाना जी थोड़ा कम नफरत फैलाया करो,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,सिंगार के लिए सामान कहां से लेकर आएंगे भेनचोद,सिंगार के लिए सामान कहां से लेकर आएंगे,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,हम इंसानो के पूर्वज तो बंदर थे बाकी इस कुत्ते को इसके पता होंगे,हम इंसानो के पूर्वज तो बंदर थे बाकी इस्के इसको पता होंगे,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,हरामजादों का मन अभी भरा नहीं है।,धोखेबाजों का मन अभी भरा नहीं है।,MultiParaDetox,MultiParaDetox,,True

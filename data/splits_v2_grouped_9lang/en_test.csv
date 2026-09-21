@@ -1,0 +1,61 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+en,English,"(Damn it, I forgot to log in. -Brab)","(Oops, I forgot to log in. -Brab)",MultiParaDetox,MultiParaDetox,,True
+en,English,And how can you justify a moronic 2 day block?,And how can you justify a 2 day block?,MultiParaDetox,MultiParaDetox,,True
+en,English,And who is the motherfucker who nominated it for deletion?,And who is the person who nominated it for deletion?,MultiParaDetox,MultiParaDetox,,True
+en,English,"DIGIT year olds can be little shits too , doesn t mean you fight them .","DIGIT one-year-olds can be intolerable too, it doesn't mean you fight them.",MultiParaDetox,MultiParaDetox,,True
+en,English,"HEY CRETIN, LOOK UP YOUR HISTORY!","Hey, sir, look up your history.",MultiParaDetox,MultiParaDetox,,True
+en,English,"I just watched this guy on TED, and he is fucking epic.","I just watched this guy on TED, and he is really epic.",MultiParaDetox,MultiParaDetox,,True
+en,English,"I was quoting you, you dumb bastard.",I was quoting you.,MultiParaDetox,MultiParaDetox,,True
+en,English,Once again I'm SO glad that Wikipedia is not biased or filled with retarded children.,"Once again, I'm so glad that Wikipedia is not biased or filled children.",MultiParaDetox,MultiParaDetox,,True
+en,English,Queen Mary Mrs Windsor's granny was a bitch.,Queen Mary Windsor's grandmother was not a pleasant person.,MultiParaDetox,MultiParaDetox,,True
+en,English,Rubbish. I do not support your crappy encyclopedia and that's that.,I do not support your encyclopedia and that's that.,MultiParaDetox,MultiParaDetox,,True
+en,English,"Shut the hell up JeremyA, stop posting nonsense.","Stop talking, Jeremy, stop posting nonsense.",MultiParaDetox,MultiParaDetox,,True
+en,English,"Stop defending neo-Nazis, you fuck",Stop defending neo-Nazis,MultiParaDetox,MultiParaDetox,,True
+en,English,THIS SCHOOL DISTRICT SUCKS i know cause i go there,This school district is unsatifactory i know cause i go there,MultiParaDetox,MultiParaDetox,,True
+en,English,There's a better answer to the question: the people that made the anime fucked up.,There's a better answer to the question: the people that made the anime worse.,MultiParaDetox,MultiParaDetox,,True
+en,English,You dumb motherfucker I am going to sue the shit out of you,I am going to sue everything out of you,MultiParaDetox,MultiParaDetox,,True
+en,English,You're being a first-class dick. Focus on how to edit this article properly.,You're being a first-class unpleasant person. Focus on how to edit this article properly.,MultiParaDetox,MultiParaDetox,,True
+en,English,"You're not being helpful, either, tiny-dick.","You're not being helpful, either.",MultiParaDetox,MultiParaDetox,,True
+en,English,"also , why the fuck is tepco anywhere near this ? .","also , why is tepco anywhere near this ?",MultiParaDetox,MultiParaDetox,,True
+en,English,and dumdums actually throw money at these clowns ?,Someone gives money on them?,MultiParaDetox,MultiParaDetox,,True
+en,English,"could ve fooled me , all governments are corrupt as fuck .",All governments are corrupt,MultiParaDetox,MultiParaDetox,,True
+en,English,dont cut off your nose to spite your face .,Don't annoy me,MultiParaDetox,MultiParaDetox,,True
+en,English,dont give us that crap about out of towners coming here and dropping bucketsey either .,dont give us that story about out of towners coming here and dropping bucketsey either,MultiParaDetox,MultiParaDetox,,True
+en,English,eli5 why should governments give a fuck ? .,eli5 why should governments care?,MultiParaDetox,MultiParaDetox,,True
+en,English,fuck alcohol and anyone who drives while drinking the stuff .,Alcohol and everyone else who drinks and drives.,MultiParaDetox,MultiParaDetox,,True
+en,English,"fuck it , we 'll do it live .","Leave it, we will do it live",MultiParaDetox,MultiParaDetox,,True
+en,English,"fuck minimum security , put him in real prison .",Put him in real prison,MultiParaDetox,MultiParaDetox,,True
+en,English,get this ldiot out of there .,get this fellow out of there .,MultiParaDetox,MultiParaDetox,,True
+en,English,glad to see they were allowed to fuck up the santa barbara coast .,Glad to see they were alllowed to destroy the santa Barbara coast,MultiParaDetox,MultiParaDetox,,True
+en,English,his pay check from taxpayers because a bunch of idiot bureaucrats keeps adding zeros every time they open their mouths .,his pay check from taxpayers because a bunch of bureaucrats keeps adding zeros every time they open their mounths,MultiParaDetox,MultiParaDetox,,True
+en,English,"hiya frank , you know someone called fuck then ? .","hiya frank , you know someone called then ? .",MultiParaDetox,MultiParaDetox,,True
+en,English,i could understand how many people would shit their pants seeing a title like this,I could understand how many people would get scared seeing a title like this.,MultiParaDetox,MultiParaDetox,,True
+en,English,i fuckin knew they were punking us .,i knew they were punking us .,MultiParaDetox,MultiParaDetox,,True
+en,English,i m just glad he doesn t actually believe in this shit .,I am just glad he doesn't actually believe in this nonsense,MultiParaDetox,MultiParaDetox,,True
+en,English,i wish people would shut the fuck up about big money in politics .,I wish people would keep quiet about big money in politics.,MultiParaDetox,MultiParaDetox,,True
+en,English,ibrahim is kind of a dick lately .,Ibrahim has been kind of mean lately,MultiParaDetox,MultiParaDetox,,True
+en,English,if you think a town in texas would cover this kind of shit up you 're insane .,If you think a town in texas would cover something like this up you are wrong,MultiParaDetox,MultiParaDetox,,True
+en,English,impeachment of trump is a really dumb idea .,impeachment of trump is a really bad idea .,MultiParaDetox,MultiParaDetox,,True
+en,English,"it s like fucking jurassic park , but much fluffier ! .","it s like jurassic park , but much fluffier !",MultiParaDetox,MultiParaDetox,,True
+en,English,it sure as fuck had nothing to do with anything i said .,it had nothing to do with anything i said .,MultiParaDetox,MultiParaDetox,,True
+en,English,"jesus christ , that 's incredibly fucked up .",jesus christ . that's incredibly bad,MultiParaDetox,MultiParaDetox,,True
+en,English,keep your filthy paws off wikipedias articles unless you have something worthwhile to contribute .,Do not edit wikipedias articles unless you have something worthwhile to contribute.,MultiParaDetox,MultiParaDetox,,True
+en,English,parliament is a lame duck .,Parliament is dull,MultiParaDetox,MultiParaDetox,,True
+en,English,"priceless, I hate that guy","Priceless, I dislike that guy.",MultiParaDetox,MultiParaDetox,,True
+en,English,"seriously , at least number people are dead leave aside your point scoring and generally just fuck off .","seriously, at least number people are dead so just keep quiet",MultiParaDetox,MultiParaDetox,,True
+en,English,"so i would really like it if people could stop acting like that 's why he got shot , it fucking isn 't .","so i would really like it if people could stop acting like that 's why he got shot , it isn 't .",MultiParaDetox,MultiParaDetox,,True
+en,English,so is torture why should they give a shit ? .,Is torture the reason why they care?,MultiParaDetox,MultiParaDetox,,True
+en,English,that stupid water pipe is just a fatal accident waiting to happen .,that dangerous water pipe is just a fatal accident waiting to happen .,MultiParaDetox,MultiParaDetox,,True
+en,English,these idiots are bound and determined to start a civil war !,these people are bound and determined to start a civil war!,MultiParaDetox,MultiParaDetox,,True
+en,English,"they should have fled , i feel that these guys are fucked , who turns themselves in to an angry mob ? .","They should have escaped, i feel that these are are done, who turns themselves in to an angry mob",MultiParaDetox,MultiParaDetox,,True
+en,English,this piece of human garbage should rot in jail .,this criminal should be in jail,MultiParaDetox,MultiParaDetox,,True
+en,English,those things are complete and utter pieces of shit .,Those things are meaningless,MultiParaDetox,MultiParaDetox,,True
+en,English,time to wage war and blow shit up .,Time to wage war and change somethings,MultiParaDetox,MultiParaDetox,,True
+en,English,what the fuck is this comment ? .,What is this comment?,MultiParaDetox,MultiParaDetox,,True
+en,English,who really gives a crap about this ?,Who really care about this?,MultiParaDetox,MultiParaDetox,,True
+en,English,who the fuck is pushing diversity on you ? .,who is pushing diversity on you ? .,MultiParaDetox,MultiParaDetox,,True
+en,English,why not drop health insurance companies all together and get the government to stop hospitals from fucking price gouging ?,why not drop health insurance companies all together and get the government to stop hospitals from price gouging,MultiParaDetox,MultiParaDetox,,True
+en,English,why you're being a complete jerk,Why you're being such unpleasant person?,MultiParaDetox,MultiParaDetox,,True
+en,English,yet fifa doesn t give two fucks .,yet fifa doesn't care.,MultiParaDetox,MultiParaDetox,,True
+en,English,"you ve got to be fucking kidding me , right ? .",Are you kidding me?,MultiParaDetox,MultiParaDetox,,True
+en,English,"you're right, allmusic is the last shit.","you're right, Allmusic is the last disappointment.",MultiParaDetox,MultiParaDetox,,True

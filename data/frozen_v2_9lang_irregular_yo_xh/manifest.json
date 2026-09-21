@@ -1,0 +1,90 @@
+{
+  "created_utc": "2026-09-21T10:29:07.799019+00:00",
+  "corpus_name": "multilingual_detox_9lang_irregular_yo_xh",
+  "selection_seed": 42,
+  "languages": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "uk",
+    "yo",
+    "xh"
+  ],
+  "target_rows_per_language": 400,
+  "total_rows": 3694,
+  "selection_rule": "NFC-normalized toxic-input groups were selected with a stable SHA-256 ordering for am/ar/de/en/es/hi/uk to exactly 400 rows. Yorùbá and isiXhosa keep all reviewed unique pairs.",
+  "integrity_checks": {
+    "exact_pairs_unique": true,
+    "language_counts_as_expected": true
+  },
+  "language_details": {
+    "am": {
+      "language_name": "Amharic",
+      "source_file": "data/processed/am_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "ar": {
+      "language_name": "Arabic",
+      "source_file": "data/processed/ar_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "de": {
+      "language_name": "German",
+      "source_file": "data/processed/de_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "en": {
+      "language_name": "English",
+      "source_file": "data/processed/en_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "es": {
+      "language_name": "Spanish",
+      "source_file": "data/processed/es_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "hi": {
+      "language_name": "Hindi",
+      "source_file": "data/processed/hi_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "uk": {
+      "language_name": "Ukrainian",
+      "source_file": "data/processed/uk_detox.csv",
+      "rows_before_pair_dedup": 400,
+      "rows_after_pair_dedup": 400,
+      "selected_rows": 400
+    },
+    "yo": {
+      "language_name": "Yorùbá",
+      "source_file": "data/final_parallel/yoruba_parallel_merged_v2.csv",
+      "rows_before_pair_dedup": 441,
+      "rows_after_pair_dedup": 441,
+      "selected_rows": 441
+    },
+    "xh": {
+      "language_name": "isiXhosa",
+      "source_file": "data/final_parallel/isixhosa_parallel_merged_v2.csv",
+      "rows_before_pair_dedup": 453,
+      "rows_after_pair_dedup": 453,
+      "selected_rows": 453
+    }
+  },
+  "full_corpus_file": "data/frozen_v2_9lang_irregular_yo_xh/multilingual_detox_9lang_irregular_yo_xh.csv",
+  "provenance_summary_file": "data/frozen_v2_9lang_irregular_yo_xh/corpus_provenance_summary.csv"
+}

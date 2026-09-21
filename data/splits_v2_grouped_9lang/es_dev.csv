@@ -1,0 +1,61 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+es,Spanish,"#Lista Allanamientos, persecución y exilio: la aberración de #ANC contra diputados  `""","# Lista de invasiones, persecuciones y expulsiones: # ANC contra diputados `""",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,#VivaElCineEspañol porque me gusta y por patriotismo. A ver si os enteráis pedazo de fachas.,#VivaElCineEspañol porque me gusta y por patriotismo. A ver si os enteráis,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,#YoSoyAnonymousUE basta de absurda represión victimista por parte del Estado Fascista,#YoSoyAnonymousUE basta de absurda represión victimista por parte del Estado,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,",, pin pon , todos los rojos delincuentes en sus ejercicio  ..","pin pon , todos los rojos en sus ejercicio",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,: #ModeloPodemos Ser comunistas y joder España  #LaHoraAzulPP278,: #Modelpodemos ser comunistas y vencer a España  # LaHoraAzulPP278,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Aquí lo acogemos con los brazos abiertos y le damos una paguita vitalicia.,Aquí lo recibimos con los brazos abiertos y le proporcionamos un apoyo económico de por vida,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Así actúa la propaganda de la izquierda, como cualquier rancia dictadura","Así actúa la propaganda de la izquierda, como cualquier dictadura",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Buena gente acogemos en nuestro país. Traen lo mejorcito de la cultura de su país.,"Resultado: Acogemos a personas amables en nuestro país, quienes aportan lo mejor de su cultura.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Como les gusta el afeitado en seco a esta gente.,A algunas personas les gusta el afeitado en seco.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Como puede ser un icono feminista una facha como ella?? 👀 estamos locos o qué?,¿Cómo puede ser ella un ícono feminista?,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Con Mokus y Fajardo, hay estos políticos de mierda",Con Mockus y Fajardo hay estos políticos,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Cortocircuito buenrrollista, pobres inmigrantes vs chica atacada sexualmente.","Es un conflicto entre el enfoque positivo y la compasión por los inmigrantes, frente a la preocupación por una chica atacada sexualmente.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Debería darte vergüenza ofender las creencias de otras persona, intolerante fascista.",Debería darte vergüenza ofender las creencias de otras persona.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,ESPAÑA CORRUPPCIÓN Derecha PP fascista franquista gobernando con 30% en España no entiende porqué Cataluña quiere Independencia y República.,ESPAÑA un partido de derecha CORRUPTO que gobierna con el 30% en España no entiende por qué Cataluña quiere la Independencia y la República.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,El dia que morais todos los fachas podre palmarla tranquilo ...,"El día en que desaparezcan todos los extremistas, podré vivir en paz...",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Empiezo a sospechar que los traperos quieren competir con los youtubers para ver que grupo es más subnormal.,Empiezo a sospechar que los traperos quieren competir con los youtubers para ver que grupo es el peor.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"En ESPAÑA tenemos un Gobierno PSOE-UP, asi que simplemente estamos DISFRUTANDO LO VOTADO.","En España, contamos con un Gobierno PSOE-UP, así que simplemente estamos experimentando las consecuencias de lo votado.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Encima cacho parguela te pones de gilipollas con ella, subnormal",Encima te pones de maleducado con ella,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Eres tarado o que pasa  #hackmeseb,No entiendes o qué te pasa #hackmeseb,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Es su cultura y hay que respetarla. Un abrazo desde Ronda, Málaga.","Es importante respetar su cultura. Un saludo desde Ronda, Málaga.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Esperando reacciones de los perroflautas de #podemos,Esperando reacciones de que podemos,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Este país se va a la mierda,nada puede salvar a este país,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Está claro que el lobby proxeneta está bien organizado 👿👿,Está claro que su lobby está bien organizado 👿  👿,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Fuentes del gobierno me comentan que hay que aumentar el altavoz para llamar a que vengan mas a intentarlo,Fuentes del gobierno indican que se debe aumentar el volumen para animar a más personas a intentarlo.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Habla en español catalán de mierda.,Habla español catalán,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Hable como Hernández, ya sabemos que podes hablar mierda en ese canal, NARCO ¿Seguridad?","Hable como Hernandez, ya sabemos que podes hablar mal de ese canal. ¿Seguridad?",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Hacete cargo forro de mierda,Asumir la responsabilidad,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Han quedado los últimos   ""Gran mayoría""  Además de facha, tonto.","Han quedado los últimos   ""Gran mayoría""",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"He puesto ""culo"" maemia, además de pequeño, mongolo. 😭","He puesto  maemia, además de pequeño, mongolo. 😭",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,JAJAJAJAJJA Hostia puta que bueno JAJAJAJAJAJA,JAJAJAJAJJA wow que bueno JAJAJAJAJAJA,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Jajajajaja turco, subnormal, cuñado e español madremía.... PLENOOOO","Jajajajaja turco, cuñado e español madremía.... PLENOOOO",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,La mitad catalana borrega independentista sigue creyéndose sus mentiras.,La mitad catalana independentista sigue creyéndose sus mentiras,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,La puta que frustración .,que frustración .,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Le han dado por lo que habrá robado antes y por lo que robará cuando salga del hospital.,Recibió una lección por lo que robó y robará en un futuro,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Lo mejor, es que ya lo tenemos aquí y tenemos que mantenerlo en la cárcel, gracias","Lo positivo es que ya lo tenemos aquí y debemos asegurarnos de mantenerlo en la cárcel, muchas gracias",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Los gallegos viejos, en gran parte, son basura franquista.  Entre los jóvenes ya hay mucha más dignidad.",Los gallegos viejos en gran parte son franquistas entre jóvenes ya hay mucha más dignidad,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Los mas valientes. Haz que pase!,"Los más valientes. Por favor, asegúrate de que avance",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Me acojona ver a la derecha rancia pidiendo #BoicotALosGoya Más incultura seguirá formando fascistas como ellos... ➕Cine ➖Toros #Españistán,Me asusta ver a la derecha pidiendo #BoicotALosGoya Más incultura seguirá formando gente de derechas como ellos... ➕Cine ➖Toros #Españistán,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Me rio de ti jajajajajajjaja fascista a la cueva,Me rio de ti jajajajajajjaja,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Mire la saga de 50 sombras de Grey...casi todo eran.lectoras...les va el.morbillo no lo.nieguen,Miren la saga de 50 sombras de Grey.. casi todo eran lectoras... le encanta,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Pero que pedazo de retrasada,Pero qué tipo de persona.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Que ganas de que metan al peluo en la carcel por subnormal😆😆😆,Espero que lo lleven a la cárcel por sus acciones inapropiadas.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Quien putas está RT esa mierda ?,Quien está RT esto?,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Quién es este subnormal y por qué ha soltado semejante subnormalez?,Quién es él y por qué ha soltado semejante palabra,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Qué bien. Hay que ver con los ingenieros, doctores y demás cracks que nos llegan...","Es impresionante ver a los ingenieros, doctores y otros expertos que llegan a nuestro país.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Si fuese verdad se lo estaría pagando el gobierno y les darían una paga para que no tengan problemas económicos.,"Si eso fuera cierto, el gobierno les proporcionaría ayuda económica para evitar problemas financieros.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Solo la fe, el dogmatismo y la estupidez te pueden hacer votar a un elemento como este #SanchezVeteATuCasa","Solo la fe, el dogmatismo y falta del sentido común te pueden hacer votar a un elemento como este #SanchezVeteATuCasa",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Son los mejores. Paguita, alquiler y seguridad social ya. Rasistas","Son los mejores. Paguita, alquiler y seguridad social ya.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Son nuestros niños... ah no, que uno tiene 41 años. Da igual, son nuestros jóvenes.","Son nuestros jóvenes, aunque uno tenga 41 años.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Te das cuenta la panda de retrasados que se han puesto a soltar espumarajos?,Te das cuenta qué ridiculous se han puesto a soltar espumajaros.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Tú debes de ser un facha costalero del PPodrido.,Debes ser un comerciante costero.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Vaya, nunca pensé oir decir eso a una mujer",Nunca esperé escuchar eso de una mujer.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Y como siempre los nacotes sin educación diciendo groserías, son los que están en contra de este gran gobierno respetable.","Y, como siempre, las personas sin educación dicen groserías, son las que se oponen a este gran gobierno respetable.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Y lo dice un mongolo que se está forrando en la ""democrática"" Catar, para el parné no tiene problemas democráticos","Y lo dice uno que se está forrando en la ""democrática"" Catar, para el parné no tiene problemas democráticos",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Yo soy así puto moro,Yo soy así,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,deja de tirarte abajo hija d re mil puta,deja de tirarte abajo,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"ha habido 6, no 5, 6.... Guti Guti Maricoooon, Maricoooon Maricoooooooon","ha habido 6, no 5, 6.... !!!!!!!!!",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,hay que ser hp para robar un zumo en alta mar.,Hay que ser inconciente para robar un zumo en alta mar,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"muy ateos que sois pero bien que os gustaría ser dios, eh? malditos hipocritas","Muy ateos que sois pero bien que os gustaría ser dios, eh? Es un poco hipócrita.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"tienen cojones pero huyen para que otros les REGALEN LA VIDA, un poco contradictorio no?","Resultado: Tienen valentía, pero buscan que otros les brinden la vida. ¿No es un tanto contradictorio?",MultiParaDetox,MultiParaDetox,,True

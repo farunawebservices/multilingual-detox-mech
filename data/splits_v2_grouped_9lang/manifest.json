@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-09-21T10:45:14.580564+00:00",
+  "corpus_source": "data/frozen_v2_9lang_irregular_yo_xh/multilingual_detox_9lang_irregular_yo_xh.csv",
+  "split_seed": 42,
+  "train_ratio": 0.7,
+  "dev_ratio": 0.15,
+  "test_ratio": 0.15,
+  "grouping_rule": "Normalized toxic input (NFC, casefold) defines groups; whole groups assigned to one split only.",
+  "integrity_checks": {
+    "no_toxic_overlap_train_dev": true,
+    "no_toxic_overlap_train_test": true,
+    "no_toxic_overlap_dev_test": true
+  },
+  "split_summary_file": "data/splits_v2_grouped_9lang/split_summary.csv"
+}

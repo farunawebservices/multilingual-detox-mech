@@ -1,0 +1,72 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+xh,isiXhosa,@username kungenaphi lokho mdidi,"@username kungenaphi lokho, nceda uchaze",afrihate_human_reviewed,AfriHate,dev_isixhosa_00105,True
+xh,isiXhosa,and angathushuka lapho emfuleni ngoba naye umthakathi bae ave ehlupha URL,Akafanele athushuke emfuleni ngoba naye wayehlupha abantu.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00118,True
+xh,isiXhosa,ngumnqundu lo ref. wenza incanca kanyoko wakhe ngok. ngumsunu qha ke! 👹,Lo ref ubukeka enecala; wenza izinto ezikhetha umntu wakhe. Akulunganga oko.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00128,True
+xh,isiXhosa,ungavumi bakwenze umnqundu....,Ungavumi ukuba bakuhlekise.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00308,True
+xh,isiXhosa,umjita mfethu uyi cleaner🥺 bathi ubencamela ukubeka icent phezu kwe linye kunoku yidla nezifebe.. wamane walobola isifebe ke URL,umjita mfethu uyi cleaner🥺 bathi ubencamela ukubeka icent phezu kwelinye kunokuba adibane nabasetyhini abathengisa ucansi.. wamane walobola lowo mfazi ke URL,afrihate_human_reviewed,AfriHate,dev_isixhosa_00350,True
+xh,isiXhosa,uzimpundu ezimdaka wena. URL,Wena ubukeka ungcolile.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00495,True
+xh,isiXhosa,uzimpundu ezimdaka wena. URL,Ubonakala ungacacanga kakuhle.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00495,True
+xh,isiXhosa,uzimpundu ezimdaka wena. URL,Andiyithandi indlela oziphatha ngayo.,afrihate_human_reviewed,AfriHate,dev_isixhosa_00495,True
+xh,isiXhosa,"umntu athete ikaka, aqibe ahleke","umntu wathetha amagama angalunganga, aze ahleke",afrihate_human_reviewed,AfriHate,dev_isixhosa_00519,True
+xh,isiXhosa,"umntu athete ikaka, aqibe ahleke","umntu wathi into engamkelekanga, aze ahleke",afrihate_human_reviewed,AfriHate,dev_isixhosa_00519,True
+xh,isiXhosa,kodwa ke asikawulibali la mgodoyi ungu #mduduzimanana sise busy nje kancinci okwangoku nge #zumavote,kodwa ke asikawulibali lo mntu ongathembekanga ngu #mduduzimanana sise busy nje kancinci okwangoku nge #zumavote,afrihate_human_reviewed,AfriHate,dev_isixhosa_00551,True
+xh,isiXhosa,bayayinxila ikaka aba mama 😂😂,Bayayinxila kakhulu aba mama 😂😂,afrihate_human_reviewed,AfriHate,test_isixhosa_00047,True
+xh,isiXhosa,"lo miss mnisi is not confused, she's both iqili and ixoki.  udinga ibhande nje khona ezoqonda.",Lo Miss Mnisi akadideki; uxela izinto ezingachanekanga kwaye udinga ingxoxo ukuze achaze.,afrihate_human_reviewed,AfriHate,test_isixhosa_00129,True
+xh,isiXhosa,"lo miss mnisi is not confused, she's both iqili and ixoki.  udinga ibhande nje khona ezoqonda.",Lo Miss Mnisi akadidekile; ubonakala enobuqili kwaye engathembekanga. Udinga ingxoxo nje ukuze aze aqonde.,afrihate_human_reviewed,AfriHate,test_isixhosa_00129,True
+xh,isiXhosa,@username 😂 😂 😂 😂 but guys uzinhle was just posting iqheya lakhe. and you guys decided to say ncooah engacelanga... so ke please yimani ngo chuku.,@username 😂 😂 😂 😂 but guys uzinhle was just posting iqheya lakhe. and you guys decided to say unnecessary things... so ke please yimani.,afrihate_human_reviewed,AfriHate,test_isixhosa_00176,True
+xh,isiXhosa,bengishilo ngathi unkabinde umthakathi! #isibaya,Bengishilo ngathi uNkabinde unezinto ezingaqondakali! #isibaya,afrihate_human_reviewed,AfriHate,test_isixhosa_00183,True
+xh,isiXhosa,"@username siyaphapha &amp; sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha but lezi ezinye iy'mfene that don't even have izithakazelo kodwa zibe zazi kakhulu😩masingayeka nje ukuphapha.","@username siyaphapha & sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha, but abanye baziphatha ngendlela engeyiyo, abanazo izithakazelo kodwa bazibona belungile kakhulu 😩 masingayeka nje ukuphapha.",afrihate_human_reviewed,AfriHate,test_isixhosa_00529,True
+xh,isiXhosa,oh madoda umthakathi wezindaba @username,"oh madoda, ungumntu owenza iindaba @username",afrihate_human_reviewed,AfriHate,train_isixhosa_00067,True
+xh,isiXhosa,oh madoda umthakathi wezindaba @username,oh madoda umdlali wezindaba @username,afrihate_human_reviewed,AfriHate,train_isixhosa_00067,True
+xh,isiXhosa,@USER ngeloxesha nguye igqwirha. yhehake!,@USER ngeloxesha uziphethe ngendlela engaqhelekanga!,afrihate_human_reviewed,AfriHate,train_isixhosa_00101,True
+xh,isiXhosa,@USER ngeloxesha nguye igqwirha. yhehake!,@USER ngeloxesha nguye umntu onemilingo. yhehake!,afrihate_human_reviewed,AfriHate,train_isixhosa_00101,True
+xh,isiXhosa,@USER ngeloxesha nguye igqwirha. yhehake!,Ngeloxesha ubonakala engaqhelekanga.,afrihate_human_reviewed,AfriHate,train_isixhosa_00101,True
+xh,isiXhosa,@USER yeka ubhala ngendaba zomama qha wena zinintsi izinto ezitshisa ibunzi zamadoda. phuma mgodoyi,"@USER yeka ubhala ngendaba zomama, kukho izinto ezininzi ezicaphukisayo kubadoda. Nceda ushiye.",afrihate_human_reviewed,AfriHate,train_isixhosa_00137,True
+xh,isiXhosa,@USER yeka ubhala ngendaba zomama qha wena zinintsi izinto ezitshisa ibunzi zamadoda. phuma mgodoyi,Yeka ubhala ngendaba zomama; qha wena uhlala ubhala izinto ezibangela iingxaki kumadoda. Ndicela usuke.,afrihate_human_reviewed,AfriHate,train_isixhosa_00137,True
+xh,isiXhosa,"abasathukani, uthi lidlolo, unomokhwe 😭😭 #uyajola99","abasathukani, uthi kuyamangalisa, unomokhwe 😭😭 #uyajola99",afrihate_human_reviewed,AfriHate,train_isixhosa_00160,True
+xh,isiXhosa,waze wanuka kabi umuntu akanuki ikwapha kodwa uyanuka nje,Kukho umntu onuka kakhulu.,afrihate_human_reviewed,AfriHate,train_isixhosa_00515,True
+xh,isiXhosa,waze wanuka kabi umuntu akanuki ikwapha kodwa uyanuka nje,"Kwase kunuka kakhulu; umntu wayengakabi nuka, kodwa ngoku unuka.",afrihate_human_reviewed,AfriHate,train_isixhosa_00515,True
+xh,isiXhosa,waze wanuka kabi umuntu akanuki ikwapha kodwa uyanuka nje,Ndiyaphawula ukuba umntu unephunga kancinci.,afrihate_human_reviewed,AfriHate,train_isixhosa_00515,True
+xh,isiXhosa,umgowo womjolo undenzela ikaka😩,umgowo womjolo undenzela inkathazo😩,afrihate_human_reviewed,AfriHate,train_isixhosa_00607,True
+xh,isiXhosa,umgowo womjolo undenzela ikaka😩,umgowo womjolo undenza ndicaphuke😩,afrihate_human_reviewed,AfriHate,train_isixhosa_00607,True
+xh,isiXhosa,umthakathi uyabukwa nje akenziwa lutho! nkosi isithanda sonke! URL,"umntu osolwa ngomthakathi uyabukwa nje, akenziwa lutho! nkosi isithanda sonke!",afrihate_human_reviewed,AfriHate,train_isixhosa_00635,True
+xh,isiXhosa,@username ngathi uthi 'futsek',@username ngathi uthi 'hamba',afrihate_human_reviewed,AfriHate,train_isixhosa_00885,True
+xh,isiXhosa,"@USER news wizard, loo nto ayinangqiqo kwaye bubudenge obukhulu🖐️😅🖐️🤣",@USER umntu omtsha ofuna ukufunda okungakumbi 🖐️😅🖐️🤣,afrihate_human_reviewed,AfriHate,train_isixhosa_01260,True
+xh,isiXhosa,lol! pipi yakhe ngoku mntu seyizula koo whatsapp :( anisfundi gqith isifundo maan.,"lol! umntu sele ezula kwi-WhatsApp :( andisafundi kakhulu, isifundo siyandikhathaza.",afrihate_human_reviewed,AfriHate,train_isixhosa_01678,True
+xh,isiXhosa,@username futsek indaba yakhe,@username nceda musa ukungenelela kwindaba yakhe,afrihate_human_reviewed,AfriHate,train_isixhosa_01708,True
+xh,isiXhosa,akumnandi emthatha namhlanje kunuka umsunu😭😭,"Akumnandi namhlanje, kunuka kakubi 😭😭",afrihate_human_reviewed,AfriHate,train_isixhosa_01823,True
+xh,isiXhosa,@USER ngumntu naye bekutheni kuze ati#futsek? to be a deputy prsdnt does not means mele ucwanywe entloko,"@USER ngumntu naye, bekutheni kuze ati 'futsek'? Ukuba ungumsekeli kamongameli akutsho ukuba unelungelo lokuziphatha kakubi.",afrihate_human_reviewed,AfriHate,train_isixhosa_01847,True
+xh,isiXhosa,morata uzokwenza ikaka again 😂😂,Morata uzokwenza iphutha futhi 😂😂,afrihate_human_reviewed,AfriHate,train_isixhosa_01915,True
+xh,isiXhosa,morata uzokwenza ikaka again 😂😂,morata uzokwenza iphutha again 😂😂,afrihate_human_reviewed,AfriHate,train_isixhosa_01915,True
+xh,isiXhosa,"ingxaki ndiphile kakhulu nee'criminals *now ii'timing zazo ndiz'phethe ~ noba umntu angangumfundisi; ndiyakwaz'ukumbona u'mfundisi oyi'criminal ndithule ndibukele ndibekule'timing akuyo* ""just like igqwirha ndilibon'emanzini ndingajampisi"" *i'm never fooled by what i see/hear* ☝",Ingxaki: ndiphile kakhulu nabasolwa; ngoku ndiyazi iitayimingi zabo — noba umntu engumfundisi. Ndiyakwazi ukumbona umfundisi owenza izinto ezingafanelekanga; ndithule ndibukele ndifunde ngeetayimingi zakhe. Andizukukhohliswa yinto endiyibonayo okanye endiyivayo.,afrihate_human_reviewed,AfriHate,train_isixhosa_02188,True
+xh,isiXhosa,bethuna xa ningayazi into nibovele nithule endaweni ba nithethe ikaka.,Nithule xa ningayazi into endaweni yokuthetha izinto ezingachanekanga.,afrihate_human_reviewed,AfriHate,train_isixhosa_02267,True
+xh,isiXhosa,"@username lmao, spi ntwana uyabheda. futsek.","lmao, spi ntwana ubonakala udidekile. Ndicela uhambe.",afrihate_human_reviewed,AfriHate,train_isixhosa_02400,True
+xh,isiXhosa,"@username lmao, spi ntwana uyabheda. futsek.","lmao, ntwana, uyakhathaza. ndicela undishiye.",afrihate_human_reviewed,AfriHate,train_isixhosa_02400,True
+xh,isiXhosa,@username siqhele over yilonto imenemene silibona lipha kude,@username siqhele over yilonto incinane silibona lipha kude,afrihate_human_reviewed,AfriHate,train_isixhosa_02447,True
+xh,isiXhosa,"hawu ""@username : isifebe size ngomlalo.""","hawu ""@username : umntu size ngomlalo.""",afrihate_human_reviewed,AfriHate,train_isixhosa_02526,True
+xh,isiXhosa,uyanuka phu ! URL,Unuka kancinci.,afrihate_human_reviewed,AfriHate,train_isixhosa_02646,True
+xh,isiXhosa,uyanuka phu ! URL,"Kukho ivumba, phu!",afrihate_human_reviewed,AfriHate,train_isixhosa_02646,True
+xh,isiXhosa,Awunokwazi ukuba kubetha ntoni.,Ndiza kukwenza indawo yam icace.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Lowo ulisikizi lisikizi.,Ngokuqinisekileyo impahla inyulu ngokuqinisekileyo lukhetho.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukuphelisa.,Ndiza kuyizisa le nto.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenza uzisole ngale.,Ndiyathemba ukuba uya kucamngca ngeziphumo zezenzo zakho.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenzela umzekelo kwabanye.,Ndifuna ukuseka izikhokelo ezicacileyo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenzela umzekelo ukuze ubone.,Ndifuna ukuzekelisa izikhokhelo ezicacileyo ukuze ufunde.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndizakuvala.,Ndicela ukuba uyeke ukuphazamisa.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndizokuphulukana nomonde wam nawe.,Ndizakuphelelwa lelixesha ndinalo nawe.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ubonakala ngathi awukasiboni isipili kwiminyaka.,Mhlawumbi i-hairtyle eyahlukileyo iya kukulungela.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ukwi-ice emkhenkceni kunye nam.,Ndilahlekelwe ngumonde.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Undenze utshaba olunamandla namhlanje.,Ububonile ubudlelwane bethu.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Unetyhefu.,Ukuziphatha kwakho kuyingozi.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ungumgangatho weparasite.,Izenzo zakho ziyingozi kwabanye.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ungumntu owoyikekayo.,Ndixhalabele indlela oziphethe ngayo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Unxibe ubumnyama?,Ingubo yakho ngokuqinisekileyo yahlukile.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Usisizathu esilahlekileyo.,Imeko inzima.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Usondele njengobukhali njengemabula.,Uzisa iseti yezakhono ezahlukeneyo kwitafile.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uya kufunda intsingiselo yentlungu.,Andinqweneli ukuba nabani na afumane iintlungu.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uya kujongana nobushushu bam obugcweleyo.,Andikholiswa kakhulu kwaye ndifune ukulungiswa kwangoko.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uya kwenzakala.,Ndikhathazekile ukuba umntu uya kukwenzakala.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uyinkcitho yendawo.,Awunagalelo ngokuqinisekileyo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uyintlungu.,Ubangela ubunzima.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uyinyama.,Uyacaphukisa.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Uza kuzisola.,Ndifuna ukuqhubela phambili kwicala elifanelekileyo.,original_human_parallel,original_human_annotated,,True

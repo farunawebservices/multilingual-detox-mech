@@ -1,0 +1,281 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+uk,Ukrainian,"#6йсирник RT : - Та я, блядь, не из-за бабла.","#6йсирник RT : - Та я, не из-за бабла.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"' бля, ти пам''ятаєш, шо мені було потім?) я мацала так пити)'","'ти пам''ятаєш, шо мені було потім?) я мацала так пити)'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"' відчуваю себе говнарем, бо знаю цю пісню напам''ять'","'відчуваю себе дивно, бо знаю цю пісню напам''ять'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Але звинувачувати у проруснявій позиції можуть лише повні, абсолютно кончені дегенерати, п''янь від люмпеноти, русня і підруснявлені манкурти.'","Але звинувачувати у проросійській позиції можуть лише повні, абсолютно нерозумні люди.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Але не можу, бо то блять сім''я.'","'Але не можу, бо то сім''я.'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,'Збери п''ятьох мудакуватих клієнтів за день та отримай одне ввічливе приємне сонечко у подарунок!','Збери п''ятьох клієнтів за день та отримай одне ввічливе приємне сонечко у подарунок!',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Навіть не знаю, то дар чи прокляття моє вміння НІХУЯ НЕ ЗАБУВАТИ От якого, мозок, ти так підручники не запам''ятовував'","'Навіть не знаю, то дар чи прокляття моє вміння НІЧОГО НЕ ЗАБУВАТИ От якого, мозок, ти так підручники не запам''ятовував'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'П''яний друг каже: "" ніколи не трахай дівчат з економічного...""'","'П''яний друг каже: "" ніколи займайся сексом с дівчатами з економічного...""'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Перед тим, як щось затвітити, запитай у себе: ''А може всім похую на то?'', і пам''ятай, що відповідь завжди ''Так''.'","'Перед тим, як щось затвітити, запитай у себе: ''А може всім байдуже на то?'', і пам''ятай, що відповідь завжди ''Так''.'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Рубрика ""Всім похуй на ті всраті діалоги"":Итс соу світ вен після п''янки всі звітують, що дома.'","'Рубрика ""Всім начхати  на ті всраті діалоги"":Итс соу світ вен після п''янки всі звітують, що дома.'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'Хочу вирубити одну кончену сучку на роботі, але я не б''ю старших.'","'Злить одна людина на роботі, але я не б''ю старших'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"'годуємо, блять, котів о п''ятій ранку'",'годуємо котів о п''ятій ранку',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"(Ну або які в нас там ще є елітарні мудаки, яким власна елітарність без тупоголових донецьких недостатньо елітарна)","(Ну або які в нас там ще є елітарні хлопці, яким власна елітарність без хлопці донецьких недостатньо елітарна)",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"(Як я вже хочу приїхати, пизда просто, а ще два тижні).","(Як я вже хочу приїхати, а ще два тижні).",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"(Якшо якась сука, знову, не зіллє інфу)","(Якшо якась людина, знову, не зіллє інфу)",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"- Мені похуй, що про мене говорять.","- Мені все рiвно, що про мене говорять.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,- Ти бухаєш водяру і забиваєш на все болт!,'- Ти п''єш горілку і перестаєш на все реагувати',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"-Ну как обичьно, нахуй))))Кежуал конверсейшнс віз  )))))","-------- Ну як завжди, Кежуал конверсейшнс віз)))))",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"-ЦЕ ТИ МЕНЕ ЩА ЖИРНИМ ОБІЗВАЛА, ТА?!","-ЦЕ ТИ МЕНЕ ЩА ТОВСТИМ ОБІЗВАЛА, ТА?!",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"[городити хуйню про грамотність жахливо неграмотними і українською, і російською мовами: вишенька на тортику цієї феєрії]","[городити дурницю про грамотність жахливо неграмотними і українською, і російською мовами: вишенька на тортику цієї феєрії]",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"«Подивіться, яка я бідося, жалійте мене блять!».","«Подивіться, яка я бідося, жалійте мене!».",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Є така хуйня, коли ти хочеш не побачити людину, а щоб людина побачила тебе.","Є така річ, коли ти хочеш не побачити людину, а щоб людина побачила тебе.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"І бля, їхала сюди - то мала роботу.","І, їхала сюди - то мала роботу.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"І блять, навколо якісь діти і вони хочу бухати і вони про це пишуть.",Навколо якісь діти і вони хочу напиватися і вони про це пишуть.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"І головне ж перша заговорила, а я...лох...","І головне ж перша заговорила, а я...невдаха...",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,І позбавляти нахуй субсидій/фіндопомоги від держави.,I позбавляти субсидій/фіндопомоги від держави.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,І щоб не було ще ліпше: нахуй порвані джінси,І щоб не було ще ліпше: порвані джінси,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ідіть нахуй зі своїми блядськими стереотипами.,Відчепіться зі своїми стереотипами.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Іноді ой як хочеться повиривати патли всім цих шлюхам!,Іноді ой як хочеться повиривати волосся всім цих жінкам легкої поведінки!,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Інші просто долбайоби, бо я теж не шарю, за що ціна така.","я теж не шарю, за що ціна така.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Їбати блядєй тра від тих починаючи, що гальмують законодавчі процеси, кінчаючи судами к хуям, схоже у повному складі.","Карати  тра від тих починаючи, що гальмують законодавчі процеси, кінчаючи судами, схоже у повному складі.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Їй випав Овен і бля, мій папа овен.",Їй випав Овен і мій папа овен.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,А всюди йобаний натовп з йобаними руками.,А всюди натовп з руками,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"А нахуя він, є від нього щось, окрім шкоди?","А навіщо він, є від нього щось, окрім шкоди?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,А от гнила людина...люди мають можливість митися...,А от така людина...люди мають можливість митися...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"А то сука навіть не мої слова, і не мої думки.","А то навіть не мої слова, і не мої думки.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"А ф-зми є різні - я за той, який цю парадигму відправить нахуй","А ф-зми є різні - я за той, який цю парадигму відправить далеко",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,А ховрашки від ЗРАДИ активно їли гівно і верещали щто НІЗЯ чіпати?,А ховрашки від ЗРАДИ активно вередували  і верещали щто НІЗЯ чіпати?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"А чи не мразь ти, Дмитро?","чи не редиска ти, Дмитро?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"А я блять що, а я собі така ахуєнна, ніколи не падаю духом.","А я що, а я собі така шикарна, ніколи не падаю духом.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,А їбля мозку - то піздєц.,Тріпати мозок -  дуже погано.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ааааа, ну нахуя ставити це на порозі??????","Ааааа, ну для чого ставити це на порозі??????",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Аби, бляді, крові не зробили, аля ""тітушки вночі напалі на 12 рєдут"".;(","Аби крові не зробили, аля ""тітушки вночі напалі на 12 рєдут"".;(",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Але це ж ТИИИ бля ігнориш Це обідно.,Але це ж ТИИИ ігнориш Це обідно.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Антикорупціонєр – це коли в жопу за $ дає.,Антикорупціонєр – це коли продаєтся за гроші.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Апятьдвадцатьпять, курва)) ну але так уж бить, мені не звикати)",'А п''ять двадцять п''ять)) ну не так вже бити мене не звикати)',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ахахах бляя, уявив собі це",Ахахах уявив собі це,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Бандіти, написав в бложик, про те як мусарку вогнеметами озброїли.","Бандіти, написав в бложик, про те як поліцейських вогнеметами озброїли.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Батюшка сказав шо митрополит-це наш пастир до Спасіння а митрополітен-це якась хуйня з рельсами яка веде у Теремки,Батюшка сказав шо митрополит це наш пастир до спасіння а метрополітен це якась штука з рельсами яка веде у теремки,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Бля, мене той сімл бісить.",Мене той сімл бісить.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Блядь та ну ви знущаєтесь?,та ну ви знущаєтесь?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Блядь, то кімнати в сусідньому гуртожитку...",то кімнати в сусідньому гуртожитку...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Блять, я що весь час телік носив з собою і робив хуйню?",я що весь час телік носив з собою і робив казна-що?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Бляха, нахєра ми це зробили?",навіщо ми це зробили?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Блін, я sooooo excited, прям жопою в кріслі пританцьовую","Я sooooo excited, прям заднім місцем в кріслі пританцьовую",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Бо вам то не подобається.та блять.,Бо вам то не подобається.та блін.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Бо пити його разом з алко дуже хуйова ідея, перевірено","Бо пити його разом з алко дуже погана ідея, перевірено",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Буває, читаєш шось і думаєш про себе ""Ну що за хуйня?","Буває, читаєш шось і думаєш про себе ""Ну що за нісенітниця?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,В коридорі готелю вже годину голосно пиздять люди.,В коридорі готелю вже годину голосно тараторять люди.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"В чому ваша, сука, проблема?","В чому ваша, проблема?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Вам шо, феміністка хуй відгризла?","Вам що, феміністка дорогу перейшла",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ви заїбали підміняти поняття, люмпенота.",Ви набридли підміняти поняття,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ви хоч раз слухали хуйню, яку він несе?",Ви хоч раз слухали що він каже?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ви, блять, за пару годин і не згадаєте кому це писали, нащо цей цирк?","Ви за пару годин і не згадаєте кому це писали, нащо цей цирк?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Вкотре переконуюсь, шо я думаю піздою, а не мозком, блять","Ще раз переконуюсь, що я думаю чимось, а не мозком",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Вміння кормити хуями арт спільноту,Вміння дурити арт спільноту,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Вобщєм псіхану і піду на вокзал зустріну їїІ паєбать,Вобщєм псіхану і піду на вокзал зустріну їїІ все одно,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Воно нас, блядь, ні до чого не готувало.",Воно нас ні до чого не готувало.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Воно настільки убоге, що навіть я, яка давно відверто називає Фреймут бляддю, не маю що сказати.","Воно на стільки просте, що навіть я, яка давно відверто називає Фреймут поганою, не маю що сказати",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Все блять, привіт пенсіонерський відпочинок: сходила в замок, погуляла набережною, випила, тепер наступні дві доби хочу просто проспати в номері.","привіт пенсіонерський відпочинок: сходила в замок, погуляла набережною, випила, тепер наступні дві доби хочу просто проспати в номері.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Все одно він мудак, бо не пише)","Все одно він негідник, бо не пише",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Всесвіт вчить мене забивати хуй на тих, хто забиває його на мене, а я ніяк не вивчу урок...","Всесвіт вчить мене забивати на тих, хто забиває на мене, а я ніяк не вивчу урок...",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Всі бляха такі таємничі, шо піздєц.",Всі такі таємничі,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Відчуття, ніби все тіло ногами пиздили.","Відчуття, ніби все тіло ногами били",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Він вміє срати мимо лотка і гарантовано не допускати олігархічного беззаконня.,Він вміє гадити мимо лотка і гарантовано не допускати олігархічного беззаконня.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Гоголь хоче всіх волонтерів фул-тайм і щоб всі фоткали афіші (шо за хуйня з афішами?) і набрали 300 людей (!).,Гоголь хоче всіх волонтерів фул-тайм і щоб всі фоткали афіші (шо за маячня афішами?) і набрали 300 людей (!).,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Господи йоб твою мать, вирубіть уже літо нахуй.","Господи, вирубіть уже літо.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ДаЗнав одну, їбанутішої людини не бачив","ДаЗнав одну, божевільного людини не бачив",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Де вона зараз – хуй знає,Де вона зараз – ніхто не знає,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Дивлюсь на відповіді голосувань і бля, who the fuck так погано мене знає?","Дивлюсь на відповіді голосувань і, хто так погано мене знає?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Для всіх хто вважає, що я, блять, забагато матюкаюся наступна цитата:","Для всіх хто вважає, що я забагато матюкаюся наступна цитата:",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"До деяких людей не виникає інших питань, окрім ""Ти блять уже родився таким мудаком?"".","До деяких людей не виникає інших питань, окрім ""Ти уже родився таким?"".",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Дуже хочу написати щось дуже розумне  але хуй його знає що...,Дуже хочу написати щось дуже розумне  але хто його знає що...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Дякую всім, хто тримав кулаки, але співбесіда нє удалась і мене послали нахєр.","Дякую всім, хто підтримував мене, але співбесіда пройшла погано",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Дякую за сміх, мораль і 3 срані сльозини!","Дякую за сміх, мораль і 3 сльозини!",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Життя хуйня, ми безмежно самотні, тому піду пекти піцу.","Життя фігня, ми безмежно самотні, тому піду пекти піцу.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Залякані люди, збайдужілі своїм страхом...","Залякані люди, збайдужілі своїм страхом...",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Заношений дірявий светр, списані блокноти, люди, котрим на тебе похуй.","Заношений дірявий светр, списані блокноті, люди, котрим на тебе всеодно",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Зараз,бляха-муха,закурю....грьобаний футбол,тримай себе в руках,Міла!","Зараз закурю... поганий футбол, тримай себе в руках, Міла",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Заходжу я в твітор, а тут Лєщєнко пиздить.","Заходжу я в твітор, а тут Лєщєнко каже.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Здатність говорити - це просто найнепотрібніша хуйня, дана мені.","Здатність говорити - це просто найнепотрібніша рiч, дана мені.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Здається когось вже пора впиздити.,Здається комусь вже пора надавати.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Здається, мене люблять 2 дівчини.ото нєхуй було писати шопопало","Здається, мене люблять 2 дівчини.ото не варто було писати шопопало",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Знайому запросили гуляти двоє пацанів.Один - крутий чувак, з афігєнним почуттям гумору, інший - егоїстичне мудло.","Знайому запросили гуляти двоє пацанів.Один - крутий чувак, з афігєнним почуттям гумору, інший - егоїст.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Йобана тупа мразота зіпсувала мені рейтинг на роботі.,Одна не добра людина зіпсувала мені рейтинг на роботі.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"КекНу типу пиздиті ніачом то і в житті не важкоНо я колись теж напастой мовчав, тому шарю тебе","КекНу типу бреше ніачом то і в житті не важкоНо я колись теж напастой мовчав, тому шарю тебе",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Кидайте цю милоту будь якому руснявому гівну, що почне патякати за те як на Сколєнії жить харашо.","Кидайте цю милоту будь якому російському , що почне говорити за те як на Сколєнії жить харашо.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Кидає фотку в платті і каже - диви яка в мене тут жопа!,'Кидає фотку в платті і каже - диви яка в мене тут п''ята точка!',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Коли ти дуже жостко підйобуєш Настю,Коли ти дуже жостко глузуєшь над Настєю,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Коли я навчуся не пройобувати час для сну на хуйню?,Коли я навчуся не витрачати час для сну на марно?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Кольорова печать на звичайному папері 10 гривень блятьІдіть нахуй,Кольорова печать на звичайному папері 10 гривень Ідіть,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Краще здохнути, ніж визнати, що всрався.","Краще померти, ніж визнати, що помилився.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Краще так ніж твітити дохуя всьякого шлаку,Краще так ніж твітити багато всякої непотрібної інформації,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Краще так, ніж всякі мразенькі","Краще так, ніж всякі",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Луччє я здохну єбучім ноунеймом, чем праслявлюсь і мене стануть показувати по гівнотв","Луччє я був ноунеймом, чем праслявлюсь і мене стануть показувати по тв",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Люди кажуть, що всім похуй на них.","Люди кажуть, що всім всеодно на них.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Люди, котрі юзають мільйон смайлів, без зайвих слів ідуть нахуй.","Люди, котрі юзають мільйон смайлів, без зайвих слів ідуть далеко",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Лєна, краще мене кашею годуй, ніж піздюка.","Лєна, краще мене кашею годуй, ніж того хлопця.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Лєра, вітаю, ти похерила найбільш невибагливу рослину.","Лєра, вітаю, ти испортила найбільш невибагливу рослину.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Мандєц блядьЧо ж так смєшно з цього?,Чого ж так смішно з цього?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Мау хай йдуть в жопу,Мау хай йдутьу куди подалі,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Мені дохуя французької, а єбав, бо усний:з","Мені багато французької, а манав, бо усний",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Можу допомогти, все рівно хуйї штурхаю","Можу допомогти, все рівно нічим не займаюсь",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Мозок: *думає про цю хуйню*,Мозок думає про цю несамітницю,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи","Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Мужик що проходив мимо зацінив мою сраку.,Мужик що проходив мимо зацінив мою попу.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Мій ентузіазм підриває погане самопочуття, чорт.",Мій ентузіазм підриває погане самопочуття,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"На запах яблучних млинчиків прибіг сусід: ""бля, тебе нарешті хтось візьме заміж і забере звідси к чортовій матері?""","На запах яблучних млинчиків прибіг сусід: "", тебе нарешті хтось візьме заміж і забере звідси?""",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,На колір та смак товариш не всякДля когось і Хакслі - хуйовий автор,На колір та смак товариш не всяк для когось і хакслі- поганий автор,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Надіюсь вся ця хуйня котра весь тиждень вставала між нами і одесою не була ужасающим попередженням мірозданія,Сподіваюся вся ця ситуація яка весь тиждень вставала між нами і Одесою не була жахливим попередженням світобудови,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Найбільший злочин проти українського народу - влада, яка складний час впевнено і безбожно продовжує пиздити","Найбільший злочин проти українського народу - влада, яка складний час впевнено і безбожно продовжує брехати",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Нахара ти включила бізнес аккаунт в інста якщо ти школоло і тебе фоловлять тільки твої однокласники блять..,Навіщо ти включила бізнес аккаунт в інста якщо ти школярка і тебе фоловлять тільки твої однокласники..,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Нахуй ти палиш, ну бля","нащо ти палиш, ну блин",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Не блядство, а «високий рівень соціосексуальної орієнтації»","Не розпуста, а «високий рівень соціосексуальної орієнтації»",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Не дадуть людям спокійно пизди еее бороти корупцію!11,Не дадуть людям спокійно розгону её бороти корупцію,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Не розумію чим я заслужила цю хуйову карму останнім часом,Не розумiю чим я заслужила цю карму останнiм часом,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Нема онлайн - трахає шлюх.,Нема онлайн,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Нехуй мені розповідати за бєдних лікарів & призваніє.,Не треба мені розповідати за бєдних лікарів & призваніє.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Новий говнотєрцєц - директор Россотруднічєства Воробйов.,Новий тєрцєц - директор Россотруднічєства Воробйов.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ну блять, давайте вже про імпотенцію та рак, так нецікаво.","Ну, давайте вже про імпотенцію та рак, так нецікаво.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ну бляяя, чого вони такі каєфні?",Ну  чого вони такі каєфні?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну вот сучка прямо як у мене),Ну вот прямо як у мене),MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ну нахуй, мудаки і є мудаки","Ну, погані і є погані",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну окЯ хуйова людина по факту і всьо,Ну окЯ погана людина по факту і всьо,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ну та, і трахнутись було б непогано.","Ну та, i по зноситися було б непогано.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну чьо Михасику не отримаєш ти того що ти блядь хочеш...,Ну чьо Михасику не отримаєш ти того що ти хочеш...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну і де блять то #покращення?,Ну і де ж то покращення,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну і йти до сраки,Ну і йти  далеко,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ну і хуй з тим брезентом),Ну його з тим брезентом),MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,НєБо у вас хуйовий гуртожиток,НєБо у вас  поганий гуртожиток,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ні, та хуйня на однокласниках залишалась)","Ні, та  на однокласниках залишалась)",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ніхуя блять з неї нікуди не їде.,Нічого з неї нікуди не їде,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Нічого осбливого, просто новий пляж в Тернополі*АХУЄТЬ БЛЯТЬ*","Нічого осбливого, просто новий пляж в Тернополі*НЕЙМОВIРНО*",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ніщо так не бадьорить зранку як ""блять, проспав"".","Ніщо так не бадьорить зранку як ""жах, проспав"".",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ого, а нахуя вони це постять...","Ого, а навіщо вони це постять",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Один раз побув долбайобом і на все життя ним залишився.,Один раз побув поганим чоловіком і на все життя ним залишився.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Один хуй хріново добиратись з Наукової до Рясне шо старим 131 шо новим 11 #lviv #піздєц,Однаково погано добиратись з Наукової до Рясне шо старим 131 шо новим 11 #lviv,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Одного разу зробивши хуйню, ти раз-у-раз думаєш над черговою.","Одного разу зробивши фiгню, ти раз-у-раз думаєш над черговою.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Особливо в тексті для перекладу, блядь.",Особливо в тексті для перекладу,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Останнім часом не бачив НЕ мудаків.,Останнім часом не бачив НЕ поганих людей.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"От нахуя мене зайобувати з самого ранку, а???","Ось навіщо мене діставати з самого ранку, а???",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Отак не встиг зафоловити людину, як вона почала писати хуйню.","Отак не встиг зафоловити людину, як вона почала писати нісенітницю.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Отримала нині міні-інфаркт, бо думала, що він мені нахуй дзеркало знесе.","Отримала нині міні-інфаркт, бо думала, що він мені  дзеркало знесе.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ох ти ж блін, я й не бачила, шо вже так пізно.","я й не бачила, шо вже так пізно.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Охуєнні мапи Польщі, мої улюблені про туризм, найбільш небезпечних тварин і ландшафт.","Крутi мапи Польщі, мої улюблені про туризм, найбільш небезпечних тварин і ландшафт.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Пише: ""Я думала хуйня в мене в житті через відсутність сексу, порішала з сексом, а хуйня лишилася.","Пише: ""Я думала в мене погано в житті через відсутність сексу, порішала з сексом, а нічого не змінилося.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Плач піздюків - це ідеальна зброя.,Плач детей - це ідеальна зброя.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Подзвонили всі возможні родичі, сусіди стукаюсь блять, шось таскають там я єбу, брат 100500 раз зайшов в комнату ну блеееет","Подзвонили всі возможні родичі, сусіди стукаюсь, щось таскають там , брат 100500 раз зайшов в кімнату",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Подруга прийшла пиздіти зі своїм мудаком до мене в кімнату.,Подруга прийшла поговоріть зі своїм хлопцем до мене в кімнату.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Пора слухати величну симфонію *Ну його нахуй*, а завершувати увертюрою *Пєздєц* до симфонії *Життя*.","Пора слухати величну симфонію *Ну його в баню*, а завершувати увертюрою *капець* до симфонії *Життя*",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Почуваю себе тупим дебілом :(,Почуваю себе тупим :(,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,При мені такої хуйні б не було.,При мені такої нісенітниці б не було.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Про мій твіттер гарно сказав Чарльз Буковскі ""Лінь народжує срань, срань - страждання, страждання - літературу ...","Про мій твіттер гарно сказав Чарльз Буковскі ""Лінь народжує погане, погане - страждання, страждання - літературу ...",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Підйоб, над яким не гріх поплакати.","Жарт, над яким не гріх поплакати.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Підйом, курво, Arbeit macht frei","Підйом, Arbeit macht frei",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Пісня про сесію:зззНа відміну від–Ну його на хуй :з,Пісня про сесію:зззНа відміну від–так ну його :з,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ранок почався з мамчиних нарікань на Укргазбанк:— бляцький Укргаз, уроди...— и тебе хорошего дня","Ранок почався з мамчиних нарікань на укргазбанк-поганий укргаз, негарні- и тебе хорошего дня",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Сміх сміхом, а пизда горіхои","Сміх сміхом, а попа горіхом",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Сука, йобаний твіттер - капуста підгоріла ._.",Через твіттер  капуста підгоріла ._.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Сука, я ніхуя не встигну перекласти ці йобані тексти за 2 дні.",я нічого не встигну перекласти ці тексти за 2 дні.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Сука, який же ж ахуєнний деньТреба мені частіше вихідні брати","Боже, який же чудовий день Треба мені частіше вихідні брати",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Схуялі ти пишеш твіти з моєю картинкою?,навіщо ти пишеш твіти з моєю картинкою?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Сьогодні у нас, блядь, челендж розбуди Юляну?!","Сьогодні у нас, челендж розбуди Юляну?!",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Та блять, боже, дай мені вже вмерти.","Та  боже, дай мені вже вмерти.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Та ну нахуй, це ж там підписувати бумажку треба, лінь.","Та ну нє, це ж там підписувати бумажку треба, лінь.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Та ну сука лізуть і лізуть, є взагалі якісь межі цього шапіто???","Та ну лізуть і лізуть, є взагалі якісь межі цього шапіто???",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Так хочеться простого людського щоб до крові відпиздили по дупі.,"Так хочеться простого людського, щоб дуже побили по попі.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Так, сука, не здумай тільки стригтись","Так, не здумай тільки стригтись",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Тварини нас не люблять, йопт",Тварини нас не люблять,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ти пизда як зміниласьДо того ти була ще терпимоюА зараз на кожному кроці хочеться тобі вєбати,Ти сильно як зміниласьДо того ти була ще терпимоюА зараз на кожному кроці хочеться тебе вдарити,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ти сукан, бухаєш без нас з",'ти п''єш без нас',MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ти чо, ахурмєл так базаріть, дядя?","Ти чо взагалi так казати, дядя?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ти шо, коронне ""не трахай мізки"" до всього застосовують","Ти шо, коронне ""не насилуй мізки"" до всього застосовують",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Тинка ходи на Jazz fest і вино післяЖінку свою веди блять.,Тинка ходи на Jazz fest і вино післяЖінку свою веди.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"То блять роби щось, жінко.","То роби щось, жінко",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,То це ясно і їбанутим.,То це ясно і божевільним.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Той хуй в тг не заходитьТи шо, яка ВікторіяЯ собі не дозволяю тепер такого","Той  в тг не заходитьТи шо, яка ВікторіяЯ собі не дозволяю тепер такого",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Толстой блядь воістіну великий фікрайтер,Толстой воістіну великий фікрайтер,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Тому що ідіть нахуй, ось чому.","Тому що ідіть звідси, ось чому.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Точно не мої їбануті сусіди.,Точно не моi сусiди.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Треба було відос знімати, блять.",Треба було відео знімати,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Тільки підпишешся на якусь цікаву людину, а вона одразу перестає твітити, знаходить собі мужика, товстіє чи починає постити хуйню.","Тільки підпишешся на якусь цікаву людину, а вона одразу перестає твітити, знаходить собі мужика, товстіє чи починає постити нісенітницю.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Тільки раптом що, це їсти треба, а не на пизду намазувати","Тільки раптом що це їсти треба, а не намазувати кудись",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Фак, там мало бути ""мудак"", але доля вирішила інакше","там мало бути ""поганець"", але доля вирішила інакше",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Хахахах зато ви всі такі ахуєнно правильні що Господь Бог сикається від вас,Хахахах зато ви всі такі правильні що Господь Бог цурається  вас,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хеппі бьоздей, щось ніхуя не хеппі.","Хеппі бьоздей, щось зовсім не хеппі.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хотіла б бути твоєю сестрою, щоб завжди мати можливість тебе трахати.","Хотіла б бути твоєю сестрою, щоб завжди мати можливість тебе кохати.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хоча насправді похуй, просто не було чим, а його щітка й справді чистить в важкодоступних місцях.","Хоча насправді байдуже, просто не було чим, а його щітка й справді чистить в важкодоступних місцях.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хочеш бути потрібним @ усім на тебе похуй @ люди дивуються ""А шо ж це ти такий злий?"".","Хочеш бути потрібним @ усім на тебе байдуже@ люди дивуються ""А шо ж це ти такий злий?""",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хочеш їсти - їж, хочеш пити - пий, хочеш трахатися - ну, буває.","Хочеш їсти - їж, хочеш пити - пий, хочеш сексу - ну, буває.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Хтіли ""паставіть падножку Порошєнка"", а вийшло дати в жопу тіко.","Хтіли ""паставіть падножку Порошєнка"", а вийшло наоборот тільки.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Хєрак нада шось придумати годне хєрак похуй і так зайде,Бамс нада шось придумати годне бамс добре і так зайде,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,ЦЕ ЯКИЙСЬ СТЬОБ ВІД РОЗРОБНИКІВ,Це якесь знущання від розробників,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Це все сука Путін своє клімактічєскоє оружіє запустив, щоб нас зі світу зжити.","Це все Путін своє клімактічєскоє оружіє запустив, щоб нас зі світу зжити.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Цей блядський кондиціонер - гомофоб!,Цей кондиціонер - гомофоб!,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ця спека думає, шо змусить мене вдіти майку з шортами, але хуй там пєл.","Ця спека думає, шо змусить мене вдіти майку з шортами, але ні вже.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Чемпіоном він хоче бути, ага, бля.","Чемпіоном він хоче бути, ага",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Чувак, який безуспішно намагався вмовити мене на секс, пішов ва-банк і тепер замість ниття про свій недойоб кидає мені АНЕКДОТИ.","Чувак, який безуспішно намагався вмовити мене на секс, пішов ва-банк і тепер замість ниття  кидає мені АНЕКДОТИ.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Шо за хуйня? - сказав я, уважно підбираючи слова.","Шо за нісенітниця? - сказав я, уважно підбираючи слова.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Шоб я не робила, все якось через жопу.","Шоб я не робила, всё якось через останнє місце",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Що блять за расистський твіттер сьогодні,Що  за расистський твіттер сьогодн,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Що це за акція хворих органів оптом блять?,Що це за акція хворих органів оптом?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Що це за блядський цирк в Москві?)),Що це за цирк в Москві?)),MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Щоб то ще такого спизданути в стрічку?,Щоб то ще такого сказанути в стрічку?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я блять третій день в хаті, а звалити звідси хочеться ВЖЕ І НЕГАЙНО.","Я третій день в хаті, а втікти  звідси хочеться ВЖЕ І НЕГАЙНО.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Я ж не залупа якась,Я ж не поганаа якась,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Я можу придумувати їбануті програми для СТБ.,Я можу придумувати дивні програми для СТБ.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Я охуєла і привела кураторку.,Я буда в шоцi і привела кураторку.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я хуй його знає, одного мене вже прикачала та кроватка-бук у стрічці?","Я а хто його знає, одного мене вже прикачала та кроватка-бук у стрічці?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Я і щас нахуй здався?,Я і щас навіщо здався?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я: Рєбзь, може суші візьмем?","Я: Рєбзь, може суші візьмем?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я: блять, в мене якась депресія вже протягом тижня...",Я: у мене якась депресія вже протягом тижня...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Яка була курва матиТака ж курва дочка!,Яка була мати така ж і дочка,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Яка ж я зла, блять.",Яка ж я зла,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Якого хуя мене тьотьою назвали?,Чому мене тьотьою назвали?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,а мені нравПросто гріх дрищів не падйобувать,а мені нравПросто гріх противних не підколювати,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,а нє поставіть-ка мнє хуй на аву і зіпсувати собі репутацію?,А нє поставіть-ка мне моє достоєнство на аву і зіпсувати собі репутацію,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"але спочатку то було не все одно, знач ти намагався не класти хуй, а це вже шось","але спочатку то було не все одно, знач ти намагався щось робити, а це вже шось",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ба-ссуха, блять. там одна ""с"", дятел","ба-ссуха,  там одна ""с"", чол",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"бля, це ж твіт лів",це ж твіт лів,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"бля, я тікаю від вас спати.",я тікаю від вас спати,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"блядський твіттер, чим більше оновлень, тим більше тупить","твіттер, чим більше оновлень, тим більше лагає",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"блядь, сам казав, шо побачив моє фото і собі захотів поставити.","блін, сам казав, шо побачив моє фото і собі захотів поставити.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"блять, забув на вписці зарядку від ноута. попереду 11годинний робочий день. сука.сука.сука",забув на вписці зарядку від ноута. попереду 11годинний робочий день.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"блять, ну чому, коли я пишу саме такі твіти, ти тут?","ну чому, коли я пишу саме такі твіти, ти тут?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"бляха, вгамуйте хтось тимошенко. уже блювати від її коників хочеться.",заспокойте хтось тимошенко. не можу вже від її коникiв.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"бляха, я не можу змусити себе вчитися!","Капець, я не можу змусити себе вчитися",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"вже майже четверта, а я не сплю, блять","вже майже четверта, а я не сплю, що за",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,виступав колись перед дітьми - їм похуй. ти для них лох без айфона.,виступав колись перед дітьми - їм байдуже. ти для них ніхто без айфона.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"всі, кому не нрав Євробачення тікайте з села,вам пизда #Eurovision","всі, кому не нрав Євробачення тікайте з села",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"гегель такий мілаш,коли пише про абстрактне мислення, і таке мудло, коли товкмачить про право і державу.","гегель такий мілаш,коли пише про абстрактне мислення, і такий чудний, коли товкмачить про право і державу.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"дякую, а ти киця, блять)","дякую, а ти киця",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"жопа, к слову – на 2 з мінусом і без наколок.","'п''ята точка, к слову – на 2 з мінусом і без наколок.'",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,завжди роблю хуйовий а їй нра,завжди роблю поганий а їй нра,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"зайди на фб, молю! кончений вк не дає нічого зробити! це все хуйло всране","Зайди на фб, молю вк не дає нічого зробити, це все чоловік поганий",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,каре і срібло у хуйовій якості,каре і срібло у жахливой якості,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,кексложно вамна мене просто завжди похуй було,кексложно вамна мене просто завжди все одно було,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"колись розкажу, але не тут, а то злетяться всякі збоченці, які почнуть хуйню писати)","колись розкажу, але не тут, а то злетяться всякі збоченці, які почнуть дурість писати)",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"не звертай уваги. мудаків мільйон, ти одна.)","не звертай уваги. таких мільйон, ти одна.)",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"не можу, в мене, сука, над головою свердлять, а я намагаюсь працювати","не можу, в мене над головою свердлять, а я намагаюсь працювати",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ну бля, я не вірю","ну, я не вірю",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ні, це дає тобі право посилати їх нахуй!","ні, це дає тобі право посилати їх",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ніколи...чуєте, ніколи! не плутайте такі речі. це ж як хуй з пальцем порівнювати))","ніколи...чуєте, ніколи! не плутайте такі речі. це ж не можлiво порівнювати))",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"обколються своєю марихуаною, а потім всяку хуйню роблятьнаркотики - зло","обколються своєю марихуаною, а потім всяку дурість роблятьнаркотики - зло",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ой блять, плюнув подорожник приклав і заєбісь","ой блін, плюнув подорожник приклав і кайф",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"отож і воно, гідність, бляха, поламалася","отож і воно, гідність поламалася",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,пмс - це ніхуя не весело,Пмс це взагалі не весело,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"приміщенняХАБУдозвільного РОЗВИТКУгромадських організацій (ок і тут ГО)Азовського РУХУ (щто?)рекрутингового центру полку ""АЗОВ""Ух бля!","приміщенняХАБУдозвільного РОЗВИТКУгромадських організацій (ок і тут ГО)Азовського РУХУ (щто?)рекрутингового центру полку ""АЗОВ""Ух",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,про ситуацію з плагіатом у журналі Vogue можу сказати: 2 тупі пизди,про ситуацію з плагіатом у журналі Vogue можу сказати: 2 глупі жінки,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"словом, заїбало то всьо. ви кто такіє? я вас нє звал. ідітє нахуй","словом, набридло то всьо. ви кто такіє? я вас не звал. iдіть звідси",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,сука я йду презіки купувати бо ну нах,я йду презики купувати про всяк випадок,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"сука, як же хочу сирників.",як же хочу сирників.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"сукаааа, я більше не полечу нікуди!!!!!",я більше не полечу нікуди!!!!!,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,та тоді якийсь пиздец бувв мене рідко губи тріскають,Та тоді якийсь ужас бувв мене рідко губи тріскають,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,так ми ж багато англ і рос читаєм. от і получається хуйня.,так ми ж багато англ і рос читаєм. от і получається плутанина.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"тепер моя черга сказати ""блять""","тепер моя черга сказати ""ну ось і все""",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ти підписав собі вирок, сука",ти підписав собі вирок,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"то не росіяни, то сука італійці! боже ЯК Я НЕ ЛЮБЛЮ ІТАЛІЙЦІВ!!!","то не росіяни, то італійці! боже ЯК Я НЕ ЛЮБЛЮ ІТАЛІЙЦІВ!!!",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,тобто блядь? тобі більше 25?!,тобто? тобі більше 25?!,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"тому, кстатє, спайк лі получив каннську гілочку, а кокотюха получив хуй на патичку, і так йому і нада.","тому, кстатє, спайк лі получив каннську гілочку, а кокотюха нічого не получив, і так йому і нада.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"ті самі, котрі ""полная імпотєнція в укаінском інфополє"" і через два твіти – ""боти Порошенко на з/п"" гг бляді.","ті самі, котрі ""полная імпотєнція в укаінском інфополє"" і через два твіти – ""боти Порошенко на з/п"" гг",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,тільки він ще і гандон.,тільки він ще і понага людина.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"хуй там, Тернопіль Сіті, БАМ йобана","не тут то було, Тернопіль Сіті, БАМ",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"це коли карент муд від ""мудак""","це коли карент муд від ""поганий""",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"чума на дома цих мудаків, які розвивали рейшинал чойс теорію, ВОІСТІНУ.","несчатье тим людям, які розвивали рейшинал чойс теорію, ВОІСТІНУ.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"я б з тобою потринділа, але ти такий муділа","я б з тобою поговорила, але ти такий дивний",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"я за сьогодні вже 2 рази блять, руки реально з жопи ростуть","я за сьогодні вже 2 рази , руки реально нiзвiдки треба ростуть",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"я чесно зізналась, що мені похуй, і канєшно ж через це тепер я тупа безсердечна сука","я чесно зізналась, що мені все одно, і канєшно ж через це тепер я просто безсердечна",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"імхо - жахлива хуйня. красіво, більш-менш непогана бойовка, загалом - хуйня.","імхо - жахливо. красіво, більш-менш непогана бойовка, загалом - жах",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,– Я что лох налогі платіть?,– Я что хворий налогі платіть?,MultiParaDetox,MultiParaDetox,,True

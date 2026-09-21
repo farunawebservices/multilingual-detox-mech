@@ -1,0 +1,12 @@
+language,language_name,source,rows
+am,Amharic,MultiParaDetox,400
+ar,Arabic,MultiParaDetox,400
+de,German,MultiParaDetox,400
+en,English,MultiParaDetox,400
+es,Spanish,MultiParaDetox,400
+hi,Hindi,MultiParaDetox,400
+uk,Ukrainian,MultiParaDetox,400
+xh,isiXhosa,afrihate_human_reviewed,275
+xh,isiXhosa,original_human_parallel,178
+yo,Yorùbá,afrihate_human_reviewed,266
+yo,Yorùbá,original_human_parallel,175
