@@ -1,0 +1,28 @@
+{
+  "probe_layers": [
+    5,
+    7
+  ],
+  "cross_lingual_probe_transfer": {
+    "5": {
+      "within_language_auc": 0.954225,
+      "high_resource_auc": 0.9676275510204081,
+      "cross_lingual_yo_xh_auc": null
+    },
+    "7": {
+      "within_language_auc": 0.9568875,
+      "high_resource_auc": 0.9621173469387755,
+      "cross_lingual_yo_xh_auc": null
+    }
+  },
+  "cross_lingual_ablation": {
+    "High-resource": {
+      "n_examples": 300,
+      "copy_rate_with_english_identified_ablation": 0.13333333333333333
+    },
+    "Low-resource (yo/xh)": {
+      "n_examples": 133,
+      "copy_rate_with_english_identified_ablation": 0.022556390977443608
+    }
+  }
+}
