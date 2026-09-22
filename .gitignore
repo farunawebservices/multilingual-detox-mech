@@ -1,18 +1,28 @@
+# Python
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
-.env
-.env.*
-*.key
-*.pem
-outputs/v2_analysis_error_sample.json
-outputs/v2_generation_error_sample.json
+*$py.class
+*.so
+.Python
 venv/
-results_afrihate/
+ENV/
+env/
+.venv
 
-# Large/generated training artifacts
-results/training/
+# Jupyter
+.ipynb_checkpoints
+
+# Large model checkpoints (do NOT commit)
+results/training/*/final/
+results/training/*/checkpoint-*/
 *.safetensors
 *.bin
 *.pt
 *.pth
+
+# Allow summaries and splits
+!results/training/*/training_summary.json
+!results/training/*/train.csv
+!results/training/*/dev.csv
+!results/training/*/test.csv
+!results/training/aggregate_summary.json

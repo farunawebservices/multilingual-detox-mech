@@ -1,0 +1,247 @@
+language,language_name,toxic_input,detox_output,source,source_dataset,source_id,human_reviewed
+am,Amharic,Jeylan hybrid ጁንታ TPLF-OLF እኔ የሚገርመኝ እራስህን ለምን ታሞኛለህ ሞኝ ሲንጠራራ የረዘመ ይመስለዋል,እራስህን ለምን እንደምትሸውድ አይገባኝም,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ለመሆኑ ኢትዮጵያ ውስጥ ፕሬስ ሴክሬታሪ በህይወት አለ? ሞቶ ከሆነ ግን ነብስ ይማር,ለመሆኑ ኢትዮጵያ ውስጥ ፕሬስ ሴክሬታሪ አለ ብሎ መናገር ይቻላል,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ለውሸት የተፈጠርክ በሽተኛ በዚህ ዓይነት ሰውን ማደናገር የማትችልበት ጊዜ ደርሰሃል ሁሉ ነገርህ አስመሳይ ውሸታም ከስምህ ጀምረህ ፎርጅድ የሆንክ,የምትናገረው የሚታመን ነገር አይደለም፤  በዚህ አይነት ነገር ሰው ሊቀበልህ የማይችልበት ደረጃ ደርሷል,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ሰይጣን እባክህን ይህንን ኃጢአተኛ ይቅር በለው ፣ እሱ የሚናገረውን አያውቅም,እባክህን ይህንን ምስኪን ይቅር በለው ፣ ባለማወቅ ነው የተናገረው,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ሴፉ ያው ፕሮግራም ይኮርጅል እንጂ በአሸርጋጅነት አይታማም ??,ሴፉ አንዳንድ ፕሮግራሞቹ ከሌሎች ጋር ሊመሳሰሉ ይችሉ ይሆናል እንጂ በማስመሰል ማንም ስሙን አያነሳውም,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,በነፈሰበት አትንፈስ . ራስህን ሁን አቋም????,የራስህ አቋም ሰኖርህ ነው የተሻለ የሚሆነው,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አትቀባጥር። አንተ ስትዘርፍ ስለኖርክ ሰው ሁሉ ሌባ አይምሰልህ።,ብዙ አትናገር እስቲ። አንተ የሰው ንብረትን ስትጠቀም ስለቆየህ ሰው ሁሉ እንዳንተ አይምሰልህ።,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አንተ ውታፍ ነቃይ የትላንቱን ዲቤት አየህው አንገትን የሚያስደፋ እንዳንተ አይነቱን በቁሙ የሚቀብር ነው ከአብን ጋር ወደፊት ደደብ ዲቃላ,የትላንቱን ክርክር አየህው በጣም ጠንካራና የምትሉትን ያሳጣ ነበር,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አንተ ደንቆሮ የሸርሙጣ ልጅ አህያ ቦዶ ጭንቅላት ዘረኛ የሴት ልጅ አቅምህን እውቅ እንዳ አንተ አይነቱ ተላላኪ ነው አገራችን እንዳትረጋጋ ያደረጋት ቆሻሻ,አቅምህን ብታውቅ ደህና ነው ፤ እናንተ ናችሁ ባንድ በኩል ሀገሪቱ እንዳትረጋጋ ያደረጋችኋት,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አንተ ደንቆሮ የጠንቋይ ልጅ ጠላታችን እንደሆንክ ኣስተምረን እንነቃቸዋለን።,ወደጅ እንደልሆንን ኣስተምረን እንነቃቸዋለን።,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አንድ የተሻለ አስተሳሰብ ያለው ሰው እንዃን የላችሁም? የምትሰሩት ስራ ለፎቶ ብቻ ነው? ያንቺ ደሞ ይለያል አስመሳይ። ላም,ከእናንተ ውስጥ የተሻለ ሀሳብ የሚያመጣ ሰው ዕያየሁ አይደለም፤ የሚሰሩ ስራዎች በፎቶ ለመታየት መሆን የለባቸውም,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አዎ ምን አባሽ አባትህ አገባህ እንደናንተ የአለም ህዝብ ድንጋይ ራስ መሰላችሁ ለእውነት ይቆማል ድንጋይ ራስ ኮተታም ሁላ,አይመለከታችሁም እንደናንተ የአለም ህዝብ ሁኔታውን የማይረዳ መሰላችሁ ለእውነት ይቆማል የማታስቡ,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,አዲስ ስድብ አመንጪ እንጂ አዲስ ሃሳብ አመንጪ አይደለክም:: በደም የጨቀይህ ውሸታም አስመሳይ ሰው ነህ::,አዲስ ፀያፍ ቃል አመንጪ እንጂ አዲስ ሃሳብ አመንጪ አይደለክም:: በሰው ነፍስ ጉዳይ እጅህ ያለበት ሰው ነህ፡፡,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እሱን ያ አብይ ተይቀው ዝም ብለህ አትዘባርቅ ። አንተ እስኪ ተዋጋ ከዛ ሌላውን ቦቅቧቃ ትላለህ,እሱን የሚመለከታቸውን መጠየቅ ይቻላል፤ በግምት ግን አትናገር፡፡ መጀመሪያ አንተ ታገል እና ሌላው ኋላ ይደርሳል፡፡,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እና አሜሪካ የኝ ዜጋ ናት ወይም ነበርች ገናለገና በ ዶላር ሲከፈልህ አሜሪካ ዘመድህ መሰለችህ,እና አሜሪካ የኝ ዜጋ ናት ወይም ነበርች ፤ ክፍያ በዶላር ስለተፈጸመልህ አሜሪካን በዚህ ደረጃ ማቅረብ,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እኔን ጨምሮ ሰዉ ሽመልስን ማየት አይፈልግም ግን ለዓይናችን የበዛው እሱ ነው,እኔን ጨምሮ ሰዉ ሽመልስን ማየት አይፈልግም ግን በብዛት የሚታየው ደግሞ እሱ ነው,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እንተ ደግሞ ጅል ነህ እንደ ገደል ማሚቶ የማታውቀውን ነገር ዝም ብለህ አታስተጋባ,አንተ ደግሞ የዋህ ነህ ፤ የተባለውንና  የማታውቀውን ነገር እንዳለ አትድገምልን,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እንደ አንተ አይነቶች ናቸዉ ሀገራችንን እያመሱ ያሉት ደንቆሮች መሀይሞች ጭንቅላታቸው የተመረዘ የጠበበ አንተ ስለሀገር,እናንተ ናችሁ ሀገራችንን እንዲህ ችግር ላይ የምትጥሏት ፤ አርቃችሁ አታስቡ፣ በጎውን ሀሳብ አታመጡ,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,እውነት ካለህ እኮ ምንም ኣግዙኝ እርዱኝ ማለት አያስፈልግም:: እዉነት ራሱ ይመሰክራል እና ነው:: ለእንዳንተ ዉሸት ቀለቡ ግን ዕዉነትም ሲነግሩት ኣይዋጥለጥም,እውነት ካለህ እኮ ምንም ሌላ ተጨማሪ እርዳታ መጠየቅ አያስፈልግም:: እዉነት ራሱ ይመሰክራል እና ነው:: በእውነት የማታምን ከሆነ ግን እውነትም ቢነግሩህ ላይዋጥልህ ይችላል፡፡,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ከንዳንተ አይነት ደደብ እና ከዳሚ ራሱ ይሰውረን ።,ደጅ መጥናትህን አለወደድኩትም,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ከፓፓ ውጪ የሚታይሽ ነገር የለም አይደል? ዳይፐር ተወደደብሽ መሰለኝ አሮጊቷ,ከንፅህና መጠበቂያ ሌላ  የሚታይሽ ነገር የለም እንዴ?,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ወንጀል አሰራር እንደ ምግብ ስራ አይደል እንዴ አቀላጥፈህ ምታሰተምር,በህግ የተከለከለንም ነገር  እንደ ምግብ ስራ ቀለል አርገህ ነው እኮ የምታስተምረው,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ውሎህን የምታውቀው አንተ ነህ።ሆዳም ከምግብና መጠጥ ቤት ውጪ አያውቅም,ውሎህን የምታውቀው አንተ ነህ። ራሱን የሚንከባከብ ምግብ ቤትና መጠጥ ቤት ያዘወትር ይሆናል፡፡,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ያለብንን ችግር ሳንፈታ ሌላ . እረ ልቦና ያለው ስው ይጥፋ ??? መንጋ ግልፍተኛ ስራፈት,ያለብንን ችግር ሳንፈታ ሌላ  ችግር እረ ልቦና ያለው ስው ይጥፋ,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ፌስ ቡክ ላይ ሴተኛ አዳሪ ይመስል ፎቶውን ሲለጥፍ የከረመ ሰው ገዳይና መሰሪው አብይን መደገፉ ባይገርምም አንተን የኢትዮጵያ ጠላት አድርጎ መሳሉ ሊያስገርምህ አይገባም  አብይ መሰሪ ገዳይ ነው,ፌስ ቡክ ላይ ተራ ፎቶዎችን የሚለጥፍ  ሰው ጠ/ሚሩን  መደገፉ  እና አንተን ጥሩ እንዳልሆነ ሰው ማቅረቡ  ሊያስገርምህ አይገባም,MultiParaDetox,MultiParaDetox,,True
+am,Amharic,ፍርዱ በተመደበው ጊዜ ይደረጋል ፡፡ ደነዝዝ መሆን ትዕግስትህን አቁም,ፍርዱ በተመደበው ጊዜ ይደረጋል,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,أخوي ناصر الاخوان والراعي الرسمي لهم (قردوغان) أصبحوا مكشوفين وتناقضهم أصبح كالشمس في كبد ا…,أخوي ناصر الاخوان والراعي الرسمي لهم (أردوغان) أصبحوا مكشوفين وتناقضهم أصبح كالشمس في كبد ا…,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,أوقفوا التغطية واجعلهم يتعفنون .,من فضلكم أوقفوا التغطية,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,إن إعادة إجراء هذا الاختبار ومحاولة اجتياز الأفكار يعني أن أي أحمق أبله يمكنه الحصول على أوراق اعتماد لأي مهنة في أي وقت.,إن إعادة إجراء هذا الاختبار ومحاولة اجتياز الأفكار يعني أن أي أشخص يمكنه الحصول على أوراق اعتماد لأي مهنة في أي وقت.,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,إنه أسوأ عمدة حظينا به على الإطلاق!,إنه العمدة غير المناسب على الإطلاق!,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,إني أقرأ ببطيء عن حرب فيتنام أاللعينة .,أقرأ، ببطء، mcmasters إهمال الواجب حول حرب فيتنام.,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,اثنين من المجانين يحاولون إظهار من حصل على الشيء الأكبر!,شخصان غير مناسبين يحاولان إظهار من هو الأفضل,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,الخول جبران باسيل روح طلع حزب اللات والمليشيات الشيعية من بلدنا ليرجعوا النازحين يلي احتليتوا أراضيهم وهجرتون يا مجرمين,جبران باسيل روح طلع حزب اللات والمليشيات الشيعية من بلدنا ليرجعوا النازحين يلي احتليتوا أراضيهم وهجرتون,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,اللي يسب القصيم كمنطقه عشان هالبزارين ابن زنوه,اللي يسب القصيم كمنطقه عشان هالبزارين مو محترم,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ان الثورة تولد من رحم الأحزان يا منايك,ان الثورة تولد من رحم الأحزان يا عالم,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ساعتين وربع ولا نص ساعه رجعنا الدولة ودعسنا عليه وتم إعدامه نفس…,ساعتين وربع ولا نص ساعه رجعنا الدولة ومسكناه وتم إعدامه نفس…,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,شفت كيف انك متخلف وقاعد تبرر لمغتصب؟,شفت كيف انك غافل وقاعد تبرر لمغتصب؟,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,فريق غبي حتى البلنتي جاء بالغلط,فريق مبتدئ حتى البلنتي جاء بالغلط,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,لا اثبات هذا شخص غبي وما يمثلنا,لا اثبات هذا شخص ما يمثلنا,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,لا بد أن يكون لك أعداء آخرون الآن أسدي لنفسك معروفا واغرب عن وجهي,يجب أن يكون لديك بعض الأعداء الآخرين، الآن تفعل لنفسك معروفا وتذهب.,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ليش بتنطرب وبتسكر لمن بتجيب سيرة الحذاء يا زلمي مع إن كل واحد بفش خلقو ع ذوقو حسب مفهومو ثقافتو وعقلو…,ليش بتنطرب وبتسكر لمن بتجيب سيرة هذا الشخص يا زلمي مع إن كل واحد بفش خلقو ع ذوقو حسب مفهومو ثقافتو وعقلو…,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ما ترجع لو كنت مارق من صوب البور مش كان احسن,كس اختك ما ترجع لو كنت مارق من صوب البور مش كان احسن,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,هتعدي الخط الأحمر امتئ ي قردوغان مرة 50 يوم,هتعدي الخط الأحمر امتئ ي أردوغان مرة 50 يوم,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,هذا أطول مني ب ٤٦ سنتمتر وأنا أشوف اللي أقصر مني ب ١٠ سنتمتر قزم أجل هذا وش يشوفني🙄,هذا أطول مني ب ٤٦ سنتمتر وأنا أشوف اللي أقصر مني ب ١٠ سنتمتر قصير أجل هذا وش يشوفني🙄,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,هذا السلام الذي يتغنى يه المطبعون لعنة الله عليكم ابد الدهر,هذا السلام الذي يتغنى يه المطبعون,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,هذا يجب أن يكون أغبى وأفسد طريقة للمنافقة في تاريخ البشرية,يجب أن تكون هذه الطريقة الأكثر فسادا للمزايدة في تاريخ البشرية,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ولك كول هوا يازلمه، ليش مش فاهم,اسكت يازلمه، ليش مش فاهم,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ياخوي المدرب متخلف المفروض ملعب نوح الموسى مع فيجسا وفي الأمام مارين مارتيتا فتوحي ورأس الحربة السوم…,ياخوي المدرب ساذج المفروض ملعب نوح الموسى مع فيجسا وفي الأمام مارين مارتيتا فتوحي ورأس الحربة السوم…,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,ياعم كس أمك هو إنت ما تعرفش اننا بعتنا زيارات و عاملين جسر جوى و فى مستشفى ميدانى اتعمل يلعن ميتين أمك إبن شرموطة,ياعم هو إنت ما تعرفش اننا بعتنا زيارات و عاملين جسر جوى و فى مستشفى ميدانى اتعمل,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,يالييييييييل نادي متخلف ادفعوله ال٥ مليون وفكوا امنا لازم كل موسم قبل مباراه الهلال تخربونهااااا,يالييييييييل نادي مبتدئ ادفعوله ال٥ مليون وفكوا امنا لازم كل موسم قبل مباراه الهلال تخربونهااااا,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,يجب أن تكون جمهورياً تعتقد أن الناس غبيون جداً لإدارة حياتهم بأنفسهم.,يجب أن تكون جمهورياً تعتقد أن الناس غير قادرين على إدارة حياتهم بأنفسهم.,MultiParaDetox,MultiParaDetox,,True
+ar,Arabic,يمكنك دائماً الاعتماد على الجهلاء لعرض جهلهم.,يمكنك دائماً الاعتماد علىdil لعرض جهلهم.,MultiParaDetox,MultiParaDetox,,True
+de,German,"@USER_0de @USER_0 Bald seid ihr alle hier ""Entsorgt""!",@USER_0de @USER_0 Bald seid ihr alle hier weg!,MultiParaDetox,MultiParaDetox,,True
+de,German,"Da erkennt man, mit was für jämmerlichen Deppen die abgefuckte SPD aus Machtgeilheit 4 Jahre das Volk verraten und verkauft hat !!!","Da erkennt man, mit was für Leuten die SPD aus Machtgeilheit 4 Jahre das Volk verraten und verkauft hat !!!",MultiParaDetox,MultiParaDetox,,True
+de,German,"Die Zeit ist überreif für dass große Ausmisten in Politik, Justiz u Medien dieses ganze Rot Grün versiffte Parteibuch Pack zum Teufel jagen","Die Zeit ist überreif für dass große Ausmisten in Politik, Justiz u Medien diese ganze Rot Grün orientierte Parteibuch Gruppe verscheuchen",MultiParaDetox,MultiParaDetox,,True
+de,German,"Die Zersetzung,die Vernichtung der Kultur,der Abschaum,hat immer nur einen Ursprung!","Die Zersetzung,die Vernichtung der Kultur,hat immer nur einen Ursprung!",MultiParaDetox,MultiParaDetox,,True
+de,German,"Donald Trump ist ein Großmaul, das die Fakten zu den verkauften Autos. in D und USA nicht kennt. Er möge sein Maul halten.","Donald Trump ist eine Person, der die Fakten zu den verkauften Autos. in D und USA nicht kennt. Er möge leise sein.",MultiParaDetox,MultiParaDetox,,True
+de,German,"Dummes Gelaber, Kern. Kurz stellt sich nicht gegen die Italiener. Er. will nur 200.000 Invasoren nicht nach Österreich einreisen lassen.","Unsinnige Aussage, Kern. Kurz stellt sich nicht gegen die Italiener. Er. will nur 200.000 Einwanderer nicht nach Österreich einreisen lassen.",MultiParaDetox,MultiParaDetox,,True
+de,German,"Ekelhafter gehts kaum, wie sich diese CDU-Schwachmaten selbst beweihräuchern u feiern u das vor dem Hintergrund des tief gespaltenen Landes🤢","Unverständlicher gehts kaum, wie sich diese CDU-Politiker selbst beweihräuchern u feiern u das vor dem Hintergrund des tief gespaltenen Landes🤢",MultiParaDetox,MultiParaDetox,,True
+de,German,"Frau Kerestan hat frisch und gut argumentiert. Herr Weinberg ist ein Betonkopf, der nur rückwärtsgewandt zu blicken scheint.",Frau Kerestan hat frisch und gut argumentiert. Herr Weinberg schneint nur rückwärtsgewandt zu blicken.,MultiParaDetox,MultiParaDetox,,True
+de,German,"Gibt es überhaupt so viele Dreckslöcher in Deutschland, wenn die LINKEN sich bald verdrücken müßen ??","Gibt es überhaupt so viele Rückzugsorte in Deutschland, wenn die LINKEN sich bald verdrücken müßen ??",MultiParaDetox,MultiParaDetox,,True
+de,German,"Habe einige Male für ihn dolmetschen müssen - frag` mich besser nicht. Und wenn er Merkel sieht, kriegt er `nen Stän*** 😜","Habe einige Male für ihn dolmetschen müssen - fragmich besser nicht. Und wenn er Merkel sieht, freut er sich",MultiParaDetox,MultiParaDetox,,True
+de,German,"Ich bemerke in unseren Medien eine Strategie, die FDP gleich der AfD, zum Abschuss freizugeben.","Ich bemerke in unseren Medien eine Strategie, die FDP gleich der AfD, zu kritisieren.",MultiParaDetox,MultiParaDetox,,True
+de,German,Ich kann diesen Bullshit nicht mehr hören...die dummen 🇩🇪haben sich entschieden.... Die sollen weiterhin in ihrer Scheißprovinz bleiben,Ich kann diesen Bullshit nicht mehr hören...die 🇩🇪haben sich entschieden.... Die sollen weiterhin in ihrer Provinz bleiben,MultiParaDetox,MultiParaDetox,,True
+de,German,"Insgesamt sitzen da nur dumme Leute. angefangen beim Moderator, der ist noch dümmer. Der muss stehen","Insgesamt sitzen da nur komische Leute. angefangen beim Moderator, der ist am schlimmsten. Der muss stehen",MultiParaDetox,MultiParaDetox,,True
+de,German,Irgendwie beruhigend das es woanders noch schwachsinnigere Politik gibt als bei den deutschen...,Irgendwie beruhigend das es woanders noch unverständlichere Politik gibt als bei den deutschen...,MultiParaDetox,MultiParaDetox,,True
+de,German,"Juhu, der Bayer ohne Eier will wieder einmal alles nach der Wahl richten 😂😂😂 ich pinkel mir vor Lachen gleich ein 😂😂😂","Juhu, der Bayer will wieder einmal alles nach der Wahl richten 😂 ich finde das sehr lustig 😂😂😂",MultiParaDetox,MultiParaDetox,,True
+de,German,"Oder man ist so blöde und dumm wie du und nutzt keine Infos und jetzt such den Grammatikfehle,such,fein machst du das ,such,feiner Linker","Oder man ist so uninformiert und ungebildet wie du und nutzt keine Infos und jetzt such den Grammatikfehle,such,fein machst du das ,such,feiner Linker",MultiParaDetox,MultiParaDetox,,True
+de,German,"Opfer im Interesse der eigenen fragwürdigen Ziele verhöhnen zu lassen sind bewusster Politik-Stil Merkels, ein kranker Geist😜",Opfer im Interesse der eigenen fragwürdigen Ziele verhöhnen zu lassen sind bewusster Politik-Stil Merkels,MultiParaDetox,MultiParaDetox,,True
+de,German,"Schickt unsere Verdeidigungsministerin als Stangengirl zur Truppenbetreuung an die Front ,aber selbst dort wird sie Versagen.Eine Verteidigungsministerin ist Ein Hohn an die Truppe.Rommel wache auf!","Schickt unsere Verdeidigungsministerin zur Truppenbetreuung an die Front ,aber selbst dort wird sie Versagen.Eine Verteidigungsministerin ist Ein Hohn an die Truppe.Rommel wache auf!",MultiParaDetox,MultiParaDetox,,True
+de,German,Verhaftungen von Vergewaltigern als Erfolg zu verkaufen ist das Aufmerksamkeitswinseln einer armseligen Behörde. #Polizei #Köln #Rapefugees,Verhaftungen von Vergewaltigern als Erfolg zu verkaufen ist das Aufmerksamkeitswinseln einer armseligen Behörde. #Polizei #Köln,MultiParaDetox,MultiParaDetox,,True
+de,German,dieser Holtmann scheint ein Grüner-Bastard zu sein! #BerichtAusBerlin,dieser Holtmann scheint ein Grüner-Anhänger zu sein! #BerichtAusBerlin,MultiParaDetox,MultiParaDetox,,True
+de,German,hören Sie ihren Gören zu ? verkehrte Welt.,hören Sie ihren Kindern zu ? verkehrte Welt.,MultiParaDetox,MultiParaDetox,,True
+de,German,ich finde gut dass #Trump #Jerusalem als Hauptstadt anerkennt nun bekommen die #Israelis erst richtig auf die Fresse,ich finde gut dass #Trump #Jerusalem als Hauptstadt anerkennt nun bekommen die #Israelis erst richtig Probleme,MultiParaDetox,MultiParaDetox,,True
+de,German,stimmt. Die Russen hatten wenigstens diese Ossis unter Kontrolle,stimmt. Die Russen hatten wenigstens die DDR unter Kontrolle,MultiParaDetox,MultiParaDetox,,True
+de,German,wenn der #Bundespräsident mit seinem dummen Geschwätz auf die #SPD zielt sollte er bedenken dass 80% der deutschen die SPD nicht wollen,wenn der #Bundespräsident mit seinen Aussagen auf die #SPD zielt sollte er bedenken dass 80% der deutschen die SPD nicht wollen,MultiParaDetox,MultiParaDetox,,True
+de,German,wie kann man nur derart strunzdumme Moderatoren wie bei #taff auf #ProSieben beschäftigen,wie kann man nur solche Moderatoren wie bei #taff auf #ProSieben beschäftigen,MultiParaDetox,MultiParaDetox,,True
+de,German,wir brauchen das scheiß #Europa nicht ich bin #Deutscher und kein Europäer #btw2017,wir brauchen das #Europa nicht ich bin #Deutscher und kein Europäer #btw2017,MultiParaDetox,MultiParaDetox,,True
+en,English,"Are u there dick, wars back on!!!!",Are u there? The war is back on!,MultiParaDetox,MultiParaDetox,,True
+en,English,"How could the capital of Israel not be part of Israel, you fucking brainwashed Arab dumbass.",How could the capital of Israel not be part of Israel?,MultiParaDetox,MultiParaDetox,,True
+en,English,I believe that you don't have a fucking clue what you're talking about. Fatuorum,I believe that you may not have a clue what you're talking about. Fatuorum,MultiParaDetox,MultiParaDetox,,True
+en,English,Only a moron would think so.,Only a not clever person would think so.,MultiParaDetox,MultiParaDetox,,True
+en,English,"Revert the single's cover to the original, because some bastard decided to replace it with a monkey.","Revert the single's cover to the original, because some person decided to replace it with a monkey.",MultiParaDetox,MultiParaDetox,,True
+en,English,These are public computers. Don't ban uss all because a few people are retarded.,These are public computers. Don't ban uss all because a few people are retarded.,MultiParaDetox,MultiParaDetox,,True
+en,English,What the fuck do you want at my talk page.,What do you want at my talk page?,MultiParaDetox,MultiParaDetox,,True
+en,English,"better to keep your mouth shut and be thought a fool , than open it and be proven one .","Better to keep quiet and be thought to be naive, than open it and be proven you are one",MultiParaDetox,MultiParaDetox,,True
+en,English,"by the way , sorry about that stupid edit .","by the way, sorry about that bad edit.",MultiParaDetox,MultiParaDetox,,True
+en,English,"crimea voted for secession and russia accepted and annexed crimea , what fucking crisis ! ! ! !",crimea voted for secession and russia accepted and annexed crimea,MultiParaDetox,MultiParaDetox,,True
+en,English,do people really think everyone is too dumb to recognize this double standard ?,Do people really think everyone does not recognize this double standard.,MultiParaDetox,MultiParaDetox,,True
+en,English,eli5 why should governments give a fuck ? .,eli5 why should governments care?,MultiParaDetox,MultiParaDetox,,True
+en,English,hey man keep that shit to yourself .,Hey man keep that to yourself,MultiParaDetox,MultiParaDetox,,True
+en,English,holy shit why is this not higher up ? ? ?,why is this not higher up ? ? ?,MultiParaDetox,MultiParaDetox,,True
+en,English,it sucks that youre an awful person .,It hurts that you have a bad character,MultiParaDetox,MultiParaDetox,,True
+en,English,let darwinism take its course so that the least stupid shall inherit the earth .,Let darwinism take its course so that the more knowledgeable can inherit the earth,MultiParaDetox,MultiParaDetox,,True
+en,English,"no , i m pointing out that you are being a condescending ass about it , just like your euphoric brethren .",Am pointing out that you are being mean about it just like your brothers.,MultiParaDetox,MultiParaDetox,,True
+en,English,"seriously , at least number people are dead leave aside your point scoring and generally just fuck off .","seriously, at least number people are dead so just keep quiet",MultiParaDetox,MultiParaDetox,,True
+en,English,she fucking lied to them about what she was doing .,she  lied to them about what she was doing .,MultiParaDetox,MultiParaDetox,,True
+en,English,"so i would really like it if people could stop acting like that 's why he got shot , it fucking isn 't .","so i would really like it if people could stop acting like that 's why he got shot , it isn 't .",MultiParaDetox,MultiParaDetox,,True
+en,English,that things that we use everyday aren't correct. wikipedia blows cock and so do you.,"That things that we use everyday aren't correct. Wikipedia lacks credibility, and the same goes for you.",MultiParaDetox,MultiParaDetox,,True
+en,English,they don t give a shit about terrorism .,They don’t care about terrorism at all.,MultiParaDetox,MultiParaDetox,,True
+en,English,this administrations shit stinks as bad as the last ! .,The administration is similarly incompetent like the former.,MultiParaDetox,MultiParaDetox,,True
+en,English,those things are complete and utter pieces of shit .,Those things are meaningless,MultiParaDetox,MultiParaDetox,,True
+en,English,you need to fuck off and stop hrassing people,You need to stop hrassing people,MultiParaDetox,MultiParaDetox,,True
+en,English,"you're right, allmusic is the last shit.","you're right, Allmusic is the last disappointment.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Celebrando mas feliz una victoria del Barsa que una del Sevilla... Este subnormal no me representa como sevillista,Celebrando mas feliz una victoria del Barsa que una del Sevilla... No me representa como sevillista,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Cómo estará el país para que ni los moros quieran estar,como estará el pais para que no quieran estar,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"En catalán se escribe Espanya. Para dárselas usted de ser periodista, no tieene usted puta idea de escribir.","En catalán se escribe Espanya. Para dárselas usted de ser periodista, no tieene usted  idea de escribir.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Eso no lo sabemos, puede que vinieran de pequeños. Si es asi, expulsión.","No podemos estar seguros, podrían haber venido de pequeños. Si es el caso, considerar la expulsión.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Estas elecciones les van a venir de perlas a los fachas de VOX.,Estas elecciones les van a venir de perlas a los  de VOX.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Jueves con J de mierda,Jueves con j,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Le pega 16 tiros y le grita ""No te muevas"", menudo subnormal.","Le dispara 16 veces y le grita ""No te muevas"", que individuo",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Los de ahora son un infierno político y social, ocasionados por políticos fanáticos","Los de ahora son un infierno político y social, ocasionados por políticos",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Mamona, tengan la mierda que tengan ellos, lo nuestro sigue siendo igual de lamentable",Tengan los que tengan ellos igual lo nuestro sigue lamentable,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Me confirman por aquí que mi padre es subnormal.,Me confirman por aquí que mi padre está loco.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"No pasa nada, él es el mas preparado y el mas valiente que ya lo decia la abuela Carmena.","No hay problema, él es el más preparado y valiente, como lo afirmaba la abuela Carmena.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Paco llegado este punto nos da igual con tal de olvidarnos del PP y su estado fascista,Llegado a este punto es igual con tal de olvidarnos del PP y su estado,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Que manera de perder la cabeza por un zumo.,Resultado: Perder la calma por un zumo es exagerado.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"Queremos más dominicanos y más moros, Sánchez trae más.!!!!","Queremos más inmigrantes, Sánchez trae más!",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Quién es este subnormal y por qué ha soltado semejante subnormalez?,Quién es él y por qué ha soltado semejante palabra,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Segurola es un subnormal desde el minuto 1.,Segurola siempre ha sido así desde el minuto 1,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,Tu también Matt Reeves y tus putas ideas pendejas,Tu también Matt Reeves y tus ideas,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,cuidado con estos conspiradores de mierda,Cuidado con estas personas,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,eso que llamas político del  no es un político es un ¨miserable profesional¨..,"Lo que usted llama político no es un político, es un profesional”.",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"ha habido 6, no 5, 6.... Guti Guti Maricoooon, Maricoooon Maricoooooooon","ha habido 6, no 5, 6.... !!!!!!!!!",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,jaja ok andate con la zorra esa chau olvidate de mi :),Jaja ok andate con ella chau olvidate de mi :),MultiParaDetox,MultiParaDetox,,True
+es,Spanish,nonono este 2020 se anda pasando de verga,No no no esté 2020 se anda pasando,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,por favor dejad en paz a mi amiga la subnormal de mierda,Dejen de molestar a mi amiga,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,porque no tenéis a un subnormal por entrenador.,porque no tenéis a un loco por entrenador.,MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"que asco de gente dios, que busquen el significado de hembrismo y de feminismo y luego hablan","Que terrible gente dios, que busquen el significado de hembrismo y de feminismo y luego hablan",MultiParaDetox,MultiParaDetox,,True
+es,Spanish,"tienen cojones pero huyen para que otros les REGALEN LA VIDA, un poco contradictorio no?","Resultado: Tienen valentía, pero buscan que otros les brinden la vida. ¿No es un tanto contradictorio?",MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"अगर ये भडवा गिरी है तो जो जसोदाबेन के साथ हो रहा है वो दलाली, भडवा गिरी  और अन्याय तीनों है जो आपके यहां हो रहा है","अगर ये गलत है तो जो जसोदाबेन के साथ हो रहा है वो पक्षपात, गलत और अन्याय तीनों है जो आपके यहां हो रहा है",MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,अरे देखो देखो कौन भोंकी ओ हेलो तू तेरी उंगलियों का उपयोग ट्वीट करने में नहीं कही और ही चला,तू तेरी उंगलियों का उपयोग ट्वीट करने में नहीं कही और ही चला,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,इस बेटीचोद का बेटा मरा नहीं अभी तक,इस का बेटा मरा नहीं अभी तक,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,और भेनचोद बड़ी बड़ी बकचोदी कर रहा है ||,और बड़ी बड़ी बातें फेंक रहा है ||,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,किसी ने सही कहा कि जब गीदड़ की मौत आती है तो गाँव की तरफ दोड़ कर जाता है।,किसी ने सही कहा कि जब किसी डरपोक की मौत आती है तो गाँव की तरफ दोड़ कर जाता है।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,गांड़ में मिर्ची क्यों लगती है।,तेरी इतना जलती क्यों है |,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,चोदी गांड के आज बहुत मार रहे हैं,वो आज बहुत मार रहे हैं,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,जब बात किसी को बदनाम करने की होती है तो कुछ लोग कुत्ते से भी ज्यादा तेज भोंकते हैं,जब बात किसी को बदनाम करने की होती है तो कुछ लोग बहुत तेजी दिखाते हैं,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ज़रा सुनिए कुछ लोगों का स्तर कितना गिरा हुआ है। हरामी नीच,ज़रा सुनिए कुछ लोगों का स्तर कितना गिरा हुआ है।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"जिस किसी भी दिन फॉर्ब्स गिरे हुये नीच, जलील, कमीने पत्रकारों की लिस्ट बनायेगा. तू टॉप पर आएगा",जिस किसी भी दिन फॉर्ब्स बुरे पत्रकारों की लिस्ट बनायेगा. तू टॉप पर आएगा,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तु बीजेपी के गलती का इंतजार ऐसा करता है  जैसे कि रंडी को ग्राहक का हो |,तू बीजेपी के गलती का इंतजार बहुत बेसब्री से करता है ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तुम जैसे लोग साले गीत गधे का गाते है... भेनचोद भड़वे,तुम जैसे लोग बात बिना मतलब की ही करते हैं ।।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तू अपनी संपत्ति बेचकर उनका उद्धार क्यों नहीं करता ? साला भड़वा,तू अपनी संपत्ति बेचकर उनका उद्धार क्यों नहीं करता ?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,तेरे जैसे रंडी ही गुलामी करते थे उनकी,तेरे जैसे बुरे इंसान ही गुलामी करते थे उनकी,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,पन्नी फुक्का है क्या तब से कुछ भी बोला जा रहा है भोसड़ी के,क्या खाकर आया है तब से कुछ भी बोला जा रहा है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"बच्चा अपने दोस्त से - सीघ नहीं होती लोमड़ी के, और बताओ कैसे हो खोपड़ी के?",बच्चा अपने दोस्त से - और बताओ कैसे हो?,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भड़वा मीडिया ने भी इस घटना को नही दिखाया।,पक्षपाती मीडिया ने भी इस घटना को नहीं दिखाया ।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,भेनचोद चोर लुटेरे तो भटके हुए नौजवान है,ये चोर लुटेरे तो भटके हुए नौजवान है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"भोसडीके, एक शब्द भी नहीं बोला गया आत्म मुग्ध बौने।",एक शब्द भी नहीं बोला गया आत्म मुग्ध इंसान।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,"मुझे नीच पर सफाई  देने की जरूरत नहीं, बदलेगी सरकार","मुझे सफाई देने की जरूरत नहीं, बदलेगी सरकार",MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ये पिछवाड़ा चाटने वाला केजरीवाल झारखंड को पैसे देता है भड़वा,अपने आप को अच्छा दिखाने के लिए केजरीवाल झारखंड को पैसे देता है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ये बचपन नहीं जवानी है सड़े लूँड,ये बचपन नहीं जवानी है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ये हराम का पिल्ला हरामखोर हरामी है जिस का खाता है उसी में ये हरामखोर छेद करता है।।,ये धोखेबाज जिस का खाता है उसी के साथ धोखा करता है।।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,ये हरामी खुलेआम अलगाववादी भाषा बोल रहा है।,ये बेकार आदमी खुलेआम अलगाववादी भाषा बोल रहा है।,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,लगता सारे बुद्धजीवी पप्पू मूत्र पी के सो गए,लगता सारे बुद्धजीवी अपने की सोचने की शक्ति खो चुके है,MultiParaDetox,MultiParaDetox,,True
+hi,Hindi,लगता है मेरठ के लोग भड़वा बन गए है,लगता है मेरठ के लोग बेकार बन गए हैं,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"#6йсирник RT : - Та я, блядь, не из-за бабла.","#6йсирник RT : - Та я, не из-за бабла.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,І все це блять особисто до мене звернуте.,І все це особисто до мене звернуте.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Ахахахха блятьЯ б пішов пішкиЯкби дойшов,Ахахахха Я б пішов пішки Якби дойшов,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Бо сука-блять перша ночі, а ти тут розлігся як тюлєнь на льодовику.","Бо перша ночі, а ти тут розлігся як тюлєнь на льодовику.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ви, блять, за пару годин і не згадаєте кому це писали, нащо цей цирк?","Ви за пару годин і не згадаєте кому це писали, нащо цей цирк?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Можна я перестану буть такою як я є ало мені має буть похуй а чьото не похуй,Можна я перестану буть такою як я є ало мені має буть байдуже а чьото не байдуже,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи","Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ну бляяя, чого вони такі каєфні?",Ну  чого вони такі каєфні?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ох ти ж блін, я й не бачила, шо вже так пізно.","я й не бачила, шо вже так пізно.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Подруга прийшла пиздіти зі своїм мудаком до мене в кімнату.,Подруга прийшла поговоріть зі своїм хлопцем до мене в кімнату.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Підйоб, над яким не гріх поплакати.","Жарт, над яким не гріх поплакати.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Піздєц я вчасно знайшов лігво тараканів у себе над ліжкомЯкого блять хуя?,"Жах, я вчасно знайшов лігво тараканів у себе над ліжком?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Схуялі ти пишеш твіти з моєю картинкою?,навіщо ти пишеш твіти з моєю картинкою?,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Ти чо, ахурмєл так базаріть, дядя?","Ти чо взагалi так казати, дядя?",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Це не лєві) а тітка, яка сама ніхуя толком не прожила.","Це не лєві) а тітка, яка сама нічого толком не прожила.",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,Я можу їбанути по попі))))...,Я можу шльопнути по попі))))...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я не зла, але скоро буду бити вікна так припаркованим мудакам","Я не зла, але скоро буду бити вікна так припаркованим",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Я: блять, в мене якась депресія вже протягом тижня...",Я: у мене якась депресія вже протягом тижня...,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"Які, ссука вибори в умовах окупації?","Які, вибори в умовах окупації",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"блять, забув на вписці зарядку від ноута. попереду 11годинний робочий день. сука.сука.сука",забув на вписці зарядку від ноута. попереду 11годинний робочий день.,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,"в мене така жопа, шо їй і 3 торти не завадить","в мене така пятая точка, шо їй і 3 торти не завадить",MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,завжди роблю хуйовий а їй нра,завжди роблю поганий а їй нра,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,про ситуацію з плагіатом у журналі Vogue можу сказати: 2 тупі пизди,про ситуацію з плагіатом у журналі Vogue можу сказати: 2 глупі жінки,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,смм вийшов на вулиці і нам всім пизда,смм вийшов на вулиці і нам всім хана,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,спизди там рюмку для мене :D,вкради там рюмку для мене :D,MultiParaDetox,MultiParaDetox,,True
+uk,Ukrainian,сід каже що я хуйня :(,сід каже що я ніяка :(,MultiParaDetox,MultiParaDetox,,True
+xh,isiXhosa,kwedini 😂😭😂😭😂 ungaphinde uthi masikusindise kwezi ntwana URL,"Nceda ungaphindi uthi ""masikusindise kwezi ntwana"".",afrihate_human_reviewed,AfriHate,dev_isixhosa_00095,True
+xh,isiXhosa,"@username ngova, kwedini boke uthule xa kuthetha u nongxowa. ubalekisa elidlagusha ngezi  politics zenu ze bmf zingazi na niks after all. yekani ukuba zii populists maan","@username ngova, kwedini bonke nceda uthobe xa kuthetha u nongxowa. Ipolitiki zenu zeBMF ibonakala i-populist; yeka ukuba ni-populists",afrihate_human_reviewed,AfriHate,dev_isixhosa_00220,True
+xh,isiXhosa,@USER zogulisa iinduna zethu wena mgodoyi kutheni ungayohlala kwakho or uyobabusy kule mortuary yakho etonoreraaaaa kamnandi didi..,@USER uyenza iinduna zethu zigule; kutheni ungaqhubeki uhlale kwakho okanye uye usebenzela kwimortuary yakho?,afrihate_human_reviewed,AfriHate,test_isixhosa_00027,True
+xh,isiXhosa,@username ukujwayela kabi? lowo mgodoyi.,@username ukujwayela kabi? lowo mntu.,afrihate_human_reviewed,AfriHate,test_isixhosa_00337,True
+xh,isiXhosa,"@username siyaphapha &amp; sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha but lezi ezinye iy'mfene that don't even have izithakazelo kodwa zibe zazi kakhulu😩masingayeka nje ukuphapha.","@username siyaphapha & sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha, but abanye baziphatha ngendlela engeyiyo, abanazo izithakazelo kodwa bazibona belungile kakhulu 😩 masingayeka nje ukuphapha.",afrihate_human_reviewed,AfriHate,test_isixhosa_00529,True
+xh,isiXhosa,@USER yeka ubhala ngendaba zomama qha wena zinintsi izinto ezitshisa ibunzi zamadoda. phuma mgodoyi,"@USER yeka ubhala ngendaba zomama, kukho izinto ezininzi ezicaphukisayo kubadoda. Nceda ushiye.",afrihate_human_reviewed,AfriHate,train_isixhosa_00137,True
+xh,isiXhosa,@USER yeka ubhala ngendaba zomama qha wena zinintsi izinto ezitshisa ibunzi zamadoda. phuma mgodoyi,Yeka ubhala ngendaba zomama; qha wena uhlala ubhala izinto ezibangela iingxaki kumadoda. Ndicela usuke.,afrihate_human_reviewed,AfriHate,train_isixhosa_00137,True
+xh,isiXhosa,ngathi funeka ziphindwe zisikwe ezi pipi zenu zange nifunde nto URL,"Ngathi kufuneka zilungiswe ezi zinto zenu, zange nifunde nto URL",afrihate_human_reviewed,AfriHate,train_isixhosa_00559,True
+xh,isiXhosa,ngathi funeka ziphindwe zisikwe ezi pipi zenu zange nifunde nto URL,ngathi funeka ziphindwe zilungiswe ezi mpazamo zenu zange nifunde nto URL,afrihate_human_reviewed,AfriHate,train_isixhosa_00559,True
+xh,isiXhosa,@username usislima sokugqibela wena mdidi,Wena unengxaki enkulu.,afrihate_human_reviewed,AfriHate,train_isixhosa_01015,True
+xh,isiXhosa,@USER nasi esinye isibhanxa #blocksenzoooou URL,@USER nasi esinye umntu onengxaki #blocksenzoooou URL,afrihate_human_reviewed,AfriHate,train_isixhosa_01028,True
+xh,isiXhosa,@username inja engafundisekile. umthuqasi womgodoyi othi “shut up” kubantu abadala. nx mkhangqala ndini,"@username akaziphathanga kakuhle. Ukuthi ""shut up"" kubantu abadala akwamkeleki. Ndicaphukile.",afrihate_human_reviewed,AfriHate,train_isixhosa_01066,True
+xh,isiXhosa,@username ngakufonela mgodoyi ulibele ukubhiyoza.,@username ngakufonela kodwa ulibele ukubhiyoza.,afrihate_human_reviewed,AfriHate,train_isixhosa_01153,True
+xh,isiXhosa,@username ngakufonela mgodoyi ulibele ukubhiyoza.,@username ndakufonela kodwa ulibele ukubhiyoza.,afrihate_human_reviewed,AfriHate,train_isixhosa_01153,True
+xh,isiXhosa,ikaka zisela zilahleke 😭,abantu bayalahleka 😭,afrihate_human_reviewed,AfriHate,train_isixhosa_01264,True
+xh,isiXhosa,surely lo mgodoyi kwaku khokhe invoice ye tender thizeni.. URL,surely lo mntu kwakufanele akhokhe invoice ye tender thizeni.. URL,afrihate_human_reviewed,AfriHate,train_isixhosa_01332,True
+xh,isiXhosa,le weather indenza isibhanxa yazi 😠😠😠.,"le weather iyandikhathaza, yazi.",afrihate_human_reviewed,AfriHate,train_isixhosa_01622,True
+xh,isiXhosa,le weather indenza isibhanxa yazi 😠😠😠.,Le weather indenza ndithukuthele yazi.,afrihate_human_reviewed,AfriHate,train_isixhosa_01622,True
+xh,isiXhosa,@username futsek wulungiseni mazinye ezikaka😂😂😂😂,@username nceda wulungiseni mazinye ezimbi 😂😂😂😂,afrihate_human_reviewed,AfriHate,train_isixhosa_02645,True
+xh,isiXhosa,Awunyanisekanga.,Andiziva ndinokuthembela kuwe.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenza ukuba uve ubunzima obukhulu.,Ndiyathemba ukuba isisombululo esinciphisa ingozi.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenza utye la magama.,Andivumelani nento oyithethileyo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kukwenzakalisa.,Ndiziva ndonzakele ngamazwi / izenzo zakho.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ndiza kususa loo mazwi ebusweni bakho.,Andonwabanga yindlela yakho.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ubonakala ngathi uneminyaka elishumi ubusuku bonke.,Ujongeka ngathi uhamba ngexesha loxinzelelo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ungqengqa.,Indlela oziphethe ngayo iyacaphukisa.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ungumntu owoyikekayo.,Ndixhalabele indlela oziphethe ngayo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Ungumntu we-sandwich enye yepikniki.,Uzisa umbono ohlukileyo.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,Unxibe ubumnyama?,Ingubo yakho ngokuqinisekileyo yahlukile.,original_human_parallel,original_human_annotated,,True
+xh,isiXhosa,"Uya kufumana into eza kuwe, emva koko.",Ndiyakholelwa uyakufumana iziphumo ezikulinganayo.,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti ko ro o daadaa 🤣🤣🤣 URL,afrihate_human_reviewed,AfriHate,dev_yoruba_00041,True
+yo,Yorùbá,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti ṣe aṣiṣe 🤣🤣🤣 URL,afrihate_human_reviewed,AfriHate,dev_yoruba_00041,True
+yo,Yorùbá,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti n huwa ajeji 🤣🤣🤣 URL,afrihate_human_reviewed,AfriHate,dev_yoruba_00041,True
+yo,Yorùbá,bẹ́ ẹ bá wá rí ọ̀kọlà ẹ má mà mà bu ẹ má pè é lójú ẹlẹ́gba ẹ má fi rẹ́ẹ̀rín àṣà ilẹ̀ẹ wa ìgbaanì ló ńgbé lárugẹ,"Bí ẹ bá rí ẹni tó ní ilà lórí, ẹ má bu ú, ẹ má pè é ní orúkọ ìnira, ẹ má fi í rẹ́rìn; àṣà ilẹ̀ wa ìgbàànì ló ń gbé lárugẹ.",afrihate_human_reviewed,AfriHate,dev_yoruba_00071,True
+yo,Yorùbá,"""gbogbo yin ti ya werey papo😂😂 URL",gbogbo yin ti n ṣe aṣiṣe papo 😂😂,afrihate_human_reviewed,AfriHate,test_yoruba_00137,True
+yo,Yorùbá,"""gbogbo yin ti ya werey papo😂😂 URL",gbogbo yin ti se asise papo😂😂,afrihate_human_reviewed,AfriHate,test_yoruba_00137,True
+yo,Yorùbá,"""dami oloribuku omo jati jati !!!! #loveisland""","dami, iwa re nilo atunse!!!! #loveisland",afrihate_human_reviewed,AfriHate,test_yoruba_00265,True
+yo,Yorùbá,ọgbọ́n inú ọlọ́gbọ́n ni ọlọ́gbọ́n fi ńjẹun aṣièrè èèyàn kò mọ ìmọ̀ràn araa rẹ̀ẹ́ gbà a díá fún ọ̀rúnmìlà,ọgbọ́n inú ọlọ́gbọ́n ni ọlọ́gbọ́n fi ńjẹun ènìyàn tí kò ní ọgbọ́n kò mọ ìmọ̀ràn araa rẹ̀ẹ́ gbà a díá fún ọ̀rúnmìlà,afrihate_human_reviewed,AfriHate,test_yoruba_00274,True
+yo,Yorùbá,ọgbọ́n inú ọlọ́gbọ́n ni ọlọ́gbọ́n fi ńjẹun aṣièrè èèyàn kò mọ ìmọ̀ràn araa rẹ̀ẹ́ gbà a díá fún ọ̀rúnmìlà,"ọgbọ́n inú ọlọ́gbọ́n ni ọlọ́gbọ́n fi ńjẹun, ẹni tí kò ní ìmòye kò mọ ìmọ̀ràn araa rẹ̀ẹ́ gbà a díá fún ọ̀rúnmìlà",afrihate_human_reviewed,AfriHate,test_yoruba_00274,True
+yo,Yorùbá,"""@username oloriburuku gidi ni bobo daniel yi.""",@username bobo Daniel yi ní ìwà tí kò dáa.,afrihate_human_reviewed,AfriHate,train_yoruba_00262,True
+yo,Yorùbá,"""@username oloriburuku ni awon ppl yi seh 💔""",@username iwa awon ppl yi ko dara seh 💔,afrihate_human_reviewed,AfriHate,train_yoruba_00302,True
+yo,Yorùbá,"""ikoyi link bridge toll?  like seriously?  n1000 toll!  olè  nì awon arà ibì yi o""",ikoyi link bridge toll? like seriously? n1000 toll! ohun tí àwọn ará ibi yìí ń ṣe kò tọ́ o,afrihate_human_reviewed,AfriHate,train_yoruba_00618,True
+yo,Yorùbá,ló ń jẹ́ kí ẹrù u wèrè ó pọ̀ ẹn ẹn bẹ́ẹ̀ ni o àìlèmójúkúrò ló ń mú kí ẹrù u wèrè ó pọ̀,"Ó ń jẹ́ kí ẹ̀rù àìlera ọpọlọ pọ̀, ẹn ẹn bẹ́ẹ̀ ni o, àìlèmójúkúrò ló ń mú kí ẹ̀rù àìlera ọpọlọ pọ̀.",afrihate_human_reviewed,AfriHate,train_yoruba_00737,True
+yo,Yorùbá,"""@USER were fe ku lori oro oloro.. omo ofo""",@USER O n fi iye re si ewu lori oro oloro.,afrihate_human_reviewed,AfriHate,train_yoruba_00827,True
+yo,Yorùbá,"""@username ọmọ alè jatijati é.... onibaje oshi""",@username Ìwa rẹ̀ ní àǹfààní láti dára síi.,afrihate_human_reviewed,AfriHate,train_yoruba_01180,True
+yo,Yorùbá,tó bá wá jẹ́ ọkọ ìyá yìí ló yá ní wèrè gẹ́gẹ́ bí ara àdúgbò ṣe ti lérò a jẹ́ wípé lóòótọ́ nǹkan ń bẹ,"Tó bá wá jẹ́ ọkọ ìyá yìí ní ìṣòro ìlera ọpọlọ gẹ́gẹ́ bí ara àdúgbò ṣe ti rò, a jẹ́ wípé lóòótọ́ nǹkan ń bẹ.",afrihate_human_reviewed,AfriHate,train_yoruba_01225,True
+yo,Yorùbá,tó bá wá jẹ́ ọkọ ìyá yìí ló yá ní wèrè gẹ́gẹ́ bí ara àdúgbò ṣe ti lérò a jẹ́ wípé lóòótọ́ nǹkan ń bẹ,tó bá wá jẹ́ ọkọ ìyá yìí ló yá ní ìṣòro ìlera ọpọlọ gẹ́gẹ́ bí ara àdúgbò ṣe ti lérò a jẹ́ wípé lóòótọ́ nǹkan ń bẹ,afrihate_human_reviewed,AfriHate,train_yoruba_01225,True
+yo,Yorùbá,"""@username ọmọ alè 😂""",@username ìwà rẹ nílò ìtúnṣe díẹ̀ 😂,afrihate_human_reviewed,AfriHate,train_yoruba_01615,True
+yo,Yorùbá,bí a bá wí tàì wí nípa nínífẹ̀ sí àṣà yorùbá àwọn aláìmọ̀kànmọ̀kan wọ́n á máa ní abọ̀rìṣà ni babaláwo ni ó ṣe,"bí a bá wí tàì wí nípa nínífẹ̀ sí àṣà yorùbá, àwọn tí kò ye e dáadáa wọ́n á máa ní abọ̀rìṣà ni babaláwo ni ó ṣe",afrihate_human_reviewed,AfriHate,train_yoruba_01992,True
+yo,Yorùbá,bí a bá wí tàì wí nípa nínífẹ̀ sí àṣà yorùbá àwọn aláìmọ̀kànmọ̀kan wọ́n á máa ní abọ̀rìṣà ni babaláwo ni ó ṣe,"bí a bá wí tàì wí nípa nínífẹ̀ sí àṣà Yorùbá, àwọn tí nílò ìmọ̀ síi wọ́n á máa ní abọ̀rìṣà ni, babaláwo ni ó ṣe",afrihate_human_reviewed,AfriHate,train_yoruba_01992,True
+yo,Yorùbá,"""@username awọn were jatijati""",@username awọn ń ṣe aṣiṣe gan-an,afrihate_human_reviewed,AfriHate,train_yoruba_02400,True
+yo,Yorùbá,"""omo ale ni bobo arturo yi""",bobo arturo yi nilo atunse,afrihate_human_reviewed,AfriHate,train_yoruba_02733,True
+yo,Yorùbá,"""omo ale ni bobo arturo yi""",Bobo Arturo yìí nílò láti hùwà dáadáa.,afrihate_human_reviewed,AfriHate,train_yoruba_02733,True
+yo,Yorùbá,"""omo ale ni bobo arturo yi""",alagidi ni bobo arturo yi,afrihate_human_reviewed,AfriHate,train_yoruba_02733,True
+yo,Yorùbá,A ò lè fi ọ sípò pàtàkì,A lè fi ọ sípò pàtàkì bí o bá ṣàfihàn ìgboyà àti iṣẹ́ rere,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Iwọ jẹ́ ẹ̀rù fún wa,Ìṣe rẹ̀ lè ṣiṣẹ́ pọ̀ bi o ba mú un dara,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Mi ò ní sinmi títí tí mo fi ma gbà èsan mi.,Mo nílò ìdáhùn kedere sí ọ̀ràn yìí,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,O jẹ́ aláìnífọwọ́sowọpọ̀,Ìṣe rẹ lè ní tẹ̀síwájú pẹ̀lú ìfọwọ́sowọpọ̀,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìmọ̀ rẹ̀ kéré gan-an,Ìmọ̀ rẹ̀ nilo ìtẹ̀síwájú síi,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìnù-rere ìrò rẹ jẹ́ ohun irira,Ìfihàn ìnù-rere yìí kò ṣàfihàn òótọ́,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìròyìn rẹ jẹ́ aṣejù; kò tọ́,Ìròyìn rẹ̀ kò péye; jọwọ ṣàtúnṣe,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìwọ yóò dojú kọ ìbínú mi.,Ìbánisọ̀rọ̀ yóò wáyé ní ìbòwò,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ìṣe rẹ̀ jẹ́ kí gbogbo ohun baje,Ìṣe rẹ̀ lè wúlò bi o ba mu dara síi,original_human_parallel,original_human_annotated,,True
+yo,Yorùbá,Ó dájú pé o máa kùnà,"O lè dojukọ ìṣòro, ṣùgbọ́n o tún lè ṣàṣeyọrí",original_human_parallel,original_human_annotated,,True

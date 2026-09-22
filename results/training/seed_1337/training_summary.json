@@ -1,0 +1,11 @@
+{
+  "seed": 1337,
+  "model_id": "google/mt5-base",
+  "train_samples": 1164,
+  "dev_samples": 254,
+  "test_samples": 246,
+  "best_eval_loss": 1.3786556720733643,
+  "train_loss": 4.619679931293835,
+  "global_step": 1100,
+  "epochs_trained": 15.068493150684931
+}
