@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "model_id": "google/mt5-base",
+  "split_rule": "grouped_by_toxic_input_70_15_15_all_rows",
+  "train_samples": 2581,
+  "dev_samples": 547,
+  "test_samples": 566,
+  "best_observed_eval_loss": 1.4022051095962524,
+  "best_observed_eval_step": 1200,
+  "train_loss": 2.66555833345578,
+  "global_step": 3240,
+  "epochs_trained": 20.0,
+  "finite_final_parameters": true,
+  "checkpoint_policy": "final_only_no_optimizer_checkpoint"
+}
