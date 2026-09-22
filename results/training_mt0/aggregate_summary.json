@@ -1,0 +1,58 @@
+{
+  "model_id": "bigscience/mt0-base",
+  "split_rule": "grouped_by_toxic_input_70_15_15_all_rows",
+  "seeds": [
+    42,
+    1337,
+    2024
+  ],
+  "per_seed_summaries": [
+    {
+      "seed": 42,
+      "model_id": "bigscience/mt0-base",
+      "split_rule": "grouped_by_toxic_input_70_15_15_all_rows",
+      "train_samples": 2581,
+      "dev_samples": 547,
+      "test_samples": 566,
+      "best_observed_eval_loss": 1.3179672956466675,
+      "best_observed_eval_step": 500,
+      "train_loss": 1.6354257393766332,
+      "global_step": 3240,
+      "epochs_trained": 20.0,
+      "finite_final_parameters": true,
+      "checkpoint_policy": "final_only_no_optimizer_checkpoint"
+    },
+    {
+      "seed": 1337,
+      "model_id": "bigscience/mt0-base",
+      "split_rule": "grouped_by_toxic_input_70_15_15_all_rows",
+      "train_samples": 2579,
+      "dev_samples": 552,
+      "test_samples": 563,
+      "best_observed_eval_loss": 1.3308515548706055,
+      "best_observed_eval_step": 500,
+      "train_loss": 1.679032392266356,
+      "global_step": 3240,
+      "epochs_trained": 20.0,
+      "finite_final_parameters": true,
+      "checkpoint_policy": "final_only_no_optimizer_checkpoint"
+    },
+    {
+      "seed": 2024,
+      "model_id": "bigscience/mt0-base",
+      "split_rule": "grouped_by_toxic_input_70_15_15_all_rows",
+      "train_samples": 2583,
+      "dev_samples": 558,
+      "test_samples": 553,
+      "best_observed_eval_loss": 1.2157009840011597,
+      "best_observed_eval_step": 800,
+      "train_loss": 1.7319254089284826,
+      "global_step": 3240,
+      "epochs_trained": 20.0,
+      "finite_final_parameters": true,
+      "checkpoint_policy": "final_only_no_optimizer_checkpoint"
+    }
+  ],
+  "mean_train_loss": 1.6821278468571572,
+  "mean_best_observed_eval_loss": 1.2881732781728108
+}

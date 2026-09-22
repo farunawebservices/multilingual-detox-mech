@@ -1,0 +1,568 @@
+pair_id,language,toxic_input,detox_output,prediction
+am_0,am,DW ናችሁ ወይም ግንዛቤ የላችሁም ካልክ ወዲያ የምን ሊል አስቦ ነው? የምን ጥሩና መጥፎ ነው? እንዲህ ካመናችሁ እንዲህ ናችሁ እያልከን አይደል? ??,ብዙም ግንዛቤ የላችሁም ።  ምን ሊል አስቦ ነው? የምን ጥሩና መጥፎ ነው? እንዲህ ካመናችሁ እንዲህ ናችሁ እያልከን አይደል? ??,DW ናችሁ ወይም ግንዛቤ የላችሁም ካልክ ፤ ወዲያ የምን ሊል አስቦ ነው? የምን ጥሩና መጥፎ ነው? እንዲህ ካመናችሁ እንዲህ ናችሁ እያልከን አይደል? ??
+am_1,am,Jeylan hybrid ጁንታ TPLF-OLF እኔ የሚገርመኝ እራስህን ለምን ታሞኛለህ ሞኝ ሲንጠራራ የረዘመ ይመስለዋል,እራስህን ለምን እንደምትሸውድ አይገባኝም,እኔ የሚገርመኝ እራስህን ለምን ታሞኛለህ ሞኝ ሲንጠራራ የረዘመ ይመስለዋል
+am_2,am,Knock3who is there?Do uve anything to say . አማራ ጨዎ ህዝብ ነው። መድፈር በዘሩም የለ። ያንቺ አይነት የ360ውሾች አይነት የህዎት ዲቃላ,አማራ ጨዋ ህዝብ ነው። ደፈር ነው። ያንቺ አይነት  አየደለም,አማራ ጨዎ ህዝብ ነው። መድፈር በዘሩም የለ። ያንቺ አይነት የ360ውሾች አይነት የህዎት ሰው
+am_3,am,Lol ሰላማዊ ሰው እና ንብረት ማውደም ነው ላንተ ውለታ የታለ አንድ ሰው የያዙት ወይም የያዛችሁት ቱልቱላ ውጤቱን ታየዋለህ አገር አል,ሰላማዊ ሰው እና ንብረት ለይ አደጋ ማድራስ ነው ውለታ  የታለ አንድ ሰው  የያዛችሁት  ማውራት ምን ያደርጋል ውጤቱን ታየዋለህ,ሰላማዊ ሰው እና ንብረት ማውደም ነው ላንተ ውለታ የታለ አንድ ሰው የያዙት ወይም የያዛችሁት ውጤቱን ታየዋለህ አገር አል
+am_4,am,Who is this? አንተ ደግሞ የማነህ ዘረጦ ፈሳም? ፈታኝ ወቅትስ የትኛው ነው? አማራውና መከላከያው ውጊያ ሜዳ ላይ ሲውል ይህ ሚድያ የት,አንተ ምን እያልክ ነው ? ፈታኝ ወቅትስ የትኛው ነው? አማራውና መከላከያው ውጊያ ሜዳ ላይ ሲውል ይህ ሚድያ የት,አንተ ደግሞ የማነህ ወቅትስ የትኛው ነው? አማራውና መከላከያው ውጊያ ሜዳ ላይ ሲውል ይህ ሰው የት ነው
+am_5,am,jerry Tigray እንዴው ለአፍህ አይከብድህም ቦቅቧቃ ብለህ ስትሳደብ አንተ ቀፎ አንተም ታውቀዋለሀሸ ጀግናነቱን በየጉድጓዱ ውስጥ የሸጎጠህን ጀግና በግሙ አፍህ,ጀግነነቱን እያወቅክ በተቃራኒው መግለፅህ እራስን እንደሸወድ ነው የሚቆጠርብህ,jerry Tigray እንዴው ለአፍህ አይከብድህም ቦቅቧቃ ብለህ ስትሳደብ አንተም ታውቀዋለሀሸ ጀግናነቱን በየጉድጓዱ ውስጥ የሸጎጠህን ጀግና በግሙ አፍህ
+am_6,am,ህዝቡን አይወክልም ተብሎ ተነስቷል። አይተ አዲሱ ለገሰ ድምጻቸው ጠፋሳ,ህዝቡን አይወክልም ተብሎ ተነስቷል። አቶ አዲሱ ለገሰ ምነው ድምጻቸው ጠፋ,ህዝቡን አይወክልም ተብሎ ተነስቷል። አይተ አዲሱ ለገሰ ድምጻቸው
+am_7,am,ለመሆኑ ኢትዮጵያ ውስጥ ፕሬስ ሴክሬታሪ በህይወት አለ? ሞቶ ከሆነ ግን ነብስ ይማር,ለመሆኑ ኢትዮጵያ ውስጥ ፕሬስ ሴክሬታሪ አለ ብሎ መናገር ይቻላል,ለመሆኑ ኢትዮጵያ ውስጥ ፕሬስ ሴክሬታሪ በህይወት አለ? ሞቶ ከሆነ ግን ነብስ ይማር
+am_8,am,ለምን ሄደሽ አትፈልግም አንቺ? የ360 አርበኞች አባል አይደለሽም,ለምን ሄደሽ አትፈልጊም አንቺ? የ360 የስራ ባልደረባ አይደለሽ,ለምን ሄደሽ አትፈልግም አንቺ? የ360 አርበኞች አባል አይደለሽም
+am_9,am,ለበግም አልበጀም እያሉ ዲስፕሩፍ ሊያረጉት ይፈልጋሉ,ለየዋህም አልበጀ እያሉ ላለመቀበል ይፈልጋሉ,ለበግም አልበጀም እያሉ ዲስፕሩፍ ሊያረጉት ይፈልጋሉ
+am_10,am,ለዚኖራል በሬየን ያረድኩት አለአበው ከቅሌትጋር መያዙ ላይቀር በልቶ ያልጠገበውን ያገሬውን ሰው ያስጨረሰው በዛምላሱ ምን ያወራ ይሆን?,ለዚኖራል በሬየን ያረድኩት አለአበው ከእንዲህ አይነት ስራ ጋር መያዙ ላይቀር በልቶ ያልጠገበውን ያገሬውን ሰው እንዲጎዳ አድርጎ፤ እስቲ አሁን ምን ያወራ ይሆን?,ለዚኖራል በሬየን ያረድኩት አለአበው ከቅሌትጋር መያዙ ላይቀር በልቶ ያልጠገበውን ያገሬውን ሰው ያስጨረሰው በዛምላሱ ምን ያወራ ይሆን?
+am_11,am,ለጥቅም ሲል እናቱን ከማስማማት የማይመለስ፣ ደነዝ የሚል ይጨመርበት።,የተሻለ ነገር የሚያገኝ ከመሰለው የማይደረግ ነገርን ሁሉ ሊያደርግ ይችላል,ለጥቅም ሲል እናቱን ከማስማማት የማይመለስ፣ ደነዝ የሚል ይጨመርበት።
+am_12,am,መልዕክቱ ለባለጌው ሹመኛና ከፈራ እንኳን እኔ ውቃቢዬ የኢትዮጵያን ሰንደቅ ነው ይበልጥ የሚወድ እሱን ስጡኝ ማለት ላልቻለው ሾካካ ነው።,መልዕክቱ ለዚያ ሹመኛና ከፈራ እንኳን እኔ መንፈሴ የኢትዮጵያን ሰንደቅ ነው ይበልጥ የሚወድ እሱን ስጡኝ ማለት ላልቻለው ሰዉዬ ነው።,መልዕክቱ ለባለጌው ሹመኛና ከፈራ እንኳን እኔ ውቃቢዬ የኢትዮጵያን ሰንደቅ ነው ይበልጥ የሚወድ እሱን ስጡኝ ማለት ላልቻለው ነው።
+am_13,am,መንግስት ጉያው ውስጥ የተወሸቁትን እነ ስዩም ተሸመና መሰሎቹ የሚረጩትን መርዝ ካላስቆመና አደብ ካላስገዛ መንግስት እሳት በማጥፋት መጠመዱና ዜጋም ውድ ህይወቱን ከፋይ መሆኑ የማይቀር ነው፡፡,መንግስት ውስጡ ያሉትን እነ ስዩም ተሸመና መሰሎቹ የሚናገሩትን ልዩነትን የሚያሰፉ መረጃዎችን  ካላስቆመና ስርአት ካላስያዘ መንግስት እሳት በማጥፋት መጠመዱና ዜጋም ህይወቱን ማጣቱ ይቀጥላል፡፡,መንግስት ጉያው ውስጥ የተወሸቁትን እነ ስዩም ተሸመና መሰሎቹ የሚረጩትን መርዝ ካላስቆመና አደብ ካላስገዛ መንግስት እሳት በማጥፋት መጠመዱና ዜጋም ውድ ህይወቱን ከፋይ መሆኑ የማይቀር ነው፡፡
+am_14,am,ምድረ ደነዝ ሁሉ ጭንቅላቱ ሲጠብ ጭንቅላት ያላቸውን ሰዎች መደብደብ ያው ዝቅተኛነታቸውን ያሳያል:: ይኸው ነው የነታከለ ኡማና ሽመልስ ማፊያ ማደራጀት::,መሰብ አይችሉም  ሰዎች መደብደብ ያው የበታችነት ስሜት እንደ ሚሰማቸው ያሳያል::,ምድረ ደነዝ ሁሉ ጭንቅላቱ ሲጠብ ጭንቅላት ያላቸውን ሰዎች መደብደብ ያው ዝቅተኛነታቸውን ያሳያል:: ይኸው ነው የነታከለ ኡማና ሽመልስ ማፊያ ማደራጀት::
+am_15,am,ቀባጣሪ ቆሻሻ ለስልጣንና ለገንዘብ አይንሽ የታዉረ ቆሻሻ የኤርሚያስ ገሰ ታናሽ እህት መቸም እንዳንች አይነቱ ገልቱ በጭብጨባ የሚሰክር ሰው ቦታ የላትም,ለስልጣንና ለገንዘብ እይታሽ ተከልሎ ጥሩ ነገር የለሽም፡፡ ጥሩ ቦታም አይኖርሽም,ለስልጣንና ለገንዘብ አይንሽ የታዉረ ቆሻሻ የኤርሚያስ ገሰ ታናሽ እህት መቸም እንዳንች አይነቱ ሰው ቦታ የላትም
+am_16,am,ቆሻሻ ውሻ ሸርሙጣ በእጅ ያለ ወርቅ እንደመዳብ ይቆጠራል,አልተረዳሀውም እንጂ በእጅ ያለ ወርቅ እንደመዳብ ይቆጠራል,ሽርሙጣ በእጅ ያለ ወርቅ እንደመዳብ ይቆጠራል
+am_17,am,በለው ፓትርያርክ ማትያስ ኣረ ብልጽግና ስም ማጥፋት ለምን ኣቶ ኣትሉትም??,ፓትርያርክ ማትያስ ብልግናን ስም ማንሳትንም ለምን ተው ኣትሉትም??,በለው ፓትርያርክ ማትያስ ኣረ ብልጽግና ስም ማጥፋት ለምን ኣቶ ኣትሉትም??
+am_18,am,በምን ኢሳብ ነው ይንን ወራዳ ባንዳ (ካድሬ) አባት ብለህ የምትጠራው,በምን ሂሳብ ነው ይንን የፖለቲካ ሹም አባት ብለህ የምትጠራው,በምን ኢሳብ ነው ይንን አባት ብለህ የምትጠራው
+am_19,am,በርግጥም ናችሁ እኮ አልታወቅህ ብሎ ነው። በነፃ ቢሮ እና ጥቅማጥቅም እምታገኝ የእንጀራልጁ ሁነህ አደለም ተለጣፊ ገመድ አንገትህ ላይ አድርጉ እንደ ውሻ ሰለሚጉትትህ ነው,አልታወቀህም እንጂ እንደዚያ የሆናችሁ ነው የሚመስለው ፡፡ በነፃ ድጋፎችን እምታገኘው የቅርብ ሰው ስለሆንክ ይመስላል,በርግጥም ናችሁ እኮ አልታወቅህ ብሎ ነው። በነፃ ቢሮ እና ጥቅማጥቅም እምታገኝ የእንጀራልጁ ሁነህ አደለም ተለጣፊ ገመድ አንገትህ ላይ አድርጉ
+am_20,am,በነፈሰበት አትንፈስ . ራስህን ሁን አቋም????,የራስህ አቋም ሰኖርህ ነው የተሻለ የሚሆነው,በነፈሰበት አትንፈስ . ራስህን ሁን አቋም????
+am_21,am,ባለጌው  አንተ ክፉ ልክስክስ። ተመልሰህ ወጥተህ ይቅርታ ጠይቅ። ስሜታዊ ሆኜ ነው በል። እንደ አንተ ርካሽ ደግሞ አላየሁም። ሰላም  በጔደ,አንተ ስርአት የሌለህ ተመልሰህ ወጥተህ ይቅርታ ጠይቅ። ስሜታዊ ሆኜ ነው በል።,አንተ ልክስክስ። ተመልሰህ ወጥተህ ይቅርታ ጠይቅ። ስሜታዊ ሆኜ ነው በል። እንደ አንተ ርካሽ ደግሞ አላየሁም። ሰላም በጔደ
+am_22,am,ቦምብ በሻንጣ የጫነችው የፖሊስ መኪና (ፖሊስ ኢት 0384 ET) ሆን ተብሎ እንድትቃጠል ተደርጋለች።,መሰሪያ በሻንጣ የጫነችው የፖሊስ መኪና (ፖሊስ ኢት 0384 ET)  እንድትቃጠል ተደርጋለች።,የፖሊስ መኪና (ፖሊስ ኢት 0384 ET) ሆን ተብሎ እንድትቃጠል ተደርጋለች።
+am_23,am,ቦቅቧቃ እንደአንተ አይነቱን ታድዮስ ታንቱ በመድረክ አስነጥሶ ይዘርራል። እዚህ እንዴት እንደደረስክ የካድክ ውለታ ቢስ መሆንህን የሚያሳየ,አንተን ታድዮስ ታንቱ በመድረክ የሀሳብ ፍጭት በደንብ ያሳምናል። ዛሬ ላይ እንዴት እንደደረስክ ሳታምን መምጣትህን,እንደአንተ አይነቱን ታድዮስ ታንቱ በመድረክ አስነጥሶ ይዘርራል። እዚህ እንዴት እንደደረስክ የካድክ ውለታ ቢስ መሆንህን የሚያሳየ
+am_24,am,ተስፋ አደርጋለሁ ብዬ ተስፋ አደርጋለሁ ሰይጣን ወደ አንተ ይደርሳል ብዬ ተስፋ አደርጋለሁ በሲኦል ውስጥ እንደበሰብስኩ እና በህይወትዎ ውስጥ ያሉ መልካም ነገሮች ሁሉ ከእርስዎ እንደተ,ተስፋ አደርጋለሁ ብዬ በሰረሁት መጥፎ ስራ እየተቀጠሁ እንደ ሆነ እና በህይወትዎ ውስጥ ያሉ መልካም ነገሮች,ተስፋ አደርጋለሁ ብዬ ተስፋ አደርጋለሁ በሲኦል ውስጥ እንደበሰብስኩ እና በህይወትዎ ውስጥ ያሉ መልካም ነገሮች ሁሉ ከእርስዎ እንደተ
+am_25,am,ተይ ቢሏት የማትሰማ ደነዝ ነገር ናት: ጡዛ እየመጣች የምትለውን እንኩዋን ላይታ የማታውቅ ድንዙዝ ናት: ጭራሽ ለምን ታቅፏት አይዞርም ይቺን ጋለሞታ,ተይ ቢሏት የማትሰማ ልጅ ናት: ዝም ብላ እየመጣች የምትለውን እንኩዋን ላይታ የማታውቅ : ጭራሽ ለምን ታቅፏት አይዞርም,ተይ ቢሏት የማትሰማ ነገር ናት: ጡዛ እየመጣች የምትለውን እንኩዋን ላይታ የማታውቅ ድንዙዝ ናት: ጭራሽ ለምን ታቅፏት አይዞርም ይቺን ጋለሞታ
+am_26,am,አሳረረን እኮ እግዚአብሔር ይድፋው እሄ እርኩስ ደግሞ አይመረጥም,አስመረረን እኮ እግዚአብሔር ፍርዱን ይስጠው,አሳረረን እኮ እግዚአብሔር ይድፋው እሄ እርኩስ ደግሞ አይመረጥም
+am_27,am,አስመሳይ በለው:: እንዲህ አይነት እርምጥምጥ ሰው ማየት ሲቀፍ,ማስመሰል እና አንድ ነገር ላይ ብዙ መቆየት ይወዳል፡፡ እኔ ደሞ ደስ አይለኝም,በለው:: እንዲህ አይነት ሰው ማየት ሲቀፍ
+am_28,am,አብይ አህመድ ጭንቅላትህን አሰራውስንትካንተ የሚበልጡ ሙሁሮች አሉ ሙሮቹን እንደደደብ ባትቆጥር ጥሩ ነውጥንት ግዜ እንዳይመስልህ ቴክሌለጂው እንኳን ሙሁሩን ያልተማረውን ህዝብ ቀይሮል,መንግስት ለሀገር የሚጠቅም ሀሳብ ሊያመጡ የሚችሉ ምሁራኖችን አቅርቦ ማናገርና አብሮ መስራትን መልመድ አለበት፡፡,አብይ አህመድ ጭንቅላትህን አሰራውስንትካንተ የሚበልጡ ሙሁሮች አሉ ሙሮቹን እንደደደብ ባትቆጥር ጥሩ ነውጥንት ግዜ እንዳይመስልህ ቴክሌለጂው እንኳን ሙሁሩን ያልተማረውን ህዝብ ቀይሮል
+am_29,am,አንተ ምን አፍ አለህ ከዚህ በዋላ። ጠባብ ዘረኛ።,አንተ ምን ማለት ትችላህ ከዚህ በዋላ። ወገንተኛ ነህ,አንተ ምን አፍ አለህ ከዚህ በዋላ። ጥሩ ሰው።
+am_30,am,አንተ ውሻ በቅርብ ሞትህ ያሳየኝ ጌይታየ አንተ ውሸታም ሳጥናኤል መቸም ሙተህም እንዱሰው አትከብርም ሲኦል ትገባታለህ እንጂ የንፁሀኑ ደም እሳት ሁኖ ካላነደደህ,ያንተን መጨረሻ ያሳየኝ ፤ ፈጣሪ ፍርዱን ይስጥ,በቅርብ ሞትህ ያሳየኝ ጌይታየ
+am_31,am,አንተ የሸርሙጣ ልጅ ቁጭ ብለህ ሴት ጋ ትሳደባለህ አይደል ሴታሴት,አንተ ስራ ፈተህ ተገቢ ያልሆኑ ቃላቶችን ከእህቶች ጋር ትለዋወጣለህ !,አንተ ልጅ ቁጭ ብለህ ሴት ጋ ትሳደባለህ አይደል ሴታሴት
+am_32,am,አንተ የሸርሙጣ ልጅ ጠብቅ አንተም አብይም ዋጋችሁን ታኛላችሁ,አንድ ቀን አንተም አብይም ዋጋችሁን መክፈላችሁ አይቀርም,አንተም አብይም ዋጋችሁን ታኛላችሁ
+am_33,am,አንተን ነው ተንኮሉ። ቢኒያም ምንም አላረገም ??,አንተን ነው ማነህ። ቢኒያም ምንም አላረገም ??,አንተን ነው ተንኮሉ። ቢኒያም ምንም አላረገም ??
+am_34,am,አንቺ ምነው እንዲህ ቅጥል አልሽ የሰው ድምጽ ለማፈን ብለሽ ነው ደደብ ሂጅይ እዛ የህወሀት ቡችላ።,አንቺ በዚህ ደረጃ ልትበሳጪ አይገባም ሰውም ድምፁን በነፃነት ማሰማቱ ተገቢ ነው ፡፡,አንቺ ምነው እንዲህ ብለሽ የሰው ድምፅ ለማፈን ብለሽ ነው ፤ እዛ የህወሀት ቡችላ።
+am_35,am,ኣንተ ድቃላ ቀንህ ጠብቅ ሽንታም ቀንህ እየደረሰ ነው,በዚህ ሁኔታህ ብዙ ጊዜ ላይኖርህ ይችላል ፤ ብታርፍ አይሻልም,ቀንህ ጠብቅ ሽንታም ቀንህ እየደረሰ ነው
+am_36,am,ኤዲያ ዐቢይን አንድ አንተ ብትጠላው ምን ታመጣለህ?,አቢይን አንድ አንተ ብቻ ብትጠላው ምንም የምታመጣው ለውጥ የለም,ኤዲያ ዐቢይን አንድ አንተ ብትጠላው ምን ታመጣለህ?
+am_37,am,እንኳን ደስስስስ አላችሁ። የኛ ውድ ተላላኪዋዎች የምስክር ወረቀትም ይዘጋጅላችኋል።,እንኳን ደስስስስ አላችሁ። የኛ ውድ ተመራቂዎች የምስክር ወረቀትም ይዘጋጅላችኋል።,እንኳን ደስስስስ አላችሁ። የኛ ውድ ተላላኪዋዎች የምስክር ወረቀትም ይዘጋጅላችኋል።
+am_38,am,እንዲያውም አቶ ስብሃት ዕድለኛ ናቸው ለቀራቸው ትንሽ ጊዜ እየበሉ እየታከሙ የሚቆዩበት ዕድል አግኝተዋል። ምንም እንኳ ለ40 አመታት ለፈፀሙት በደል ሁሉ የሚቀጡበት በቂ ጊዜ ባይኖራቸውም።,እንዲያውም አቶ ስብሃት ዕድለኛ ናቸው ለቀራቸው ትንሽ ጊዜ እየበሉ እየታከሙ የሚቆዩበት ዕድል አግኝተዋል። ምንም እንኳ ለ40 አመታት ለፈፀሙት በደል የሚመጥን ነገር ባይኖርም,እንዲውም አቶ ስብሃት ዕድለኛ ናቸው ለቀራቸው ትንሽ ጊዜ እየበሉ እየታከሙ የሚቆዩበት ዕድል አግኝተዋል። ምንም እንኳ ለ40 አመታት ለፈፀሙት በደል ሁሉ የሚቀጡበት በቂ ጊዜ ባይኖራቸውም።
+am_39,am,እንዳንተ አይነቱ ነው የታሪክ አተላ የሚባል አውቃችሁ ሞታችዋል,እውቀታችን ሀገራችንን የምናገለግልበት መሳሪያ እንጂ የምንመጻደቅበት ሊሆን አይገባውም,እንዳንተ አይነቱ ነው የታሪክ አተላ የሚባል አውቃችሁ ሞታችዋል
+am_40,am,እውነት ነው አባት እንደ ልጅ አይጨክንም . የዚህ አረመኔ ጭካኔ ግን በዛ,እውነት ነው አባት እንደ ልጅ አይጨክንም ምንም እንኩዋን የሱን ከዚህ ማንሳት ትንሽ ቢከብድም,እውነት ነው አባት እንደ ልጅ አይጨክንም . የዚህ አረመኔ ጭካኔ ግን በዛ
+am_41,am,እጅግ ማፈሪያ የሆንከው አንተነህ ይልቅስ የማፈሪያ ስብስብ ደግሞ በጣም ሚያስቀኝ የዚህ የሚያረገው ግላቭ ነገር ነው ኮሮናን መከላከሉ ነው ኮሮና የሆነ ሰው እራስ ወዳድ፤ ህፃናት,ገራሚ የሆንከው አንተነህ ይልቅስ ደግሞ በጣም ሚያስቀኝ የዚህ የሚያረገው ግላቭ ነገር ነው ኮሮናን መከላከሉ ነው ፤ እራስ ወዳድ,አንተነህ ይልቅስ የማፈሪያ ስብስብ ደግሞ በጣም ሚያስቀኝ የዚህ የሚያረገው ግላቭ ነገር ነው ኮሮናን መከላከሉ ነው ኮሮና የሆነ ሰው እራስ ወዳድ፤ ህፃናት
+am_42,am,ኦኦፕፕስስ የሆክ ለማኝ እከክሲጀመር መንግስትን ከአንድ ሌባ ማፊያ ቡድን ታወዳድራለህ???? ለነገሩ አይፈረድብህም የልመና ስነልቦና ነው ያለህ ለማኝ ለአብይ ትዊት አንበሳ,መጀመሪየዉኑ መንግስትን ከአንድ አነስተኛ ቡድን ጋር ማወዳደርህ ትክክል አይደለም፡፡,መንግስትን ከአንድ ሌባ ማፊያ ቡድን ታወዳድራለህ???? ለነገሩ አይፈረድብህም የልመና ስነልቦና ነው ያለህ ለማኝ
+am_43,am,ከማነው አሁን ሚታገለው? ከወንድሙ? ወጣ ብሎ ጠላት አጥቅቶ ያቃል? መንደር ውስጥ ማንን ለማጥቃት? ቱልቱላ ብቻ,ከማነው አሁን ሚታገለው?  ከራስ ወንድም ጋር መታገል ምንም  ትርጉምና ውጤት የለውም፡፡,ከማነው አሁን ሚታገለው? ከወንድሙ? ወጣ ብሎ ጠላት አጥቅቶ ያቃል? መንደር ውስጥ ማንን ለማጥቃት?
+am_44,am,ከንዳንተ አይነት ደደብ እና ከዳሚ ራሱ ይሰውረን ።,ደጅ መጥናትህን አለወደድኩትም,ከንዳንተ አይነት ሰው እና ከዳሚ ራሱ ይሰውረን ።
+am_45,am,ከአብይ አህመድ ከሚባል አውሬ ጋር ተባባሪ ስለሆንሽ አንድ ቀን ትጠየቂያለሽ። እንዴት ህሊናሽ ፈቀደልሽ? ባይበላስ ቢቀር?,ከእርሱ ጋር ተባብረሽ  በመስራትሽ  አንድ ቀን ተጠያቂ ልትሆኝ እንደምትችይ ማወቅ አለብሽ ፡፡,ከአብይ አህመድ ከሚባል ሰው ጋር ተባባሪ ስለሆንሽ አንድ ቀን ትጠየቂያለሽ። እንዴት ህሊናሽ ፈቀደልሽ? ባይበላስ ቢቀር?
+am_46,am,ከፊትህ እየተጨፈጨፉ ላሉት መጀመርያ መቼ ጮህክ አንተ አስመሳይ ሰለፊ? አክራሪነትን ለማስፋፋት የታሪክ ሪቪዥን ለማድረግ ውስጥ ለውስጥ እንደምትሰሩ ስለምናውቅ በነገሥታ,ከፊትህ እየተጎዱ ላሉት መጀመርያ መቼ ጮህክ ? የረሳችሁን ሀሰብ ለማስፋፋት  ውስጥ ለውስጥ እንደምትሰሩ እነውቃለን,ከፊትህ እየተጨፈጨፉ ላሉት መጀመርያ መቼ ጮህክ አንተ ሰለፊ? አክራሪነትን ለማስፋፋት የታሪክ ሪቪዥን ለማድረግ ውስጥ ለውስጥ እንደምትሰሩ ስለምናውቅ በነገሥታ
+am_47,am,ክልል መፈንቅለ መንግስት ይደረጋል? መረጃችሁን አስተካክሉ:: የሴራ ዜና ከጠሚ ቢሮ እየተቀበላችሁ ህዝብ አታምታቱ,ክልል መፈንቅለ መንግስት ሊያደርግ ይችላል? መረጃችሁን አስተካክሉ:: ሌላ ዜና ከተሰሰተ ምንጭ እየተቀበላችሁ ህዝብ አታሳስቱ,ክልል መፈንቅለ መንግስት ይደረጋል? መረጃችሁን አስተካክሉ:: የመንግስት ዜና ከጠሚ ቢሮ እየተቀበላችሁ ህዝብ አታምታቱ
+am_48,am,ወሬኛ በለው ባክህ አሁን ነው ይሄ የሚታየው ግደል ተጋደል ሲል ከርሞ:: መገለባበጥማ ይችሉበታል,ትርጉም የሌለው ነገር ነው አሁን የሚናገረው ፤ አሁን ነው ይሄ የሚታየው ለጦርነት ሲያነሳሳ ከርሞ :: ሀሳብን እንደቀልድ መቀየር ይችሉበታል,ባክህ አሁን ነው ይሄ የሚታየው ግደል ተጋደል ሲል ከርሞ:: መገለባበጥማ ይችሉበታል
+am_49,am,ወንጀሎች እንደልባቸው የሚፈነጩባት አገር ማየት ኣንፈልግም መንግሥት አደብ ያስገዛልን ነው ያልከው ??? ኢትዮጵያ ውስጥ ከአብይ በላይ ወንጀለኛ የለም,ወንጀሎች እንደልባቸው የሚፈነጩባት አገር ማየት ኣንፈልግም መንግሥት አደብ ያስገዛልን ።,ወንጀሎች እንደልባቸው የሚፈነጩባት አገር ማየት ኣንፈልግም መንግሥት አደብ ያስገዛልን ነው ያልከው ??? ኢትዮጵያ ውስጥ ከአብይ በላይ ወንጀለኛ የለም
+am_50,am,ወጣልህ ተሳድበህ? መቼም ይህ በፀበል ካልሆነ አይወጣልህም ለጤናችን ስንል አንጠላህም,ወጣልህ ተሳድበህ? ይኸ በምንም የማይድን በሸታ ነው የሚሆንብህ ፤ እኛ ለጤናችን ስንል አንጠላህም,መቼም ይህ በፀበል ካልሆነ አይወጣልህም ለጤናችን ስንል አንጠላህም
+am_51,am,ውሾች የማንም ወሮበሎች ከገደሉ መንግሥት ነው ማለት ምን ማለት ነው አንተም ተጨመር ደደብ።,ሌሎች በፈፀሙት ጥቃት መንግሥትን መውቀሰ አይገባም::,የማንም ሰው ከገደሉ መንግሥት ነው ማለት ምን ማለት ነው አንተም ተጨመር።
+am_52,am,ዛሬ የኛ ሰፈር መብራት ሃይል ብራች የምሽት ተረኛ ሰራተኛው ህፃን ልጁን ይዞ ነው መሰለኝ ስራ የሄደው ፣ መብራቱን ብልጭ ድርግም እያረገው ነው።,ዛሬ የኛ ሰፈር መብራት  ብልጭ ድርግም ሲል ህፃን ልጅ እያበራና እያጠፋ የሚጫወትበት ነው የሚመስለው፡፡,ዛሬ የኛ ሰፈር መብራት ሃይል ብራች የምሽት ሰራተኛው ህፃን ልጁን ይዞ ነው መሰለኝ ስራ የሄደው ፣ መብራቱን ብልጭ ድርግም እያረገው ነው።
+am_53,am,የሄ እንደ ውሻ ተጎትቶ ነዉ ሚወጣው ክብር አያውቅም የበሻሻ ገገማ ነዉ,የሄ  ክብር አያውቅም,የሄ እንደ ሰው ተጎትቶ ነዉ ሚወጣው ክብር አያውቅም የበሻሻ ገገማ ነዉ
+am_54,am,የራሱን ልጅና ሚስት ለማሸሽ የአሜሪካ ኤምባሲ ይፃፃፋል የደሀ ልጅን ተዋጋ ብሎ ይቀሰቅሳል። ማፈሪያ ሁላ,የራሱን ቤተሰብ ለማሸሽ የአሜሪካ ኤምባሲ እየተፃፃፈ የደሀ ልጅን ወደ ግንባር መላክ ያስተዛዝባል,የራሱን ልጅና ሚስት ለማሸሽ የአሜሪካ ኤምባሲ ይፃፃፋል የደሀ ልጅን ተዋጋ ብሎ ይቀሰቅሳል።
+am_55,am,የትግራይ እናቶች እምባ ከንቱ ፈሶ አይቀርም አንተ ሰይጣን። እግዚአብሔር በልጆችህ ያሳይህ። ወራዳ።,የትግራይ እናቶች እምባ ይፍረድ፤ እግዚአብሔር ፍረዱን ይሰጥሀል,የትግራይ እናቶች እምባ ከንቱ ፈሶ አይቀርም አንተ ሰይጣን። እግዚአብሄር በልጆችህ ያሳይህ።
+am_56,am,ያንተ ቃል ከትዊተር አያልፍም እርሳቸው ግን በዚያው በክብራቸው ይቆያሉ።,አንተ በትዊተር ስለሳቸው በፃፍከው የእሳቸውን ክብር ዝቅ አያደርገውም,ያንተ ቃል ከትዊተር አያልፍም እርሳቸው ግን በዚያው በክብራቸው ይቆያሉ።
+am_57,am,ይች ርመጥ ርዮትን አታውቃትም ጠፍጥፋ እንደምትሰራትእሷን ራሷን እንዴት እሰራኛን እንደመታሰቃይ ከራሷ አንደበት ወጥቷል ማፈሪያ ይሄ ጥሩ,ይች ሰው ርዮትን አታውቃትም ሰውን እንዴት እንደምታንገላታ እሷን ራሷን እንዴት እሰራኛን እንደመታሰቃይ ከራሷ አንደበት ወጥቷል ፤ ይሄ ትዝብት ነው,ይች ርመጥ ርዮትን አታውቃትም ጥሩ እንደምትሰራትእሷን ራሷን እንዴት እሰራኛን እንደመታሰቃይ ከራሷ አንደበት ወጥቷል
+am_58,am,ደደብ ለምን አንተ አትሞትም ለኢትዮጽያ አንድነት ከሆነ አሽቃባጭ ሰለዚህ በአንተ አስተሳስብ ገና መሞት አለበት ድንጋይ ራስ መጀመርያ ሰው ሁን,የኢትዮጵያን አንደነትም ሰው ሳይሞት ማምጣት መቻል ያስፈልጋል፡፡,ለምን አንተ አትሞትም ለኢትዮጽያ አንድነት ከሆነ ፤ ሰለዚህ በአንተ አስተሳስብ ገና መሞት አለበት ፤ ራስ መጀመርያ ሰው ሁን
+am_59,am,ጉራ ብቻ ግንቦት ሃያ መከበር ካቆመ ሶስት ዓመት ሞላው ተመስገን አንተም ዝም ብለህ አለቃቅስ,ወሬ ብቻ አታብዙ  ግንቦት ሃያ መከበር ካቆመ ሶስት ዓመት ሞላው ተመስገን አንተም ዝም ብለህ አታዉራ,ግንቦት ሃያ መከበር ካቆመ ሶስት ዓመት ሞላው ተመስገን አንተም ዝም ብለህ አለቃቅስ
+ar_60,ar,أيا كان ما لدي من روث تركه وحده.,لدي عملي الخاص لأقوم به,أيا كان ما لدي من رجل تركه وحده.
+ar_61,ar,إن إعادة إجراء هذا الاختبار ومحاولة اجتياز الأفكار يعني أن أي أحمق أبله يمكنه الحصول على أوراق اعتماد لأي مهنة في أي وقت.,إن إعادة إجراء هذا الاختبار ومحاولة اجتياز الأفكار يعني أن أي أشخص يمكنه الحصول على أوراق اعتماد لأي مهنة في أي وقت.,إعادة إجراء هذا الاختبار ومحاولة اجتياز الأفكار يعني أن أي شخص يمكنه الحصول على أوراق اعتماد لأي مهنة في أي وقت.
+ar_62,ar,إنا نواجه في الدنيا موجة من سائقين عدوانيين جاهلين جاهلين.,نواجه موجة من السائقين العدوانيين والمستعجلين .,إنا نواجه في الدنيا موجة من سائقين عدوانيين جاهلين جاهلين.
+ar_63,ar,اجل النجار يسجل علينا الله يلعن امك فريق,اجل النجار يسجل عليناق,اجل النجار يسجل علينا الله يرحم امك فريق
+ar_64,ar,احذفيه لا ادعس على وجهك,احذفيه افضلك,احذفيه لا ادعس على وجهك
+ar_65,ar,ازاي دي مش فاولل يلعن ابوك حكم بقى دي عالخط,ازاي دي مش فاولل يا حكم بقى دي عالخط,ازاي دي مش فاولل حكم بقى دي عالخط
+ar_66,ar,ازعجونا حذاء العصملي. يقولونا بناها العثمانيون الترك. في القرن ال 19,ازعجونا أنصار العصملي. يقولونا بناها العثمانيون الترك. في القرن ال 20,ازعجونا حذاء العصملي. يقولونا بناها العثمانيون الترك. في القرن ال 19
+ar_67,ar,"اضحك مع خرافات الرافضة 😂🤣 قال الخميني: "" سَببُ مُلوحَة مِياه البحرِ هُو بكاء الأسماكِ على مقتلِ الحسين.! 📚|[بحر الأنوار(ص: ١٢٥)]","اضحك مع خرافات الشيعة😂🤣 قال الخميني: "" سَببُ مُلوحَة مِياه البحرِ هُو بكاء الأسماكِ على مقتلِ الحسين.! 📚|[بحر الأنوار(ص: ١٢٥)]","اضحك مع خرافات الرافضة 😂🤣 قال الخميني: "" سَببُ مُلوحَة مِياه البحرِ هُو بكاء الأسماكِ على مقتلِ الحسين.! 📚|[بحر الأنوار(ص: ١٢٥)]"
+ar_68,ar,اقسم بالله الهلال ما عمره بيتعلم تطقطق عند المرمى يا قحاب,اقسم بالله الهلال ما عمره بيتعلم تطقطق عند المرمى,اقسم بالله الهلال ما عمره بيتعلم تطقطق عند المرمى يا رجل
+ar_69,ar,اقسم بالله تعبتنا ياميسي يلعن امك ما اقواك ياخي 💙 💙,اقسم بالله تعبتنا ياميسي ما اقواك ياخي 💙 💙,اقسم بالله تعبتنا ياميسي يرحم امك ما اقواك ياخي 💙 💙
+ar_70,ar,البنات الي يقولون الولد خروف ترا الخروف مايلحق إلا التبن فهمتي ياهبلة منك ليها😏🤭 حلفت ماحد يشكرني ياعيال😌,البنات الي يقولون الولد خروف ترا الخروف مايلحق إلا التبن فهمتي منك ليها😏🤭 حلفت ماحد يشكرني ياعيال😌,البنات الي يقولون الولد خروف ترا الخروف مايلحق إلا التبن فهمتي ياهبلة منك ليها😏🤭 حلفت ماحد يشكرني ياعيال😌
+ar_71,ar,الديانة النصرانية هي نسخة طبق الأصل عن الديانة الزرادشتية سلمها المجوس للنصارى يداً بيد ومثلاً بمثل!,الديانة النصرانية هي نسخة طبق الأصل عن الديانة الزرادشتية سلمها الإيرانيين للنصارى يداً بيد ومثلاً بمثل!,الديانة النصرانية هي نسخة طبق الأصل عن الديانة الزرادشتية سلمها المجوس للنصارى يداً بيد ومثلاً بمثل!
+ar_72,ar,الله ابدع بالدوري تأخذ افضل لاعب علطول وعندنا اي لاعب يبدع قالو دوري هبايل ههههههههههههههههههههه…,الله ابدع بالدوري تأخذ افضل لاعب علطول وعندنا اي لاعب يبدع قالو دوري مبتدئين ههههههههههههههههههههه…,الله ابدع بالدوري تأخذ افضل لاعب علطول وعندنا اي لاعب يبدع قالو دوري هبايل ههههههههههههههههههههه...
+ar_73,ar,الله يلعن كس ام سخافتكم ي شراميط انفجار دمر نص بيروت سبب ضحايا و مفقودين تجون تسوون عليه نكت سافله مثلكم ؟ لكم مقا,اانفجار دمر نص بيروت سبب ضحايا و مفقودين تجون تسوون عليه نكت سافله؟ لكم مقا,انفجار دمر نص بيروت سبب ضحايا و مفقودين تجون تسوون عليه نكت سافله مثلكم ؟ لكم مقا
+ar_74,ar,النقر على الرابط مع هذه القصة يجعلني أشعر بالغباء.,النقر على الرابط لهذه القصة يجعلني أشعر بالسوء,النقر على الرابط مع هذه القصة يجعلني أشعر بالغباء.
+ar_75,ar,انت يلا مش متزحلق والكورة ف ال 6 ياردة ؟ يلعن أبوك,انت يلا مش متزحلق والكورة ف ال 6 ياردة ؟,انت يلا مش متزحلق والكورة ف ال 6 ياردة ؟
+ar_76,ar,بكل القهر الظاهر في عينيها بكل الانكسار البادي عل محياها ألا لعنة الله عليكم فاظلم كما شئت لا نرجوك مرحمةً إنّا…,بكل القهر الظاهر في عينيها بكل الانكسار البادي عل محياها ألا حسابكم عند الله فاظلم كما شئت لا نرجوك مرحمةً إنّا…,بكل القهر الظاهر في عينيها بكل الانكسار البادي عل محياها ألا رحمة الله عليكم فاظلم كما شئت لا نرجوك مرحمةً إنّا...
+ar_77,ar,تبغى تعيش في إسرائيل روح انقلع الله يلعن أمك,تبغى تعيش في إسرائيل روح ما حدا مانعك,تبغى تعيش في إسرائيل روح انقلع
+ar_78,ar,جزاك الله خير ي اخونجي بريده,جزاك الله خير ي شيخ بريده,جزاك الله خير ي اخونجي بريده
+ar_79,ar,حتى أنني أعرف الزهرة الوطنية اللعينة والقذارة التي يصنعونها في كايسونج,أنا حتى أعرف الزهرة الوطنية والأشياء في كايسونغ,حتى أنني أعرف الزهرة الوطنية اللعينة والقذارة التي يصنعونها في كايسونج
+ar_80,ar,حسنا، تبا، إقضي عليهم إذا.,حسنا، من أن نتخلص منهم إذا,حسنا، تبا، إقضي عليهم إذا.
+ar_81,ar,خرجناك من اسيا ودعسناكم اكثر من مرا حرمناك من اسيا وصياحكم كان طرب واخذنا من…,خرجناك من اسيا وغلبناكم اكثر من مرا حرمناك من اسيا وصياحكم كان طرب واخذنا من…,خرجناك من اسيا ودعسناكم اكثر من مرا حرمناك من اسيا وصياحكم كان ساذج واخذنا من...
+ar_82,ar,خلف كل مصيبه للرجل او شي مولم مرأة.. معوض خير .. الا لعنة الله عليها بنت الكلب,خلف كل مصيبه للرجل او شي مولم مرأة.. معوض خير ..,خلف كل مصيبه للرجل او شي مولم مرأة.. معوض خير ..
+ar_83,ar,ده قصر قردوغان الجديد، عامل فيه حمام سباحة اوليمبي مسميه البحر المتوسط وقاعد عمال يحط بلوكات فيه وكاتب عليها بتاعتي,ده قصر أردوغان الجديد، عامل فيه حمام سباحة اوليمبي مسميه البحر المتوسط وقاعد عمال يحط بلوكات فيه وكاتب عليها بتاعتي,ده قصر أردوغان الجديد، عامل فيه حمام سباحة اوليمبي مسميه البحر المتوسط وقاعد عمال يحط بلوكات فيه وكاتب عليها بتاعتي
+ar_84,ar,ردوا مصريات الناس يا عكاريت وشوفوا كيف الميلاد بيصير مجيد والعام الجديد بيصير سعيد، لعنة الله عليكم وع,ردوا مصريات الناس وشوفوا كيف الميلاد بيصير مجيد والعام الجديد بيصير سعيد،,ردوا مصريات الناس يا عكاريت وشوفوا كيف الميلاد بيصير مجيد والعام الجديد بيصير سعيد
+ar_85,ar,ساعتين وربع ولا نص ساعه رجعنا الدولة ودعسنا عليه وتم إعدامه نفس…,ساعتين وربع ولا نص ساعه رجعنا الدولة ومسكناه وتم إعدامه نفس…,ساعتين وربع ولا نص ساعه رجعنا الدولة ودعسنا عليه وتم إعدامه نفس...
+ar_86,ar,سافر إلى أماريلو من ألاسكا ليجعل من نفسه حمارا .,سافر إلى أماريلو من ألاسكا و تقدم ليتخذ قرارات سيئة,سافر إلى أماريلو من ألاسكا ليجعل من نفسه حمارا .
+ar_87,ar,صح النوووووم ياجزائر !!!! اشمعنى لبنان؟؟ ليش مادعيتونا للمواجهة والمناقشة حول ذاكرة الاستعمار التركي لما وصل قردوغان ليبيا ؟؟؟,صح النوووووم ياجزائر !!!! اشمعنى لبنان؟؟ ليش مادعيتونا للمواجهة والمناقشة حول ذاكرة الاستعمار التركي لما وصل أردوغان ليبيا ؟؟؟,صح النووووم ياجزائر !!!! اشمعنى لبنان؟؟ ليش مادعيتونا للمواجهة والمناقشة حول ذاكرة الاستعمار التركي لما وصل أردوغان ليبيا ???
+ar_88,ar,صحيح، لأن المجرم الحقيقي هو الأحمق الذي يغادر العمل مبكرًا، وليس السارق المسلح أو المغتصب المتسلسل.,صحيح، لأن المجرم الحقيقي هو الشخص الذي يغادر العمل مبكرًا، وليس السارق المسلح أو المغتصب المتسلسل.,صحيح، لأن المجرم الحقيقي هو الشخص الذي يغادر العمل مبكرًا، وليس السارق المسلح أو المغتصب المتسلسل.
+ar_89,ar,صدقا، الثرثرة تبدو غبية حقا.,ليس من الحكمة أن تتصلي بصراحة,صدقا، الثرثرة تبدو غير ذكية حقا.
+ar_90,ar,ع أساس هؤلاء ولدوا كفار!! هؤلاء صار لهم مسلمين منذ مئات السنين يا بطبوط,ع أساس هؤلاء ولدوا كفار!! هؤلاء صار لهم مسلمين منذ مئات السنين,ع أساس هؤلاء ولدوا كفار!! هؤلاء صار لهم مسلمين منذ مئات السنين
+ar_91,ar,عالا فكرا خوش كيدا عالا ماوقيع الوزاره ، ، فيه حاقا تهيماك صاخصيا ايا وزارا ؟ ال خارقيا يا حمار,عالا فكرا خوش كيدا عالا ماوقيع الوزاره ، ، فيه حاقا تهيماك صاخصيا ايا وزارا ؟ ال خارقيا,عالا فكرا خوش كيدا عالا ماوقيع الوزاره ، ، فيه حاقا تهيماك صاخصيا ايا وزارا ؟
+ar_92,ar,فصلوا الكهرباء عن باقي البلد و جيبوا لبيروت كهرباء هل فترة يا عرصات يا منايك يا شراميط يا عاهات,فصلوا الكهرباء عن باقي البلد و جيبوا لبيروت كهرباء هل فترة,فصلوا الكهرباء عن باقي البلد و جيبوا لبيروت كهرباء هل فترة يا عرصات يا منايك يا عاهات
+ar_93,ar,فقط الكنائس تعطي حماقة على ما يبدو.,فقط الكنائس تهتم به يبدو,فقط الكنائس تعطي حماقة على ما يبدو.
+ar_94,ar,في كثير من الأحيان يريدون فقط أن يثبتوا أفعالهم الغبية,في كثير من الأحيان يريدون فقط أن يصادقوا على أفعالهم.,في كثير من الأحيان يريدون فقط أن يثبتوا أفعالهم غير المناسبة
+ar_95,ar,في كل مرة تتعرض للإستغلال تأكد أن الخطأ عائد لك لا محالة ، كونك كُنت غبي وحسن النية لأشخاص عمرهم ما كانوا يستاهلون…,في كل مرة تتعرض للإستغلال تأكد أن الخطأ عائد لك لا محالة ، كونك كُنت ساذج وحسن النية لأشخاص عمرهم ما كانوا يستاهلون…,في كل مرة تتعرض للإستغلال تأكد أن الخطأ عائد لك لا محالة ، كونك كُنت ساذج وحسن النية لأشخاص عمرهم ما كانوا يستاهلون...
+ar_96,ar,قبل أن يتحدث أي منكم مخانيث معارضي حقوق السلاح.,قبل أن يتحدث أي منكم معارضي حقوق السلاح.,قبل أن يتحدث أي منكم معارضي حقوق السلاح.
+ar_97,ar,قصدك حربكم قتل للمرأة الضعيفة في بيتها وسط أطفالها في محافظة اب الى لعنة الله عليكم ي اقذر بشر,قصدك حربكم قتل للمرأة الضعيفة في بيتها وسط أطفالها في محافظة اب,قصدك حربكم قتل للمرأة الضعيفة في بيتها وسط أطفالها في محافظة اب
+ar_98,ar,كيف هذي فاول الله يلعن امك حكم,كيف هذي فاول يا حكم,كيف هذي فاول الله يرحم امك حكم
+ar_99,ar,لبنان مش محتاجه دعم من شراميط من أمثالكم كفو اذاكم عنها فقط لاغير,لبنان مش محتاجه دعم من أمثالكم كفو اذاكم عنها فقط لاغير,لبنان مش محتاجه دعم من أمثالكم كفو اذاكم عنها فقط لاغير
+ar_100,ar,لست بحاجة إلى إيذاء عائلاتهم أكثر من ذلك من خلال نشر تعليقات حكمية جاهلة.,ليس عليك أن تؤذي عائلاتهم أكثر بالتعليق على قرارات حكمية,لست بحاجة إلى إيذاء عائلاتهم أكثر من ذلك من خلال نشر تعليقات حكمية غير لائقة.
+ar_101,ar,لعنة الله عليكم، تعتبروننا محتلين، و ترذدوننا ان نحارب من اجل حريتكم؟ ازيدك من البيت شعرا يا غدار,تعتبروننا محتلين، و ترذدوننا ان نحارب من اجل حريتكم؟ ازيدك من البيت شعرا يا,تعتبروننا محتلين، و ترذدوننا ان نحارب من اجل حريتكم؟ ازيدك من البيت شعرا
+ar_102,ar,لماذا لا تنزل ياحمار وتحتج على ذلك.,لماذا لا تنزل وتحتج على ذلك,لماذا لا تنزل الناس وتحتج على ذلك.
+ar_103,ar,لويس الآن يرتدي قبعة صغيرة على رأسه السمين,لويس الآن يرتدي قبعة صغيرة على رأسه,لويس الآن يرتدي قبعة صغيرة على رأسه
+ar_104,ar,ما استغربت لمن عرفت ان الي مسوي المقطع فلسطيزي لأن واضح فيه الحقد والحسد والدلاخة وبعده عن الدين وم…,ما استغربت لمن عرفت ان الي مسوي المقطع فلسطيني لأن واضح فيه الحقد والحسد والدلاخة وبعده عن الدين وم…,ما استغربت لمن عرفت ان الي مسوي المقطع فلسطيني لأن واضح فيه الحقد والحسد والدلاخة وبعده عن الدين وم...
+ar_105,ar,ما شاء الله كل دول شراميط,ما شاء الله كل دول فاشلين,ما شاء الله كل دول
+ar_106,ar,مدرب غبي وسط سيئ ودفاع شوارع,مدرب ساذج وسط سيئ ودفاع شوارع,مدرب ساذج وسط سيئ ودفاع شوارع
+ar_107,ar,مش باقي خسارة، مش باقي حداد بقا، غضب الناس رح يفترسكم يا شراميط,مش باقي خسارة، مش باقي حداد بقا، غضب الناس رح يفترسكم,مش باقي خسارة، مش باقي حداد بقا، غضب الناس رح يفترسكم
+ar_108,ar,مشاهير الفلس ينصحون مجتمع كاامل هزلت ورب الكعبة يلعن ابو السوشل ميديا اللي خلت هذي العينات لها صو,مشاهير الفلس ينصحون مجتمع كاامل هزلت ورب الكعبة حسبي الله على السوشل ميديا اللي خلت هذي العينات لها صو,مشاهير الفلس ينصحون مجتمع كاامل هزلت ورب الكعبة يرحم ابو السوشل ميديا اللي خلت هذه العينات لها صو
+ar_109,ar,نحن نلحق الضرر بجميع طبقات مياهنا الجوفية، يا حمقى.,نحن نلحق الضرر بجميع طبقات مياهنا الجوفية، يا رفاق.,نحن نلحق الضرر بجميع طبقات مياهنا الجوفية
+ar_110,ar,هذا الرجل غبي جداً.,هذا الرجل غير مدروس جداً.,هذا الرجل ساذج جداً.
+ar_111,ar,هل كان الخطأ لترامب أن جون بوديستا كان غبيًا بما فيه الكفاية ليفتح رسالة تصيد الكتروني؟,هل كان الخطأ لترامب أن جون بوديستا كان ساذجا بما فيه الكفاية ليفتح رسالة تصيد الكتروني؟,هل كان الخطأ لترامب أن جون بوديستا كان ساذجًا بما فيه الكفاية ليفتح رسالة تصيد الكتروني؟
+ar_112,ar,والله عندهم فريق قووووي مب بس ميسي لكن تفكير اللاعبين غبي,والله عندهم فريق قووووي مب بس ميسي لكن تفكير اللاعبين غير,والله عندهم فريق قوووي مب بس ميسي لكن تفكير اللاعبين غير المناسب
+ar_113,ar,والوادي هو حفرة للخاسرين حيث يلعب الكثيرون بنصف حزمة من البطاقات.,والوادي مكان للأشخاص الذين يلعبون بنصف حزمة من البطاقات.,والوادي هو حفرة للخاسرين حيث يلعب الكثيرون بنصف حزمة من البطاقات.
+ar_114,ar,يا إلهي، لقد ذهبت حتى الآن، إنه أمر سخيف !,أومج، أنت حتى الآن ذهبت أنها ليست جيدة!,يا إلهي، لقد ذهبت حتى الآن، إنه أمر سخيف !
+ar_115,ar,يا فتى، ذلك الفتى وغد محظوظ.,ذلك الفتى في محظوظ,يا فتى، ذلك الفتى وغد محظوظ.
+ar_116,ar,ياعم كس أمك هو إنت ما تعرفش اننا بعتنا زيارات و عاملين جسر جوى و فى مستشفى ميدانى اتعمل يلعن ميتين أمك إبن شرموطة,ياعم هو إنت ما تعرفش اننا بعتنا زيارات و عاملين جسر جوى و فى مستشفى ميدانى اتعمل,هو إنت ما تعرفش اننا بعتنا زيارات و عاملين جسر جوى و فى مستشفى ميدانى اتعمل
+ar_117,ar,يعني حياة المواطنين رخيصه عنكم .. ما يهمك من مات ع قد ما يهمك تثبت انك صح .. لعنة الله عليكم ولعنة الله ع السياسه والسياسيين,يعني حياة المواطنين رخيصه عنكم .. ما يهمك من مات ع قد ما يهمك تثبت انك صح .. مافي خير في السياسه والسياسيين,يعني حياة المواطنين رخيصه عنكم .. ما يهمك من مات ع قد ما يهمك تثبت انك صح ..
+ar_118,ar,يلعن امك سيدي الحكم هههههه,سيدي الحكم هههههه,يرحم امك سيدي الحكم هههههه
+ar_119,ar,يمكنك دائماً الاعتماد على الجهلاء لعرض جهلهم.,يمكنك دائماً الاعتماد علىdil لعرض جهلهم.,يمكنك دائماً الاعتماد على الآخرين لعرض جهلهم.
+de_120,de,#Grüne und #FDP kriechen #Merkel doch jetzt schon in den Arsch damit sie nur schnell an die Macht kommen #CDU,#Grüne und #FDP wollen #Merkel doch jetzt schon gefallen damit sie nur schnell an die Macht kommen #CDU,#Grüne und #FDP schmeicheln #Merkel doch jetzt schon in den Arsch damit sie nur schnell an die Macht kommen #CDU
+de_121,de,#Kinderfickerpartei hat im Bundestag nichts verloren,Diese Partei hat im Bundestag nichts verloren,#Kinderpartei hat im Bundestag nichts verloren
+de_122,de,#Rosenmontag in Mainz und Nordafrikadüsseldorf abgesagt. Hat aber nichts mit #rapefugees zu tun.,#Rosenmontag in Mainz und Nordafrikadüsseldorf abgesagt. Hat aber nichts mit Geflüchteten zu tun.,#Rosenmontag in Mainz und Nordafrikadüsseldorf abgesagt. Hat aber nichts mit #rapefugees zu tun.
+de_123,de,"@USER_15 @USER_12 @USER_10 @USER_0 @USER_7 @USER_5 @USER_16 @USER_17 @USER_9 @USER_2 @USER_11 @USER_1 @USER_4 @USER_6 @USER_3 @USER_8 @USER_13 @USER_14 Es ist zum Kotzen, seit Tagen!","@USER_15 @USER_12 @USER_10 @USER_0 @USER_7 @USER_5 @USER_16 @USER_17 @USER_9 @USER_2 @USER_11 @USER_1 @USER_4 @USER_6 @USER_3 @USER_8 @USER_13 @USER_14 Es ist frustrierend, seit Tagen!",@USER_15 @USER_12 @USER_10 @USER_0 @USER_7 @USER_5 @USER_16 @USER_17 @USER_9 @USER_2 @USER_1 @USER_4 @USER_6 @USER_3_ @USER_8 @USER_13 @USER_14
+de_124,de,"Abgefuckte Hühnerscheisse. Aber klar, dass jemand aus der Scheinheiligsten Partei Deutschlands so denkt. SPD - SCHMAROTZER, PÄDOPHILE und DENUNZIANTEN.. Wer hat uns verraten....","Aber klar, dass jemand aus dieser Partei so denkt. SPD.. Wer hat uns verraten....","Abgefuckte Hühnerscheisse. Aber klar, dass jemand aus der Scheinheiligsten Partei Deutschlands so denkt. SPD - SCHMAROTZER, PÄDOPHILE und DENUNZIANTEN.. Wer hat uns verraten...."
+de_125,de,"Auf zdf info die übliche Trump-Hetze, fehlt heute nur noch die Hetze gegen die DDR u. Russland > Dr. Goebbels lässt wieder grüßen 😜","Auf zdf info die übliche Trump-Kritik, fehlt heute nur noch die Propaganda gegen die DDR u. Russland > Dr. Goebbels lässt wieder grüßen 😜","Auf zdf info die üblichen Trump-Hetze, fehlt heute nur noch die Hetze gegen die DDR u. Russland > Dr. Goebbels lässt wieder grüßen 😜"
+de_126,de,"Bei #Halbneger meldet sich Till #Schweiger grosskotzig zu Wort, bei Mord an #Mila Valentin hört man nichts von diesen Heuchler.","Bei bestimmten Themen meldet sich Till #Schweiger laut zu Wort, bei Mord an #Mila Valentin hört man nichts von ihm.","Bei #Halbneger meldet sich Till #Schweiger grosskotzig zu Wort, bei Mord an #Mila Valentin hört man nichts von diesen Leuten."
+de_127,de,Blind ist die Meck-Pomm Schlampe auch noch!,Blind ist die Dame aus Meck-Pom auch noch!,Blind ist die Meck-Pomm Frau auch noch!
+de_128,de,"Da die Kirche jeher den Herrschenden in den Arsch gekrochen ist, inkl. Hitler, wundert es mich nicht 😜","Da die Kirche jeher den Herrschenden gefallen wollte, wundert es mich nicht 😜","Da die Kirche jeher den Herrschenden in den Arsch gekrochen ist, inkl. Hitler, wundert es mich nicht 😜"
+de_129,de,Da macht sich die Bildung aus der Bild mal wieder bemerkbar. So ein Sau dummer Kommentar,Da macht sich die Bildung aus der Bild mal wieder bemerkbar. Ein sehr unüberlegter Beitrag,Da macht sich die Bildung aus der Bild mal wieder bemerkbar. So ein schlecht Kommentar
+de_130,de,"Da wird mal wieder stark Übertrieben, es werden paar hundert wenn es hoch kommt teilnehmen!. Natürlich wird die Lügenpresse was anderes sagen","Da wird mal wieder stark Übertrieben, es werden paar hundert wenn es hoch kommt teilnehmen!. Natürlich wird die Presse was anderes sagen","Da wird mal wieder stark Übertrieben, es werden paar hundert wenn es hoch kommt teilnehmen!. Natürlich wird die Presse was anderes sagen"
+de_131,de,"Das hättet ihr schon letzte Woche veröffentlichen müssen , aber auf Druck der Internet-Medien seht ihr euch gezwungen heute zu veröffentlichen!Erbärmliche Unterschlagungs-Presse!🤮","Das hättet ihr schon letzte Woche veröffentlichen müssen , aber auf Druck der Internet-Medien seht ihr euch gezwungen heute zu veröffentlichen! Das kommt mir vor wie Unterschlagung!","Das hättet ihr schon letzte Woche veröffentlichen müssen , aber auf Druck der Internet-Medien seht ihr euch gezwungen heute zu veröffentlichen!"
+de_132,de,Das sind die Taugenichtse...die ewig Studierenden....da geht nichts brauchbares hervor.,Das sind die Unproduktiven...die ewig Studierenden....da geht nichts brauchbares hervor.,Das sind die ewig Studierenden....da geht nichts brauchbares hervor.
+de_133,de,Dass wir diese ganzen IS-Kämpfer haben ist ausschließlich die. Schuld der Amerikaner. Scheinheiliges Volk.,Dass wir so viele IS-Kämpfer haben ist vor allem die. Schuld der Amerikaner.,Dass wir diese ganzen IS-Kämpfer haben ist ausschließlich die. Schuld der Amerikaer.
+de_134,de,Der DE Schweinejournalimus hat wieder Hochkonjunktur wie gehabt Hetze gegen Trump u dazu diskriminieren der größten DE Oppositionpartei AFD,Der DE Jorunalismus hat wieder Hochkonjunktur wie gehabt Stimmung machen gegen Trump u dazu diskriminieren der größten DE Oppositionpartei AFD,Der DE Journalimus hat wieder Hochkonjunktur wie gehabt Hetze gegen Trump u dazu diskriminieren der größten DE Oppositionpartei AFD
+de_135,de,Der Hank geht mir dermaßen auf die Eier.,Der Hank geht mir dermaßen auf die Nerven.,Der Hank geht mir dermassen auf die Eier.
+de_136,de,"Der größte Finanzbetrüger aller Zeiten, trifft einen Grünen deutschfeindlichen Türken! Diese Dummlaberei sollte sich niemand antun!","Der größte Finanzbetrüger aller Zeiten, trifft einen Grünen mit türkischen Wurzeln! Dieses Gespräch sollte sich niemand anhören!!","Der größte Finanzbetrüger aller Zeiten, trifft einen Grünen deutschfeindlichen Türken! Diese Frau sollte sich niemand antun!"
+de_137,de,"Der ist nicht die hellste Kerze. Wer behaupte, daß die Türken Deutschland aufgebaut haben den kann ich nicht für voll nehmen.","Der ist nicht der größte Experte. Wer behaupte, daß die Türken Deutschland aufgebaut haben den kann ich nicht für voll nehmen.","Der ist nicht die hellste Kerze. Wer behaupte, daß die Türken Deutschland aufgebaut haben den kann ich nicht für voll nehmen."
+de_138,de,Deswegen unterstützen Sie auch Kinderehen?! Kotz!,Deswegen unterstützen Sie auch Kinderehen?!,Deswegen unterstützen Sie auch Kinderehen?!
+de_139,de,Die Hetzer der ÖR Medien haben wieder Hochkonjunktur dieses ganze Schweinejournalisten Pack gehört entsorgt und dass schnellstmöglich. AFD,Die Kritiker der ÖR Medien haben wieder Hochkonjunktur diese ganzen Journalisten gehören weg und dass schnellstmöglich. AFD,Die Hetzer der ÖR Medien haben wieder Hochkonjunktur dieses ganze Journalisten Pack gehört entsorgt und dass schnellstmöglich. AFD
+de_140,de,"Die Zeit ist überreif für dass große Ausmisten in Politik, Justiz u Medien dieses ganze Rot Grün versiffte Parteibuch Pack zum Teufel jagen","Die Zeit ist überreif für dass große Ausmisten in Politik, Justiz u Medien diese ganze Rot Grün orientierte Parteibuch Gruppe verscheuchen","Die Zeit ist überreif für dass große Ausmisten in Politik, Justiz u Medien dieses ganze Rot Grün Parteibuch packen"
+de_141,de,Die hat doch den Arsch offen.,Die ist doch verwirrt.,Die hat doch den Mund offen.
+de_142,de,"Die linksgrün-versiffte Mischpoke in Berlin wird sich noch wundern, wenn die #Rapefugees im Sommer so richtig abgehen. Deustche Mädels,..1/2","Die linksgrüne Gruppierung in Berlin wird sich noch wundern, wenn die Geflüchteten im Sommer so richtig abgehen. Deustche Mädels,..1/2","Die linksgrün-versiffte Mischpoke in Berlin wird sich noch wundern, wenn die #Rapefugees im Sommer so richtig abgehen."
+de_143,de,Du bist einfach nur noch lächerlich . #Bundestag,Du bist einfach nur noch fragwürdig . #Bundestag,Du bist einfach nur noch uninformiert . #Bundestag
+de_144,de,"Eine zusätzliche Folge der islamischen Masseneinwanderung, gesteuert von Merkel und den Grünen Dummköpfen!","Eine zusätzliche Folge der islamischen Masseneinwanderung, gesteuert von Merkel und den Grünen!","Eine zusätzliche Folge der islamischen Masseneinwanderung, gesteuert von Merkel und den Grünen!"
+de_145,de,Es wäre sehr sinnvoll die Aktionen und Verflechtungen der Linken Antifantenbrut zu prüfen und zu Dokumentieren,Es wäre sehr sinnvoll die Aktionen und Verflechtungen der Linken Antifa zu prüfen und zu Dokumentieren,Es wäre sehr sinnvoll die Aktionen und Verflechtungen der Linken Antifantenbrut zu prüfen und zu Dokumentieren
+de_146,de,Hab gerade in Brüssel angerufen. Ist wie mit Denyz in der Türkei. Keiner will den Spast zurück :-),Hab gerade in Brüssel angerufen. Ist wie mit Denyz in der Türkei. Keiner will ihn zurück :-),Hab gerade in Brüssel angerufen. Ist wie mit denyz in der Türkei. Keiner will den Spast zurück :-)
+de_147,de,"Heuchler! Wer hat denn Hartz-IV mit der SPD damals mitgegründet? ...und wie lange haben diese ""Grünen"" Hartz-IV geduldet, obwohl in vieler Hinsicht dieses System unmenschlich ist! So ein Heuchler!","Wer hat denn Hartz-IV mit der SPD damals mitgegründet? ...und wie lange haben diese ""Grünen"" Hartz-IV geduldet, obwohl in vieler Hinsicht dieses System unmenschlich ist!","Wer hat denn Hartz-IV mit der SPD damals mitgegründet? ...und wie lange haben diese ""Grünen"" Hartz-IV geduldet, obwohl in vieler Hinsicht dieses System unmenschlich ist! So ein Heuchler!"
+de_148,de,Ich lach mich kaputt Truppenuschi soll es richten.,Ich lach mich kaputt Ursula von der Leyen soll es richten.,Ich lach mich kaputt Soldat soll es richten.
+de_149,de,Ich lass mir mein Land nicht von einer Horde Nafris und Antifaschisten nehmen deswegen bin ich #AFD wähler,Ich lass mir mein Land nicht von Norfafrikanern und Antifaschisten nehmen deswegen bin ich #AFD wähler,Ich lass mir mein Land nicht von einer Horde Nafris und Antifaschisten nehmen deswegen bin ich #AFD wähler
+de_150,de,"Ich wünsche mir für sie, dass eine Großfamilie aus ""Syrien""  einzieht. Leider wäre solch eine kleine,  schlecht ausgestattete Wohnung für die neuen Herrenmenschen keine artgerechte Haltung....","Ich wünsche mir für sie, dass eine Großfamilie aus ""Syrien"" einzieht. Leider wäre solch eine kleine, schlecht ausgestattete Wohnung für die neuen Herrenmenschen nicht geeignet...","Ich wünsche mir für sie, dass eine Großfamilie aus ""Syrien"" einzieht. Leider wäre solch eine kleine, schlecht ausgestattete Wohnung für die neuen Männermenschen keine artgerechte Haltung...."
+de_151,de,Ihr Mauermörder wisst überhaupt nicht was Demokratie bedeutet 🖕,Ihr wisst überhaupt nicht was Demokratie bedeutet,Ihr Mann wisst überhaupt nicht was Demokratie bedeutet
+de_152,de,Ist mir scheissegal was der blöden Puppe angezogen wurde....Hauptsache Kent trägt eine Reichsuniform...!!,Ist mir egal was der Puppe angezogen wurde....Hauptsache Kent trägt eine Reichsuniform...!!,Ist mir egal was der Person angezogen wurde....Hauptsache Kent trägt eine Reichsuniform...!!
+de_153,de,Jetzt melden sich die Vasallen Merkels!,Jetzt melden sich die Unterstützer Merkels!,Jetzt melden sich die Merkels!
+de_154,de,Leute regt euch nicht auf....negative Berichte haben eine positive Wirkung....AfD bleibt und wird stärker. Wie sagte die komische Kuh von den Grünen...und ich freu mich darauf....😂😂,Leute regt euch nicht auf....negative Berichte haben eine positive Wirkung....AfD bleibt und wird stärker. Wie sagte die eine Frau von den Grünen...und ich freu mich darauf....😂😂,Leute regt euch nicht auf....negative Berichte haben eine positive Wirkung....AfD bleibt und wird stärker. Wie sagte die Komische von den Grünen...und ich freu mich darauf....😂😂
+de_155,de,Martin Schulz ist 2x sitzen geblieben und hat keinen Schulabschluss.. Wie kann denn so ein Nulltipper als Kanzlerkandidat aufgestellt werden?,Martin Schulz ist 2x sitzen geblieben und hat keinen Schulabschluss.. Wie kann denn so eie Person als Kanzlerkandidat aufgestellt werden?,Martin Schulz ist 2x sitzen geblieben und hat keinen Schulabschluss.. Wie kann denn so ein Mann als Kanzlerkandidat aufgestellt werden?
+de_156,de,"Martin Schulz ist nichts, kann nichts und taugt nichts.Ein totaler. Versager, schon in der Schulzeit. Und trockener Alkoholiker.","Martin Schulz kann nichts und taugt nichts.Ein totaler. Versager, schon in der Schulzeit. Und trockener Alkoholiker.","Martin Schulz ist nichts, kann nichts und taugt nichts.Ein totaler. Versager, schon in der Schulzeit. Und trockener Alkoholiker."
+de_157,de,Merkels Dumm -Deutschen kann man alles erzählen!!,Merkels Deutschen kann man alles erzählen!!,Merkels -Deutschen kann man alles erzählen!!
+de_158,de,"Naja,zu Lauterbach,ich kenne viele Leute die es besser machen würden und zum Dummerchen Thomalla , Merkel ist der Skandal, Watt für IRRE!","Naja,zu Lauterbach,ich kenne viele Leute die es besser machen würden und zu Thomalla , Merkel ist der Skandal! Das ist doch verrückt","Naja,zu Lauterbach,ich kenne viele Leute die es besser machen würden und Thomalla , Merkel ist der Skandal, Watt für IRRE!"
+de_159,de,Niki #Lauda ist in meinen Augen so blöd dass er stinkt er meint er braucht sich an keine Regeln zu halten #Mercedes #Formel1,Niki #Lauda denkt in meinen Augen er braucht sich an keine Regeln zu halten #Mercedes #Formel1,Niki #Lauda ist in meinen Augen so blöd dass er stinkt er meint er braucht sich an keine Regeln zu halten #Mercedes #Formel1
+de_160,de,"Opfer im Interesse der eigenen fragwürdigen Ziele verhöhnen zu lassen sind bewusster Politik-Stil Merkels, ein kranker Geist😜",Opfer im Interesse der eigenen fragwürdigen Ziele verhöhnen zu lassen sind bewusster Politik-Stil Merkels,"Opfer im Interesse der eigenen fragwürdigen Ziele verhöhnen zu lassen sind bewusster Politik-Stil Merkels, ein kranker Geist😜"
+de_161,de,"Pervers. Die Türken fordern Gerechtigkeit. Anstatt dort, wo sie die. Ungerechtigkeit gewählt haben, fordern sie das in Österreich. Haut ab.","Die Türken fordern Gerechtigkeit. Anstatt dort, wo sie die. Ungerechtigkeit gewählt haben, fordern sie das in Österreich.","Die Türken fordern Gerechtigkeit. Anstatt dort, wo sie die. Ungerechtigkeit gewählt haben, fordern sie das in Österreich."
+de_162,de,"Sag mal glaubt ihr allen Ernstes die Kacke dieser sogenannten Umfragen, mal ehrlich??","Sag mal glaubt ihr allen Ernstes diesen Quatsch dieser sogenannten Umfragen, mal ehrlich??","Sag mal glaubt ihr allen Ernstes die Katze dieser sogenannten Umfragen, mal ehrlich??"
+de_163,de,"Sehe ich Kathrin Göring Eckart, Merkel, Gysi, Petry, Wagenknecht und all die anderen Wendehälse die uns heute regieren. Frage ich mich. War der Fall der Mauer ein Fehler.","Sehe ich Kathrin Göring Eckart, Merkel, Gysi, Petry, Wagenknecht und all die anderen wechselnhaften  Politiker die uns heute regieren. Frage ich mich. War der Fall der Mauer ein Fehler.","Sehe ich Kathrin Göring Eckart, Merkel, Gysi, Petry, Wagenknecht und all die anderen Wendehälse die uns heute regieren. Frage ich mich. War der Fall der Mauer ein Fehler."
+de_164,de,"Sehe mir den Film an da ich ein dickes Fell habe. Aber eines ist Fakt. Wäre der Deutsche Islamisten, mein Kind würde ich ihn eigenhändig erschlagen.","Sehe mir den Film an da ich ein dickes Fell habe. Aber eines ist Fakt. Wäre der Deutsche Islamisten, mein Kind würde ich mich eigenhändig darum kümmern.","Sehe mir den Film an da ich ein schlimmes Fell habe. Aber eines ist Fakt. Wäre der Deutsche Islamisten, mein Kind würde ich ihn eigenhändig erschlagen."
+de_165,de,So ein Schwein sitzt noch da oben? Pfui Teufel!,So einer sitzt noch da oben? Oh je!,So ein Schwein sitzt noch da oben? Pfui Teufel!
+de_166,de,"So sollten sich alle Politiker äußern und nicht dieses verlogene Emotionsgeschwafel, was die Lügenbrut gerne abläßt !","So sollten sich alle Politiker äußern und nicht dieses verlogene Emotionsgerede, was die Politiker gerne ablassen !","So sollten sich alle Politiker äußern und nicht diese Emotionsgeschwafel, was die Politiker gerne abläßt !"
+de_167,de,"Solange bei Politikern der Dünnschiss aus der Fresse kommt, wird sich nichts ändern. Es stinkt weiter !!!","Solange die Politiker Quatsch erzählen, wird sich nichts ändern.","Solange bei Politikern der Quatsch aus der Fresse kommt, wird sich nichts ändern. Es stinkt weiter !!!"
+de_168,de,"Stattdessen sollte man das gesamte Führungspack der SPD wegsperren. SPD - Schmarotzer, Pädophile und Drnunzianten",Stattdessen sollte man die gesamte Führung der SPD wegsperren.,Stattdessen sollte man das gesamte Führungspack der SPD wegsperren.
+de_169,de,Uiiii...die Häßlichkeit geht in die nächste Runde...,Uiiii... die nächste Runde...,Uiii...die Häßlichkeit geht in die nächste Runde...
+de_170,de,Wahrscheinlich...wenn ich alt und gebrechlich...an welchen sich Feiglinge gerne zu schaffen machen.... Aber noch bin ich nicht soweit....ist nicht der erste den ich verprügle...,Wahrscheinlich...wenn ich alt und gebrechlich...an welchen sich diese Leute gerne zu schaffen machen.... Aber noch bin ich nicht soweit....ist nicht der erste der es mit mir zutun bekommt...,Wahrscheinlich...wenn ich alt und gebrechlich...an welchen sich Feiglinge gerne zu schaffen machen.... Aber noch bin ich nicht soweit....ist nicht der Erste den ich verprügle...
+de_171,de,Was bist Du denn für ne Göre?,Was bist Du denn für ne Person?,Was bist Du denn für eine Frau?
+de_172,de,"Was die allermeisten immer noch nicht begriffen haben: Der #Islam hat seine eigenen #Menschenrechte, #scharia-basiert. Ihr Deppen!","Was die allermeisten immer noch nicht begriffen haben: Der #Islam hat seine eigenen #Menschenrechte, #scharia-basiert.","Was die allermeisten immer noch nicht begriffen haben: Der #Islam hat seine eigenen #Menschenrechte, #scharia-basiert."
+de_173,de,Werden die Namen überführter Museldiebe auch sofort veröffentlicht ??? Wann wird unser Land geheilt von RotGrünenMuselmist !,Werden die Namen überführter muslimischer Straftäter auch sofort veröffentlicht ??? Wann wird unser Land geheilt von RotGrünen-Quatsch !,Werden die Namen übergeführter Museldiebe auch sofort veröffentlicht ??? Wann wird unser Land geheilt von RotGrünenMuselmist !
+de_174,de,"Zum Mitschreiben für die roten Ignoranten: Eine doppelte Staats-. bürgerschaft liegt vor, wenn - ja, jetzt wird es spannend. Was ist doppelt?","Zum Mitschreiben für die roten Leute: Eine doppelte Staats-. bürgerschaft liegt vor, wenn - ja, jetzt wird es spannend. Was ist doppelt?","Eine doppelte Staats-. bürgerschaft liegt vor, wenn - ja, jetzt wird es spannend. Was ist doppelt?"
+de_175,de,für derart strunzdumme Menschen die ihre Gesundheit bei Wetten Dass ruinieren sollte die Öffentlichkeit keinesfalls aufkommen #hartaberfair,für Menschen die ihre Gesundheit bei Wetten Dass ruinieren sollte die Öffentlichkeit keinesfalls aufkommen #hartaberfair,für derart Menschen die ihre Gesundheit bei Wetten Dass ruinieren sollte die Öffentlichkeit keinesfalls aufkommen #hartaberfair
+de_176,de,schlimmer sind jene Fanatiker die Islamisten hofieren. Jung als Nazi zu bezeichnen ist unendlich dumm!!,schlimmer sind jene Fanatiker die Islamisten hofieren. Jung als Nazi zu bezeichnen ist naiv!!,schlimmer sind jene Fanatiker die Islamisten hofieren. Jung als Nazi zu bezeichnen ist unendlich naiv!!
+de_177,de,stimmt aber hat mit meinem Kommentar nichts zu tun sie zurückgebliebene,stimmt aber hat mit meinem Kommentar nichts zu tun,stimmt aber hat mit meinem Kommentar nichts zu tun sie zurückgebliebene
+de_178,de,viel gefährlicher ist Oberdummzicke Sheitan Chebli,viel gefährlicher ist Sheitan Chebli,viel gefährlicher ist Sheitan Chebli
+de_179,de,welches Meth nimmt eigentlich @USER_0? Ihre Haut sieht ja fürchterlich aus und dann das ständige blinzeln #furchtbar #maischberger,was nimmt eigentlich @USER_0? Ihre Haut sieht ja nicht gut aus und dann das ständige blinzeln #maischberger,welches Meth nimmt eigentlich @USER_0? Ihre Haut sieht ja fürchterlich aus und dann das ständige blinzeln #maischberger
+en_180,en,* neither * of my coworkers gave a shit when it came time to ditch mitch . ugh .,Neither of my co-workers cared when it came to ditching Mitch.,* neither * of my coworkers gave a bad thing when it came time to mitch mitch . ugh .
+en_181,en,"* well shit , cunt shot himself .","*well, he shot himself.","* well, he shot himself"
+en_182,en,"<number> , people will freak the fuck out .",<number> people will freak out,"<number> , people will freak out ."
+en_183,en,"Are all professors of rhetoric pompous, self-centered assholes?",Are all professors of rhetoric look arrogant and self-centered?,Are all professors of rhetoric pompous?
+en_184,en,"Go fuck yourself, because I can't see you getting any action.","Go away, because I can't see you getting any action.",Don't see you getting any action.
+en_185,en,Here is my badge of honor bitches ),Here is my badge of honor ),Here is my badge of honor )
+en_186,en,I HATE YOU for deliting pages stay away from my pages,I dislike you for deleting my pages. Stay away from my pages.,I hate you for deliting pages stay away from my pages
+en_187,en,I am still a gigantic faggot,I am still a significant individual.,I am still a weak person
+en_188,en,"I guess so will you if you revert again, bitch.",I guess so will you if you revert again.,I guess so will you if you revert again.
+en_189,en,"I've come across Mokele before, he is a power hungry little bully.","I've come across Mokele before, he is a power hungry person.","I've come across Mokele before, he is a power hungry person."
+en_190,en,"Jobs never needed degrees they needed white faces, degrees were there to hinder niggas from getting in URL","Jobs never needed degrees they needed white people, degrees were there to hinder people of color from getting in URL","Jobs never needed degrees they needed white faces, degrees were there to hinder people from getting in URL"
+en_191,en,Kind of a stupid response given the name of the article.,Kind of a not meaningful response given the name of the article.,Kind of a bad response given the name of the article.
+en_192,en,MF and I have a mutual enemy in sanctimonious bullshit. | 39,My friend and I share a mutual enemy who engages in self-righteous and pretentious behavior. | 39,MF and I have a mutual enemy in sanctimonious behavior. | 39
+en_193,en,Nazi Sean Hoyland vandalized these pages.,Sean Hoyland vandalized these pages.,Nazi Sean Hoyland vandalized these pages.
+en_194,en,New Zealanders are a pack of cunts. They need to get a mention.,New Zealanders are the people that need to get a mention.,New Zealanders need to get a mention.
+en_195,en,"Oh, I don't think they are going to get any less stupid any time soon.","Oh, I don't think they are going to get any more bright any time soon.","Oh, I don't think they are going to get any more stupid any time soon."
+en_196,en,Once again I'm SO glad that Wikipedia is not biased or filled with retarded children.,"Once again, I'm so glad that Wikipedia is not biased or filled children.",Once again I'm so glad that Wikipedia is not biased or filled with children.
+en_197,en,"Shut the hell up JeremyA, stop posting nonsense.","Stop talking, Jeremy, stop posting nonsense.",Stop posting nonsense.
+en_198,en,The problem was some idiot made ridiculous edits to the infobox.,The problem was some person made careless edits to the infobox.,The problem was somebody made ridiculous edits to the infobox.
+en_199,en,These are public computers. Don't ban uss all because a few people are retarded.,These are public computers. Don't ban uss all because a few people are retarded.,These are public computers. Don't ban uss all because a few people are retarded.
+en_200,en,Why even have the fucking talk pages if we can't comment on other users?,Why even have the talk pages if we can't comment on other users?,Why even have the talk pages if we can't comment on other users?
+en_201,en,Yeah thats a really good way to get a life! Fucking fag!,"Yeah, that's a really good way to get a life!",Yeah that's a really good way to get a life!
+en_202,en,You made a mistake you ass.,You made a mistake.,You made a mistake.
+en_203,en,and i can t forgive democrats for being rich cunts thinking they are the better rich .,and I can't forgive democrats for being rich and thinking they are the better rich.,and i can't forgive democrats for being rich thinking they are the better rich .
+en_204,en,but redditors are too busy sucking bernie s dick to care .,but redditors are too busy to care .,but redditors are too busy sucking Benny's name to care.
+en_205,en,come on ya fuckin dummy get your right step right .,"can you please get your steps, right?","come on ya, get your right step right ."
+en_206,en,"daniel pantaleo , the worthless bag of shit who got away with murdering eric garner .","daniel pantaleo , who got away with murdering eric garner .","Daniel pantaleo , the bad person who got away with murdering eric garner ."
+en_207,en,eli5 why should governments give a fuck ? .,eli5 why should governments care?,eli5 why should governments care?
+en_208,en,"food is really fucking cheap , jail time because people robbed stores rather than starve to death is not .",food is really cheap now so it's not an option to rob a store rather and go to jail than starve to death,"food is really cheap , jail time because people robbed stores rather than starve to death is not ."
+en_209,en,"fuck it , we 'll do it live .","Leave it, we will do it live",We'll do it live
+en_210,en,fucking barbarian gooks got a lot of nerve to mess with us .,barbarian gooks got a lot of nerve to mess with us.,barbarian gooks got a lot of nerve to mess with us .
+en_211,en,"good damn , that show kicks so much ass .","good god , that show is very nice",good damn that show kicks so much
+en_212,en,hey where the fuck did the rolling earthquake nickname come from i havent ever heard tht,hey where did the rolling earthquake nickname come from i havent ever heard tht,Hey where did the rolling earthquake nickname come from i havent ever heard tht
+en_213,en,i could understand how many people would shit their pants seeing a title like this,I could understand how many people would get scared seeing a title like this.,i could understand how many people would annoy themselves seeing a title like this
+en_214,en,"i go there for work every few months , and i can assure you it fucking sucks .","i go there for work everh few months , and i can assire you it's not pleasant .",I go there for work every few months and i can assure you it's bad.
+en_215,en,i m tired of dick jokes .,i m tired of  jokes,I am tired of bad jokes .
+en_216,en,it tastes like shit and i 've never even seen it available outside of five - star restaurants .,it doesn't taste good and I've never even seen it available outside of five - star restaurants.,it tastes like bad and i 've never even seen it available outside of five - star restaurants .
+en_217,en,it was clear from the first fucking sentence of the article .,It was clear by the very first sentence of the article.,it was clear from the first sentence of the article .
+en_218,en,"just a thought , but maybe stay the fuck away from the chinese .","just a thought , but maybe stay away from the chinese","just a thought , but maybe stay away from the chinese ."
+en_219,en,"no , i m pointing out that you are being a condescending ass about it , just like your euphoric brethren .",Am pointing out that you are being mean about it just like your brothers.,"no , i m pointing out that you are being a condescending about it , just like your euphoric brethren ."
+en_220,en,"no , putin will send depardieu to fuck harper 's wife .","no , putin will send depardieu to deal with harper 's wife","no , putin will send depardieu to her wife"
+en_221,en,parliament is a lame duck .,Parliament is dull,Parliament is not good at all.
+en_222,en,queer ur gay i hope u read this,I hope you read this.,Queer ur gay i hope u read this
+en_223,en,reducing early voting from number down to number days sure is shitting all over the citizens of the united states .,reducing early voting from number down to number days is affecting all over the citizens of the united states,reducing early voting from number down to number days sure is bad about the citizens of the united states.
+en_224,en,removed from reality in - fucking - deed,Removed from reality indeed,removed from reality in - bad - deed
+en_225,en,"right , that 's what i was implying by saying the un won 't do shit , because russia is on the sc .","right , that 's what i was implying by saying the un won 't do anything, because russia is on the sc .","right , that 's what i was implying by saying the un won 't do stuff , because russia is on the sc ."
+en_226,en,she fucking lied to them about what she was doing .,she  lied to them about what she was doing .,she lied to them about what she was doing
+en_227,en,"stop being such a pussy , are you his mom or something ? .","stop being acting like this , are you his mom or something ?","Stop being such rude, are you his mom or something?"
+en_228,en,stupid for a ball coach to make ten times what a teacher makes .,It doesn't make sense for a ball coach to make ten times what a teacher makes,stupid for a ball coach to make ten times what a teacher makes .
+en_229,en,that stupid water pipe is just a fatal accident waiting to happen .,that dangerous water pipe is just a fatal accident waiting to happen .,That water pipe is just a fatal accident waiting to happen .
+en_230,en,"the woman s a bitch , but the man s a psychopath .","the woman is not good, but the man is not normal.","the woman is a mean person , but the man is a psychopath ."
+en_231,en,they named that shit after him .,They named it after him,they named him after him
+en_232,en,they weren t suicide bombing for shits and giggles certainly .,suicide bombings are carried out for reasons,they weren't suicide bombing for bad things certainly .
+en_233,en,what the fuck do you think we watch the anime for?,What do you think we are watch the anime for?,what do you think we watch the anime for?
+en_234,en,what the fuck is this comment ? .,What is this comment?,What is this comment?
+en_235,en,why you're being a complete jerk,Why you're being such unpleasant person?,Why do you have to worry?
+en_236,en,"yes , it does stink to high heaven but there are enough gullible fools who praise this outfit nonetheless .","Yes, it does sink to high heaven but there are enough naive persons who praise this outfit nonetheless.","yes , it does stink to high heaven but there are enough people who praise this outfit nonetheless ."
+en_237,en,"you know more than these idiots , stay the course and the truth will prevail .","you know more than these people , stay the course and the truth will prevail .","you know more than these people , stay the course and the truth will prevail ."
+en_238,en,you need to fuck off and stop hrassing people,You need to stop hrassing people,you need to stop harassing people
+en_239,en,"you're right, allmusic is the last shit.","you're right, Allmusic is the last disappointment.","you're right, allmusic is the last thing."
+es_240,es,Ahora tampoco respetaréis la democracia fascistas de mierda???,Ahora tampoco respetaréis la democracia????,Ahora tampoco respetaréis la democracia
+es_241,es,Algunos pierden la cabeza por llegar a Paguitalandia.,algunos se desgastan por llegar a Paguitalandia,Algunos pierden la cabeza por llegar a Paguitalandia.
+es_242,es,Aquí lo acogemos con los brazos abiertos y le damos una paguita vitalicia.,Aquí lo recibimos con los brazos abiertos y le proporcionamos un apoyo económico de por vida,Aquí lo acogemos con los brazos abiertos y le damos una paguita vitalicia.
+es_243,es,"Con periodistas de mierda, con empleados de mierda.","Con malos periodistas, con malos empleados","Con periodistas de mierda, con empleados de mierda."
+es_244,es,"Costumbres tercermundistas que disfrutamos ya en Europa gracias a nuestros políticos progres, disfruten lo votado.","Costumbre de países en desarrollo que ya disfrutamos en Europa, gracias a los políticos simpatizantes, disfruten el logro","Costumbres tercermundistas que disfrutamos ya en Europa gracias a nuestros políticos progres, disfruten lo votado."
+es_245,es,Dale la vuelta a la camiseta y tienes el 6 del 6-1 de la REMONTADA MAMÓN!!!,Dale la vuelta a la camiseta y tienes el 6 del 6-1 de la REMONTADA!!!,Dale la vuelta a la camiseta y tienes el 6 del 6-1 de la REMONTADA!!!
+es_246,es,Daniel has muerto o algo no te veo twittear como un subnormal,Daniel has muerto o algo no te veo twittear,Daniel has muerto o algo no te veo twittear
+es_247,es,"En catalán se escribe Espanya. Para dárselas usted de ser periodista, no tieene usted puta idea de escribir.","En catalán se escribe Espanya. Para dárselas usted de ser periodista, no tieene usted  idea de escribir.","En catalán se escribe Espanya. Para dárselas usted de ser periodista, no tienes idea de escribir."
+es_248,es,"Encima cacho parguela te pones de gilipollas con ella, subnormal",Encima te pones de maleducado con ella,Encima te pones de gilipollas con ella
+es_249,es,Es asombroso el nivel de estupidez-robotización del adoctrinamiento progre.,Resultado: Es sorprendente el nivel de robotización en el adoctrinamiento progresista.,Es asombroso el nivel de estupidez-robotización del adoctrinamiento progre.
+es_250,es,"Estos críos.... Qué pillastres..... Son unos terremotos los angelitos... Qué energía la de estos chicos... El futuro, son el futuro.....","Estos niños son bastante traviesos, llenos de energía y travesuras. Representan el futuro con toda su vitalidad.","Estos son los pecados..... Son unos terremotos los angelitos... Qué energía la de estos chicos... El futuro, son el futuro....."
+es_251,es,Habla en español catalán de mierda.,Habla español catalán,Habla en español catalán.
+es_252,es,"Han quedado los últimos   ""Gran mayoría""  Además de facha, tonto.","Han quedado los últimos   ""Gran mayoría""","Han quedado los últimos ""Gran mayoría"" Además de facha."
+es_253,es,"Hombre... a mi me tocan mi zumito y también arranco cabezas, hay cosas que hay que respetar.","Hombre... a mi me tocan mi zumito y también me enojo, hay cosas que hay que respetar.","A mí me tocan mi zumito y también me arranco cabezas, hay cosas que hay que respetar."
+es_254,es,La patada JAJAJAJAJA MUERE SUBNORMAL  😂😂😂😂,La patada JAJAJAJAJA 😂😂😂😂,La patada JAJAJAJAJA MUERE SUBNORMAL 😂😂😂😂
+es_255,es,La puta que frustración .,que frustración .,La frustración.
+es_256,es,La única solución es irse de este país de mierda.,La única solución es irse de este país.,La única solución es irse de este país.
+es_257,es,"Lo que no se es como no pone varias lineas de ferry,
+2500 pavos cada uno y llenan.","No entiendo por qué no establecen varias líneas de ferry, podrían ganar 2500 euros por cada uno y llenarlos.","Lo que no se es como no pone varias lineas de ferry, 2500 pavos cada uno y llenan."
+es_258,es,"Lo veo bien, deja cada uno varias pensiones pagadas y se va a su pais.","Lo considero aceptable, siempre y cuando cada uno deje varias pensiones pagadas antes de regresar a su país.","Lo veo bien, deja cada uno varias pensiones pagadas y se va a su pais."
+es_259,es,Los centros de menores no tutelados son escuelas de delincuentes.,Los centros de menores no tutelados pueden presentar desafíos en la prevención del comportamiento delictivo.,Los centros de menores no tutelados son escuelas de robo.
+es_260,es,Los mejores y los más valientes.,Los más destacados y los más valerosos.,Los mejores y los más valientes.
+es_261,es,"Los políticos lo toleran todo lo que no va contra ellos, baste fijarse en Iglesias, con su casoplón.","Los políticos toleran todo lo que no les afecta directamente, basta con observar a Iglesias y su gran casa.","Los políticos lo toleran todo lo que no va contra ellos, baste fijarse en Iglesias."
+es_262,es,"Mamona, tengan la mierda que tengan ellos, lo nuestro sigue siendo igual de lamentable",Tengan los que tengan ellos igual lo nuestro sigue lamentable,"tengan la mala que tengan ellos, lo nuestro sigue siendo igual de lamentable"
+es_263,es,Me cuesta creer que haya alguien igual de subnormal que Dalas.,Me cuesta creer que haya alguien igual que Dalas.,Me cuesta creer que hay alguien igual de loco que Dalas.
+es_264,es,"Menudos gilipollas. Como no, tenían que ser los guardaespaldas de la nazi de Le Pen...","Por supuesto, tenían que ser los guardaespaldas de Le Pen...","Como no, tenían que ser los guardaespaldas de la nazi de Le Pen..."
+es_265,es,No han dicho ya que vienen los mejores y los mas preparados?,"Sí, se ha mencionado que vienen los mejores y los más preparados.",No han dicho ya que llegan los mejores y los más preparados?
+es_266,es,"No hay que indicar niña ""blanca española"" ni nada?",No es necesario especificar la nacionalidad o etnia al referirse a una niña.,"No hay que indicar niña ""blanca española"" ni nada?"
+es_267,es,No los vio el open arms,El Open Arms no los avistó.,No los vio el open arms
+es_268,es,"No pasa nada, al bajar dice que tiene 14 años y a vivir la vida midugis juejuejejejeuejjejj","No hay problema, al bajar dice que tiene 14 años y a disfrutar la vida.","No pasa nada, al bajar dice que tiene 14 años y a vivir la vida midugis juejuejejejeuejjejj"
+es_269,es,"Otro día de mierda, en éste mes de mierda, de éste año de mierda","Otro día malo, en éste mes malo, de éste año malo","Otro día de mierda, en éste mes de mierda, de éste año de mierda"
+es_270,es,"Perdón, que elite de mierda","Lo siento, qué mala élite","Perdón, que elite"
+es_271,es,"Pero pedazo de subnormal, prefieres a Charlotte antes que Lana.","Pero, prefieres a Charlotte antes que Lana.","Pero, prefieres a Charlotte antes que Lana."
+es_272,es,"Pero que putas, maldita tensión rara entre Jaime y Brandon #GameofThrones #JaimeLannister","Pero qué es, extraña tensión entre Jaime y Brandon.  #Game of Thrones  #JaimeLannister",Pero que mala tensión rara entre Jaime y Brandon #GameofThrones #JaimeLannister
+es_273,es,Por mucho que intentes ser del Madrid nunca dejaras de ser un sudaca xd,Por mucho que intentes ser del Madrid nunca dejaras de ser un sudamericano xd,Por mucho que intentes ser del Madrid nunca dejaras de ser un mala persona xd
+es_274,es,"Pues súbete tu a repararlo, maricón",Pues súbete tu a repararlo,"Bueno, esto te ayudará a repararlo."
+es_275,es,"Que asco da la gente homófoba, COMENTO. — MUCHO ASCO",No soporta la gente homófoba,"Que asco da la gente homófoba, COMENTO. — MUCHO asco"
+es_276,es,Que ganas de que metan al peluo en la carcel por subnormal😆😆😆,Espero que lo lleven a la cárcel por sus acciones inapropiadas.,Que ganas de que metan al hombre en la carcel
+es_277,es,"Que traigan otro cargamento, necesitamos más pagapensiones son una inversión de futuro.","Que traigan otro cargamento, necesitamos más contribuyentes para asegurar las pensiones; son una inversión de futuro.","Que tragan otro cargamento, necesitamos más pagapensiones son una inversión de futuro."
+es_278,es,Responde carajo ganster  de mierda.,Responde ahora,Responde a este tipo de persona.
+es_279,es,"Son nuestros niños... ah no, que uno tiene 41 años. Da igual, son nuestros jóvenes.","Son nuestros jóvenes, aunque uno tenga 41 años.","Son nuestros niños... ah no, que uno tiene 41 años. Da igual, son nuestros jóvenes."
+es_280,es,Supongo que Perro le dará asilo en la Moncloa,Supongo que el presidente le dara asilo en la Moncloa,Supongo que Perro le dará asilo en la Moncloa.
+es_281,es,"Te quisiste Imponer Malparido INDIO ESCORIA 👈No Pudiste, La reunión va  En la OEA.","Te quisiste Imponer una mala organización 👈No Pudiste, La reunión va  En la OEA.","Te quisiste Imponer INDIO ESCORIA 👈No Pudiste, La reunión va en la OEA."
+es_282,es,"This. Que puto asco de respuestas, sois repulsivos",This. Que mala respuesta,"This. Que mala respuesta, sois repulsivos"
+es_283,es,"Totalmente de acuerdo con la diputada, a esos cáfres asquerosos que no los vayan a dejar devolver a Bogotá.",Estoy totalmente de acuerdo con el diputado que no les permitirá regresar a Bogotá.,"Totalmente de acuerdo con la diputada, a esos que no los vayan a dejar devolver a Bogotá."
+es_284,es,"Tranquilízate tú, ya que se supone que eres analista deportivo, no comediante o payaso, aunque a veces parezca lo contrario.","Tómelo con calma, ya que debe ser un analista deportivo, no un comediante, aunque a veces puede parecer lo contrario.","Tranquilízate tú, ya que se supone que eres analista deportivo, no comediante o payaso, aunque a veces parezca lo contrario."
+es_285,es,VIEJA PAYASA....................................... APARTA TU MIERDA DE MI MIERDA..................................... NO ME SEAS LOCA,"No acerques tus cosas a mis cosas, por favor",VEJA PAYASA....................................... APARTA TU MIERDA DE MI MIERDA..................................... NO ME SEAS LOCA
+es_286,es,Y el mamón se vuelve a París con dos palmos de narices,Y se vuelve a París con dos palmos de narice,Y el mamón se vuelve a París con dos palmos de narices
+es_287,es,"Y los mejores, y los más valientes. La vieja dixit","Y los mejores, y los más valientes. La dixit","Y los mejores, y los más valientes. La vieja dixit"
+es_288,es,cuidado con estos conspiradores de mierda,Cuidado con estas personas,Cuidado con estos conspiradores
+es_289,es,"el término correcto es ""seres humanos de color crema""","El término correcto es ""personas de tono crema"".","el término correcto es ""seres humanos de color crema"""
+es_290,es,es a cuartos de final subnormal,es a cuartos de final,es a cuartos de final
+es_291,es,"fijate, todo tiene su lado bueno, hasta el puto coronabicho","Fíjate, todo tiene su lado bueno.","fijate, todo tiene su lado bueno, hasta el coronabicho"
+es_292,es,jaja ok andate con la zorra esa chau olvidate de mi :),Jaja ok andate con ella chau olvidate de mi :),"ok andate con esa chica, olvidate de mi :)"
+es_293,es,lo personal es político pero no por ello tienes ke ir a una manifa ke convocan sindicatos de mierda,Lo personal es político pero eso no significa que haya que ir a una manifestación que convoque a sindicatos.,lo personal es político pero no por eso tienes ke ir a una manifa ke convocan sindicatos
+es_294,es,nonono este 2020 se anda pasando de verga,No no no esté 2020 se anda pasando,nonono este 2020 se anda pasando de verga
+es_295,es,vete a un cajero mamon,vete a un cajero,Ve a un cajero
+es_296,es,y el drama con el guiri de mierda de seamus en eurovision super living,Y el drama con el guiri  de seamus en eurovision super living,y el drama con seamus en eurovision super living
+es_297,es,¡Ese es mi Trump! 🇺🇸Que vean la galamierda los giligoyas y rojeras de los veinte duros ¡A mamarla!,¡Este es mi Trump! 🇺🇸Que los Giligoi y los pelirrojos del sólido veinte vean este horror.,¡Ese es mi Trump! 🇺🇸Que vean la galamierda los rojos de los veinte duros ¡A mamarla!
+es_298,es,¿Van a seguir con el mismo tema de los comediantes mediocres?,¿Van a seguir con el mismo tema de los comediantes?,¿Van a seguir con el mismo tema de los comediantes?
+es_299,es,🚨🚨 Los okupas causan graves disturbios en Santiago y el alcalde 'podemita' les respalda ➡️  ASQUEROSO,🚨🚨 Los okupas causan graves disturbios en Santiago y el alcalde 'podemita' les respalda ➡️,🚨🚨 Los okupas causan graves disturbios en Santiago y el alcalde 'podemita' les respalda
+hi_300,hi,अबे पांडिया विकेट देख के बोल नही मारनी रन आउट के लिए लौंडिया की गांड़ समझ कर मार..,अबे पांडिया रन आउट के लिए विकेट को अच्छे से देख कर बोल मार..,अबे पांडिया विकेट देख के बोल नही मारनी रन आउट के लिए लौंडिया की गांड़ समझ कर मार..
+hi_301,hi,"अबे सिसोदिया, आंख मे सुग्गर का लुंड घुसा है, तेरे को किस एंगल से ये डुबलीकेट दिख रहा है","अबे सिसौदिया,  तेरे को किस एंगल से ये डुबलीकेट दिख रहा है","अबे सिसोदिया, आंख मे सुग्गर का लुंड घुसा है, तेरे को किस एंगल से ये धोखा दिख रहा है"
+hi_302,hi,अरे पागल जूठा रोज लाईट बंद रखता हें भड्वा,अरे जूठा रोज लाईट बंद रखता हें,अरे रोज लाईट बंद रखता हें
+hi_303,hi,"अरे भोसडीके, कुछ ट्विट करणे से पहले व्हेरिफाय करणा सिखले.","अरे, कुछ ट्विट करणे से पहले व्हेरिफाय करणा सिखले.",कुछ ट्विट करणे से पहले व्हेरिफाय करणा सिखले.
+hi_304,hi,असिफा पर चिलाने वालो अब कहा गये भोसडीके?,आसिफा पर चिल्लाने वाले अब कहां है?,असिफा पर चिलाने वालो अब कहा गये?
+hi_305,hi,आजम खान कुछ भी बोलता है । इस मादरचोद को उड़ा दो साले को ।,आजम खान कुछ भी बोलता है । इस को उड़ा दो  ।,आजम खान कुछ भी बोलता है । इस बेकार आदमी को उड़ा दो साले को ।
+hi_306,hi,इन जैसे मादरचोद पर आखिर मुकदमा क्यों नहीं हो रहा है?,इन जैसे बुरे लोग पर आखिर मुकदमा क्यों नहीं हो रहा है?,इन जैसे बुरे लोगों पर आखिर मुकदमा क्यों नहीं हो रहा है?
+hi_307,hi,इलेक्शन से पहले महापंडित बनता था,इलेक्शन से पहले वह बहुत ज्ञानी बनता था,इलेक्शन से पहले महापंडित बनता था
+hi_308,hi,इस कमीने की करतूत देखिए |,इस बुरे आदमी की करतूत देखिए |,इसकी करतूत देखिए |
+hi_309,hi,इस सुअर के बच्चे ने बहुत ही आपत्ती जनक भाषा का इस्तमाल किया है।,इस बेकार आदमी ने बहुत ही आपत्ती जनक भाषा का इस्तमाल किया है।,इस बेकार बच्चे ने बहुत ही आपत्ती जनक भाषा का इस्तमाल किया है।
+hi_310,hi,उफ्फ!   बड़ी विडंबना है भोसड़ीके...!,उफ्फ! बड़ी विडंबना है...!,उफ्फ! बड़ी विडंबना है...!
+hi_311,hi,ओर कोई नहीं सिर्फ़ तुझ जैसे कुत्ते पूछ रहे हैं भैनचोद,ओर कोई नहीं सिर्फ़ तुझ जैसे लोग ही पूछ रहे हैं,ओर कोई नहीं सिर्फ़ तुझ जैसे कुत्ते पूछ रहे हैं
+hi_312,hi,औकात समझ आ गई बे ? बाप बाप होता है ।,स्तर समझ आ गया बे ? बाप बाप होता है ।,औकात समझ आ गई बे ? बाप बाप होता है ।
+hi_313,hi,काहे के प्रोफेशनल बे भड़वा गिरी और दलाली के ?,काहे के प्रोफेशनल बे गलत काम करने के ?,काहे के प्रोफेशनल बे बुरे आदमी के ?
+hi_314,hi,कुछ नेता तो इतने कमीने टाइप के होते हैं,कुछ नेता तो इतने गंदी सोच वाले होते हैं,कुछ नेता तो इतने बुरे टाइप के होते हैं
+hi_315,hi,"कुत्ते  दो प्रकार के होते है-:  एक पाला हुआ, और दूसरा ख़रीदा हुआ कमलनाथ पाला हुआ है और सिद्धु खरीदा हुआ ।",कमलनाथ और सिद्धू अच्छे व्यवहार के आदमी नहीं है |,"दो प्रकार के होते है-: एक पाला हुआ, और दूसरा ख़रीदा हुआ कमलनाथ पाला हुआ है और सिद्धु खरीदा हुआ ।"
+hi_316,hi,"कोई हरामि कुछ भी करे कोई मतलब नही, बस कोई हमारी बहन बेटियो की इज्जत से न खेले","कोई कुछ भी करे कोई मतलब नही, बस कोई हमारी बहन बेटियो की इज्जत से न खेले","कोई भी करे कोई मतलब नही, बस कोई हमारी बहन बेटियो की इज्जत से न खेले"
+hi_317,hi,क्योंकि ऐसा बोलने वाले सड़क छाप सच्चे नहीं होते...,क्योंकि ऐसा बोलने वाले सच्चे नहीं होते...,क्योंकि ऐसा बोलने वाले सड़क छाप सच्चे नहीं होते...
+hi_318,hi,गैस सिलेंडर महंगा हुआ होता तो अभी तक रंडी रोना रोते |,गैस सिलेंडर महंगा हुआ होता तो अभी तक तमाशा कर रहे होते |,गैस सिलेंडर महंगा हुआ होता तो अभी तक बुरे लोग रोना रोते |
+hi_319,hi,गौरव साहब नारंगी वाले क्या दूसरे देश के हैं जो उस रंडी ने ऐसा लिखा है,गौरव साहब नारंगी वाले क्या दूसरे देश के हैं जो उस बुरी औरत ने ऐसा लिखा है,गौरव साहब क्या दूसरे देश के हैं जो उसने ऐसा लिखा है
+hi_320,hi,"छोड़ो प्यार -वयार को,पैसे कमाओ   लोग चूतिया समझते है भोसडीके तुमको !!","छोड़ो प्यार -वयार को,पैसे कमाओ   लोग बेकार समझते हैं तुमको","छोड़ो प्यार -वयार को,पैसे कमाओ लोग तुमको समझते है !!"
+hi_321,hi,"जलेबी तो गईं, पर कुत्ते की जात पहचानी गई","परेशानी तो हुई, पर उसके बारे में बहुत कुछ बात गई","जलेबी तो गईं, पर कुत्ते की जात पहचानी गई"
+hi_322,hi,जेहादी सूअर आस मोहम्मद को गिरफ्तार किया गया,आस मोहम्मद को गिरफ्तार किया गया,जेहादी आस मोहम्मद को गिरफ्तार किया गया
+hi_323,hi,"ज्यादा गांड ना फुलाओ,  गांड फाड़ देंगे ।","ज्यादा मत उछलो, शांत कर देंगे ।।","ज्यादा ना फुलाओ, गांड फाड़ देंगे ।"
+hi_324,hi,ठोक ठोक के इतना गन्दी औलाद पैदा किया है,तुम्हारी औलाद अच्छी नहीं है,ठोक के इतना बुरे व्यवहार पैदा किया है
+hi_325,hi,तुम जैसे दलाल तो चिल्ला रहे है अब दुसरो को बोलने की क्या जरुरत ?,तुम जैसे चापलूस तो चिल्ला रहे है अब दुसरो को बोलने की क्या जरुरत ?,तुम जैसे बुरे लोग तो चिल्ला रहे है अब दुसरो को बोलने की क्या जरुरत ?
+hi_326,hi,तुम जैसे लोग साले गीत गधे का गाते है... भेनचोद भड़वे,तुम जैसे लोग बात बिना मतलब की ही करते हैं ।।,तुम जैसे लोग साले गीत गधे का गाते है...
+hi_327,hi,तुमको कुछ बोलने की ज़रूरत नही तुम दर मादरचोद रंडी की गांड की तरह बोलते हो,तुमको कुछ बोलने की जरूरत नहीं तुम कुछ भी बेकार की बात बोलते हो,तुमको कुछ बोलने की ज़रूरत नही तुम बेकार लोगों की तरह बोलते हो
+hi_328,hi,तुम्हारे जेसे दल्ले का तो कहना ही क्या,तुम्हारे जेसे चापलूस लोगों का तो कहना ही क्या,तुम्हारे जेसे बुरे का तो कहना ही क्या
+hi_329,hi,तेरा लौंडा  बहुत  बैट लेकर  घूमता  और  सरकारी  अफसर को  पीटता है ।,तेरा लौंडा सरकारी अफसर के बारे में कुछ भी बोलता है |,तेरा बहुत बैट लेकर घूमता और सरकारी अफसर को पीटता है ।
+hi_330,hi,तेरी मर्यादा को तेरी गांड में घुसेड़ दूंगा समझा बे!!  कुछ भी उटपटांग लिखते रहते हो ???,तेरी मर्यादा तुझे याद दिला देंगे बे!!  कुछ भी उटपटांग लिखते रहते हो ???,तेरी मर्यादा को तेरी गांड में घुसेड़ दूंगा समझा बे!! कुछ भी लिखते रहते हो ???
+hi_331,hi,तेरी शक्ल देख कर वो रंडी याद आती है,तेरी शक्ल देख कर वो बेकार औरत याद आती है,तेरी शक्ल देख कर वो याद आती है
+hi_332,hi,दरअसल गलती हम लोगों की है हम लोगों को भी चाहिए कि तोड़ फोड़ का जवाब तोड़ फोड़ से दे और मौत का बदला मौत ही दे,दरअसल गलती हम लोगों की है हम लोगों को भी चाहिए कि जो जैसा हमारे साथ करें हम भी वैसा ही करें उसके साथ,दरअसल गलती हम लोगों की है हम लोगों को भी चाहिए कि तोड़ फोड़ का जवाब तोड़ फोड़ से दे और मौत का बदला मौत ही दे
+hi_333,hi,"दलाल तक ही रहता भाई, भड्वा गिरि पे क्यूं उतर आया","स्तर तेरा पहले से ही गिरा हुआ था भाई, और नीचे क्यों गिराया","दलाल तक ही रहता भाई, गिरि पे क्यूं उतर आया"
+hi_334,hi,नीच नीच ही होता है राजा बन जाए तो भी |,राजा बनने के बाद भी लोगों के बुरे व्यवहार नहीं बदलते |,यह राजा बन जाए तो भी |
+hi_335,hi,पिछवाड़े में दम होता तो भागता नहीं हरामखोर,लड़ने की हिम्मत होती तो भागता नहीं धोखेबाज,पिछवाड़े में दम होता तो भागता नहीं
+hi_336,hi,बड़ी बेगैरत बेगम है तुम्हारी रोटी भी ठीक से नही बना पा रही,बेगम तुम्हारी रोटी भी ठीक से नही बना पा रही,तुम्हारी रोटी भी ठीक से नही बना पा रही
+hi_337,hi,"भइया आपकी दलाली वाली पत्रकारिता ने जिस विचारधारा को बढ़ावा दिया है, उसी का असर है।","भइया आपकी खराब पत्रकारिता ने जिस विचारधारा को बढ़ावा दिया है, उसी का असर है।","आपकी पत्रकारिता ने जिस विचारधारा को बढ़ावा दिया है, उसी का असर है।"
+hi_338,hi,भड़वा गिरी की मूर्ति श्री केजरीवाल जी,गलत कामों की मूर्ति श्री केजरीवाल जी,श्री केजरीवाल जी की मूर्ति
+hi_339,hi,भड़वा मीडिया ने भी इस घटना को नही दिखाया।,पक्षपाती मीडिया ने भी इस घटना को नहीं दिखाया ।,मीडिया ने भी इस घटना को नही दिखाया।
+hi_340,hi,भड़वे के पास कुत्ता जैसा नाक है हरामखोर पत्रकार,उस चापलूस पत्रकार को तुरंत सब कुछ पता चल जाता है,पत्रकार के पास कुत्ता जैसा नाक है
+hi_341,hi,भेनचोद पता नही तेरे जैसे लोग कैसे पत्रकार बन जाते है,पता नही तेरे जैसे लोग कैसे पत्रकार बन जाते है,पता नही तेरे जैसे लोग कैसे पत्रकार बन जाते है
+hi_342,hi,भोंसड़ी लगता है के तुम पैदा भी नौटंकी से ही हुए थे |,लगता है के तुम पैदा भी नौटंकी से ही हुए थे |,लगता है के तुम पैदा भी नौटंकी से ही हुए थे |
+hi_343,hi,भोसड़ीके यहां आकर बात कर तुझे जवाब देंगे।,यहां आकर बात कर तुझे जवाब देंगे।,यहां आकर बात कर तुझे जवाब देंगे।
+hi_344,hi,भोसडिका अत्याचार केवल लाचार औरतों के लिए है?,अत्याचार केवल लाचार औरतों के लिए है?,अत्याचार केवल लाचार औरतों के लिए है?
+hi_345,hi,भोसडीके सिर्फ तीन ही परिवार वर्षों तक शासन करते रहे।,सिर्फ तीन ही परिवार वर्षों तक शासन करते रहे।,सिर्फ तीन ही परिवार वर्षों तक शासन करते रहे।
+hi_346,hi,ममता_बनर्जी ने तड़ीपार_गैंडे शाह को औकात पे ला दिया,ममता_बनर्जी ने शाह को औकात पे ला दिया,ममता_बनर्जी ने तड़ीपार_गैंडे शाह को औकात पे ला दिया
+hi_347,hi,मादरचोद तुम सुवरो को दुनिया मे कोई देश पनाह नहीं देगा ||,तुम बेकार लोगों को दुनिया मे कोई देश पनाह नहीं देगा ||,तुम सुवरो को दुनिया मे कोई देश पनाह नहीं देगा ||
+hi_348,hi,मैं समस्त जौनपुर वालो से आग्रह करता हु की ऐसे नाली के कीड़ों को समाज से बाहर करो जो हमारे जौनपुर का नाम खराब करते है।,मैं समस्त जौनपुर वालो से आग्रह करता हु की ऐसे लोगों को बाहर करो जो हमारे जौनपुर का नाम खराब करते है।,मैं समस्त जौनपुर वालो से आग्रह करता हु की ऐसे लोगों को समाज से बाहर करो जो हमारे जौनपुर का नाम खराब करते है।
+hi_349,hi,मोदी सूअर का पीला भी तो चुप है,मोदी भी तो चुप है,मोदी भी तो चुप है
+hi_350,hi,यही हाल ईस कमीने का है।,यही हाल है इस बुरे आदमी का |,यही हाल ईस का है।
+hi_351,hi,ये हरामी खुलेआम अलगाववादी भाषा बोल रहा है।,ये बेकार आदमी खुलेआम अलगाववादी भाषा बोल रहा है।,ये बुरे आदमी खुलेआम अलगाववादी भाषा बोल रहा है।
+hi_352,hi,"लीगली 3 प्यारे प्यारे बच्चे हैं , सुंदर भाभी हैं उनके बारे में एक बार जरूर सोचिएगा !!","3 प्यारे प्यारे बच्चे हैं ,अच्छी भाभी हैं उनके बारे में एक बार जरूर सोचिएगा !!","लीगली 3 प्यारे बच्चे हैं , सुंदर भाभी हैं उनके बारे में एक बार जरूर सोचिएगा !!"
+hi_353,hi,वहां का मुख्यमंत्री भडवा है ।,वहां का मुख्यमंत्री अच्छा नहीं है |,वहां का मुख्यमंत्री बेकार है ।
+hi_354,hi,वो क्या है ना कि कुत्ते और कुत्तें के पिल्ले को घी हजम नहीं होती,वो क्या है ना कि कुछ लोगों को अच्छी बातें भी अच्छी नहीं लगती,वो क्या है ना कि कुत्ते और कुत्तें के पिल्ले को घी हजम नहीं होती
+hi_355,hi,वो भी तेरी तरह कमीने ही है तुझसे हाथ नहि मिलाएँगे,वो भी तेरी तरह ही है तुझसे हाथ नहि मिलाएँगे,वो भी तुझसे हाथ नहि मिलाएँगे
+hi_356,hi,साले की शक्ल ही सूअर जैसी लग रही है। जैसा काम वैसी शक्ल ।,उसकी शक्ल ही बेकार सी लग रही है | जैसा काम वैसी शक्ल ।,उसकी शक्ल ही खराब लग रही है। जैसा काम वैसी शक्ल ।
+hi_357,hi,सुवर अब तो बदल जाओ भोसडीका,अब तो बदल जाओ अपनी बुरी आदतों से,सुवर अब तो बदल जाओ
+hi_358,hi,सैनिक शहीद हुआ तो वह बच्चा नहीं था भेनचोद !,सैनिक शहीद हुआ तो वह बच्चा नहीं था !,सैनिक शहीद हुआ तो वह बच्चा नहीं था !
+hi_359,hi,हम इंसानो के पूर्वज तो बंदर थे बाकी इस कुत्ते को इसके पता होंगे,हम इंसानो के पूर्वज तो बंदर थे बाकी इस्के इसको पता होंगे,हम इंसानो के पूर्वज तो बंदर थे बाकी इसको इसके पता होंगे
+uk_360,uk,"'Але звинувачувати у проруснявій позиції можуть лише повні, абсолютно кончені дегенерати, п''янь від люмпеноти, русня і підруснявлені манкурти.'","Але звинувачувати у проросійській позиції можуть лише повні, абсолютно нерозумні люди.","'Але звинувачувати у проруснявій позиції можуть лише повні, абсолютно кончені дегенерати, п''янь від люмпеноти, русня і підруснявлені манкурти.'"
+uk_361,uk,"'Тут або Тинка, Тіна, і Крістіна як кажуть америкоси, ну або вже повним ім''ям.'","'Тут або Тинка, Тіна, і Крістіна як кажуть американці, ну або вже повним ім''ям'","'Тут або Тинка, Тіна, і Крістіна як кажуть америкоси, ну або вже повним ім''ям.'"
+uk_362,uk,"+1 RT не можна доторкатисядо людей в маршрутці!не можна, блять!",+1RT не можна доторкнутися людей в маршрутці не можна,+1 RT не можна доторкатисядо людей в маршрутці!не можна
+uk_363,uk,"Є частинка щастя в хорі народу на концерті Жадана і Собак, який співає:Чотири роки сука без Кобзона!","Є частинка щастя в хорі народу на концерті Жадана і Собак, який співає:Чотири роки без Кобзона!","Є частинка щастя в хорі народу на концерті Жадана і Собак, який співає:Чотири роки без Кобзона!"
+uk_364,uk,І все це блять особисто до мене звернуте.,І все це особисто до мене звернуте.,І все це особисто до мене звернуте.
+uk_365,uk,"Їй випав Овен і бля, мій папа овен.",Їй випав Овен і мій папа овен.,"Їй випав Овен і бля, мій папа овен."
+uk_366,uk,А всюди йобаний натовп з йобаними руками.,А всюди натовп з руками,А всюди йобаний натовп з йобаними руками.
+uk_367,uk,А ховрашки від ЗРАДИ активно їли гівно і верещали щто НІЗЯ чіпати?,А ховрашки від ЗРАДИ активно вередували  і верещали щто НІЗЯ чіпати?,А ховрашки від ЗРАДИ активно їли гівно і верещали щто НІЗЯ чіпати?
+uk_368,uk,"А я блять що, а я собі така ахуєнна, ніколи не падаю духом.","А я що, а я собі така шикарна, ніколи не падаю духом.","А я собі така байдуже, ніколи не падаю духом."
+uk_369,uk,А їбля мозку - то піздєц.,Тріпати мозок -  дуже погано.,А мозку - то піздєц.
+uk_370,uk,"Ааааа, ну нахуя ставити це на порозі??????","Ааааа, ну для чого ставити це на порозі??????","Ааааа, ну нафіг поставити це на порозі??????"
+uk_371,uk,"Бо сука-блять перша ночі, а ти тут розлігся як тюлєнь на льодовику.","Бо перша ночі, а ти тут розлігся як тюлєнь на льодовику.","Бо перша ночі, а ти тут розлігся як тюлєнь на льодовику."
+uk_372,uk,"Воно нас, блядь, ні до чого не готувало.",Воно нас ні до чого не готувало.,Воно нас ні до чого не готувало.
+uk_373,uk,"Дякую за сміх, мораль і 3 срані сльозини!","Дякую за сміх, мораль і 3 сльозини!","Дякую за сміх, мораль і 3 срані людина!"
+uk_374,uk,"Здається, мене люблять 2 дівчини.ото нєхуй було писати шопопало","Здається, мене люблять 2 дівчини.ото не варто було писати шопопало","Здається, мене люблять 2 дівчини.ото нєщо було писати шопопало"
+uk_375,uk,Коли пацан - пиздець як відразливо.,Коли пацан - геть як відразливо.,Коли людина - все одно як відразливо.
+uk_376,uk,"Краще так, ніж всякі мразенькі","Краще так, ніж всякі","Краще так, ніж всякі погані люди"
+uk_377,uk,"Люди, котрі юзають мільйон смайлів, без зайвих слів ідуть нахуй.","Люди, котрі юзають мільйон смайлів, без зайвих слів ідуть далеко","Люди, котрі юзають мільйон смайлів, без зайвих слів ідуть далеко."
+uk_378,uk,"Має дві роботи, але вкрай ниє, яка у нас хренова держава, який він бідний, яке хуйове життя.","Має дві роботи, але вкрай ниє, яка у нас хренова держава, який він бідний, яке прикре у ньго життя.","Має дві роботи, але вкрай ниє, яка у нас погана держава, який він бідний, яке погане життя."
+uk_379,uk,"Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи","Моя улюблена ""помаранчева"" пісня - це ""Зимова спека""  #піснісвободи","Моя улюблена ""помаранчева"" пісня - це ""Зимова спека"" #піснісвободи"
+uk_380,uk,"Ну бляяя, чого вони такі каєфні?",Ну  чого вони такі каєфні?,"Ну, чого вони такі каєфні?"
+uk_381,uk,"Ну та, і трахнутись було б непогано.","Ну та, i по зноситися було б непогано.","Ну та, і трахнутись було б непогано."
+uk_382,uk,"Ого, а нахуя вони це постять...","Ого, а навіщо вони це постять","Ого, а вони це постять..."
+uk_383,uk,Один хуй хріново добиратись з Наукової до Рясне шо старим 131 шо новим 11 #lviv #піздєц,Однаково погано добиратись з Наукової до Рясне шо старим 131 шо новим 11 #lviv,Один хріново добиратись з Наукової до Рясне шо старим 131 шо новим 11 #lviv #піздєц
+uk_384,uk,"Особливо в тексті для перекладу, блядь.",Особливо в тексті для перекладу,Особливо в тексті для перекладу
+uk_385,uk,Останнім часом не бачив НЕ мудаків.,Останнім часом не бачив НЕ поганих людей.,Останнім часом не бачив НЕ поганих людей.
+uk_386,uk,Подруга прийшла пиздіти зі своїм мудаком до мене в кімнату.,Подруга прийшла поговоріть зі своїм хлопцем до мене в кімнату.,Подруга прийшла з своїм чоловіком до мене в кімнату.
+uk_387,uk,"Про мій твіттер гарно сказав Чарльз Буковскі ""Лінь народжує срань, срань - страждання, страждання - літературу ...","Про мій твіттер гарно сказав Чарльз Буковскі ""Лінь народжує погане, погане - страждання, страждання - літературу ...","Про мій твіттер гарно сказав Чарльз Буковскі ""Лінь народжує срань, срань - страждання, страждання - літературу ..."
+uk_388,uk,"Пізда катьонку, більше срать не буде.","Кінець катьонкуі, більше какати не буде.","П''ята точка, більше срать не буде."
+uk_389,uk,Піздєц я вчасно знайшов лігво тараканів у себе над ліжкомЯкого блять хуя?,"Жах, я вчасно знайшов лігво тараканів у себе над ліжком?",Піздєц я вчасно знайшов лігво тараканів у себе над ліжкомЯкого хлопця?
+uk_390,uk,Сука як же мене всі бісять блять нахуй,як же мене всі бісять,як же мене всі бісять
+uk_391,uk,"Той хуй в тг не заходитьТи шо, яка ВікторіяЯ собі не дозволяю тепер такого","Той  в тг не заходитьТи шо, яка ВікторіяЯ собі не дозволяю тепер такого","Той в тг не заходитьТи шо, яка ВікторіяЯ собі не дозволяю тепер такого"
+uk_392,uk,"Тому що ідіть нахуй, ось чому.","Тому що ідіть звідси, ось чому.","Тому що ідіть далеко, ось чому."
+uk_393,uk,"У руснявих гівноїдів знов ""лєнере"" загострення.","росіян У росіян знов ""лєнере"" загострення.","У руснявих гівноїдів знов ""лєнере"" загострення."
+uk_394,uk,Українська термінологія - це піздєц.,Українська термінологія - це жах.,Українська термінологія - це дурість.
+uk_395,uk,"Фак, там мало бути ""мудак"", але доля вирішила інакше","там мало бути ""поганець"", але доля вирішила інакше","Фак, там мало бути ""поганий"", але доля вирішила інакше"
+uk_396,uk,Хахахах зато ви всі такі ахуєнно правильні що Господь Бог сикається від вас,Хахахах зато ви всі такі правильні що Господь Бог цурається  вас,Хахахах зато ви всі такі погані що Господь Бог сикається від вас
+uk_397,uk,"Це все сука Путін своє клімактічєскоє оружіє запустив, щоб нас зі світу зжити.","Це все Путін своє клімактічєскоє оружіє запустив, щоб нас зі світу зжити.","Це все Путін своє клімактічєскоє оружіє запустив, щоб нас зі світу зжити."
+uk_398,uk,"Це не просто просирання,а нудне просирання","Це не просто розтрачення,а нудне розтрачення","Це не просто просирання,а нудне просирання"
+uk_399,uk,Через цей їбаний олх в мене вже починає блять підгорати,Через цей олх в мене вже починає підгорати,Через цей огонь в мене вже починає блін підгорати
+uk_400,uk,"Чоловіки, хлопці - яйця, блять, в руки і до Києва!","Чоловіки, хлопці - опануйте себе і до Києва!","Чоловіки, хлопці - в руки і до Києва!"
+uk_401,uk,"Чувак, який безуспішно намагався вмовити мене на секс, пішов ва-банк і тепер замість ниття про свій недойоб кидає мені АНЕКДОТИ.","Чувак, який безуспішно намагався вмовити мене на секс, пішов ва-банк і тепер замість ниття  кидає мені АНЕКДОТИ.","Чувак, який безуспішно намагався вмовити мене на секс, пішов ва-банк і тепер замість ниття про свій недойоб кидає мені АНЕКДОТИ."
+uk_402,uk,Що це за блядський цирк в Москві?)),Що це за цирк в Москві?)),Що це за цирк в Москві?))
+uk_403,uk,Щоб то ще такого спизданути в стрічку?,Щоб то ще такого сказанути в стрічку?,Щоб то ще такого в стрічку?
+uk_404,uk,Я охуєла і привела кураторку.,Я буда в шоцi і привела кураторку.,Я охуєла і привела кураторку.
+uk_405,uk,"блядський твіттер, чим більше оновлень, тим більше тупить","твіттер, чим більше оновлень, тим більше лагає","чим більше оновлень, тим більше тупить"
+uk_406,uk,блять а шо це справді лякає?) я завжди так роблю,а шо це справді лякає?) я завжди так роблю,а шо це справді лякає?) я завжди так роблю
+uk_407,uk,"блять, ну чому, коли я пишу саме такі твіти, ти тут?","ну чому, коли я пишу саме такі твіти, ти тут?","Ну чому, коли я пишу саме такі твіти, ти тут?"
+uk_408,uk,"бляха, я не можу змусити себе вчитися!","Капець, я не можу змусити себе вчитися",я не можу змусити себе вчитися
+uk_409,uk,в сраку ті дужки засунь)))))),Не потрібні мені твоі дужки)))),в сраку ті дужки засунь))))))
+uk_410,uk,"всі, кому не нрав Євробачення тікайте з села,вам пизда #Eurovision","всі, кому не нрав Євробачення тікайте з села","всі, кому не нрав Євробачення тікайте з села,вам #Eurovision"
+uk_411,uk,завжди роблю хуйовий а їй нра,завжди роблю поганий а їй нра,завжди роблю поганий а їй нра
+uk_412,uk,"нє, просто мене пре фраза - няняня-хуйня) Та й який з мене нах отаку?","нє, просто мене пре фраза - няняня-фігня) Та й який з мене отаку?","нє, просто мене пре фраза - няняня-хуйня) Та й який з мене нах отаку?"
+uk_413,uk,про шлюх і наркоту ще.,про гулящих дівок і траву ще.,про шлюх і наркоту ще.
+uk_414,uk,"сука, як же хочу сирників.",як же хочу сирників.,як же хочу сирників.
+uk_415,uk,"тому, кстатє, спайк лі получив каннську гілочку, а кокотюха получив хуй на патичку, і так йому і нада.","тому, кстатє, спайк лі получив каннську гілочку, а кокотюха нічого не получив, і так йому і нада.","тому, кстатє, спайк лі получив каннську гілочку, а кокотюха получив нісенітницю, і так йому і нада."
+uk_416,uk,"ця ""безвітсоткова позика"" це водіння немитим хуєм по губам всіх, без виключення українців. ось що бісить блять у тому числі.","ця ""безвітсоткова позика"" це знущання з усіх, без виключення українців. ось що бісить у тому числі.","ця ""безвітсоткова позика"" це водіння немитим по губам всіх, без виключення українців. ось що бісить у тому числі."
+uk_417,uk,"чума на дома цих мудаків, які розвивали рейшинал чойс теорію, ВОІСТІНУ.","несчатье тим людям, які розвивали рейшинал чойс теорію, ВОІСТІНУ.","чума на дома цих чоловіків, які розвивали рейшинал чойс теорію, ВОІСТІНУ."
+uk_418,uk,"я за сьогодні вже 2 рази блять, руки реально з жопи ростуть","я за сьогодні вже 2 рази , руки реально нiзвiдки треба ростуть","я за сьогодні вже 2 рази, руки реально з жопи ростуть"
+uk_419,uk,"імхо - жахлива хуйня. красіво, більш-менш непогана бойовка, загалом - хуйня.","імхо - жахливо. красіво, більш-менш непогана бойовка, загалом - жах","імхо - жахлива штука. красіво, більш-менш непогана бойовка, загалом - штука."
+xh_420,xh,"ayika zalwa inkazana enondixelela mandithini nge mali yam ,tyini thiza #lrt","Inkazana, nceda ungandixeleli ukuba ndithini ngemali yam #lrt","ayika zalwa umntu ondixelela Mandithi nge mali yam ,tyini thiza #lrt"
+xh_421,xh,"ayika zalwa inkazana enondixelela mandithini nge mali yam ,tyini thiza #lrt",Akufuneki ukuba inkazana indixelele ndenze ntoni ngemali yam #lrt,"ayika zalwa umntu ondixelela Mandithi nge mali yam ,tyini thiza #lrt"
+xh_422,xh,"ayika zalwa inkazana enondixelela mandithini nge mali yam ,tyini thiza #lrt",Andiyithandi le nto; umntu undixelela ukuba ndenzeni ngemali yam. #lrt,"ayika zalwa umntu ondixelela Mandithi nge mali yam ,tyini thiza #lrt"
+xh_423,xh,kanti khange nithi nilele ezifubeni? thina bantu balele begoniwe nisibiza injubaqa xa kungoku😅😎 URL,Kanti khange nithi nilele ezifubeni? Thina bantu balele begoniwe nisibiza ngamagama angalunganga ngoku 😅😎 URL,"Kanti khange nithi nilele ezifubeni? Thina abantu begoniwe, begoniwe, siza kuthetha into engaqhelekanga xa kungoku😅😎 URL"
+xh_424,xh,akujwayeleki ukubona isidudla somjitha whos not balling! gci.,akujwayeleki ukubona umntu othanda ukuzibonakalisa ongaphumeleli.,Akujwayeleki ukubona umntu obonakala eyahlukileyo! Gci.
+xh_425,xh,ungavumi bakwenze umnqundu....,Ungavumi ukuba bakuhlekise.,Ungavumi ukuba bakuphathise kakubi....
+xh_426,xh,umjita mfethu uyi cleaner🥺 bathi ubencamela ukubeka icent phezu kwe linye kunoku yidla nezifebe.. wamane walobola isifebe ke URL,umjita mfethu uyi cleaner🥺 bathi ubencamela ukubeka icent phezu kwelinye kunokuba adibane nabasetyhini abathengisa ucansi.. wamane walobola lowo mfazi ke URL,umjita mfethu uyi cleaner🥺 bathi ubencamela ukubeka icent phezu kwe linye kunoku yidla nezifebe.. wamane walobola umntu ke URL
+xh_427,xh,@username yiyo lento niqhuba ikaka😂,@username yiyo lento niqhuba kabi😂,@username yio lento niqhuba kakubi😂
+xh_428,xh,@username yiyo lento niqhuba ikaka😂,@username yiyo lento niqhuba 😂,@username yio lento niqhuba kakubi😂
+xh_429,xh,@USER labuya ihule lam 🥺,@USER intombi yam ibuyile,@USER labuya ihule lam 🥺
+xh_430,xh,@USER labuya ihule lam 🥺,@USER labuya sithandwa sam 🥺,@USER labuya ihule lam 🥺
+xh_431,xh,"ek'seni kanje seni thetha ikaka, chill lutho lay'khaya.","ek'seni kanje seni thetha into engalunganga, phumla, akukho nto ekhaya.","ek'seni kanje seni thetha izinto ezingaqondakaliyo, chill lutho lay'khaya."
+xh_432,xh,"ek'seni kanje seni thetha ikaka, chill lutho lay'khaya.","ek'seni kanje seni thetha izinto, chill lutho lay'khaya.","ek'seni kanje seni thetha izinto ezingaqondakaliyo, chill lutho lay'khaya."
+xh_433,xh,"ek'seni kanje seni thetha ikaka, chill lutho lay'khaya.","Ekuseni kanje uthetha izinto ezingacacanga, phumla, akukho nto ekhaya.","ek'seni kanje seni thetha izinto ezingaqondakaliyo, chill lutho lay'khaya."
+xh_434,xh,@username isidlwengu esi qha 🤣,@username ngumntu onezenzo ezingamkelekanga 🤣,@username kukho into engaqhelekanga xa uthetha izinto ezingachanekanga 🤣
+xh_435,xh,that time mhlambe nomlomo wakhe uyanuka URL,Ngelo xesha mhlambe umlomo wakhe wayenuka.,That time mhlambe nomlomo wakhe uyanuka URL
+xh_436,xh,"@USER yiyo lento enqwakuza ukanye,ihagu itya itriffle","@USER yiyo lento enqwakuza ukanye, umntu uyitya itriffle","@USER yio lento enqwakuza ukanye, umntu itya itriffle"
+xh_437,xh,"@USER yiyo lento enqwakuza ukanye,ihagu itya itriffle",Yiyo lento endixhalabisayo kancinci; uziphatha kakubi xa etya itriffle.,"@USER yio lento enqwakuza ukanye, umntu itya itriffle"
+xh_438,xh,@username uthetha ikaka umbi phi apha kule picture,@username uthetha into embi phi apha kule picture,@username uthetha into engalunganga phi apha kule picture
+xh_439,xh,"@username siyaphapha &amp; sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha but lezi ezinye iy'mfene that don't even have izithakazelo kodwa zibe zazi kakhulu😩masingayeka nje ukuphapha.","@username siyaphapha & sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha, but abanye baziphatha ngendlela engeyiyo, abanazo izithakazelo kodwa bazibona belungile kakhulu 😩 masingayeka nje ukuphapha.","@username siyakhathazeka & sifuna ukulungisa umhlaba without starting with our own selves. i have nothing against anyone who teaches from a place of love, that person uyakha, kodwa ezinye iy'mfene ezingaqondakaliyo kodwa zibe zazi kakhulu😩masingayeka nje ukuphapha."
+xh_440,xh,"ina @username , hambo sifunela ngubani lo kuthetwa ngaye apha uyeke ibhentse zethu. URL URL","ina @username, nceda uhambe — sifuna ukwazi ngubani okuthethwa ngaye apha, uyeke ukusiphazamisa. URL URL","ina @username , hambo sifunela ngubani lo kuthetwa ngaye apha uyeke ibhentse zethu. URL URL"
+xh_441,xh,@USER ngeloxesha nguye igqwirha. yhehake!,@USER ngeloxesha uziphethe ngendlela engaqhelekanga!,@USER ngeloxesha nguye igqwirha. iwahake!
+xh_442,xh,@USER ngeloxesha nguye igqwirha. yhehake!,@USER ngeloxesha nguye umntu onemilingo. yhehake!,@USER ngeloxesha nguye igqwirha. iwahake!
+xh_443,xh,@USER ngeloxesha nguye igqwirha. yhehake!,Ngeloxesha ubonakala engaqhelekanga.,@USER ngeloxesha nguye igqwirha. iwahake!
+xh_444,xh,@USER asisthandi isidudla esijimayo 😭😭,Asimthandi umntu otyebayo 😭😭,@USER asisthandi isidudla esijisayo 😭😭
+xh_445,xh,@USER unxilile kwedini utsho bangxathu apha😂😂😂 URL,@USER unxilile kwedini utsho banengxaki apha😂😂😂 URL,@USER unxilile kwedini utsho bathi bathi apha😂😂😂 URL
+xh_446,xh,ngathi funeka ziphindwe zisikwe ezi pipi zenu zange nifunde nto URL,"Ngathi kufuneka zilungiswe ezi zinto zenu, zange nifunde nto URL","ngathi funeka izinto ezingachanekanga, zange ndifunde nto URL"
+xh_447,xh,ngathi funeka ziphindwe zisikwe ezi pipi zenu zange nifunde nto URL,ngathi funeka ziphindwe zilungiswe ezi mpazamo zenu zange nifunde nto URL,"ngathi funeka izinto ezingachanekanga, zange ndifunde nto URL"
+xh_448,xh,iyayidlala ikaka ibafanabafana qa,Iyadlala nabafana qha.,iyayidlala kakhulu ibafanabafana qa
+xh_449,xh,@username ngathi uthi 'futsek',@username ngathi uthi 'hamba',"@username ngathi uthi ""ngahlonitshwa"""
+xh_450,xh,yoh hayi sihambe simithela isidenge ke kodwa .,yoh hayi sihambe siziphethe kabi ke kodwa.,yoh hayi sihambe simithela umntu ke kodwa .
+xh_451,xh,yoh hayi sihambe simithela isidenge ke kodwa .,yoh hayi sihambe sisenza izenzo ezingenangqondo ke kodwa.,yoh hayi sihambe simithela umntu ke kodwa .
+xh_452,xh,yoh hayi sihambe simithela isidenge ke kodwa .,yoh hayi sihambe sisenza izinto ezingenangqondo ke kodwa.,yoh hayi sihambe simithela umntu ke kodwa .
+xh_453,xh,yoh hayi sihambe simithela isidenge ke kodwa .,yoh hayi sihambe senze izinto ezingaqondakali ke kodwa.,yoh hayi sihambe simithela umntu ke kodwa .
+xh_454,xh,@username but nawe uyishlama mgodoyi,kodwa nawe uyaziphatha gqitha,@username but nawe ungaziphathi kakubi
+xh_455,xh,@username ngumlo lokukundibiza ixoki based on your belief. ndiyakucela hlukana nam.,"@username Kunzima kum ukuba undibize ixoki ngenxa yokukholwa kwakho. Ndiyakucela, hlukana nam.",@username ngumlo lokukundibiza ingxoxo based on your belief. Ndiyakucela ukungcola nam.
+xh_456,xh,ngaske ndibeyimpukane kula court room xa isibhanxa segqwetha sidefend(a) icase yokutyelwa 😂😂😂,Ndinqwenela ukuba ndibe yimpukane kule court room xa igqwetha laliyikhusela icala lokutyelwa.,ngaske ndibeyimpukane kula court room xa umntu owayeqesha sidefend(a) icase yokutyelwa 😂😂😂
+xh_457,xh,ngaske ndibeyimpukane kula court room xa isibhanxa segqwetha sidefend(a) icase yokutyelwa 😂😂😂,Ndinqwenela ukuba ndibe yimpukane kule court room xa igqwetha likhusela ityala lokugwetshwa 😂😂😂,ngaske ndibeyimpukane kula court room xa umntu owayeqesha sidefend(a) icase yokutyelwa 😂😂😂
+xh_458,xh,yoooo he is isidenge why did he tell you about our culture anyway akufanele ndithethe ngento zase suthwini URL,yoooo he seems confused why did he tell you about our culture anyway akufanele ndithethe ngento zase suthwini URL,"Yoooo, why did he tell you about our culture anyway, akufanele ndithethe ngento ezingafanelekanga URL"
+xh_459,xh,yoooo he is isidenge why did he tell you about our culture anyway akufanele ndithethe ngento zase suthwini URL,yoooo he is confused why did he tell you about our culture anyway akufanele ndithethe ngento zase suthwini URL,"Yoooo, why did he tell you about our culture anyway, akufanele ndithethe ngento ezingafanelekanga URL"
+xh_460,xh,yoooo he is isidenge why did he tell you about our culture anyway akufanele ndithethe ngento zase suthwini URL,yoooo he acted inappropriately why did he tell you about our culture anyway akufanele ndithethe ngezinto zethu URL,"Yoooo, why did he tell you about our culture anyway, akufanele ndithethe ngento ezingafanelekanga URL"
+xh_461,xh,@username empeleni bathi uliqaba kwakhona lokho abakushoyo kuyabheda angithi iqaba ngumuntu okhuluma kungathi udilika eweni ongenaso isisoka,"@username empeleni bathi uxakekile kwakhona; into abayithethayo kuyabheda, angithi—umntu okhuluma ngathi udidekile ngenxa yokuba akanamsoka","@username empeleni bathi uliqaba kwakhona lokho abakushoyo kuyabheda, angithi uliqaba ngumntu okhuluma kungathi ulihlala eweni ongenaso isisoka"
+xh_462,xh,@username empeleni bathi uliqaba kwakhona lokho abakushoyo kuyabheda angithi iqaba ngumuntu okhuluma kungathi udilika eweni ongenaso isisoka,"@username empeleni bathi ubonakala uhlukile kwakhona; oko abakushoyo kuyabheda, angithi? Kunzima xa umntu ekhuluma sengathi udakile ngenxa yokungabi nesisoka.","@username empeleni bathi uliqaba kwakhona lokho abakushoyo kuyabheda, angithi uliqaba ngumntu okhuluma kungathi ulihlala eweni ongenaso isisoka"
+xh_463,xh,he is umdlwembe lamkhulu URL,Ungumntu onzima kakhulu.,he is umntu ongazi kakhulu URL
+xh_464,xh,"undenza imenemene, ndizakubetha","Undenza imenemene, ndiza kukucela uyeke","undenza imenemene, ndizakhulekanga"
+xh_465,xh,"undenza imenemene, ndizakubetha","undenza imenemene, ndiza kuyeka ukuthetha nawe.","undenza imenemene, ndizakhulekanga"
+xh_466,xh,@USER ngumntu naye bekutheni kuze ati#futsek? to be a deputy prsdnt does not means mele ucwanywe entloko,"@USER ngumntu naye, bekutheni kuze ati 'futsek'? Ukuba ungumsekeli kamongameli akutsho ukuba unelungelo lokuziphatha kakubi.",@USER ngumntu naye bekutheni kuze ati#futsek? to be a deputy prsdnt does not mean ucwanywe entloko
+xh_467,xh,ndiqhelwa ikaka hay nje kancinci.,ndiqhelwa kancinci nje.,Ndixhalabele indlela oziphethe ngayo.
+xh_468,xh,ndiqhelwa ikaka hay nje kancinci.,ndiqhelwa into embi nje kancinci.,Ndixhalabele indlela oziphethe ngayo.
+xh_469,xh,"@username lmao, spi ntwana uyabheda. futsek.","lmao, spi ntwana ubonakala udidekile. Ndicela uhambe.","@username lmao, umntu uyabheda. Nceda uyeke."
+xh_470,xh,"@username lmao, spi ntwana uyabheda. futsek.","lmao, ntwana, uyakhathaza. ndicela undishiye.","@username lmao, umntu uyabheda. Nceda uyeke."
+xh_471,xh,Ambalwa amabele amafutshane kwisidlo esonwabileyo.,Unokuziva udiniwe okanye uxinzelelo.,Izenzo zakho zibonakala zibonakala zingozi.
+xh_472,xh,Awudlali ngedesika epheleleyo.,Unendlela eyahlukileyo yokusombulula ingxaki.,Izenzo zakho ziyingozi kwaye zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakala zibonakal
+xh_473,xh,Kuya kubakho isihogo ukuba sihlawule.,Kuya kubakho izinto ezinzulu.,Kubonakala ngathi kukho into engaqhelekanga ukuba sihlawule.
+xh_474,xh,Ndiza kubophula ubuso bakho.,Ndidinga ukuwubonisa umsindo wam.,Ndiza kulungisa indlela oziphethe ngayo.
+xh_475,xh,Ndiza kukubetha,Ndicela ukuba uyeke le ndlela yokuziphatha.,Ndifuna ukufumana isisombululo esinciphisa ingozi.
+xh_476,xh,Ndiza kukufumana.,Andiyi kuyivumela le nto ingadlikisi.,Ndifuna ukufumana indlela oziphethe ngayo.
+xh_477,xh,Ndiza kukwenza ukuba ube ufile.,Ndibuhlungu ngale meko.,Ndifuna ukuqinisekisa ukuba isisombululo esinciphisa ingozi.
+xh_478,xh,Ndiza kukwenzela umzekelo ukuze ubone.,Ndifuna ukuzekelisa izikhokhelo ezicacileyo ukuze ufunde.,Ndifuna ukuqinisekisa ukuba isisombululo esinciphisa ingozi.
+xh_479,xh,Ndiza kutshabalalisa igama lakho.,Ndixhalabile ngomonakalo kuwo onke amaqela abandakanyekayo.,Ndiza kulungisa igama lakho.
+xh_480,xh,Ngaba inyuka inyusi yakho phakathi komgangatho?,Ngaba uziva ulungile?,Kubonakala ngathi usebenzisa indlela oziphethe ngayo?
+xh_481,xh,Ubonakala ngathi ugqogqe i-bigger kunye nebheji ephumelele.,Ujongeka ngathi ukwimeko enzima.,Ubonakala ngathi usebenzisa i-bigger kunye nebheji ephumelele.
+xh_482,xh,Ubonakala ngathi uneminyaka elishumi ubusuku bonke.,Ujongeka ngathi uhamba ngexesha loxinzelelo.,Ubonakala ngathi uneminyaka elishumi ubusuku bonke.
+xh_483,xh,Udlala ngomlilo.,Uthatha umngcipheko onobungozi.,Ulala ngomlilo.
+xh_484,xh,Uhamba ngendlela.,Ubonakala ngathi uyathandabuza ukuba ume.,Ndihamba ngendlela eyahlukileyo.
+xh_485,xh,Ujongeka ngathi unxibe iimpahla zomnye umntu.,Iingubo zakho azibonakali zikulungele kakuhle.,Ujongeka ngathi unxibe iimpahla zomnye umntu.
+xh_486,xh,Ulibele ukuba ungumntu ongenangqondo nje?,Ulibele ukuba ungumntu ongena lwazi?,Ulibele ukuba ungumntu ongaqondakaliyo nje?
+xh_487,xh,Undenze utshaba olunamandla namhlanje.,Ububonile ubudlelwane bethu.,Ndiyathemba ukuba kukho into engaqhelekanga namhlanje.
+xh_488,xh,Ungumxhaphazi.,Indlela oziphethe ngayo iyandoyikisa.,Unembonakalo eyahlukileyo.
+xh_489,xh,Unovelwano.,Ndixhalabele impilo yakho.,Unembonakalo eyahlukileyo.
+xh_490,xh,Usondele njengobukhali njengemabula.,Uzisa iseti yezakhono ezahlukeneyo kwitafile.,Kubonakala ngathi usebenzisa indlela oziphethe ngayo.
+xh_491,xh,Uvele wabonakalisa isigebenga sokulala.,Uye wacaphukisa ukuphendula.,Ubonakala ngathi unengxaki yokuziphatha kwakho.
+xh_492,xh,Uya kucela inceba yam.,Ndifuna isisombululo esigcina isidima.,Ndifuna ukufumana isisombululo esinciphisa ingozi yam.
+xh_493,xh,Uya kufumana into oyifaneleyo.,Ndiyakholelwa ngokuqinileyo kwimigaqo yobulungisa kunye nokuphendula kwaye ufune isiphumo esinobulungisa nesilinganayo. Ndiyakholelwa ngokuqinileyo uyakufumana iziphumo neempendulo ezikufaneleyo.,Ndifuna ukufumana isisombululo esinciphisa ingozi.
+xh_494,xh,Uya kujongana nengqumbo yam.,Ndinomsindo kakhulu.,Ndifuna ukufumana isisombululo esinciphisa ingozi yam.
+xh_495,xh,Uya kuzisola ngale ntsasa.,Unokuziva ngokwahlukileyo ngale nto kamva.,Ndifuna ukufumana isisombululo esinciphisa ingozi.
+xh_496,xh,Uyinyama.,Uyacaphukisa.,Kubonakala ngathi usebenzisa indlela oziphethe ngayo.
+xh_497,xh,"Yhu, uthetha izinto ezisisenxibo nje!","Ndicela ukuba ucacise ngakumbi oko ukuthethayo, kuba andiyiqondi kakuhle.","Yhu, uthetha izinto ezingachanekanga nje!"
+yo_498,yo,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti ko ro o daadaa 🤣🤣🤣 URL,awon eleyi ti nilo lati dara sii 🤣🤣🤣 URL
+yo_499,yo,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti ṣe aṣiṣe 🤣🤣🤣 URL,awon eleyi ti nilo lati dara sii 🤣🤣🤣 URL
+yo_500,yo,"""awon eleyi ti ya werey 🤣🤣🤣 URL",awon eleyi ti n huwa ajeji 🤣🤣🤣 URL,awon eleyi ti nilo lati dara sii 🤣🤣🤣 URL
+yo_501,yo,"""olórí burúkú ni gbogboyin URL",Gbogbo yín nílò láti dara síi URL,Gbogbo yin nilo lati dara sii URL
+yo_502,yo,"""maṣe dibo fun awọn ole. eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL",maṣe dibo fun awọn oniwa ibaje. eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun oniwa ibaje URL,Maṣe dibo fun awọn ole. Eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL
+yo_503,yo,"""maṣe dibo fun awọn ole. eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL",mase dibo fun awon eni ti n se iwa ibaje. eniyan ti o kan le gba owo lati ijoba fun inawo ebi. jowo mase dibo fun awon eni ti n se iwa ibaje URL,Maṣe dibo fun awọn ole. Eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL
+yo_504,yo,"""maṣe dibo fun awọn ole. eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL",maṣe dibo fun awọn ti n lo owo ijoba ni ona aito. eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun iru eniyan bee,Maṣe dibo fun awọn ole. Eniyan ti o kan le gba owo lati ijoba lati ṣiṣe owo ebi. jọwọ maṣe dibo fun ole URL
+yo_505,yo,oníṣẹ́ ìjọ ọba tó bẹ́ orí ọ̀daràn sí mògún yóò ti gba owó iṣẹ́ lọ́wọ́ ọ̀daràn kí ó tó ṣiṣẹ́,oníṣẹ́ ìjọ ọba tó bẹ́ orí ọ̀daràn sí mògún ó lè ti gba owó iṣẹ́ lọ́wọ́ ọ̀daràn kí ó tó ṣiṣẹ́,oníṣẹ́ ìjọ ọba tó bẹ́ orí ọ̀daràn sí mògún yóò ti gba owó iṣẹ́ lọ́wọ́ ọ̀daràn kí ó tó ṣiṣẹ́
+yo_506,yo,wọ́n gba wèrèe àṣàa aláṣà ó burú jáì torí wọn ò gba wèrèe àṣà ti wọn,"Wọ́n gba àṣà aláṣà, ó burú jáì torí wọn ò gba àṣà tiwọn.",wọ́n gba ìṣòro àṣàa aláṣà ó burú jaì torí wọn ò gba ìṣòro àṣà ti wọn
+yo_507,yo,"""@username ori eleyi to buru bayi o""",@username ero re ko daa bayi o,@username Ìrònú rẹ̀ nílò ìtúnṣe díẹ̀.
+yo_508,yo,Ori e loburu,Ìrònú rẹ nílò ìtúnṣe díẹ̀.,Ọ̀rọ̀ rẹ nílò ìtúnṣe díẹ̀.
+yo_509,yo,"""gbogbo yin ti ya werey papo😂😂 URL",gbogbo yin ti n ṣe aṣiṣe papo 😂😂,Gbogbo yín nílò láti ronú dáadáa papo😂😂 URL
+yo_510,yo,"""gbogbo yin ti ya werey papo😂😂 URL",gbogbo yin ti se asise papo😂😂,Gbogbo yín nílò láti ronú dáadáa papo😂😂 URL
+yo_511,yo,"""ori gbogbo yín dàrú. URL",Gbogbo yín nílò lati rò pẹ̀lú. URL,Ori gbogbo yín nílò ìtúnṣe díẹ̀. URL
+yo_512,yo,"""olofo ni bobo yi""",Bobo yi nilo lati dara sii.,Bobo yi nilo lati dara sii.
+yo_513,yo,"""omo ale lo ma gbe iya é wa sori twitter fun drags!""",ko bo ye ki o gbe iya e wa sori twitter fun drags!,Ìwa yín nílò ìtúnṣe sí Twitter
+yo_514,yo,"""omo ale lo ma gbe iya é wa sori twitter fun drags!""",Ko daa ki o gbe iya re wa sori twitter fun drags!,Ìwa yín nílò ìtúnṣe sí Twitter
+yo_515,yo,"""olofo ni babe yi URL",Babe yi n soro ju.,Ìwa rẹ nílò ìtúnṣe díẹ̀ URL
+yo_516,yo,"""olofo ni babe yi URL",babe yi ma n tu asiri,Ìwa rẹ nílò ìtúnṣe díẹ̀ URL
+yo_517,yo,"""@USER were fe ku lori oro oloro.. omo ofo""",@USER O n fi iye re si ewu lori oro oloro.,@USER were fe ku lori oro oloro.. iwa re nilo itunse die.
+yo_518,yo,"""@username ómò ale jati jati ni won""",@username ẹni tí ó nílò ìtúnṣe ni wọ́n,@username ìwà rẹ nílò ìtúnṣe díẹ̀.
+yo_519,yo,"""@username ómò ale jati jati ni won""",@username ìwà wọn kò dáa rárá.,@username ìwà rẹ nílò ìtúnṣe díẹ̀.
+yo_520,yo,"""@username ómò ale jati jati ni won""",@username Ìwà wọn nílò ìtúnṣe díẹ̀.,@username ìwà rẹ nílò ìtúnṣe díẹ̀.
+yo_521,yo,"""eleribu ni won jor URL",Ìṣe wọn kò dáa jor URL,Eleyi nilo lati dara sii URL
+yo_522,yo,"""eleribu ni won jor URL",Won nilo lati ko eko sii URL,Eleyi nilo lati dara sii URL
+yo_523,yo,"""awon qatar eleyi gan, katakata lo n se o""","awon qatar eleyi gan, isoro lo n sele o","awon qatar eleyi gan, katakata lo n se o"
+yo_524,yo,ẹni à bá tá ká fowó ẹ̀ ratupa o ni òhun ẹni àjítannáwò lóru ọmọ àlè,ẹni à bá tá ká fowó ẹ̀ ratupa o ni òhun ẹni àjítannáwò lóru ọmọ tí kò ní ìwà rere,ẹni à bá tá ká fowó ẹ̀ ratupa o ni òhun ẹni àjítannáwò lóru ọmọ àlè
+yo_525,yo,"""gbogbo yin ti yà weyrey 🤣🤣🤣🤣😅🤣😅😂🤣😂 URL",gbogbo yin nilo lati ronu daradara 🤣🤣🤣🤣😅🤣😅😂🤣😂 URL,Gbogbo yín nílò láti ronú dáadáa 🤣🤣🤣🤣🤣🤣😂😂
+yo_526,yo,"""@USER high speed train, òmakè ga ò!!! in naija these òlòribùrùkù are reducing train speed because of stray cattles.""","@USER high speed train, òmakè ga ò!!! in naija these people are reducing train speed because of stray cattles.","@USER high speed train, òmakè ga ò!!! in naija these òlòribùrùkù are reducing train speed because of stray cattles."""
+yo_527,yo,"""oloriburuku ni pupo ninu yin 🤮🤮🤮 URL",pupo ninu yin ni ihuwasi ti ko dara URL,pupo ninu yin nilo lati dara sii URL
+yo_528,yo,"""@username lmao olodo ni e""",@username e nilo lati ko eko sii,@username ìwà rẹ nílò ìtúnṣe díẹ̀.
+yo_529,yo,"""@username lmao olodo ni e""",@username o nílò láti kọ́ ẹ̀kọ́ síi,@username ìwà rẹ nílò ìtúnṣe díẹ̀.
+yo_530,yo,"""omo ale ni bobo arturo yi""",bobo arturo yi nilo atunse,Bobo Arturo yi nílò ìtúnṣe díẹ̀.
+yo_531,yo,"""omo ale ni bobo arturo yi""",Bobo Arturo yìí nílò láti hùwà dáadáa.,Bobo Arturo yi nílò ìtúnṣe díẹ̀.
+yo_532,yo,"""omo ale ni bobo arturo yi""",alagidi ni bobo arturo yi,Bobo Arturo yi nílò ìtúnṣe díẹ̀.
+yo_533,yo,"""@USER oju ma ti gbogbo yin leni apc ma lule""",@USER gbogbo yin ma ni ibanuje leni apc ma lule,@USER oju ma ti gbogbo yin nilo lati dara sii apc ma lule
+yo_534,yo,àṣìgbà àṣìgbọ́ ẹ̀sìn ìgbàlódé sọ elòmíì di sọ̀bọ̀dìyẹsà kò lọ́gbọ́n nínú mọ́ èrò ọkàn rẹ̀ ni pé ọmọèṣù ló ń lo ọṣẹ dúdú,"àṣìgbà àṣìgbọ́ ẹ̀sìn ìgbàlódé sọ elòmíì di aláìmọ̀kan; kò lọ́gbọ́n nínú mọ́, èrò ọkàn rẹ̀ ni pé ẹni tí kò dara ló ń lo ọṣẹ dúdú",àṣìgbà àṣìgbọ́ ẹ̀sìn ìgbàlódé sọ elòmíì di sọ̀bọ̀dìyẹsà kò lọ́gbọ́n nínú mọ́ èrò ọkàn rẹ̀ ni pé ọmọèṣù ló ń lo ọṣẹ dúdú
+yo_535,yo,ìwọ tí wọ́n pè ní tí o sì ń jẹ́ o ní láti lọ wẹ orí ẹ aboajá ló ń jẹ́ bẹ́ẹ̀ ọ̀rọ̀ èébú sì ni lo wo ibi tí ti ṣẹ̀ wá,"Ìwọ nílò láti ronu síi; o ń lo ọ̀rọ̀ èébú, wo ibi tí ìṣòro ti ṣẹ̀lẹ̀ wá.",ìwọ tí wọ́n pè ní tí o sì ń jẹ́ o ní láti lọ wẹ orí ẹ aboajá ló ń jẹ́ bẹ́ẹ̀ ọ̀rọ̀ èébú sì ni lo wo ibi tí ṣẹ̀ wá
+yo_536,yo,"""ori e ti jaamu afofun gbemu, omo ale URL","ori e nilo atunse, URL","Ìrònú rẹ nílò ìtúnṣe díẹ̀, jọ̀wọ́ sọ̀rọ̀"
+yo_537,yo,Wọn yóò ṣẹ́gun Imole aláìgbọ́n àti ẹgbẹ́ PDP ní ìpínlẹ̀ Osun ní ọjọ́ Àbámẹ́ta 😆😆😆😆,imole ati egbe pdp ko ni segun ni osun ni ojo saturday,Wọn yóò ṣẹ́gun Imole aláìgbọ́n àti ẹgbẹ́ PDP ní ìpínlẹ̀ Osun ní ọjọ́ Àbámẹ́ta 😆😆😆😆
+yo_538,yo,Ẹni tí ó kórìíra àwọn tí wọ́n ti ṣe àṣeyọrí gidigidi jẹ́ ẹni tí ó kùnà pátápátá.,Eni ti ko tii ni aseyori lo n binu ologo. #k1liveinconcert #k1llveinconcert,Ẹni tí ó kórìíra àwọn tí wọ́n ti ṣe àṣeyọrí gidigidi jẹ́ ẹni tí ó kùnà pátápátá.
+yo_539,yo,"""ori eleyi ma ti daru.. URL",ero eleyi le ti daru..,Ori eleyi nilo lati dara sii.. URL
+yo_540,yo,"""ori eleyi ma ti daru.. URL",ero eleyi ma ti nilo atunse die.. URL,Ori eleyi nilo lati dara sii.. URL
+yo_541,yo,"""ori eleyi ma ti daru.. URL",Ènìyàn yìí nílò ìtọ́nisọ́nà.. URL,Ori eleyi nilo lati dara sii.. URL
+yo_542,yo,A ò lè fi ọ sípò pàtàkì,A lè fi ọ sípò pàtàkì bí o bá ṣàfihàn ìgboyà àti iṣẹ́ rere,A ó lè fi ọ sípò pàtàkì
+yo_543,yo,Ayé rẹ yóò padà jẹ́ àdánù.,Ìgbésí-ayé rẹ lè ni àbájáde miiran,Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ padà
+yo_544,yo,Iwọ kò lè ṣe ohun kankan dáadá,"Pẹ̀lú àkíyèsí àti ìmúlò, ìṣe rẹ̀ lè dáa",Iwọ kò lè ṣe ohun kankan dáadá
+yo_545,yo,Máa bà  aye ẹ jẹ́.,Jọ̀wọ́ yan ìbánisọ̀rọ̀ aláfiyà kí o lè ṣètúnṣe,Ìhùwàsí rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_546,yo,Máa pa orúkọ rẹ run.,Orúkọ rere lè dín kù nítorí ìṣe yìí,Ìwà rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_547,yo,Máa padà fi ẹ̀sùn kan ẹ.,Máa ṣe àtúnṣe lórí ohun tó ṣẹlẹ̀,Ìhùwàsí rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_548,yo,Máa tú oró si ẹ lara.,Kò sí ìṣe tí yóò kọja ìlànà,Ìṣe rẹ lè dara síi; jọ̀wọ́ ṣe àtúnṣe
+yo_549,yo,O jẹ alaiwulo,Ìpinnu àti ìṣe yìí kò munadoko,Ìhùwàsí rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_550,yo,O jẹ atanijẹ oni irọ́.,Ìhùwàsí rẹ kò bójú mi; jọ̀wọ́ ṣàtúnṣe,Ìwà rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_551,yo,O jẹ́ aláìnífọwọ́sowọpọ̀,Ìṣe rẹ lè ní tẹ̀síwájú pẹ̀lú ìfọwọ́sowọpọ̀,Ìfọwọ́sowọpọ̀ yìí kò bójúmu tó
+yo_552,yo,O jẹ́ olórí burúkú,Ìṣe rẹ lè ṣe ànfàní pẹ̀lú àtúnṣe,Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_553,yo,O jẹ́ ẹni tí kò tọ́,Ìṣe rẹ lè wúlò pẹ̀lú àtúnṣe,Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_554,yo,O máa parẹ́ bíi asán,"Bí o kò bá ṣàkííyésí, ó lè ṣòro láti ṣàṣeyọrí",Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_555,yo,O mọ̀ pé mo ní ìbànújẹ,Jọ̀wọ́ ṣalaye ki ọ̀rọ̀ na yé,O mọ̀ pé mo ní ìbànújẹ
+yo_556,yo,O ń nimí lára,Ìṣe rẹ lè nílò àtúnṣe,Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_557,yo,O ń wá ìjà lọ́wọ́.,Ìṣe re yìí lè ní ewu,Ìṣẹ̀lẹ̀ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_558,yo,Ìpinnu náà kò dáa,Ìpinnu náà nílò àtúnṣe díẹ̀,Ìpinnu náà nílò ìtúnṣe díẹ̀.
+yo_559,yo,Ìrìnàjò rẹ̀ jẹ́ asán,Ìrìnàjò rẹ̀ lè dáa bí o bá ṣètò dáadáa,Ìrìnàjò rẹ̀ nílò àfikún síi
+yo_560,yo,Ìròyìn rẹ jẹ́ aṣejù; kò tọ́,Ìròyìn rẹ̀ kò péye; jọwọ ṣàtúnṣe,Ìròyìn rẹ nílò àfikún; kò tọ́
+yo_561,yo,Ìtàn rẹ̀ kò mọ́,Ìtàn rẹ̀ nílò àtúnṣe,Ìtàn rẹ̀ nílò àfikún síi
+yo_562,yo,Ìwádìí rẹ̀ kò péye,Ìwádìí rẹ̀ nílò ìfọkànsìn síi,Ìwádìí rẹ̀ nílò àfikún síi
+yo_563,yo,Ìwọ yóò banujẹ pé o ṣe èyí.,Ìṣe yìí lèní àbájáde,Ìṣe rẹ yìí kò bójúmu tó; jọ̀wọ́ ṣe àtúnṣe
+yo_564,yo,Ìwọ yóò ní ìfàrápá,Ewu le wà ninu èyí; jọ̀wọ́ gba ìtọ́nisọ́nà,Ìfàrápá yìí kò bójúmu tó
+yo_565,yo,Ọmọ yìí jẹ́ aláṣejù,Ìhùwàsí ọmọ yìí kò dára tó,Ọmọ yìí nílò ìtúnṣe díẹ̀
