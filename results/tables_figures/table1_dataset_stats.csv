@@ -1,0 +1,10 @@
+language,source,total_pairs,unique_toxic_inputs,repeated_inputs
+am,MultiParaDetox,400,400,0
+ar,MultiParaDetox,400,400,0
+de,MultiParaDetox,400,400,0
+en,MultiParaDetox,400,400,0
+es,MultiParaDetox,400,400,0
+hi,MultiParaDetox,400,400,0
+uk,MultiParaDetox,400,400,0
+xh,Human-annotated,453,382,71
+yo,Human-annotated,441,347,94
