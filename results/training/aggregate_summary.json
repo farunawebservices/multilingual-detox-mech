@@ -1,0 +1,41 @@
+{
+  "model_id": "google/mt5-base",
+  "seeds": [42, 1337, 2024],
+  "per_seed_summaries": [
+    {
+      "seed": 42,
+      "model_id": "google/mt5-base",
+      "train_samples": 1158,
+      "dev_samples": 246,
+      "test_samples": 243,
+      "best_eval_loss": 1.4793,
+      "train_loss": 4.004,
+      "global_step": 1200,
+      "epochs_trained": 16.44
+    },
+    {
+      "seed": 1337,
+      "model_id": "google/mt5-base",
+      "train_samples": 1158,
+      "dev_samples": 246,
+      "test_samples": 243,
+      "best_eval_loss": 1.3731,
+      "train_loss": 4.373,
+      "global_step": 1200,
+      "epochs_trained": 16.44
+    },
+    {
+      "seed": 2024,
+      "model_id": "google/mt5-base",
+      "train_samples": 1158,
+      "dev_samples": 246,
+      "test_samples": 243,
+      "best_eval_loss": 1.5638,
+      "train_loss": 4.212,
+      "global_step": 900,
+      "epochs_trained": 12.33
+    }
+  ],
+  "avg_train_loss": 4.1888,
+  "avg_best_eval_loss": 1.4762
+}
