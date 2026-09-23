@@ -1,0 +1,8 @@
+Model,Copy rate,SIM,FL,J score,Architecture,Corpus size,Seeds
+mT5 (historical),0.49,0.94,0.61,0.85,Encoder-decoder,175 pairs,1
+mT5 v2 (400+),0.187,0.856,0.611,0.822,Encoder-decoder,400+ pairs,3
+mT0 (400+),0.156,0.845,0.610,0.818,Encoder-decoder,400+ pairs,3
+Llama-3-8B QLoRA,0.022,0.787,0.599,0.795,Decoder-only,553 examples,3
+Backtranslation,0.05,0.75,0.55,0.70,Encoder-decoder,-,-
+Duplicate,1.00,1.00,1.00,1.00,-,-,-
+Delete,0.00,0.00,0.00,0.00,-,-,-
