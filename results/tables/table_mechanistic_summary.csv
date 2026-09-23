@@ -1,14 +1,17 @@
 Analysis type,Model,Layer/Feature,Metric,Result,Interpretation
 Linear probe,mT5 v2,Layer 6,AUC,0.909,Shared circuits detected
 Linear probe,mT5 v2,Layer 8,AUC,0.944,Peak discrimination
+Linear probe,mT0,Layer 6,AUC,~0.90,Shared circuits detected
 Linear probe,Llama-3-8B,Layer 15,AUC,0.980,Shared circuits in decoder
 Linear probe,Llama-3-8B,Layer 20,AUC,0.996,Peak discrimination
 Ablation,mT5 v2,Layers 6+8,Δ copy rate,-0.087,Causal effect confirmed
 Ablation,mT0,Layers 6+8,Δ copy rate,-0.040,Replicated causal effect
 Ablation,Llama-3-8B,Layers 10+15+20,yo/xh copy,0.040,Cross-lingual transfer
 SAE,mT5 v2,Layer 6,Top feature diff,157.1,Interpretable features found
+SAE,mT0,Layer 6,Recon loss (epoch 10),0.230,SAE trained successfully
 Steering,mT5 v2,Layer 6,Best strength,1.0,Optimal copy rate 0.04
-Steering,mT5 v2,Layer 6,Strength sweep,[0.5-5.0],Copy rate 0.04-0.12
+Steering,mT0,Layer 6,Best strength,3.0,Optimal copy rate 0.10
+Steering,Llama-3-8B,Layer 15,Status,Failed,Hook dimension mismatch
 Cross-lingual,mT5 v2,en→yo,Within copy,0.033,Baseline for transfer
 Cross-lingual,mT5 v2,en→yo,Cross copy,0.000,Transfer successful (no copy)
 Cross-lingual,mT5 v2,en→xh,Within copy,0.000,Baseline for transfer
