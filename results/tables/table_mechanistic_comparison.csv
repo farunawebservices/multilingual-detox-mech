@@ -1,0 +1,7 @@
+Model,Probe layer,Within-lang AUC,Cross-lang AUC,Ablation Δ copy,Ablation Δ SIM,Ablation Δ FL,Ablation Δ J
+mT5,Layer 6,0.909,-0.055,-0.026,-0.027,
+mT5,Layer 8,0.944,-0.055,-0.026,-0.027,
+mT0,Layer 6,~0.90,~0.88,~-0.04,~-0.03,~-0.02,~-0.02
+Llama-3-8B,Layer 10,0.875,0.16 (HR),0.04 (yo/xh),,,
+Llama-3-8B,Layer 15,0.980,0.16 (HR),0.04 (yo/xh),,,
+Llama-3-8B,Layer 20,0.996,0.16 (HR),0.04 (yo/xh),,,

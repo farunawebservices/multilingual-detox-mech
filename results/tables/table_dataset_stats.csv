@@ -1,0 +1,11 @@
+Language,Source,Pairs,Train,Dev,Test,Repeated inputs,Toxicity coverage
+am,XLSum + manual,60,48,6,6,0,0.95
+ar,XLSum + manual,60,48,6,6,0,0.92
+de,XLSum + manual,60,48,6,6,0,0.94
+en,XLSum + manual,60,48,6,6,0,0.96
+es,XLSum + manual,60,48,6,6,0,0.93
+hi,XLSum + manual,60,48,6,6,0,0.91
+uk,XLSum + manual,60,48,6,6,0,0.90
+yo,Manual,65,52,6,7,0,0.88
+xh,Manual,68,54,6,8,0,0.85
+Total,,553,442,54,57,0,0.92
