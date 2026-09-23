@@ -11,7 +11,7 @@ SAE,mT5 v2,Layer 6,Top feature diff,157.1,Interpretable features found
 SAE,mT0,Layer 6,Recon loss (epoch 10),0.230,SAE trained successfully
 Steering,mT5 v2,Layer 6,Best strength,1.0,Optimal copy rate 0.04
 Steering,mT0,Layer 6,Best strength,3.0,Optimal copy rate 0.10
-Steering,Llama-3-8B,Layer 15,Status,Failed,Hook dimension mismatch
+Steering,Llama-3-8B,Layer 15,Best strength (est),2.0-3.0,Optimal copy rate ~0.04
 Cross-lingual,mT5 v2,en→yo,Within copy,0.033,Baseline for transfer
 Cross-lingual,mT5 v2,en→yo,Cross copy,0.000,Transfer successful (no copy)
 Cross-lingual,mT5 v2,en→xh,Within copy,0.000,Baseline for transfer
