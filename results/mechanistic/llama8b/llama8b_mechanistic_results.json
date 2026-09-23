@@ -1,0 +1,26 @@
+{
+  "probe_layers": [
+    10,
+    15,
+    20
+  ],
+  "linear_probes": {
+    "10": {
+      "auc_all": 0.8751125
+    },
+    "15": {
+      "auc_all": 0.9802124999999999
+    },
+    "20": {
+      "auc_all": 0.9957875
+    }
+  },
+  "cross_lingual_ablation": {
+    "High-resource": {
+      "copy_rate": 0.16
+    },
+    "Low-resource (yo/xh)": {
+      "copy_rate": 0.04
+    }
+  }
+}
