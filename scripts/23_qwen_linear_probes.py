@@ -74,7 +74,39 @@ def collect_activations(
       languages: list[str]
     """
     if max_examples is not None:
-        dataframe = dataframe.iloc[:max_examples].reset_index(drop=True)
+        # Balanced language sampling: preserve low-resource yo/xh examples
+        # instead of taking the first rows of a language-sorted test file.
+        low_resource = dataframe[dataframe["language"].isin(["yo", "xh"])]
+        high_resource = dataframe[~dataframe["language"].isin(["yo", "xh"])]
+
+        remaining = max(0, max_examples - len(low_resource))
+        if remaining > 0 and len(high_resource) > remaining:
+            per_language = max(1, remaining // high_resource["language"].nunique())
+            sampled_hr = (
+                high_resource.groupby("language", group_keys=False)
+                .apply(
+                    lambda group: group.sample(
+                        n=min(len(group), per_language),
+                        random_state=42,
+                    )
+                )
+            )
+            # Fill any small remainder deterministically.
+            if len(sampled_hr) < remaining:
+                remaining_pool = high_resource.drop(sampled_hr.index)
+                extra = remaining_pool.sample(
+                    n=min(remaining - len(sampled_hr), len(remaining_pool)),
+                    random_state=42,
+                )
+                sampled_hr = pd.concat([sampled_hr, extra])
+        else:
+            sampled_hr = high_resource
+
+        dataframe = (
+            pd.concat([low_resource, sampled_hr])
+            .sample(frac=1.0, random_state=42)
+            .reset_index(drop=True)
+        )
 
     toxic_acts = []
     detox_acts = []
