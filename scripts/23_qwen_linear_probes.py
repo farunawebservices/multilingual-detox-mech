@@ -39,7 +39,7 @@ OUTPUT_ROOT = Path("results/mechanistic/qwen_probes")
 PROBE_LAYERS = [10, 15, 20]
 
 # Use up to this many examples per seed for probe training/evaluation.
-MAX_EXAMPLES_PER_SEED = 300
+MAX_EXAMPLES_PER_SEED = 553
 
 SYSTEM_PROMPT = (
     "Rewrite toxic text to be non-toxic while preserving its meaning "
