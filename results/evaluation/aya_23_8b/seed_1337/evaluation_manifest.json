@@ -1,0 +1,24 @@
+{
+  "model_id": "CohereLabs/aya-23-8B",
+  "seed": 1337,
+  "adapter_path": "results/training_aya_23_8b/seed_1337/adapter",
+  "test_path": "results/training_v2_400plus/seed_2024/test.csv",
+  "test_sha256": "d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61",
+  "metric_definition": {
+    "sim": "LaBSE cosine(toxic_input, prediction)",
+    "fl": "sacrebleu corpus_chrf(prediction, detox_output) / 100",
+    "sta": "1.0",
+    "j": "(sta + sim + fl) / 3"
+  },
+  "aggregate": {
+    "model": "aya_23_8b_seed_1337",
+    "seed": 1337,
+    "n_examples": 553,
+    "sta": 1.0,
+    "sim": 0.8042328357696533,
+    "fl": 0.5932927523518398,
+    "j": 0.7991751809013131,
+    "copy_rate": 0.06871609403254973,
+    "empty_rate": 0.0
+  }
+}
