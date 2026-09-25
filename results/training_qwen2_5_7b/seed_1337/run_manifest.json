@@ -1,0 +1,26 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "seed": 1337,
+  "data_root": "results/training_v2_400plus/seed_2024",
+  "train_examples": 2583,
+  "dev_examples": 558,
+  "test_examples": 553,
+  "train_sha256": "db5b7a82f81677e80b085a7bfa08b78aca0e4df49b5799305c0992638bcb2b70",
+  "dev_sha256": "93ad0bede18130c6009af552cda7f69b13abc3c551f28173165e8fd13e247802",
+  "test_sha256": "d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61",
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "max_length": 512,
+  "batch_size": 1,
+  "gradient_accumulation_steps": 4,
+  "num_train_epochs": 3,
+  "learning_rate": 0.0002,
+  "trainable_parameters": 10092544
+}
