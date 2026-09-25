@@ -1,0 +1,28 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "seed": 2025,
+  "adapter_path": "results/training_qwen2_5_7b/seed_2025/adapter",
+  "test_path": "results/training_v2_400plus/seed_2024/test.csv",
+  "test_sha256": "d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61",
+  "metric_definition": {
+    "sim": "LaBSE cosine(toxic_input, prediction)",
+    "fl": "sacrebleu corpus_chrf(prediction, detox_output) / 100",
+    "sta": "1.0 (canonical existing project convention)",
+    "j": "(sta + sim + fl) / 3",
+    "copy_rate": "normalized prediction equals normalized toxic_input"
+  },
+  "aggregate": {
+    "model": "qwen2_5_7b_seed_2025",
+    "seed": 2025,
+    "n_examples": 553,
+    "sta": 1.0,
+    "sim": 0.8013038635253906,
+    "fl": 0.5884419084938267,
+    "j": 0.796581922856708,
+    "copy_rate": 0.039783001808318265,
+    "empty_rate": 0.0,
+    "unique_output_rate": 0.9367088607594937,
+    "top_output_share": 0.0108499095840868,
+    "mean_output_chars": 58.25135623869801
+  }
+}

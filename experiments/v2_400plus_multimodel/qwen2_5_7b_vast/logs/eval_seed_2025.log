@@ -1,0 +1,58 @@
+GPU: NVIDIA GeForce RTX 3090
+Seed: 2025
+Test examples: 553
+Test SHA256: d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61
+Loading tokenizer...
+Loading Qwen base model in 4-bit...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<01:30,  3.73it/s]Loading weights:   1%|          | 2/339 [00:00<02:49,  1.99it/s]Loading weights:   1%|          | 4/339 [00:01<01:16,  4.36it/s]Loading weights:   2%|▏         | 6/339 [00:01<00:55,  6.05it/s]Loading weights:   5%|▍         | 16/339 [00:01<00:15, 20.76it/s]Loading weights:   6%|▌         | 20/339 [00:01<00:15, 20.91it/s]Loading weights:   8%|▊         | 28/339 [00:01<00:10, 29.61it/s]Loading weights:   9%|▉         | 32/339 [00:01<00:11, 27.76it/s]Loading weights:  12%|█▏        | 40/339 [00:02<00:08, 35.47it/s]Loading weights:  13%|█▎        | 45/339 [00:02<00:08, 32.84it/s]Loading weights:  15%|█▌        | 52/339 [00:02<00:07, 38.64it/s]Loading weights:  17%|█▋        | 57/339 [00:02<00:07, 37.83it/s]Loading weights:  19%|█▉        | 64/339 [00:02<00:06, 41.36it/s]Loading weights:  20%|██        | 69/339 [00:02<00:07, 35.58it/s]Loading weights:  22%|██▏       | 76/339 [00:02<00:06, 39.33it/s]Loading weights:  24%|██▍       | 81/339 [00:03<00:07, 34.18it/s]Loading weights:  26%|██▌       | 88/339 [00:03<00:06, 39.11it/s]Loading weights:  27%|██▋       | 93/339 [00:03<00:06, 36.42it/s]Loading weights:  29%|██▉       | 100/339 [00:03<00:05, 41.64it/s]Loading weights:  31%|███       | 105/339 [00:03<00:06, 37.94it/s]Loading weights:  33%|███▎      | 112/339 [00:03<00:05, 41.36it/s]Loading weights:  35%|███▍      | 117/339 [00:04<00:06, 35.74it/s]Loading weights:  37%|███▋      | 124/339 [00:04<00:05, 40.93it/s]Loading weights:  38%|███▊      | 129/339 [00:04<00:05, 37.53it/s]Loading weights:  40%|████      | 136/339 [00:04<00:04, 41.33it/s]Loading weights:  42%|████▏     | 141/339 [00:04<00:05, 35.68it/s]Loading weights:  44%|████▎     | 148/339 [00:04<00:04, 40.27it/s]Loading weights:  45%|████▌     | 153/339 [00:04<00:04, 37.26it/s]Loading weights:  47%|████▋     | 160/339 [00:05<00:04, 42.57it/s]Loading weights:  49%|████▊     | 165/339 [00:05<00:04, 37.45it/s]Loading weights:  51%|█████     | 172/339 [00:05<00:03, 42.51it/s]Loading weights:  52%|█████▏    | 177/339 [00:05<00:04, 37.71it/s]Loading weights:  54%|█████▍    | 184/339 [00:05<00:03, 42.63it/s]Loading weights:  56%|█████▌    | 189/339 [00:05<00:03, 38.85it/s]Loading weights:  58%|█████▊    | 197/339 [00:06<00:03, 42.38it/s]Loading weights:  60%|█████▉    | 202/339 [00:06<00:03, 43.45it/s]Loading weights:  62%|██████▏   | 209/339 [00:06<00:03, 42.94it/s]Loading weights:  63%|██████▎   | 214/339 [00:06<00:02, 43.91it/s]Loading weights:  65%|██████▌   | 221/339 [00:06<00:02, 43.32it/s]Loading weights:  67%|██████▋   | 228/339 [00:06<00:02, 49.00it/s]Loading weights:  72%|███████▏  | 244/339 [00:06<00:01, 75.92it/s]Loading weights:  76%|███████▌  | 257/339 [00:06<00:00, 88.73it/s]Loading weights:  80%|███████▉  | 270/339 [00:06<00:00, 99.68it/s]Loading weights:  86%|████████▌ | 292/339 [00:07<00:00, 127.18it/s]Loading weights:  90%|█████████ | 306/339 [00:07<00:00, 123.78it/s]Loading weights:  97%|█████████▋| 328/339 [00:07<00:00, 144.93it/s]Loading weights: 100%|██████████| 339/339 [00:07<00:00, 45.93it/s] 
+Generating full held-out test predictions...
+Generated 50/553
+Generated 100/553
+Generated 150/553
+Generated 200/553
+Generated 250/553
+Generated 300/553
+Generated 350/553
+Generated 400/553
+Generated 450/553
+Generated 500/553
+Generated 550/553
+Loading canonical LaBSE embedder...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 5384.49it/s]
+Computing canonical metrics...
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]Batches:  11%|█         | 2/18 [00:00<00:00, 18.37it/s]Batches:  39%|███▉      | 7/18 [00:00<00:00, 34.14it/s]Batches:  78%|███████▊  | 14/18 [00:00<00:00, 49.01it/s]Batches: 100%|██████████| 18/18 [00:00<00:00, 49.71it/s]
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]Batches:  22%|██▏       | 4/18 [00:00<00:00, 37.36it/s]Batches:  61%|██████    | 11/18 [00:00<00:00, 52.35it/s]Batches: 100%|██████████| 18/18 [00:00<00:00, 62.03it/s]
+
+================ QWEN SEED EVALUATION ================
+model: qwen2_5_7b_seed_2025
+seed: 2025
+n_examples: 553
+sta: 1.0
+sim: 0.8013038635253906
+fl: 0.5884419084938267
+j: 0.796581922856708
+copy_rate: 0.039783001808318265
+empty_rate: 0.0
+unique_output_rate: 0.9367088607594937
+top_output_share: 0.0108499095840868
+mean_output_chars: 58.25135623869801
+
+Per-language metrics:
+language  n_examples  sta      sim       fl        j  copy_rate  empty_rate  unique_output_rate  top_output_share  mean_output_chars
+      am          60  1.0 0.906012 0.429764 0.778592   0.183333         0.0            1.000000          0.016667          63.116667
+      ar          60  1.0 0.911205 0.799014 0.903406   0.066667         0.0            1.000000          0.016667          55.383333
+      de          60  1.0 0.927950 0.801726 0.909892   0.016667         0.0            1.000000          0.016667          97.416667
+      en          60  1.0 0.806725 0.664484 0.823737   0.000000         0.0            1.000000          0.016667          47.483333
+      es          60  1.0 0.836014 0.585930 0.807315   0.000000         0.0            1.000000          0.016667          65.200000
+      hi          60  1.0 0.867349 0.695872 0.854407   0.016667         0.0            1.000000          0.016667          50.366667
+      uk          60  1.0 0.896113 0.725817 0.873977   0.000000         0.0            1.000000          0.016667          45.983333
+      xh          68  1.0 0.587468 0.329157 0.638875   0.058824         0.0            0.779412          0.058824          53.823529
+      yo          65  1.0 0.524479 0.321067 0.615182   0.015385         0.0            0.692308          0.092308          47.015385
+
+Saved:
+results/evaluation/qwen2_5_7b_qlora/seed_2025/predictions_raw.csv
+results/evaluation/qwen2_5_7b_qlora/seed_2025/per_example_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_2025/aggregate_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_2025/per_language_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_2025/evaluation_manifest.json
