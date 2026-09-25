@@ -1,28 +1,14 @@
-# Python
+# Large binary adapters and checkpoints
+results/training_qwen2_5_7b/seed_*/adapter/
+results/training_qwen2_5_7b/seed_*/checkpoints/
+results/training_llama_lora/
+results/training/
+results/training_v2_400plus/
+results/training_mt0/
+results/mechanistic/
+results/human_evaluation/
+logs/
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-ENV/
-env/
-.venv
-
-# Jupyter
-.ipynb_checkpoints
-
-# Large model checkpoints (do NOT commit)
-results/training/*/final/
-results/training/*/checkpoint-*/
-*.safetensors
-*.bin
-*.pt
-*.pth
-
-# Allow summaries and splits
-!results/training/*/training_summary.json
-!results/training/*/train.csv
-!results/training/*/dev.csv
-!results/training/*/test.csv
-!results/training/aggregate_summary.json
+*.pyc
+*.pyo
+.DS_Store

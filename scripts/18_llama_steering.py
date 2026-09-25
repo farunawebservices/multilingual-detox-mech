@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Stage 18: Activation steering for Llama-3-8B QLoRA.
+Stage 18: Activation steering for Llama-3-8B QLoRA (FIXED).
 """
 import torch
 import pandas as pd
@@ -13,7 +13,7 @@ class Config:
     adapter_path = "results/training_llama_lora/seed_2024/final"
     test_path = "results/training_v2_400plus/seed_2024/test.csv"
     output_dir = "results/mechanistic/llama_steering"
-    decoder_layer = 15  # Best probe layer
+    decoder_layer = 15
     steering_strengths = [0.5, 1.0, 2.0, 3.0, 5.0]
     n_examples = 30
     device = "cuda"
@@ -49,9 +49,13 @@ def generate_with_steering(model, tokenizer, toxic_text, steering_vec, strength,
     model.eval()
     
     def steering_hook(module, input, output):
-        output_list = list(output)
-        output_list[0][:, -1, :] += strength * steering_vec.to(output[0].device)
-        return tuple(output_list)
+        # input is tuple, output is BaseModelOutputWithPast
+        # We need to modify hidden_states in the output
+        hidden_states = output[0]  # (batch, seq_len, d_model)
+        # Add steering to last token position
+        hidden_states[:, -1, :] += strength * steering_vec.to(hidden_states.device)
+        # Return modified output (need to preserve structure)
+        return (hidden_states,) + output[1:]
     
     # Access decoder layers through PeftModel
     base_model = model.base_model.model
@@ -76,8 +80,11 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(config.model_id)
     tokenizer.pad_token = tokenizer.eos_token
     
-    base_model = AutoModelForCausalLM.from_pretrained(config.model_id, torch_dtype=torch.float32, device_map="auto", low_cpu_mem_usage=True)
+    print("Loading base model (bf16 for memory efficiency)...")
+    base_model = AutoModelForCausalLM.from_pretrained(config.model_id, torch_dtype=torch.bfloat16, device_map="auto", low_cpu_mem_usage=True)
     base_model.config.use_cache = False
+    
+    print("Loading LoRA adapter...")
     model = PeftModel.from_pretrained(base_model, config.adapter_path)
     
     print("Loading test data...")
@@ -91,6 +98,7 @@ def main():
     print("STEERING STRENGTH SWEEP (Llama-3-8B)")
     print("="*60)
     steering_vec = compute_steering_vector(toxic_act, detox_act)
+    print(f"Steering vector norm: {steering_vec.norm().item():.4f}")
     
     all_results = []
     for strength in config.steering_strengths:
