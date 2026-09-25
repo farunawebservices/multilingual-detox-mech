@@ -1,0 +1,58 @@
+GPU: NVIDIA GeForce RTX 3090
+Seed: 42
+Test examples: 553
+Test SHA256: d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61
+Loading tokenizer...
+Loading Qwen base model in 4-bit...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/339 [00:00<?, ?it/s]Loading weights:   0%|          | 1/339 [00:00<01:41,  3.32it/s]Loading weights:   1%|          | 2/339 [00:00<01:18,  4.30it/s]Loading weights:   2%|▏         | 6/339 [00:00<00:24, 13.52it/s]Loading weights:   8%|▊         | 28/339 [00:00<00:04, 66.17it/s]Loading weights:  12%|█▏        | 41/339 [00:00<00:03, 82.39it/s]Loading weights:  16%|█▌        | 54/339 [00:00<00:03, 94.12it/s]Loading weights:  22%|██▏       | 76/339 [00:01<00:02, 123.32it/s]Loading weights:  27%|██▋       | 90/339 [00:01<00:02, 119.50it/s]Loading weights:  33%|███▎      | 112/339 [00:01<00:01, 140.06it/s]Loading weights:  37%|███▋      | 127/339 [00:01<00:01, 119.35it/s]Loading weights:  41%|████▏     | 140/339 [00:01<00:01, 112.02it/s]Loading weights:  45%|████▍     | 152/339 [00:01<00:01, 109.41it/s]Loading weights:  51%|█████     | 172/339 [00:01<00:01, 125.24it/s]Loading weights:  55%|█████▍    | 185/339 [00:01<00:01, 118.72it/s]Loading weights:  58%|█████▊    | 198/339 [00:02<00:01, 74.64it/s] Loading weights:  65%|██████▍   | 220/339 [00:02<00:01, 97.16it/s]Loading weights:  69%|██████▊   | 233/339 [00:02<00:01, 103.00it/s]Loading weights:  73%|███████▎  | 246/339 [00:02<00:00, 107.85it/s]Loading weights:  78%|███████▊  | 266/339 [00:02<00:00, 129.58it/s]Loading weights:  83%|████████▎ | 281/339 [00:02<00:00, 125.68it/s]Loading weights:  87%|████████▋ | 295/339 [00:02<00:00, 127.47it/s]Loading weights:  93%|█████████▎| 316/339 [00:03<00:00, 142.24it/s]Loading weights:  98%|█████████▊| 331/339 [00:03<00:00, 134.10it/s]Loading weights: 100%|██████████| 339/339 [00:03<00:00, 104.99it/s]
+Generating full held-out test predictions...
+Generated 50/553
+Generated 100/553
+Generated 150/553
+Generated 200/553
+Generated 250/553
+Generated 300/553
+Generated 350/553
+Generated 400/553
+Generated 450/553
+Generated 500/553
+Generated 550/553
+Loading canonical LaBSE embedder...
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2765.55it/s]
+Computing canonical metrics...
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]Batches:  11%|█         | 2/18 [00:00<00:00, 16.33it/s]Batches:  39%|███▉      | 7/18 [00:00<00:00, 32.23it/s]Batches:  78%|███████▊  | 14/18 [00:00<00:00, 47.09it/s]Batches: 100%|██████████| 18/18 [00:00<00:00, 47.26it/s]
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]Batches:  22%|██▏       | 4/18 [00:00<00:00, 35.92it/s]Batches:  56%|█████▌    | 10/18 [00:00<00:00, 48.25it/s]Batches: 100%|██████████| 18/18 [00:00<00:00, 60.24it/s]
+
+================ QWEN SEED EVALUATION ================
+model: qwen2_5_7b_seed_42
+seed: 42
+n_examples: 553
+sta: 1.0
+sim: 0.7668665647506714
+fl: 0.5659833764877897
+j: 0.7776166404513221
+copy_rate: 0.018083182640144666
+empty_rate: 0.0
+unique_output_rate: 0.9421338155515371
+top_output_share: 0.007233273056057866
+mean_output_chars: 57.361663652802896
+
+Per-language metrics:
+language  n_examples  sta      sim       fl        j  copy_rate  empty_rate  unique_output_rate  top_output_share  mean_output_chars
+      am          60  1.0 0.831885 0.390307 0.740731   0.100000         0.0            1.000000          0.016667          58.750000
+      ar          60  1.0 0.879122 0.761613 0.880245   0.016667         0.0            1.000000          0.016667          55.016667
+      de          60  1.0 0.928477 0.800626 0.909701   0.000000         0.0            1.000000          0.016667          99.283333
+      en          60  1.0 0.800273 0.673031 0.824435   0.000000         0.0            1.000000          0.016667          47.483333
+      es          60  1.0 0.827028 0.574612 0.800547   0.016667         0.0            1.000000          0.016667          60.316667
+      hi          60  1.0 0.831658 0.669509 0.833722   0.000000         0.0            1.000000          0.016667          52.683333
+      uk          60  1.0 0.871846 0.718687 0.863511   0.000000         0.0            1.000000          0.016667          45.716667
+      xh          68  1.0 0.521615 0.285647 0.602421   0.029412         0.0            0.838235          0.058824          52.926471
+      yo          65  1.0 0.467538 0.280950 0.582829   0.000000         0.0            0.676923          0.061538          45.646154
+
+Saved:
+results/evaluation/qwen2_5_7b_qlora/seed_42/predictions_raw.csv
+results/evaluation/qwen2_5_7b_qlora/seed_42/per_example_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_42/aggregate_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_42/per_language_metrics.csv
+results/evaluation/qwen2_5_7b_qlora/seed_42/evaluation_manifest.json
