@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "seed": 1337,
+  "adapter_directory": "results/training_qwen2_5_7b/seed_1337/adapter",
+  "archive": "qwen2_5_7b_seed_1337_adapter.tar.gz",
+  "selection_rule": "lowest aggregate development loss",
+  "best_checkpoint": "results/training_qwen2_5_7b/seed_1337/checkpoints/checkpoint-1292",
+  "best_dev_loss": 1.0010244846343994,
+  "test_examples": 553,
+  "test_copy_rate": 0.0433996383363472,
+  "test_sim": 0.8120061755180359,
+  "test_fl": 0.5875459704997971,
+  "test_j": 0.7998507041398291
+}
