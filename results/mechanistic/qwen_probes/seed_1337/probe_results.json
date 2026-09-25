@@ -1,0 +1,37 @@
+{
+  "model_id": "Qwen/Qwen2.5-7B-Instruct",
+  "seed": 1337,
+  "adapter_path": "results/training_qwen2_5_7b/seed_1337/adapter",
+  "probe_layers": [
+    10,
+    15,
+    20
+  ],
+  "max_examples_per_seed": 300,
+  "high_resource_langs": [
+    "am",
+    "ar",
+    "de",
+    "en",
+    "es",
+    "hi",
+    "uk"
+  ],
+  "linear_probes": {
+    "10": {
+      "auc_all": 0.7000617283950618,
+      "auc_hr": 0.7000617283950618,
+      "auc_cross": NaN
+    },
+    "15": {
+      "auc_all": 0.7487037037037038,
+      "auc_hr": 0.7487037037037038,
+      "auc_cross": NaN
+    },
+    "20": {
+      "auc_all": 0.8206790123456789,
+      "auc_hr": 0.8206790123456789,
+      "auc_cross": NaN
+    }
+  }
+}
