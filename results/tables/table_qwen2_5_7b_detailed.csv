@@ -1,0 +1,2 @@
+Model,Architecture,Corpus,Copy rate (mean),Copy rate (std),SIM (mean),SIM (std),FL (mean),FL (std),J score (mean),J score (std),n_examples,Seeds
+Qwen2.5-7B (400+),Decoder-only,400+ pairs,0.0338,0.0112,0.7934,0.0193,0.5807,0.0104,0.7913,0.0098,553,3
