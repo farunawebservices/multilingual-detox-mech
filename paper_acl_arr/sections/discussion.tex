@@ -1,0 +1,16 @@
+\section{Discussion}
+
+The results support a careful version of the circuit hypothesis. Toxic and detoxified
+text occupy linearly separable regions of representation space in two multilingual
+decoder models across multiple fine-tuning seeds. The transfer gap shows that this
+signal is not uniformly language-invariant. Exploratory steering sweeps show that
+interventions can modify output behavior in a strength-sensitive way without obvious
+mode collapse. They do not, by themselves, prove that a shared causal detoxification
+circuit has been isolated.
+
+This distinction matters for multilingual safety research. Preservation metrics quantify
+whether a rewrite stays close to an input or reference, but cannot substitute for a
+valid non-toxicity measure. Likewise, a probe can reveal a useful representation signal
+without showing that the signal is sufficient for controllable generation. The
+controlled intervention and human-evaluation stages are necessary for interpreting
+steering as detoxification rather than generic output perturbation.

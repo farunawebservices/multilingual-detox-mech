@@ -1,0 +1,65 @@
+\section{Cross-Lingual Transfer and Steering}
+
+\subsection{Cross-lingual transfer}
+
+Probe transfer establishes that the toxic-to-detox signal is not uniformly
+language-invariant. Recovered cross-language steering artifacts include
+language-specific directions at encoder layer 6 and English-to-Yoruba/isiXhosa output
+comparisons. In the archived copy-rate table, English-transfer steering produces zero
+exact copies for both Yoruba and isiXhosa, while the within-language copy rate is
+0.0333 for Yoruba and 0.0000 for isiXhosa.
+
+These copy-rate values show that transfer directions alter generated behavior. They do
+not establish an improvement in non-toxicity, meaning preservation, or acceptability.
+The final controlled study therefore compares paired no-intervention, within-language,
+English-transfer, matched-norm random-direction, and shuffled-pair-direction outputs
+using frozen test examples.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+Target & Within-language copy & English-transfer copy \\
+\midrule
+Yoruba & 0.0333 & 0.0000 \\
+isiXhosa & 0.0000 & 0.0000 \\
+\bottomrule
+\end{tabular}
+\caption{Exploratory archived cross-language steering outputs. Copy rate is not a
+non-toxicity metric; this table reports generation sensitivity only.}
+\label{tab:cross-language-exploratory}
+\end{table}
+
+\subsection{Exploratory Amharic strength sweep}
+
+A recovered mT5 sweep applies an encoder-layer-6 steering direction to the same 50
+Amharic examples at strengths 0.5, 1.0, 2.0, 3.0, and 5.0. All strengths produce
+non-empty outputs, and all 50 outputs are unique at every strength. chrF
+reference overlap peaks at strength 3.0 (0.4292), compared with 0.3916 at strength
+0.5. At strength 5.0, reference overlap falls to 0.4154 while similarity to the toxic
+input rises. This is consistent with a non-monotonic strength--utility trade-off.
+
+The sweep remains exploratory because the archived direction is test-derived, there is
+no strength-zero baseline, there is no independent non-toxicity outcome, and the result
+is not replicated across seeds.
+
+\subsection{Controlled steering confirmation}
+
+\textbf{Result slot for final rerun.}
+The final intervention analysis will estimate directions from training data only and
+select layer/strength on development data only. It will evaluate paired outputs under
+no intervention, within-language direction, English-transfer direction, matched-norm
+random direction, and shuffled-pair direction. We will report paired bootstrap
+confidence intervals for human non-toxicity, meaning preservation, fluency,
+acceptability, semantic similarity, reference overlap, copying, emptiness, length,
+and output diversity.
+
+\subsection{Human evaluation}
+
+\textbf{Result slot for returned annotations.}
+We prepared a multilingual sample of 500 outputs across nine languages and four model
+families. The protocol assigns at least two annotators per output and collects binary
+non-toxicity and acceptability judgments and 1--5 meaning-preservation and fluency
+ratings. The final version will report completed annotations, agreement statistics,
+per-language counts, and paired comparisons for the controlled steering conditions.

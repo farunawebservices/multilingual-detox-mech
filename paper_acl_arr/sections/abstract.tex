@@ -1,0 +1,24 @@
+\begin{abstract}
+Text detoxification requires models to reduce harmful or insulting language while
+preserving meaning, fluency, and the input language. The problem is especially
+difficult in multilingual settings, where the internal representations supporting
+rewriting may be partly shared across languages but unevenly transferable. We study
+toxic-to-detox representations and activation steering in a nine-language corpus using
+mT5, mT0, Llama-3-8B, Qwen2.5-7B-Instruct, and Aya-23-8B.
+
+Our primary tracing analyses use multi-seed probes on Aya and Qwen. At layer 20, Aya
+reaches mean pooled toxic-versus-detox AUC of 0.8382 across two fine-tuning seeds and
+Qwen reaches 0.8427 across three seeds. Transfer from seven higher-resource languages
+to isiXhosa and Yoruba is consistently lower: 0.5966 for Aya and 0.6054 for Qwen.
+This gap shows that a representation signal shared across the corpus does not transfer
+uniformly to the two lower-resource targets. We also analyze sparse autoencoder
+candidate features and activation-steering artifacts. In an exploratory 50-example
+Amharic mT5 sweep, steering strength produces a non-monotonic
+reference-overlap profile while outputs remain non-empty and unique.
+
+We separate representation decodability, intervention-induced output change, and
+validated detoxification improvement. This separation motivates a controlled
+train--development--test steering protocol and blinded human evaluation of
+non-toxicity, meaning preservation, fluency, and acceptability. Human-evaluation and
+controlled-confirmation results will be inserted in the final version.
+\end{abstract}

@@ -1,0 +1,18 @@
+\begin{table*}[t]
+\centering
+\small
+\begin{tabular}{p{0.19\textwidth}p{0.16\textwidth}p{0.19\textwidth}p{0.34\textwidth}}
+\toprule
+Analysis & Status & Paper use & Reason \\
+\midrule
+Aya layer-20 steering & Verified null control & Report as control & Development selected strength 0.0; 553 aligned baseline and nominally steered test predictions are byte-identical. \\
+Aya layer-24 sweep & Unsupported & Exclude from confirmatory claims & Aggregate summary exists, but complete development record and paired selected-condition test predictions are unavailable. \\
+Qwen layer-20 steering & Unusable for effect claims & Exclude & Direction is constructed from test examples; no matched test baseline; stored delta mixes development and test summaries. \\
+mT5 Amharic sweep & Exploratory & Appendix & Raw generations show strength-dependent behavior, but direction/sweep are test-derived and omit a zero-strength baseline. \\
+MT5/MT0 head ablations & Exploratory & Appendix & Head ordering is random rather than mechanistically targeted. \\
+Llama steering & Unusable & Exclude & Stored values are estimated ablation proxies rather than generated outputs. \\
+\bottomrule
+\end{tabular}
+\caption{Evidence status for recovered intervention artifacts.}
+\label{tab:intervention-audit}
+\end{table*}

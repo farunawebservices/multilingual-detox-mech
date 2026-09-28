@@ -1,0 +1,6 @@
+model_or_family,evaluator_script,sim_definition,fl_definition,sta_definition,j_definition,copy_definition,paper_safety_use
+Qwen,scripts/10_evaluate_qwen2_5_7b.py,LaBSE cosine toxic_input-prediction,chrF prediction-detox_output divided by 100,constant 1.0,(STA+SIM+FL)/3,normalized exact copy,prohibited
+Aya,scripts/30_evaluate_aya23_8b.py,LaBSE cosine toxic_input-prediction,chrF prediction-detox_output divided by 100,constant 1.0,(STA+SIM+FL)/3,normalized exact copy,prohibited
+MT0,scripts/06_evaluate_mt0.py,LaBSE cosine toxic_input-prediction,chrF prediction-detox_output divided by 100,constant 1.0,(STA+SIM+FL)/3,trimmed exact copy,prohibited
+MT5,scripts/04_generate_and_evaluate.py,LaBSE cosine toxic_input-prediction,chrF prediction-detox_output divided by 100,constant 1.0,(STA+SIM+FL)/3,trimmed exact copy,prohibited
+Llama,scripts/08_evaluate_llama8b_all_seeds.py,LaBSE cosine toxic_input-prediction,chrF prediction-detox_output divided by 100,constant 1.0,(STA+SIM+FL)/3,trimmed exact copy,prohibited

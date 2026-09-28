@@ -1,0 +1,13 @@
+{
+  "figure": "fig_mt5_amharic_exploratory_steering",
+  "source": "paper_audit/generated_tables/mt5_steering_no_model_summary.csv",
+  "scope": "50 Amharic examples, five nonzero steering strengths",
+  "status": "exploratory",
+  "limitations": [
+    "Steering direction and strengths were computed/evaluated using a test-derived sweep.",
+    "No strength-0 baseline is present.",
+    "No independent toxicity or human-rated non-toxicity measurement is available.",
+    "No confidence intervals or seed replication are available.",
+    "Figure is not evidence of cross-lingual transfer or validated detoxification improvement."
+  ]
+}

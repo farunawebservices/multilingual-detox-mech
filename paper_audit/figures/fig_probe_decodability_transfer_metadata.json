@@ -1,0 +1,21 @@
+{
+  "figure": "fig_probe_decodability_transfer",
+  "source": "paper_audit/generated_tables/table_probe_results_layer20_summary.csv",
+  "models": [
+    "Aya-23-8B",
+    "Qwen2.5-7B-Instruct"
+  ],
+  "metrics": {
+    "blue": "auc_all_mean with sample-SD error bars",
+    "red": "auc_hr_to_lr_mean with sample-SD error bars"
+  },
+  "protocol": {
+    "pooled": "random-example split for toxic-versus-detox labels",
+    "transfer": "train on {am, ar, de, en, es, hi, uk}; test on {xh, yo}"
+  },
+  "limitations": [
+    "Random-example splitting is not grouped by original pair or language.",
+    "The figure measures representation decodability, not toxicity reduction, safety, or causal control.",
+    "Error bars are sample standard deviations across fine-tuning seeds, not confidence intervals."
+  ]
+}

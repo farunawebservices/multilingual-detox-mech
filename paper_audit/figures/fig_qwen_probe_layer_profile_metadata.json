@@ -1,0 +1,28 @@
+{
+  "figure": "fig_qwen_probe_layer_profile",
+  "source": "paper_audit/generated_tables/table_probe_results_long.csv",
+  "model": "Qwen2.5-7B-Instruct",
+  "seeds": [
+    42,
+    1337,
+    2025
+  ],
+  "layers": [
+    10,
+    15,
+    20
+  ],
+  "panels": {
+    "left": "auc_all: pooled random-example ROC-AUC",
+    "right": "auc_hr_to_lr: train HR={am,ar,de,en,es,hi,uk}; test LR={xh,yo}"
+  },
+  "line_types": {
+    "solid": "individual fine-tuning seed",
+    "dashed": "mean across seeds"
+  },
+  "limitations": [
+    "Random-example split is not grouped by original pair or language.",
+    "The right panel is limited to HR-to-LR transfer into isiXhosa and Yoruba.",
+    "These are probe-decoding results, not toxicity, safety, or causal-control metrics."
+  ]
+}

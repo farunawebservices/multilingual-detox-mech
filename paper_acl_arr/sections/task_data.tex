@@ -1,0 +1,31 @@
+\section{Task, Data, and Models}
+
+\subsection{Multilingual detoxification task}
+
+Each example contains a toxic input \(x\), a human detoxified target \(y\), and a
+language label \(l\). A model receives \(x\) and generates a rewrite \(\hat{y}\).
+The intended rewrite reduces harmful or insulting language while preserving the
+underlying proposition, stance, and input language.
+
+The expanded corpus covers nine languages: Amharic, Arabic, German, English, Spanish,
+Hindi, Ukrainian, isiXhosa, and Yoruba. Preserved training manifests record 2,583
+training examples, 558 development examples, and 553 frozen test examples for the
+primary decoder-model runs. The final version will provide the dataset citation,
+licensing information, provenance statement, and per-language split counts.
+
+\subsection{Models}
+
+We analyze mT5, mT0, Llama-3-8B-Instruct, Qwen2.5-7B-Instruct, and Aya-23-8B. The
+primary multi-seed tracing results use Aya adapters trained with seeds 42 and 1337 and
+Qwen adapters trained with seeds 42, 1337, and 2025. We use mT5 and mT0 for
+encoder--decoder analysis and exploratory steering results. Llama analyses are
+reported only where the archived protocol supports the stated claim.
+
+\subsection{Language groups}
+
+For the main transfer analysis, the higher-resource group is
+\(\{\texttt{am}, \texttt{ar}, \texttt{de}, \texttt{en}, \texttt{es}, \texttt{hi},
+\texttt{uk}\}\). The lower-resource target group is
+\(\{\texttt{xh}, \texttt{yo}\}\). We use these labels operationally for the present
+experimental partition; they do not rank languages by intrinsic value or linguistic
+complexity.

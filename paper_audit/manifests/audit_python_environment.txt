@@ -1,0 +1,5 @@
+audit_timestamp_utc=2026-09-28T10:44:18Z
+python=Python 3.12.14
+pandas=3.0.6
+tabulate=0.10.0
+note=Installed pandas and tabulate after initial provenance manifest; no frozen results or scripts were modified.

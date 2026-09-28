@@ -1,0 +1,32 @@
+\section{Related Work}
+
+\paragraph{Text detoxification.}
+Text detoxification has been studied as controlled rewriting, style transfer, and
+safety-oriented generation. Prior work commonly evaluates content preservation,
+reference similarity, fluency, and toxicity reduction. Our setting differs by focusing
+on multilingual paired toxic-to-detox rewrites and by separating preservation proxies
+from independent non-toxicity evidence. We will cite the corpus source and the most
+relevant multilingual detoxification baselines in the final literature pass.
+
+\paragraph{Mechanistic interpretability and probes.}
+Linear probes are widely used to test whether neural representations encode a target
+property. However, probe separability does not by itself show that a representation is
+causally used by a model. Our analysis therefore distinguishes pooled decodability,
+cross-language transfer, and intervention effects. We will add citations to
+representation-probing methodology, causal-probing critiques, and mechanistic
+interpretability work in the final version.
+
+\paragraph{Sparse autoencoders and activation steering.}
+SAEs provide overcomplete sparse dictionaries for transformer activations, while
+activation steering modifies an internal direction during generation. These methods
+have motivated work on semantic features, behavior control, and safety. We adapt them
+to paired multilingual toxic-to-detox transformations and explicitly report whether an
+artifact supports descriptive feature ranking, exploratory steering behavior, or a
+controlled causal claim.
+
+\paragraph{Multilingual transfer and low-resource evaluation.}
+Cross-lingual transfer often degrades for low-resource languages because of data
+coverage, tokenization, morphology, and linguistic variation. We evaluate a specific
+higher-resource-to-lower-resource condition: probes are trained on Amharic, Arabic,
+German, English, Spanish, Hindi, and Ukrainian and tested on isiXhosa and Yoruba.
+This is not a generic claim about all cross-lingual transfer.

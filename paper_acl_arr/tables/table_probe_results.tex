@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lccc}
+\toprule
+Model & Seeds & Pooled AUC & HR$\rightarrow$LR AUC \\
+\midrule
+Aya-23-8B & 2 & $0.8382 \pm 0.0012$ & $0.5966 \pm 0.0014$ \\
+Qwen2.5-7B & 3 & $0.8427 \pm 0.0175$ & $0.6054 \pm 0.0219$ \\
+\bottomrule
+\end{tabular}
+\caption{Layer-20 toxic-versus-detox probe AUC. Values are mean $\pm$ sample
+standard deviation across fine-tuning seeds. Pooled AUC uses the stored
+random-example protocol. HR$\rightarrow$LR trains on
+\{\texttt{am}, \texttt{ar}, \texttt{de}, \texttt{en}, \texttt{es}, \texttt{hi},
+\texttt{uk}\} and evaluates on \{\texttt{xh}, \texttt{yo}\}.}
+\label{tab:probe-main}
+\end{table}

@@ -1,0 +1,61 @@
+\section{Methods}
+
+\subsection{Representation probes}
+
+For Aya and Qwen, we extract hidden states for toxic inputs and their paired
+detoxified targets. Logistic-regression probes predict whether a representation comes
+from a toxic input or a detoxified target. Pooled and higher-resource analyses use the
+stored random-example split procedure with fixed random state 42 and stratification by
+the binary toxic-versus-detox label.
+
+For transfer, we train a probe on all available representations from the seven
+higher-resource languages and evaluate it on isiXhosa and Yoruba. This is a
+higher-resource-to-lower-resource transfer test rather than leave-one-language-out
+evaluation. The random-example protocol does not group a toxic input and its paired
+detoxified target, so paired states can appear on different sides of a random split.
+We interpret these scores as protocol-specific representation decodability.
+
+\subsection{SAE analysis}
+
+We train seed-specific SAEs on toxic and detox activation collections and rank latent
+dimensions by their mean activation difference:
+\[
+\Delta_f =
+\mathbb{E}[h_f(\mathrm{detox})] -
+\mathbb{E}[h_f(\mathrm{toxic})].
+\]
+Positive and negative ranks provide candidate detox-selective and toxic-selective
+dimensions. Because independently trained SAE dictionaries are permutation-symmetric,
+raw feature indices do not establish cross-seed feature identity. We therefore treat
+the recovered SAE outputs as candidate-feature inventories.
+
+\subsection{Steering}
+
+A steering direction is the normalized difference between mean detox and toxic
+activations:
+\[
+v = \frac{\mu_{\mathrm{detox}}-\mu_{\mathrm{toxic}}}
+{\left\|\mu_{\mathrm{detox}}-\mu_{\mathrm{toxic}}\right\|}.
+\]
+At layer \(k\), steering adds \(\alpha v\) to the selected hidden representation
+during generation, where \(\alpha\) is the steering strength. The final confirmation
+protocol estimates \(v\) from training data only, selects layer and strength on
+development data only, and evaluates paired no-intervention, within-language,
+cross-language, random-direction, and shuffled-pair conditions on a frozen test set.
+
+\subsection{Evaluation}
+
+We report semantic similarity, chrF reference overlap, exact-copy rate, output
+emptiness, length, and output diversity as generation diagnostics. The legacy
+repository composite is
+\[
+J_{\mathrm{legacy}} =
+\frac{1+\mathrm{SIM}+\mathrm{chrF}}{3},
+\]
+because its STA term is fixed to 1. We do not treat this score as an independent
+toxicity or safety outcome.
+
+The final controlled evaluation uses blinded human ratings of non-toxicity, meaning
+preservation, fluency, and overall acceptability. We will report sample counts,
+annotator agreement, and paired confidence intervals once completed annotations are
+available.

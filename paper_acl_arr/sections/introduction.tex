@@ -1,0 +1,41 @@
+\section{Introduction}
+
+Text detoxification rewrites harmful or insulting text into a non-toxic form while
+preserving meaning and language. This is already difficult in a single language. It is
+harder across languages with different scripts, morphological systems, tokenization
+behavior, data availability, and culturally specific forms of harmful speech. A model
+may encode a toxic-to-detox transformation in a way that is separable in one language
+but less accessible in another.
+
+Mechanistic interpretability provides tools for studying this problem. Linear probes
+test whether hidden states distinguish toxic inputs from detoxified targets. Sparse
+autoencoders (SAEs) identify candidate latent features associated with the
+transformation. Activation steering tests whether modifying a representation changes
+generated text. These tools answer different questions. A high probe score establishes
+decodability, not causality. A steering-induced output change establishes an
+intervention effect, not necessarily improved non-toxicity or utility. A multilingual
+study must keep these claims separate.
+
+We investigate three research questions:
+
+\noindent\textbf{RQ1: Circuit structure.} Do multilingual models use shared or
+language-specific internal features when transforming toxic text into detoxified text?
+
+\noindent\textbf{RQ2: Cross-lingual transfer.} Do directions identified in
+higher-resource languages transfer to Yoruba and isiXhosa, and how does this compare
+with within-language directions?
+
+\noindent\textbf{RQ3: Causal steering.} Can activation steering improve
+detoxification while preserving semantic content, fluency, and output diversity?
+
+Our contributions are as follows:
+\begin{enumerate}[leftmargin=*]
+    \item We provide multi-seed evidence that toxic-input and detoxified-target
+    representations are linearly decodable in Aya-23-8B and Qwen2.5-7B-Instruct.
+    \item We show a consistent reduction in transfer from seven higher-resource
+    languages to isiXhosa and Yoruba under the stored probe protocol.
+    \item We trace layerwise transfer behavior in Qwen and analyze SAE candidate
+    features and recovered steering sweeps across model families.
+    \item We separate decodability, intervention-induced generation change, and
+    validated detoxification quality through an explicit evaluation framework.
+\end{enumerate}

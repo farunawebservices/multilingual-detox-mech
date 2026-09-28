@@ -1,0 +1,73 @@
+audit_timestamp_utc=2026-09-28T10:37:04Z
+hostname=04ab8f301f4a
+pwd=/workspace/multilingual-detox-mech
+git_head=4eff23af3857e5c7615ffd2f2484a8a3f9e83dca
+
+=== git log -1 ===
+commit 4eff23af3857e5c7615ffd2f2484a8a3f9e83dca
+Author:     farunawebservices <farunagodwin01@gmail.com>
+AuthorDate: Sat Sep 26 00:10:55 2026 +0000
+Commit:     farunawebservices <farunagodwin01@gmail.com>
+CommitDate: Sat Sep 26 00:10:55 2026 +0000
+
+    Add comprehensive master README for all 5 model pipelines
+    
+    - Documents complete pipeline for mT5, mT0, Llama, Qwen, Aya
+    - Includes all scripts, results, and key metrics
+    - Cross-model comparison tables
+    - File organization guide
+    - Paper writing outline
+
+=== git status ===
+ D results/evaluation/aya_23_8b/aggregate_2seed_metrics.csv
+ D results/evaluation/aya_23_8b/aggregate_2seed_summary.json
+ D results/evaluation/aya_23_8b/seed_1337/aggregate_metrics.csv
+ D results/evaluation/aya_23_8b/seed_1337/evaluation_manifest.json
+ D results/evaluation/aya_23_8b/seed_1337/per_example_metrics.csv
+ D results/evaluation/aya_23_8b/seed_1337/per_language_metrics.csv
+ D results/evaluation/aya_23_8b/seed_1337/predictions_raw.csv
+ D results/evaluation/aya_23_8b/seed_42/aggregate_metrics.csv
+ D results/evaluation/aya_23_8b/seed_42/evaluation_manifest.json
+ D results/evaluation/aya_23_8b/seed_42/per_example_metrics.csv
+ D results/evaluation/aya_23_8b/seed_42/per_language_metrics.csv
+ D results/evaluation/aya_23_8b/seed_42/predictions_raw.csv
+ D results/evaluation/llama8b_qlora/llama8b_qlora_results.json
+ D results/evaluation/llama8b_qlora/seed_1337_predictions.csv
+ D results/evaluation/llama8b_qlora/seed_2024_predictions.csv
+ D results/evaluation/llama8b_qlora/seed_42_predictions.csv
+ D results/evaluation/mt0/aggregate_metrics.csv
+ D results/evaluation/mt0/per_example_metrics.csv
+ D results/evaluation/mt0/per_language_metrics.csv
+ D results/evaluation/mt0/predictions_seed_1337.csv
+ D results/evaluation/mt0/predictions_seed_2024.csv
+ D results/evaluation/mt0/predictions_seed_42.csv
+ D results/evaluation/mt5/aggregate_metrics.csv
+ D results/evaluation/mt5/per_example_metrics.csv
+ D results/evaluation/mt5/per_language_metrics.csv
+ D results/evaluation/mt5/predictions_duplicate.csv
+ D results/evaluation/mt5/predictions_seed_1337.csv
+ D results/evaluation/mt5/predictions_seed_2024.csv
+ D results/evaluation/mt5/predictions_seed_42.csv
+ D results/evaluation/qwen2_5_7b_qlora/aggregate_3seed_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_1337/aggregate_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_1337/evaluation_manifest.json
+ D results/evaluation/qwen2_5_7b_qlora/seed_1337/per_example_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_1337/per_language_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_1337/predictions_raw.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_2025/aggregate_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_2025/evaluation_manifest.json
+ D results/evaluation/qwen2_5_7b_qlora/seed_2025/per_example_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_2025/per_language_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_2025/predictions_raw.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_42/aggregate_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_42/evaluation_manifest.json
+ D results/evaluation/qwen2_5_7b_qlora/seed_42/per_example_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_42/per_language_metrics.csv
+ D results/evaluation/qwen2_5_7b_qlora/seed_42/predictions_raw.csv
+?? RECOVERED_ARTIFACTS_SHA256SUMS.txt
+?? RECOVERED_ARTIFACTS_VERIFICATION.txt
+?? paper_audit/
+
+=== filesystem ===
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         105G   98G  7.5G  93% /
