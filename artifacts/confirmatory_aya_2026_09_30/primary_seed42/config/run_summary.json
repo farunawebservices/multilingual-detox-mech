@@ -1,0 +1,24 @@
+{
+  "run_name": "primary_seed42",
+  "model_id": "CohereLabs/aya-23-8B",
+  "adapter_seed": 42,
+  "selected_layer": 16,
+  "selected_alpha": 2.0,
+  "test_examples": 133,
+  "test_languages": [
+    "xh",
+    "yo"
+  ],
+  "conditions": [
+    "baseline",
+    "english_transfer",
+    "within_language",
+    "random_direction",
+    "shuffled_pair"
+  ],
+  "outputs": {
+    "generations_dir": "artifacts/confirmatory_aya_2026_09_30/primary_seed42/test",
+    "metrics_summary": "artifacts/confirmatory_aya_2026_09_30/primary_seed42/metrics/test_metrics_summary.csv",
+    "combined_metrics": "artifacts/confirmatory_aya_2026_09_30/primary_seed42/metrics/test_metrics_all_conditions.csv"
+  }
+}
