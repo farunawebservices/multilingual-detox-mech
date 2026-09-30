@@ -1,0 +1,41 @@
+{
+  "n_bootstrap": 10000,
+  "random_seed": 20260930,
+  "unit": "aligned frozen-test example_id",
+  "languages": [
+    "xh",
+    "yo",
+    "pooled"
+  ],
+  "conditions": [
+    "baseline",
+    "english_transfer",
+    "negative_english_transfer",
+    "orthogonal_random_direction",
+    "random_direction",
+    "shuffled_pair",
+    "within_language"
+  ],
+  "metrics": [
+    "chrf_to_reference",
+    "labse_to_reference",
+    "labse_to_input",
+    "copy_input",
+    "copy_reference",
+    "empty_output",
+    "output_chars",
+    "output_words"
+  ],
+  "comparisons": [
+    "english_transfer - baseline",
+    "within_language - baseline",
+    "random_direction - baseline",
+    "orthogonal_random_direction - baseline",
+    "negative_english_transfer - baseline",
+    "english_transfer - random_direction",
+    "english_transfer - orthogonal_random_direction",
+    "english_transfer - negative_english_transfer",
+    "english_transfer - within_language"
+  ],
+  "output_csv": "artifacts/confirmatory_aya_2026_09_30/primary_seed42/metrics/paired_bootstrap_results.csv"
+}
