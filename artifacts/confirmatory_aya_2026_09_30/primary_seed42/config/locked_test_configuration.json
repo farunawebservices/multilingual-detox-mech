@@ -1,0 +1,19 @@
+{
+  "model_id": "CohereLabs/aya-23-8B",
+  "adapter_seed": 42,
+  "direction_source": "English training rows only",
+  "target_languages": ["xh", "yo"],
+  "direction_estimation_split": "train.csv",
+  "selection_split": "dev.csv",
+  "evaluation_split": "test.csv",
+  "selected_layer": 16,
+  "selected_alpha": 2.0,
+  "selection_method": "development-only automatic selection",
+  "selection_rule": "Reject elevated empty-output rate, input-copy rate > baseline + 0.05, or LaBSE-to-reference < baseline - 0.05; among remaining candidates maximize 0.70*chrF_ref + 0.20*LaBSE_ref - 0.10*LaBSE_input.",
+  "development_target_examples": {
+    "xh": 68,
+    "yo": 70,
+    "total": 138
+  },
+  "frozen_test_not_used_for_selection": true
+}
