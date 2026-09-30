@@ -1,0 +1,43 @@
+{
+  "timestamp_utc": "2026-09-30T13:05:01.482693+00:00",
+  "model_id": "CohereLabs/aya-23-8B",
+  "adapter_seed": 42,
+  "data_root": "results/training_v2_400plus/seed_2024",
+  "train_sha256": "db5b7a82f81677e80b085a7bfa08b78aca0e4df49b5799305c0992638bcb2b70",
+  "dev_sha256": "93ad0bede18130c6009af552cda7f69b13abc3c551f28173165e8fd13e247802",
+  "test_sha256": "d31b7c18abc9be003d916d07037b868fa32f0d013298e735fc0e879f5f4e0d61",
+  "train_total": 2583,
+  "dev_target_total": 138,
+  "test_target_total": 133,
+  "dev_target_by_language": {
+    "xh": 68,
+    "yo": 70
+  },
+  "test_target_by_language": {
+    "xh": 68,
+    "yo": 65
+  },
+  "candidate_layers": [
+    16,
+    20
+  ],
+  "candidate_strengths": [
+    0.0,
+    0.25,
+    0.5,
+    1.0,
+    2.0
+  ],
+  "source_direction_language": "en",
+  "target_languages": [
+    "xh",
+    "yo"
+  ],
+  "random_seed": 42,
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 128,
+    "repetition_penalty": 1.05
+  },
+  "adapter_path": "results/training_aya_23_8b/seed_42/adapter"
+}
