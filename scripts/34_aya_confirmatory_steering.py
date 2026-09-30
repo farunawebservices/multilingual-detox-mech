@@ -651,13 +651,26 @@ def main():
     selected_layer = int(selection["selected"]["layer"])
     selected_alpha = float(selection["selected"]["alpha"])
 
-    locked_selection = {
-        "selected_layer": selected_layer,
-        "selected_alpha": selected_alpha,
-        "selection_source": str(selection_path),
-        "test_not_used_for_selection": True,
-    }
-    write_json(config_dir / "locked_test_configuration.json", locked_selection)
+    locked_path = config_dir / "locked_test_configuration.json"
+
+    if not locked_path.exists():
+        raise FileNotFoundError(
+            f"Missing locked configuration: {locked_path}. "
+            "Create and commit it before frozen-test generation."
+        )
+
+    locked_selection = json.loads(
+        locked_path.read_text(encoding="utf-8")
+    )
+
+    if (
+        int(locked_selection["selected_layer"]) != selected_layer
+        or float(locked_selection["selected_alpha"]) != selected_alpha
+    ):
+        raise RuntimeError(
+            "Development selection does not match the committed "
+            "locked test configuration."
+        )
 
     print(
         f"Generating frozen test conditions at layer={selected_layer}, alpha={selected_alpha}",
