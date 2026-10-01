@@ -1,0 +1,6 @@
+metric,value
+non_toxic,0.672
+acceptable_detoxification,0.405
+language_preserved,0.789
+meaning_preservation_1_to_5_pearson,0.672
+fluency_1_to_5_pearson,0.552
